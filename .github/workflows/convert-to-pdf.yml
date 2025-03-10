@@ -11,7 +11,7 @@ on:
       - 'images/**'
 
 jobs:
-  converttopdf:
+  intro:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
@@ -27,5 +27,157 @@ jobs:
           build_html: false
       - uses: actions/upload-artifact@v4
         with:
-          name: docs
+          name: Introduzione
+          path: pdfs
+
+  cap1:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: ./Capitolo\ 1\ -\ Iniziare\ la\ Campagna
+          output_dir: pdfs
+          images_dir: ./images
+          # for example <img src="./images/file-name.png">
+          image_import: ./images
+          # Default is true, can set to false to only get PDF files
+          build_html: false
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Capitolo1
+          path: pdfs
+
+  cap2:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: ./Capitolo\ 2\ -\ Le\ Terre\ di\ Barovia
+          output_dir: pdfs
+          images_dir: ./images
+          # for example <img src="./images/file-name.png">
+          image_import: ./images
+          # Default is true, can set to false to only get PDF files
+          build_html: false
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Capitolo2
+          path: pdfs
+
+  cap3:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: ./Capitolo\ 3\ -\ Condurre\ il\ Gioco
+          output_dir: pdfs
+          images_dir: ./images
+          # for example <img src="./images/file-name.png">
+          image_import: ./images
+          # Default is true, can set to false to only get PDF files
+          build_html: false
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Capitolo3
+          path: pdfs
+
+  atto1:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: ./Atto\ I\ -\ Nelle\ Nebbie
+          output_dir: pdfs
+          images_dir: ./images
+          # for example <img src="./images/file-name.png">
+          image_import: ./images
+          # Default is true, can set to false to only get PDF files
+          build_html: false
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Atto1
+          path: pdfs
+
+  atto2:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: ./Atto\ II\ -\ La\ Citta\ Ombrosa
+          output_dir: pdfs
+          images_dir: ./images
+          # for example <img src="./images/file-name.png">
+          image_import: ./images
+          # Default is true, can set to false to only get PDF files
+          build_html: false
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Atto2
+          path: pdfs
+
+  atto3:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: ./Atto\ III\ -\ La\ Terra\ Spezzata
+          output_dir: pdfs
+          images_dir: ./images
+          # for example <img src="./images/file-name.png">
+          image_import: ./images
+          # Default is true, can set to false to only get PDF files
+          build_html: false
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Atto3
+          path: pdfs
+
+  atto4:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: ./Atto\ IV\ -\ I\ Segreti\ degli\ Antichi
+          output_dir: pdfs
+          images_dir: ./images
+          # for example <img src="./images/file-name.png">
+          image_import: ./images
+          # Default is true, can set to false to only get PDF files
+          build_html: false
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Atto4
+          path: pdfs
+
+  appendica:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: ./Appendica
+          output_dir: pdfs
+          images_dir: ./images
+          # for example <img src="./images/file-name.png">
+          image_import: ./images
+          # Default is true, can set to false to only get PDF files
+          build_html: false
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Appendica
           path: pdfs
