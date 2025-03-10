@@ -37,7 +37,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_dir: ./Capitolo\ 1\ -\ Iniziare\ la\ Campagna
+          input_dir: "./Capitolo 1 - Iniziare la Campagna"
           output_dir: pdfs
           images_dir: ./images
           # for example <img src="./images/file-name.png">
