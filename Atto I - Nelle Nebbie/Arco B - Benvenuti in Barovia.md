@@ -583,7 +583,7 @@ Se non viene impedito, Rahadin cerca nella folla, il suo sguardo che si posa inf
 Mentre Rahadin si avvicina ai giocatori (o viceversa), i giocatori possono sentire i suoni del suo ***coro mortale.*** Leggete:
 
 <div class="description">
-<p>Inizia con un ruggito sordo—un pizzicore al limite della vostra consapevolezza, come il lavaggio dell'oceano contro la riva. Tuttavia, man mano che l'uomo si avvicina, il suono ovattato diventa sempre più insistente, amplificandosi e costruendosi su se stesso—fino a risolversi da un suono più innocuo, quasi come onde, in un torrente di urla.</p>
+<p>Inizia con un ruggito sordo—un pizzicore al limite della vostra consapevolezza, come il sciacquio dell'oceano contro la riva. Tuttavia, man mano che l'uomo si avvicina, il suono ovattato diventa sempre più insistente, amplificandosi e costruendosi su se stesso—fino a risolversi da un suono più innocuo, quasi come onde, in un torrente di urla.</p>
 <p>Le vostre orecchie si riempiono di una cacofonia di mille voci, imploranti, sofferenti, morenti: un assalto psichico che si abbatte sulla vostra mente da ogni direzione, lasciando poco spazio per il pensiero. L'uomo, tuttavia, rimane impassibile—apparentemente indifferente alla sinfonia di urla che lo circonda.</p>
 </div>
 
@@ -1072,7 +1072,7 @@ La figura è Ireena, che ha indossato la sua corazza e il fioretto e ora indossa
 
 Ireena saluta i giocatori con calore, sebbene con un po' di imbarazzo per averli costretti a venire a cercarla. Condivide liberamente che sta scavando per una piccola cassa di legno che lei e sua madre, Korina Targolova, hanno seppellito qui prima della morte di sua madre quattordici anni fa—un forziere il cui contenuto spera di portare come ricordo quando parte per Vallaki, dato che non sa quando, se mai, potrà tornare a casa.
 
-Se le viene permesso di finire di dissotterrare la cassa, Ireena la apre, rivelandone il contenuto. La cassa contiene un braccialetto d'argento con gemme, un fiore di astro pressato, un ciondolo di legno a forma di fiore di achillea su un cordone di cuoio e un fazzoletto con motivi floreali.
+Se le viene permesso di finire di dissotterrare la cassa, Ireena la apre, rivelandone il contenuto. La cassa contiene un braccialetto d'argento con gemme, un fiore di aster (anche conosciuto come astro o settembrino) pressato, un ciondolo di legno a forma di fiore di achillea su un cordone di cuoio e un fazzoletto con motivi floreali.
 
 Il fiore (che Ireena ha trovato e sua madre ha pressato), il ciondolo (che la madre di Ireena indossava come apprendista del guaritore del villaggio) e il fazzoletto (che la madre di Ireena l'ha aiutata a cucire) sono tutti ricordi dell'infanzia di Ireena con sua madre. Il braccialetto è un oggetto che Ireena portava quando Kolyan l'ha trovata nei Boschi di Svalich, che Korina ha tenuto come ricordo della loro "bambina miracolosa" dopo aver appreso che non poteva avere altri figli.
 
