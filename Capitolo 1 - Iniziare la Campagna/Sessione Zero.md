@@ -1,14 +1,17 @@
-# Setting Expectations
- Before beginning the campaign, you should establish the following expectations with your players:
+# Impostare le Aspettative
 
-* ***Tone***. This will be a heroic fantasy adventure in a dark fantasy/gothic horror setting. Your character should be a hero, or have the potential to swiftly become a hero when faced with a life-or-death situation. Be prepared to cooperate and collaborate with the other players in order to succeed.
-* ***Theme***. While this campaign will not explore or focus upon your character's personal backstory, you should allow the campaign's characters and setting to inspire your  character to confront their own regrets, traumas, flaws, and fears.
-* ***Engagement***. This campaign takes place in a setting with a deep history, including complex relationships between several dozen non-player characters. You should expect to notes and take a sincere interest in the lore of this world.
-* ***Tactics & Difficulty.***. This campaign has been balanced to present a challenging, but fair gameplay experience. However, to succeed, you will often need to recruit additional allies while avoiding alienating potential enemies. Consider the consequences of your actions carefully, and avoid taking actions without careful consideration.
-* ***Roleplay***. This campaign is primarily driven by the stories of its non-player characters, and their relationships to the party. Be prepared to form meaningful relationships with the characters you encounter, and allow yourself to emotionally invest in those characters' success.
-* ***Rewards***. Treasure, magic items, and other material rewards will be far more scarce than in an ordinary fantasy campaign. Instead, most rewards will take the form of allies, information, and new story hooks, with experience points awarded for narrative milestones you achieve as you proceed through the campaign.
-* ***Narrative***. The campaign begins with a linear structure, but soon evolves into a more expansive sandbox. Be prepared to balance and prioritize multiple quests, including many with clear deadlines.
+Prima di iniziare la campagna, dovresti stabilire le seguenti aspettative con i tuoi giocatori:
+
+* ***Tono***. Questa sarà un'avventura fantasy eroica in un'ambientazione dark fantasy/horror gotico. Il tuo personaggio dovrebbe essere un eroe, o avere il potenziale per diventare rapidamente un eroe quando si trova in una situazione di vita o di morte. Sii pronto a cooperare e collaborare con gli altri giocatori per avere successo.
+* ***Tema***. Sebbene questa campagna non esplorerà o si concentrerà sulla storia personale del tuo personaggio, dovresti permettere ai personaggi e all'ambientazione della campagna di ispirare il tuo personaggio ad affrontare i propri rimpianti, traumi, difetti e paure.
+* ***Coinvolgimento***. Questa campagna si svolge in un'ambientazione con una profonda storia, incluse relazioni complesse tra decine di personaggi non giocanti. Dovresti aspettarti di prendere appunti e mostrare un sincero interesse per il folklore di questo mondo.
+* ***Tattiche e Difficoltà***. Questa campagna è stata bilanciata per presentare un'esperienza di gioco impegnativa ma equa. Tuttavia, per avere successo, dovrai spesso reclutare alleati aggiuntivi evitando di alienare potenziali nemici. Considera attentamente le conseguenze delle tue azioni ed evita di agire senza una riflessione accurata.
+* ***Interpretazione***. Questa campagna è principalmente guidata dalle storie dei suoi personaggi non giocanti e dalle loro relazioni con il gruppo. Sii pronto a formare relazioni significative con i personaggi che incontri e permetti a te stesso di investire emotivamente nel successo di quei personaggi.
+* ***Ricompense***. Tesori, oggetti magici e altre ricompense materiali saranno molto più scarsi rispetto a una campagna fantasy ordinaria. Invece, la maggior parte delle ricompense prenderà la forma di alleati, informazioni e nuovi spunti narrativi, con punti esperienza assegnati per i traguardi narrativi che raggiungi mentre procedi nella campagna.
+* ***Narrazione***. La campagna inizia con una struttura lineare, ma presto si evolve in un sandbox più ampio. Sii pronto a bilanciare e dare priorità a più missioni, incluse molte con scadenze chiare.
+
 # Triggers & Accommodations
+
 Our aim is to create a memorable and enjoyable gothic horror experience for everyone involved. To that end, it's essential to address any potentially uncomfortable or controversial topics before beginning your *Curse of Strahd* adventure. During Session Zero, we encourage open and honest communication with your players about their personal boundaries and any elements of the campaign that may require modification or removal.
 
 A list of potentially uncomfortable topics you might want to discuss with your players before beginning the campaign includes:
@@ -22,7 +25,9 @@ A list of potentially uncomfortable topics you might want to discuss with your p
 * Drug addiction (e.g., the dream pastries)
 * Body horror (e.g., the vestiges' dark gifts)
 * Racism (e.g., Barovian views of the Vistani)
+
 # Campaign Contract
+
 To ensure all players are on the same page when beginning the campaign, consider having each player review and/or sign the following "campaign contract" during Session Zero:
 
 <div class="description">

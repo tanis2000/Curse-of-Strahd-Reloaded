@@ -1,6 +1,6 @@
-# Difetti
+# Difetti e Legami
 
-I giocatori possono scegliere uno o più difetti dalla tabella sottostante per aggiungere un tocco di oscurità alle storie dei loro personaggi. Incoraggiali ad abbracciare le proprie lotte interiori e a far sì che questi tratti complessi guidino il loro percorso narrativo.
+I giocatori possono scegliere uno o più difetti dalle tabelle sottostanti per aggiungere profondità ai loro personaggi. Incoraggiali a abbracciare queste lotte interne e a permettere che questi tratti complessi guidino il loro arco narrativo.
 
 <table>
     <thead>
@@ -171,9 +171,9 @@ I giocatori possono scegliere uno o più legami dalla tabella sottostante per te
 | Romanticismo | L'amore non muore mai. Può vacillare, ma non lascerò mai che si spenga. |
 | Segretezza | Una volta ho promesso a qualcuno che avrei mantenuto i suoi segreti al sicuro. Intendo farlo, a qualunque costo. |
 
-# Motivazioni
+# Motivazioni e Reliquie
 
-Se scegli di utilizzare l'aggancio d'avventura delle ***Reliquie Baroviane*** per uno o più giocatori (vedi **Capitolo 3: Gestire il Gioco**), chiedi a quei giocatori di scegliere una motivazione principale dalla seguente tabella.
+Se scegli di utilizzare l'aggancio narrativo delle ***Reliquie Baroviane*** per uno o più giocatori (vedi **Capitolo 3: Gestire il Gioco**), chiedi a quei giocatori di scegliere una motivazione principale dalla seguente tabella.
 
 |d12|Motivazione|Reliquia|
 |:---:|:---|:---|
