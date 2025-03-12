@@ -1,0 +1,11 @@
+In questo atto, che inizia dopo che i giocatori hanno acceso il faro di Argynvostholt in [[Arco Q - Un Faro Splendente]], dovranno intraprendere un viaggio verso la vetta del Monte Ghakis per trovare la leggendaria *Spada Solare* e svelare i segreti dei Fani di Barovia.
+
+Dopo aver reclutato l'elfo oscuro Kasimir Velikov e appreso del suo interesse per il Tempio dell'Ambra, i giocatori si incamminano lungo il Passo Tsolenka in [[Arco R - Prove della Montagna]], affrontando mostri, nemici vendicativi e la montagna stessa per raggiungere le loro destinazioni. Durante il viaggio, vengono tormentati ogni notte da Strahd von Zarovich, che cerca di affliggerli con giochi crudeli e dolorosi.
+
+L'unico rifugio dei giocatori si trova nel villaggio nascosto del Popolo della Montagna, Soldav. Qui, l'antico **gigante delle tempeste** Burebis rivela che solo le Tre Signore conoscono come i Fani possano essere liberati dalla corruzione di Strahd, ma il segreto per contattare i loro spiriti giace nelle profondità del Tempio dell'Ambra.
+
+In [[Arc S - A Sword of Sunlight]], i giocatori si addentrano nell'oscurità del Tempio dell'Ambra, cercando di resistere alle sue ombre e alla corruzione abbastanza a lungo da ottenere l'elsa nascosta della *Spada Solare*, che Patrina Velikovna sigillò molto tempo fa nel sarcofago d'ambra del Vampyr. Dopo aver recuperato l'elsa e sconfitto lo spirito furioso di Patrina, i giocatori dovranno potenziare la spada spezzata evocando lo spirito di Sergei von Zarovich dalla nebbia.
+
+Dopo aver appreso dal fantasma di Exethanter come contattare gli spiriti delle Tre Signore, i giocatori tornano a Soldav in [[Arc T - The Cavern of Lights]]. Qui, gli spiriti della Tessitrice e della Cacciatrice rivelano che i tre Fani possono essere riconsacrati ottenendo le tre gemme incantate della cantina del Mago dei Vini e riaccendendo la magia che riposa al loro interno.
+
+Questo atto si conclude quando i giocatori discendono dal Monte Ghakis e ritornano nella valle sottostante.
