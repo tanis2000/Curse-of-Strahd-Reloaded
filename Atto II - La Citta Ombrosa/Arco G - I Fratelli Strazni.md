@@ -1,21 +1,21 @@
-_An adventure for five 4th-level characters._
+_Un'avventura per cinque personaggi di 4° livello._
 
-In this arc, shortly after seeing Ireena Kolyana, Izek Strazni realizes that she is—quite literally—the woman of his dreams. 
+In questo arco narrativo, poco dopo aver visto Ireena Kolyana, Izek Strazni realizza che lei è - letteralmente - la donna dei suoi sogni.
 
-After learning from his spies that Ireena has most recently resided at the Blue Water Inn, Izek visits the Inn himself in an attempt to uncover her location. If his effort is unsuccessful, he directs the town guard to publish WANTED posters around Vallaki offering a reward for information regarding Ireena’s location.
+Dopo aver appreso dalle sue spie che Ireena ha recentemente soggiornato alla Locanda delle Acque Blu, Izek visita la locanda di persona nel tentativo di scoprire la sua posizione. Se il suo tentativo fallisce, ordina alla guardia cittadina di affiggere manifesti di RICERCATA in tutta Vallaki, offrendo una ricompensa per informazioni sulla posizione di Ireena.
 
-If the players neither stop Izek nor take extraordinary measures to keep Ireena concealed, Izek finds and kidnaps Ireena two days later, imprisoning her in his room at the Baron’s mansion. Can the players free Ireena from Izek’s clutches—or will they perish in the attempt?
+Se i giocatori non fermano Izek né prendono misure straordinarie per tenere Ireena nascosta, Izek la trova e la rapisce due giorni dopo, imprigionandola nella sua stanza nel palazzo del Burgomaster. Riusciranno i giocatori a liberare Ireena dalle grinfie di Izek - o periranno nel tentativo?
 
-> [!abstract]+ **Lady Wachter's Request**
-> If the players kill Izek without accepting Lady Wachter's mission in [[Arc F - Lady Wachter's Wish]], Lady Wachter sends Ernst Larnak the following morning to invite them to tea at Wachterhaus that afternoon "in light of their recent accomplishments." If the players decline Ernst's invitation, Lady Wachter visits the Blue Water Inn in person that evening wearing a deep blue hooded cloak and asks to speak with them in private.
-> 
-> Regardless of how she and the players meet, Lady Wachter congratulates them on freeing Vallaki of Izek's tyranny and cruelty and frankly asks their blessing to seek the position of Burgomaster from Baron Vallakovich. She is glad to accept the players' assistance in doing so if offered, but otherwise assures them that she believes that he may be persuaded to abdicate peacefully.
-> 
-> If the players are wary of granting Lady Wachter the "power" of the position, Lady Wachter reassures them that Vallaki's burgomaster holds no intrinsic power except that granted by the townsfolk. "I confess, I am not familiar with the powers of queens and duchesses beyond the Mists," she concedes, "but in Barovia, the burgomaster is a town's administrator—not its ruler."
-> 
-> "I would pay the salaries of the town's guard, yes," she says, "but they are Morninglord-fearing folk—they would not hesitate to depose me if they felt my ordinances harmful to their neighbors." She adds wryly, "I assure you: I have no wish to *rule* Vallaki. My aspirations, clerical as they are, are far more dull than that." 
-> 
-> If the players still appear suspicious of the possibility that she might betray them to Strahd, she scoffs, and points out that the players have killed Izek—who she could not herself touch. "If anyone should be frightened, it's I," she says, laughing slightly hysterically. "A band of armed, powerful outsiders have arrived in my small town and killed the most powerful creature within its walls. I am here only because I have faith in your goodwill and your love for my neighbors.")
+> [!abstract]+ **La Richiesta di Lady Wachter**
+> Se i giocatori uccidono Izek senza accettare la missione di Lady Wachter in [[Arco F - Il Desiderio di Lady Wachter]], Lady Wachter invia Ernst Larnak il mattino seguente per invitarli a prendere il tè a Villa Wachter quel pomeriggio "alla luce dei loro recenti successi". Se i giocatori rifiutano l'invito di Ernst, Lady Wachter visita personalmente la Locanda delle Acque Blu quella sera, indossando un mantello con cappuccio blu scuro, e chiede di parlare con loro in privato.
+>
+> Indipendentemente da come lei e i giocatori si incontrano, Lady Wachter si congratula con loro per aver liberato Vallaki dalla tirannia e dalla crudeltà di Izek e chiede francamente la loro benedizione per aspirare alla posizione di Burgomaster al posto del Barone Vallakovich. È felice di accettare l'assistenza dei giocatori se offerta, ma altrimenti li assicura che crede che il Barone possa essere persuaso ad abdicare pacificamente.
+>
+> Se i giocatori sono diffidenti nel concedere a Lady Wachter il "potere" della posizione, Lady Wachter li rassicura che il burgomaster di Vallaki non detiene alcun potere intrinseco se non quello concesso dai cittadini. "Confesso di non conoscere i poteri di regine e duchesse oltre le Nebbie," ammette, "ma a Barovia, il burgomaster è un amministratore della città - non il suo sovrano."
+>
+> "Pagherei gli stipendi della guardia cittadina, sì," dice, "ma sono devoti del Signore del Mattino - non esiterebbero a depormi se ritenessero le mie ordinanze dannose per i loro vicini." Aggiunge con ironia: "Vi assicuro: non ho alcun desiderio di *governare* Vallaki. Le mie aspirazioni, clericali come sono, sono molto più modeste."
+>
+> Se i giocatori sembrano ancora sospettosi della possibilità che possa tradirli consegnandoli a Strahd, lei sbuffa e fa notare che i giocatori hanno ucciso Izek - che lei stessa non poteva toccare. "Se qualcuno dovrebbe essere spaventato, sono io," dice, ridendo in modo leggermente isterico. "Un gruppo di stranieri armati e potenti è arrivato nella mia piccola città e ha ucciso la creatura più potente tra le sue mura. Sono qui solo perché ho fede nella vostra buona volontà e nel vostro amore per i miei concittadini."
 # G1. The Blue Water Inn
 ## G1a. Izek’s Visit
 Just over a day after catching a glimpse of Ireena Kolyana for the first time—either in the street outside of the Blue Water Inn, in Vallaki’s town square, or in some other location—Izek Strazni recognizes her as the woman that he has seen repeatedly in his dreams and becomes determined to find her. 

@@ -1,372 +1,372 @@
-_An adventure for five 4th-level characters._
+_Un'avventura per cinque personaggi di 4° livello._
 
-In this arc, if the players defied the Baron’s will on their first morning after entering Vallaki, if they or Ireena were observed visiting with the Barovian refugees outside of the eastern gate, or if they shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, the players receive a letter delivered by Ernst Larnak, Lady Fiona Wachter’s courier and spy, which invites them to dine at Wachterhaus that evening.
+In questo arco narrativo, se i giocatori hanno sfidato la volontà del Barone il loro primo mattino dopo essere entrati a Vallaki, se loro o Ireena sono stati visti mentre visitavano i rifugiati baroviani fuori dalla porta orientale, o se hanno condiviso la loro avversione per il Barone Vallakovich con Nikolai o Karl Wachter alla Locanda delle Acque Blu, i giocatori ricevono una lettera consegnata da Ernst Larnak, il corriere e spia di Lady Fiona Wachter, che li invita a cenare a Villa Wachter quella sera.
 
-When the players arrive at Wachterhaus that night, Lady Wachter welcomes them to Vallaki and proceeds to offer them wine, food, and conversation. Throughout the evening, she subtly interrogates the players as to their capabilities and goals, all while working to convince them that Baron Vargas Vallakovich is a menace who must be deposed.
+Quando i giocatori arrivano a Villa Wachter quella notte, Lady Wachter dà loro il benvenuto a Vallaki e procede ad offrire vino, cibo e conversazione. Durante la serata, interroga sottilmente i giocatori sulle loro capacità e obiettivi, mentre cerca di convincerli che il Barone Vargas Vallakovich è una minaccia che deve essere deposta.
 
-If Lady Wachter determines that the players are suitable allies, she asks them to kill the Baron’s right-hand man, Izek Strazni, and to bring her his head. Lady Wachter promises the safety of the Barovian refugees, as well additional payment, should the players succeed.
+Se Lady Wachter determina che i giocatori sono alleati adatti, chiede loro di uccidere il braccio destro del Barone, Izek Strazni, e di portarle la sua testa. Lady Wachter promette la sicurezza dei rifugiati baroviani, oltre a un pagamento aggiuntivo, se i giocatori avranno successo.
 
-If the players accept Lady Wachter’s assignment, Ernst provides them with a bottle of poisoned wine for use in intoxicating Izek, as well as information that the players can use to track Izek in order to assassinate him. The players can find Izek in Vallaki’s town square, and eventually track him to the shore of Lake Zarovich, where—if the players successfully planted it—he drinks the poisoned wine.
+Se i giocatori accettano l'incarico di Lady Wachter, Ernst fornisce loro una bottiglia di vino avvelenato da usare per intossicare Izek, oltre a informazioni che i giocatori possono usare per seguire Izek e assassinarlo. I giocatori possono trovare Izek nella piazza di Vallaki, e alla fine seguirlo fino alla riva del Lago Zarovich, dove - se i giocatori sono riusciti a piazzarlo - beve il vino avvelenato.
 
-If the players deliver Izek’s severed head to Lady Wachter, she visits Baron Vallakovich under cover of darkness the following night, accompanied by a trio of **cult fanatics.** Upon viewing Izek’s head, the Baron surrenders peacefully to Lady Wachter’s rule. The following morning, the Baron publicly abdicates to Lady Wachter in Vallaki’s town square.
+Se i giocatori consegnano la testa mozzata di Izek a Lady Wachter, lei fa visita al Barone Vallakovich sotto copertura di notte la sera seguente, accompagnata da un trio di **fanatici cultisti**. Alla vista della testa di Izek, il Barone si arrende pacificamente al governo di Lady Wachter. Il mattino seguente, il Barone abdica pubblicamente in favore di Lady Wachter nella piazza di Vallaki.
 
-> [!abstract]+ **Tea with Fiona**
-> If the players visit Wachterhaus before receiving a formal invitation, Lady Wachter is happy to immediately have tea with them if they express an interest in overthrowing the Baron. Otherwise, her manservant Haliq makes an appointment for them to meet with her the following day.
+> [!abstract]+ **Tè con Fiona**
+> Se i giocatori visitano Villa Wachter prima di ricevere un invito formale, Lady Wachter è felice di prendere immediatamente il tè con loro se esprimono interesse nel rovesciare il Barone. Altrimenti, il suo servitore Haliq fissa un appuntamento per incontrarla il giorno seguente.
 
-# F1. The Blue Water Inn
-<span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
+# F1. La Locanda delle Acque Blu
+<span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N2.</em></span>
 
-If the players defied Baron Vallakovich or otherwise intervened in Willemina’s favor on their first morning in Vallaki, if they or Ireena visited the camp of the Barovian refugees at any point while in Vallaki, or if the players shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, [[Non-Player Characters#Urwin Martikov|Urwin Martikov]] delivers them an envelope upon their return to the Blue Water Inn that same night.
+Se i giocatori hanno sfidato il Barone Vallakovich o sono intervenuti in favore di Willemina il loro primo mattino a Vallaki, se loro o Ireena hanno visitato il campo dei rifugiati baroviani in qualsiasi momento mentre erano a Vallaki, o se i giocatori hanno condiviso la loro avversione per il Barone Vallakovich con Nikolai o Karl Wachter alla Locanda delle Acque Blu, [[Personaggi Non Giocanti#Urwin Martikov|Urwin Martikov]] consegna loro una busta al loro ritorno alla Locanda delle Acque Blu quella stessa notte.
 
-The envelope is addressed to whichever player first introduced themselves to Nikolai and Karl Wachter on the night of their first arrival or, if the players did not interact with Nikolai and Karl in the taproom, whichever player first identified themselves to the guards at Vallaki’s gates that same day.
+La busta è indirizzata al giocatore che per primo si è presentato a Nikolai e Karl Wachter la notte del loro primo arrivo o, se i giocatori non hanno interagito con Nikolai e Karl nella sala comune, al giocatore che per primo si è identificato alle guardie alle porte di Vallaki quello stesso giorno.
 
-Urwin doesn’t know who the letter is from, but can tell the players that it was delivered by a scruffy-looking man wearing a muddy, but well-made brown cloak who was very insistent that the players receive it. (The man was Ernst Larnak, Lady Wachter’s spy.) 
+Urwin non sa chi ha inviato la lettera, ma può dire ai giocatori che è stata consegnata da un uomo dall'aspetto trasandato che indossava un mantello marrone ben fatto ma infangato e che era molto insistente affinché i giocatori la ricevessero. (L'uomo era Ernst Larnak, la spia di Lady Wachter.)
 
-The envelope contains the following letter, with the blank filled with the name of whichever player the envelope was addressed to:
+La busta contiene la seguente lettera, con il nome del giocatore a cui è indirizzata la busta riempito nello spazio vuoto:
 
 <div class="sidebar">
-<p>Dear _____ and esteemed companions,</p>
-<p>I hope this missive finds you in good health and high spirits. Vallaki appears to have been blessed by your presence and the promise of goodwill you bear with you.</p>
-<p>It has come to my attention that our paths, though they wind through such trying times, bear a striking convergence. Accordingly, I write to you today with a humble invitation to dine at my home, Wachterhaus, at sundown tomorrow evening. You may find it on Vallaki’s northern road, a short distance from the Zarovich Gate.</p>
-<p>I trust that this setting shall provide a quiet and welcoming environment to discuss matters of mutual interest and concern. My doors, as they have always been, stand open to those who wish for the best for the good people of Barovia.</p>
-<p>Should you choose to accept, simply present this invitation at the door to my estate. I gladly await your presence tomorrow evening. Until then, I remain,</p>
-<p>Sincerely yours,</p>
+<p>Caro _____ e stimati compagni,</p>
+<p>Spero che questo messaggio vi trovi in buona salute e di buon umore. Vallaki sembra essere stata benedetta dalla vostra presenza e dalla promessa di buona volontà che portate con voi.</p>
+<p>Mi è giunta voce che i nostri percorsi, sebbene attraversino tempi così difficili, abbiano una sorprendente convergenza. Di conseguenza, vi scrivo oggi con un umile invito a cenare a casa mia, Villa Wachter, al tramonto di domani sera. Potete trovarla sulla strada settentrionale di Vallaki, a breve distanza dalla Porta Zarovich.</p>
+<p>Confido che questo ambiente fornirà un luogo tranquillo e accogliente per discutere di questioni di interesse e preoccupazione comuni. Le mie porte, come sempre, sono aperte a coloro che desiderano il meglio per il bene del popolo di Barovia.</p>
+<p>Se scegliete di accettare, presentate semplicemente questo invito alla porta della mia tenuta. Attendo con ansia la vostra presenza domani sera. Fino ad allora, rimango,</p>
+<p>Cordiali saluti,</p>
 <p>Lady Fiona Wachter</p>
 </div>
 
-If the players ask Urwin about Lady Wachter, he can share all of the information about her described in <span class="citation">Vallaki Lore (p. 96)</span>. He can also share that, according to town legend, Lady Wachter’s parents and elder brother were killed in a mysterious accident when she was a teenager. (Urwin, who only relocated to Vallaki ten years ago, can’t confirm or deny the story.)
-# F2. Wachterhaus
-<span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
+Se i giocatori chiedono a Urwin di Lady Wachter, può condividere tutte le informazioni su di lei descritte in <span class="citation">Lore di Vallaki (p. 96)</span>. Può anche condividere che, secondo la leggenda cittadina, i genitori e il fratello maggiore di Lady Wachter sono stati uccisi in un misterioso incidente quando era adolescente. (Urwin, che si è trasferito a Vallaki solo dieci anni fa, non può confermare né smentire la storia.)
+# F2. Villa Wachter
+<span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N4.</em></span>
 
-Wachterhaus is largely as described in <span class="citation">N4. Wachterhaus (p. 110)</span>, but with the following changes:
+Villa Wachter è descritta in gran parte in <span class="citation">N4. Villa Wachter (p. 110)</span>, ma con le seguenti modifiche:
 
-***Stella's Bedroom.*** Stella Wachter doesn't scratch at her door or call out to the players in <span class="citation">N4l. Upstairs Hall (p. 113)</span>. If found, she is dull-eyed and non-responsive, incapable of speaking to the players or even moving of her own volition. (This is because she has lost her soul, which is currently trapped in the Ethereal Plane. See [[Arc H - The Lost Soul]] for more information.)
+***Camera di Stella.*** Stella Wachter non graffia la porta né chiama i giocatori in <span class="citation">N4l. Corridoio al piano superiore (p. 113)</span>. Se trovata, ha gli occhi spenti e non risponde, incapace di parlare con i giocatori o persino di muoversi di propria volontà. (Questo perché ha perso la sua anima, che è attualmente intrappolata nel Piano Etereo. Vedi [[Arco H - L'Anima Perduta]] per ulteriori informazioni.)
 
-Additionally, Stella's room is neither musty nor dark, and her bed is not fitted with leather straps. Instead, her room is well-appointed, including a woven lavender rug, a comfortable armchair with floral patterns, and a small bookcase with a collection of carved wooden cats atop it. (The cats were whittled by her older brother, Karl, as get-well gifts following Stella’s illness.)
+Inoltre, la stanza di Stella non è né polverosa né buia, e il suo letto non è dotato di cinghie di cuoio. Invece, la sua stanza è ben arredata, con un tappeto di lavanda intrecciato, una comoda poltrona con motivi floreali e una piccola libreria con una collezione di gatti di legno intagliati sopra. (I gatti sono stati intagliati dal suo fratello maggiore, Karl, come regali di guarigione dopo la malattia di Stella.)
 
-***Storage Room.*** The manuscript and treatise contained in the iron chest in <span class="citation">N4q. Storage Room (p. 114)</span> are now titled *Voices of the Mist* (a religious text written by Lady Fiona Wachter attesting that the worship of Ezra, goddess of the Mists, can bring peace, understanding, and solemnity), and *The Grimoire of Night's Whispers*, a ritual book and religious text to Mother Night written by the witch Baba Lysaga.
+***Stanza di stoccaggio.*** Il manoscritto e il trattato contenuti nel forziere di ferro in <span class="citation">N4q. Stanza di stoccaggio (p. 114)</span> sono ora intitolati *Voci della Nebbia* (un testo religioso scritto da Lady Fiona Wachter che attesta che il culto di Ezra, dea delle Nebbie, può portare pace, comprensione e solennità), e *Il Grimorio dei Sussurri della Notte*, un libro rituale e testo religioso per Madre Notte scritto dalla strega Baba Lysaga.
 
-***Master Bedroom.*** Lady Wachter’s late husband, Nikolai, was buried in the cemetery after his death several years ago and is no longer in Lady Wachter’s bed in <span class="citation">N4o. Master Bedroom (p. 113)</span>.
+***Camera da letto principale.*** Il defunto marito di Lady Wachter, Nikolai, è stato sepolto nel cimitero dopo la sua morte diversi anni fa e non è più nel letto di Lady Wachter in <span class="citation">N4o. Camera da letto principale (p. 113)</span>.
 
-Additionally, the high shelf in <span class="citation">N4o. Master Bedroom (p. 113)</span> also holds a thirteen-inch scale model of Wachterhaus, crafted of twigs, clay, and painted thatch. The iron chest beside it still contains the bones of Leo Dilisnya, though Lady Wachter doesn't know its significance.
+Inoltre, la mensola alta in <span class="citation">N4o. Camera da letto principale (p. 113)</span> contiene anche un modello in scala di tredici pollici di Villa Wachter, realizzato con ramoscelli, argilla e paglia dipinta. Il forziere di ferro accanto contiene ancora le ossa di Leo Dilisnya, anche se Lady Wachter non ne conosce il significato.
 
-***Lady Wachter.*** Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
+***Lady Wachter.*** Lady Wachter ha ancora le statistiche di un **sacerdote**. Tuttavia, ha una lista diversa di incantesimi preparati:
 
-* Cantrips (at will): *light, toll the dead, thaumaturgy*
-* 1st level (4 slots): *command, sanctuary, bane*
-* 2nd level (3 slots): *blindness/deafness, zone of truth, hold person*
-* 3rd level (2 slots): *animate dead, spirit guardians*
-## F2a. Welcome to Wachterhaus
-As the players approach Wachterhaus, read the following description instead of the text in <span class="citation">N4. Wachterhaus (p. 110)</span>:
+* Trucchetti (a volontà): *luce, rintocco della morte, taumaturgia*
+* 1° livello (4 slot): *comando, santuario, anatema*
+* 2° livello (3 slot): *cecità/sordità, zona di verità, blocca persone*
+* 3° livello (2 slot): *animare morti, guardiani spirituali*
+## F2a. Benvenuti a Villa Wachter
+Quando i giocatori si avvicinano a Villa Wachter, leggi la seguente descrizione invece del testo in <span class="citation">N4. Villa Wachter (p. 110)</span>:
 
 <div class="description">
-<p>A thick garden, filled with herbs and vines stands beside this wide, red-roofed manor. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. A handsome red-painted door stands at the house's entrance, its upper half set with frosted glass.</p>
+<p>Un fitto giardino, pieno di erbe e viti, si trova accanto a questa ampia villa dal tetto rosso. Un tetto pendente pende pesantemente sopra timpani solcati, e le pareti coperte di muschio si piegano e si gonfiano sotto il peso della vegetazione. Una bella porta dipinta di rosso si trova all'ingresso della casa, la sua metà superiore è dotata di vetro smerigliato.</p>
 </div>
 
-When the players knock upon arrival, Lady Wachter's valet, Haliq, opens the door and welcomes the players warmly, using the same form of address used in Lady Wachter's letter. Haliq, a prim and proper butler, first offers to take the players' coats and other belongings, which he stores in the eastern closet of <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
+Quando i giocatori bussano all'arrivo, il valletto di Lady Wachter, Haliq, apre la porta e accoglie calorosamente i giocatori, usando la stessa forma di indirizzo usata nella lettera di Lady Wachter. Haliq, un maggiordomo primitivo e corretto, offre prima di prendere i cappotti e altri effetti personali dei giocatori, che ripone nell'armadio orientale di <span class="citation">N4a. Porta d'ingresso e vestibolo (p. 110)</span>.
 
-Haliq then leads the players into <span class="citation">N4b. Staircase (p. 110)</span>, from which they can smell an assortment of delicious scents, both sweet and savory, wafting from <span class="citation">N4c. Kitchen (p. 112)</span>. (A player who peeks through the open door into the kitchen can see the cook, Dhavit, hard at work preparing a roast leg of lamb and assorted stewed vegetables.) 
+Haliq poi conduce i giocatori in <span class="citation">N4b. Scala (p. 110)</span>, da cui possono sentire una varietà di deliziosi profumi, sia dolci che salati, provenienti da <span class="citation">N4c. Cucina (p. 112)</span>. (Un giocatore che sbircia attraverso la porta aperta nella cucina può vedere il cuoco, Dhavit, al lavoro per preparare una coscia di agnello arrosto e verdure stufate assortite.)
 
-Haliq then guides the players through <span class="citation">N4j. Dining Room (p. 112)</span> and invites them to take seats in <span class="citation">N4i. Parlor (p. 112)</span>. After determining which players would like glasses of wine, Haliq assures the players that Lady Wachter will be with them shortly and excuses himself.
+Haliq poi guida i giocatori attraverso <span class="citation">N4j. Sala da pranzo (p. 112)</span> e li invita a prendere posto in <span class="citation">N4i. Salotto (p. 112)</span>. Dopo aver determinato quali giocatori desiderano bicchieri di vino, Haliq assicura ai giocatori che Lady Wachter sarà con loro a breve e si scusa.
 
-The players have a few moments to take stock of and discuss their surroundings. Should they investigate the doors to <span class="citation">N4k. Den (p. 112)</span> or <span class="citation">N4h. Servants' Quarters (p. 112)</span>, they find both doors to be locked. Throughout the evening, Ernst Larnak, Lady Wachter’s spy, silently eavesdrops on the players’ conversations from the den as described in <span class="citation">N4i. Parlor (p. 112)</span>. 
-## F2b. Meet the Wachters
-Shortly after the players arrive in the parlor, they notice that a young woman wearing slippers and a white nightgown, approximately sixteen years of age, is standing in the open doorway leading back to the staircase and front entrance. The woman appears to be staring vacantly into space toward them, but neither moves nor makes eye contact—even if approached.
+I giocatori hanno qualche momento per prendere nota e discutere dei loro dintorni. Se indagano sulle porte di <span class="citation">N4k. Studio (p. 112)</span> o <span class="citation">N4h. Quartieri dei servi (p. 112)</span>, trovano entrambe le porte chiuse a chiave. Durante la serata, Ernst Larnak, la spia di Lady Wachter, ascolta silenziosamente le conversazioni dei giocatori dallo studio come descritto in <span class="citation">N4i. Salotto (p. 112)</span>.
+## F2b. Incontra i Wachter
+Poco dopo l'arrivo dei giocatori nel salotto, notano che una giovane donna che indossa pantofole e una camicia da notte bianca, di circa sedici anni, è in piedi nella porta aperta che conduce alla scala e all'ingresso principale. La donna sembra fissare il vuoto verso di loro, ma non si muove né stabilisce un contatto visivo, anche se avvicinata.
 
-A few moments after the players notice the young woman, Nikolai Wachter stumbles into view from the staircase behind her. Assuming the players do not otherwise divert the conversation, the scene unfolds as follows:
+Pochi istanti dopo che i giocatori notano la giovane donna, Nikolai Wachter appare dalla scala dietro di lei. Supponendo che i giocatori non devino altrimenti la conversazione, la scena si svolge come segue:
 
-* Nikolai greets the young woman as “Stella” and worriedly wonders aloud how she got here.
-* Nikolai notices the players and apologizes profusely to them, assuring them that he’ll get his little sister out of their hair. 
-* If he previously encountered the players in the Blue Water Inn, Nikolai might then recognize them and greet them more personally—either warmly or coldly, depending on their prior interaction. He will then ask the players why they have come to Wachterhaus.
-* [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] arrives from the kitchen and lightly scolds Nikolai for allowing Stella to wander off. 
-* Nikolai tells her that he intends to take Stella for a brief walk around the gardens, and Lady Wachter’s face softens. 
-* Lady Wachter reminds Nikolai that it’s a brisk evening, and to ensure that Stella is warmly dressed and that she neither trips nor injures herself.
-* Nikolai agrees and departs, leading a vacant-eyed Stella out the front door. 
+* Nikolai saluta la giovane donna come "Stella" e si chiede preoccupato ad alta voce come sia arrivata lì.
+* Nikolai nota i giocatori e si scusa profusamente con loro, assicurando che toglierà sua sorella minore dai loro piedi.
+* Se ha incontrato i giocatori in precedenza alla Locanda delle Acque Blu, Nikolai potrebbe riconoscerli e salutarli più personalmente, sia calorosamente che freddamente, a seconda della loro interazione precedente. Chiederà quindi ai giocatori perché sono venuti a Villa Wachter.
+* [[Personaggi Non Giocanti#Lady Fiona Wachter|Lady Wachter]] arriva dalla cucina e rimprovera leggermente Nikolai per aver permesso a Stella di vagare.
+* Nikolai le dice che intende portare Stella a fare una breve passeggiata nei giardini, e il volto di Lady Wachter si addolcisce.
+* Lady Wachter ricorda a Nikolai che è una serata fresca e di assicurarsi che Stella sia vestita caldamente e che non inciampi né si ferisca.
+* Nikolai acconsente e parte, conducendo una Stella con gli occhi spenti fuori dalla porta principale.
 
-[[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] then enters the parlor and apologizes to the players for the disturbance. She then introduces herself as Lady Fiona Wachter and formally welcomes the players to Wachterhaus, thanking them for accepting her invitation. She invites the players to seat themselves upon the couches, if they haven’t already, and to make themselves comfortable.
+[[Personaggi Non Giocanti#Lady Fiona Wachter|Lady Wachter]] entra quindi nel salotto e si scusa con i giocatori per il disturbo. Si presenta quindi come Lady Fiona Wachter e accoglie formalmente i giocatori a Villa Wachter, ringraziandoli per aver accettato il suo invito. Invita i giocatori a sedersi sui divani, se non lo hanno già fatto, e a mettersi comodi.
 
 ![[Lady Fiona Wachter.png]]
-<span class="credit">"Lady Fiona Wachter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Lady Fiona Wachter" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Haliq arrives shortly thereafter bearing a tray of wine glasses for those that requested them. He also offers a glass to Lady Wachter, who declines and instead requests a glass of brandy. At Lady Wachter’s request, Haliq informs the group that dinner will be served in a quarter-hour. Lady Wachter thanks him, and he bows and departs.
+Haliq arriva poco dopo portando un vassoio di bicchieri di vino per coloro che li hanno richiesti. Offre anche un bicchiere a Lady Wachter, che rifiuta e invece richiede un bicchiere di brandy. Su richiesta di Lady Wachter, Haliq informa il gruppo che la cena sarà servita tra un quarto d'ora. Lady Wachter lo ringrazia, e lui si inchina e si allontana.
 
-> [!profile]+ **Profile: Lady Fiona Wachter**
+> [!profile]+ **Profilo: Lady Fiona Wachter**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Lady Wachter should inspire wariness for her loyalty to Strahd, grudging respect for her streak of pragmatic rationality, endearment for her dedication to her children, and pity for the tragedy of her family.
+> **Informazioni di Ruolo**
+> ***Risonanza.*** Lady Wachter dovrebbe ispirare diffidenza per la sua lealtà a Strahd, rispetto riluttante per la sua vena di razionalità pragmatica, affetto per la sua dedizione ai suoi figli e pietà per la tragedia della sua famiglia.
 >
-> ***Emotions.*** Lady Wachter most often feels concerned, apprehensive, irate, melancholic, satisfied, thoughtful, determined, stern, or (with her children) compassionate and loving.
+> ***Emozioni.*** Lady Wachter prova spesso preoccupazione, apprensione, ira, malinconia, soddisfazione, riflessione, determinazione, severità o (con i suoi figli) compassione e amore.
 >
-> ***Motivations.*** Lady Wachter wants to keep Vallaki—and especially her children—safe from harm. To that end, she hopes to see Baron Vargas Vallakovich removed from power and to reassure Strahd von Zarovich that Vallaki is no danger to his rule.
+> ***Motivazioni.*** Lady Wachter vuole mantenere Vallaki - e soprattutto i suoi figli - al sicuro dai pericoli. A tal fine, spera di vedere il Barone Vargas Vallakovich rimosso dal potere e di rassicurare Strahd von Zarovich che Vallaki non è un pericolo per il suo dominio.
 >
-> ***Inspirations.*** When playing Lady Wachter, channel Moiraine Damodred (The Wheel of Time), Olenna Tyrell (Game of Thrones), Minerva McGonagall (Harry Potter), and Lady Jessica (Dune).
+> ***Ispirazioni.*** Quando interpreti Lady Wachter, canalizza Moiraine Damodred (La Ruota del Tempo), Olenna Tyrell (Il Trono di Spade), Minerva McGonagall (Harry Potter) e Lady Jessica (Dune).
 >
-> **Character Information**
-> ***Persona.*** To the world, Lady Wachter is a cold, cunning, and cordial noblewoman. To those she trusts, Lady Wachter is a melancholic, wry, yet fiercely determined advocate for what she sees as the good of Vallaki. Only Lady Wachter herself appreciates the depth of love she feels for her children—and her shattered sense of faith and hope.
+> **Informazioni sul Personaggio**
+> ***Persona.*** Per il mondo, Lady Wachter è una nobile fredda, astuta e cordiale. Per coloro di cui si fida, Lady Wachter è una malinconica, ironica, ma ferocemente determinata sostenitrice di ciò che vede come il bene di Vallaki. Solo Lady Wachter stessa apprezza la profondità dell'amore che prova per i suoi figli - e il suo senso di fede e speranza infranto.
 >
-> ***Morale.*** In a fight, Lady Wachter would attempt to negotiate or flee, seeking any means necessary to quell hostilities, up to and including outright surrender. If necessary to save her life or those of her children, however, she would fight to the death with bitter ferocity.
+> ***Morale.*** In un combattimento, Lady Wachter tenterebbe di negoziare o fuggire, cercando qualsiasi mezzo necessario per placare le ostilità, fino a includere la resa totale. Se necessario per salvare la sua vita o quella dei suoi figli, tuttavia, combatterebbe fino alla morte con amara ferocia.
 >
-> ***Relationships.*** Lady Wachter is the widow of the deceased Nikolai Wachter I, and the mother of Nikolai Wachter II, Karl Wachter, and Stella Wachter. She is the employer of the **spy** Ernst Larnak, and an outspoken critic of Baron Vargas Vallakovich.
-## F2c. Drinks in the Parlor
-During the following conversation, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] can share the following information:
+> ***Relazioni.*** Lady Wachter è la vedova del defunto Nikolai Wachter I, e la madre di Nikolai Wachter II, Karl Wachter e Stella Wachter. È l'impiegatrice della **spia** Ernst Larnak, e una critica esplicita del Barone Vargas Vallakovich.
+## F2c. Bevande nel Salotto
+Durante la seguente conversazione, [[Personaggi Non Giocanti#Lady Fiona Wachter|Lady Wachter]] può condividere le seguenti informazioni:
 
-* The young woman was Stella Wachter, her daughter and youngest child. Stella suffers from a mysterious illness—one that has left her mind in a vegetative state for the past two months. Lady Wachter has tried every means available to her to cure Stella’s sickness, but none has succeeded.
-* The man with Stella was Nikolai Wachter II, Lady Wachter’s eldest son. Nikolai is named for his father, Nikolai Wachter, who died of a wasting sickness three years ago.
-* Nikolai and his younger brother, Karl, can be mischievous and troublesome louts at times, but Lady Wachter believes that they both have good hearts—if highly disorganized ones. (She is fond of her sons, but regrets that both grew wild and thrill-seeking following their father’s death.)
+* La giovane donna era Stella Wachter, sua figlia e figlia minore. Stella soffre di una misteriosa malattia - una che ha lasciato la sua mente in uno stato vegetativo negli ultimi due mesi. Lady Wachter ha provato tutti i mezzi a sua disposizione per curare la malattia di Stella, ma nessuno ha avuto successo.
+* L'uomo con Stella era Nikolai Wachter II, il figlio maggiore di Lady Wachter. Nikolai è chiamato come suo padre, Nikolai Wachter, morto di una malattia debilitante tre anni fa.
+* Nikolai e suo fratello minore, Karl, possono essere monelli e problematici a volte, ma Lady Wachter crede che entrambi abbiano buoni cuori - sebbene altamente disorganizzati. (È affezionata ai suoi figli, ma si rammarica che entrambi siano cresciuti selvaggi e in cerca di emozioni dopo la morte del loro padre.)
 
-Lady Wachter also attempts to engage the players in small talk, asking questions about their histories, their homes, their interests, and the means by which they came to Vallaki and the valley of Barovia. Throughout the conversation, she offers compliments on any visible armor, weaponry, or arcane or holy foci, and lightly questions the players as to their training in the martial, arcane, or holy arts.
+Lady Wachter tenta anche di coinvolgere i giocatori in una conversazione leggera, facendo domande sulle loro storie, le loro case, i loro interessi e i mezzi con cui sono arrivati a Vallaki e nella valle di Barovia. Durante la conversazione, offre complimenti su qualsiasi armatura visibile, armi o foci arcani o sacri, e interroga leggermente i giocatori sulla loro formazione nelle arti marziali, arcane o sacre.
 
-Lady Wachter may also respond to player questions as follows:
+Lady Wachter può anche rispondere alle domande dei giocatori come segue:
 
-***If asked why she chose to invite the players for dinner,*** Lady Wachter notes only that outsiders are a rare sight in Vallaki, and that she was taken by reports of their apparent competence. She notes that, “in such troubled times, it is always wise to find friends”—and that, to the canny eye, friends may be found in even the most unexpected places.
+***Se le viene chiesto perché ha scelto di invitare i giocatori a cena,*** Lady Wachter nota solo che gli estranei sono una vista rara a Vallaki, e che è stata colpita dai rapporti sulla loro apparente competenza. Nota che, "in tempi così difficili, è sempre saggio trovare amici" - e che, all'occhio acuto, gli amici possono essere trovati anche nei luoghi più inaspettati.
 
-***If asked whether she serves Strahd,*** Lady Wachter pauses, considers her words carefully, and calmly replies that she is, and has always been a realist. As preferable as some may find it to live in a realm not ruled by Strahd von Zarovich, Vallakians do live in such a realm, and they must learn to come to terms with it. Unlike Vargas, Strahd is, at the very least, capable of reason.
+***Se le viene chiesto se serve Strahd,*** Lady Wachter si ferma, considera attentamente le sue parole e risponde con calma che è, e è sempre stata, una realista. Per quanto preferibile alcuni possano trovare vivere in un regno non governato da Strahd von Zarovich, i Vallakiani vivono in un tale regno, e devono imparare a farci i conti. A differenza di Vargas, Strahd è, almeno, capace di ragione.
 
-***If asked how she came to her position,*** Lady Wachter notes that she was not always the heir of House Wachter. Her elder brother, Frederich Wachter, had always been expected to inherit their mother’s household and title. As a teenager, Fiona often fought with her mother and brother—and, on one such occasion, ran away from home in a pique of stubborn fury. She fled into the Svalich Woods, where she would have surely died had she not been found by an old woman named Lysa. Fiona stayed in Lysa’s cottage for six months, until she learned that her parents and brother had perished in a tragic accident. Fiona returned to Vallaki against Lysa’s advice and reclaimed her family’s position.
+***Se le viene chiesto come è arrivata alla sua posizione,*** Lady Wachter nota che non è sempre stata l'erede della Casa Wachter. Suo fratello maggiore, Frederich Wachter, era sempre stato destinato a ereditare la casa e il titolo della loro madre. Da adolescente, Fiona litigava spesso con sua madre e suo fratello - e, in una di queste occasioni, scappò di casa in un impeto di furia ostinata. Fuggì nei Boschi di Svalich, dove sarebbe sicuramente morta se non fosse stata trovata da una vecchia di nome Lysa. Fiona rimase nella capanna di Lysa per sei mesi, finché non apprese che i suoi genitori e suo fratello erano morti in un tragico incidente. Fiona tornò a Vallaki contro il consiglio di Lysa e reclamò la posizione della sua famiglia.
 
-> [!info]+ **What Lady Wachter Knows**
-> If asked about the different factions and locations throughout Barovia, Lady Wachter can provide the following information:
+> [!info]+ **Cosa sa Lady Wachter**
+> Se le viene chiesto delle diverse fazioni e luoghi in tutta Barovia, Lady Wachter può fornire le seguenti informazioni:
 > 
-> * ***The Forest Folk.*** "They are descendants of the original inhabitants of the valley who now worship Count von Zarovich as a god. They use Yester Hill as a gathering place, but reside throughout the Svalich Wood."
-> * ***Argynvostholt.*** Lady Wachter shares the information in <span class="citation">Vallaki Lore (p. 96)</span>.
-> * ***The Amber Temple.*** Lady Wachter can share that she once heard of an "order of knights" inhabiting the abandoned manor to the west, which was said to guard a place called the "Amber Temple." (She learned of this from her mentor, the swamp witch Baba Lysaga, who she refers to only as "Lysa.") She knows little else, however.
-> * ***The Werewolf Pack.*** "An uncivilized assortment of bloodthirsty brutes. Their aggression has intensified as of late, I fear, but Vallaki's walls and silver have kept us safe." (Lady Wachter doesn't know where the pack's den lies, and doesn't know enough to speculate.)
+> * ***Il Popolo della Foresta.*** "Sono discendenti degli abitanti originali della valle che ora venerano il Conte von Zarovich come un dio. Usano la Collina di Yester come luogo di ritrovo, ma risiedono in tutta la Foresta di Svalich."
+> * ***Argynvostholt.*** Lady Wachter condivide le informazioni in <span class="citation">Lore di Vallaki (p. 96)</span>.
+> * ***Il Tempio d'Ambra.*** Lady Wachter può condividere che una volta ha sentito parlare di un "ordine di cavalieri" che abitava il maniero abbandonato a ovest, che si diceva proteggesse un luogo chiamato "Tempio d'Ambra". (L'ha appreso dal suo mentore, la strega della palude Baba Lysaga, che si riferisce solo come "Lysa.") Non sa molto altro, però.
+> * ***Il Branco di Lupi Mannari.*** "Un assortimento incivile di brutali assetati di sangue. La loro aggressività è aumentata di recente, temo, ma le mura e l'argento di Vallaki ci hanno tenuti al sicuro." (Lady Wachter non sa dove si trovi la tana del branco e non sa abbastanza per speculare.)
 
-> [!lore]+ **Who is Lysa?**
+> [!lore]+ **Chi è Lysa?**
 >
-> “Lysa’s” true identity is Baba Lysaga, the swamp-witch of <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. Fiona’s story is true—as a young woman, she ran from home and found refuge with Baba Lysaga. For six months, she joined the ranks of Lysaga’s witches-in-training, many of whom now serve at Strahd’s pleasure in <span class="citation">K56. Cauldron</span> (p. 72) in Castle Ravenloft. During this time, Fiona struggled beneath Lysaga’s tutelage to “hear the voice” of Mother Night, a task that she ultimately never achieved.
+> La vera identità di "Lysa" è Baba Lysaga, la strega della palude di <span class="citation">Capitolo 10: Le Rovine di Berez (p. 161)</span>. La storia di Fiona è vera - da giovane, scappò di casa e trovò rifugio con Baba Lysaga. Per sei mesi, si unì ai ranghi delle streghe in addestramento di Lysaga, molte delle quali ora servono a piacere di Strahd in <span class="citation">K56. Calderone</span> (p. 72) nel Castello Ravenloft. Durante questo periodo, Fiona lottò sotto la guida di Lysaga per "sentire la voce" di Madre Notte, un compito che alla fine non riuscì mai a completare.
 >
-> Upon learning of her family’s death, Fiona chose to return to Vallaki to claim her birthright. Baba Lysaga did not take the news well, and warned Fiona that her departure would be treated as a personal betrayal—and that she would be banished from Berez forevermore for her choice. Fiona returned to Vallaki nonetheless, taking the small grimoire that Baba Lysaga had given her as a memento of her studies.
+> Dopo aver appreso della morte della sua famiglia, Fiona scelse di tornare a Vallaki per reclamare il suo diritto di nascita. Baba Lysaga non prese bene la notizia e avvertì Fiona che la sua partenza sarebbe stata trattata come un tradimento personale - e che sarebbe stata bandita da Berez per sempre per la sua scelta. Fiona tornò comunque a Vallaki, portando con sé il piccolo grimorio che Baba Lysaga le aveva dato come ricordo dei suoi studi.
 >
-> On her first night in the empty, silent Wachterhaus, Fiona knelt in her parents’ bedroom—now hers, as the mistress of the house—and prayed, sobbing, to Mother Night for guidance. When a voice spoke to her, Fiona asked in disbelief whether she had heard Mother Night’s voice at last.
+> La prima notte a Villa Wachter vuota e silenziosa, Fiona si inginocchiò nella camera dei suoi genitori - ora sua, come padrona di casa - e pregò, singhiozzando, Madre Notte per una guida. Quando una voce le parlò, Fiona chiese incredula se avesse finalmente sentito la voce di Madre Notte.
 >
-> The voice—a woman’s, light yet melancholy—instead identified itself as Ezra, goddess of the Mists, and offered Fiona quiet solace in her time of sorrow. Fiona has been a quiet, but dedicated worshipper of Ezra ever since, and doesn’t suspect that Ezra is merely a guise used by the Dark Powers.
-### Dinner is Served
-As the cocktail conversation draws to a close, Haliq re-enters the room to announce that dinner is served. As the players take their seats, Dhavit and [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]]'s two maids, Madalena and Amalthia, set the table with an assortment of rich and mouth-watering foods: a roast leg of lamb, stewed vegetables, boiled and seasoned potatoes, and fresh-baked bread with butter and cheeses.
-## F2d. The Vallakovich Problem
-As the players eat dinner, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] poses the following questions:
+> La voce - di una donna, leggera ma malinconica - si identificò invece come Ezra, dea delle Nebbie, e offrì a Fiona un conforto tranquillo nel suo momento di dolore. Fiona è stata una devota silenziosa ma dedicata di Ezra da allora, e non sospetta che Ezra sia solo una maschera usata dai Poteri Oscuri.
+### La Cena è Servita
+Quando la conversazione da cocktail si avvicina alla fine, Haliq rientra nella stanza per annunciare che la cena è servita. Quando i giocatori prendono posto, Dhavit e le due cameriere di [[Personaggi Non Giocanti#Lady Fiona Wachter|Lady Wachter]], Madalena e Amalthia, apparecchiano la tavola con una varietà di cibi ricchi e deliziosi: una coscia di agnello arrosto, verdure stufate, patate bollite e condite, e pane fresco con burro e formaggi.
+## F2d. Il Problema dei Vallakovich
+Mentre i giocatori mangiano, [[Personaggi Non Giocanti#Lady Fiona Wachter|Lady Wachter]] pone le seguenti domande:
 
-* What do they think of Vallaki, given the time that they have spent in it so far?
-* What do they think of the town’s policies and culture, and how does it compare with the players’ homelands?
+* Cosa pensano di Vallaki, dato il tempo che hanno trascorso lì finora?
+* Cosa pensano delle politiche e della cultura della città, e come si confronta con le terre d'origine dei giocatori?
 
-As the conversation continues, Lady Wachter notes that she has heard of the players’ actions in the town streets the previous morning, and that she was taken with their willingness to defy the Baron’s will. (If the players mention additional adventures within Vallaki’s walls, such as a confrontation with Volenta at the Coffin-Maker’s Shop, Lady Wachter is suitably impressed.)
+Mentre la conversazione continua, Lady Wachter nota di aver sentito parlare delle azioni dei giocatori nelle strade della città la mattina precedente, e che è stata colpita dalla loro volontà di sfidare la volontà del Barone. (Se i giocatori menzionano ulteriori avventure all'interno delle mura di Vallaki, come un confronto con Volenta al Negozio del Becchino, Lady Wachter è adeguatamente impressionata.)
 
-Should the players indicate an opposition to the Baron, Lady Wachter confesses that she has recently found herself with grave doubts regarding his fitness to rule. She can share the following information about Baron Vargas Vallakovich:
+Se i giocatori indicano un'opposizione al Barone, Lady Wachter confessa di aver recentemente avuto gravi dubbi sulla sua idoneità a governare. Può condividere le seguenti informazioni su Barone Vargas Vallakovich:
 
-* The Vallakovich family has ruled Vallaki ever since its first patriarch, Boris Vallakovich, founded the town nearly five-hundred years ago. The Vallakoviches claim to have royal blood in their veins, and have always believed themselves superior to all others in the valley—and the current Baron is no different.
-* Baron Vargas Vallakovich first came to power as burgomaster eleven years ago, when his father, Baron Valentin Vallakovich, passed away in his sleep. (At the time, Valentin was barely fifty years old and in near-perfect health. Fiona has always harbored her suspicions, but no foul play ever came to light.)
-* Vargas is a firm believer in the superstition that the Devil Strahd first arrived as a punishment for the sins of the Barovians’ ancestors. He has therefore always had a strange fixation on the idea that “happiness” may one day allow the Vallakian people to return sunlight to the valley, hosting monthly “festivals” that most have always considered to be dull affairs.
-* Ever since Strahd’s awakening three months ago, Vargas’s once-harmless beliefs have become an obsessive fixation. He has instituted weekly festivals and made attendance mandatory. 
-* Vargas has also criminalized “malicious unhappiness,” as described in <span class="citation">Donkey-Headed Criminals (p. 119)</span>. While most “lawbreakers” wind up in the stocks, a select few have been taken to his mansion for personal “rehabilitation”—including Udo Lukovich, a local shoemaker, who was arrested last week as described in <span class="citation">N3m. Locked Closet (p. 107)</span>. Udo hasn’t been seen since.
-* Vargas’s fear and paranoia have even driven him to bar the refugees from the village of Barovia from entering Vallaki—an enormous abuse of power that has caused significant and undeserved suffering.
-* Vargas’s will is enforced by his right-hand man, Izek Strazni, who serves both as Vallaki’s Captain of the Guard and as Vargas’s personal enforcer. 
+* La famiglia Vallakovich ha governato Vallaki da quando il suo primo patriarca, Boris Vallakovich, ha fondato la città quasi cinquecento anni fa. I Vallakovich affermano di avere sangue reale nelle vene e si sono sempre considerati superiori a tutti gli altri nella valle - e l'attuale Barone non è diverso.
+* Il Barone Vargas Vallakovich è salito al potere come borgomastro undici anni fa, quando suo padre, il Barone Valentin Vallakovich, è morto nel sonno. (All'epoca, Valentin aveva appena cinquant'anni ed era in perfetta salute. Fiona ha sempre nutrito i suoi sospetti, ma non è mai emerso alcun gioco sporco.)
+* Vargas è un fermo credente nella superstizione che il Diavolo Strahd sia arrivato per la prima volta come punizione per i peccati degli antenati dei Baroviani. Ha quindi sempre avuto una strana fissazione sull'idea che "la felicità" possa un giorno permettere al popolo di Vallaki di riportare la luce del sole nella valle, organizzando festival mensili che la maggior parte ha sempre considerato affari noiosi.
+* Da quando Strahd si è risvegliato tre mesi fa, le credenze una volta innocue di Vargas sono diventate una fissazione ossessiva. Ha istituito festival settimanali e reso obbligatoria la partecipazione.
+* Vargas ha anche criminalizzato la "malvagia infelicità", come descritto in <span class="citation">Criminali con Testa d'Asino (p. 119)</span>. Mentre la maggior parte dei "criminali" finisce nelle scorte, alcuni selezionati sono stati portati nella sua villa per una "riabilitazione" personale, tra cui Udo Lukovich, un calzolaio locale, che è stato arrestato la settimana scorsa come descritto in <span class="citation">N3m. Armadio Chiuso (p. 107)</span>. Udo non è stato più visto da allora.
+* La paura e la paranoia di Vargas lo hanno persino spinto a vietare ai rifugiati del villaggio di Barovia di entrare a Vallaki, un enorme abuso di potere che ha causato sofferenze significative e immeritate.
+* La volontà di Vargas è applicata dal suo braccio destro, Izek Strazni, che serve sia come Capitano della Guardia di Vallaki che come esecutore personale di Vargas.
 
-Lady Wachter can also share the following information about Izek:
+Lady Wachter può anche condividere le seguenti informazioni su Izek:
 
-* Izek was orphaned at the age of ten, losing his younger sister and arm in a wolf attack, and both of his parents to grief not long thereafter. His sister’s body was never found.
-* Izek was often mocked for his disability, but after several of his tormentors went missing, the laughter abruptly stopped. No bodies were ever found, but rumors persist that Izek—a large and frequently violent child—murdered them himself. 
-* Approximately a year after losing his parents, Izek was arrested by the town guard and brought to the Vallakovich mansion. No one knows what crime he committed or why he was released soon thereafter, but Valentin Vallakovich’s twenty-five-year-old son, then-Baronet Vargas Vallakovich, all but adopted Izek and took him into their home.
-* Izek served the Vallakovich family faithfully for the next five years. When Izek was sixteen, he somehow obtained a new arm to replace the one he had lost—though his new limb more resembled a devil’s than any human form. (Curiously, the day that Izek regrew his arm came the same day that Baron Valentin Vallakovich was announced to have passed in his sleep. Lady Wachter is confident that the two events are connected.)
-* Izek’s fiendish arm allowed him to wield a proper weapon—but, more significantly, magically gave him the power to conjure fire. Vargas soon put both of Izek’s skills to work, designating Izek his personal enforcer and a ranking member of Vallaki’s town guard. As time passed, Izek became a terror throughout Vallaki, committing wanton acts of battery, arson, and extortion both at the Baron’s command and to serve his own diabolic whims.
-* Many of the townsfolk hate and fear Izek—a sentiment that has slowly spread to Vargas as well in the wake of Strahd’s revival. However, Izek’s strength protects them both, swiftly dispatching any person who dares defy them, and intimidating those that don’t.
+* Izek è rimasto orfano all'età di dieci anni, perdendo la sorella minore e un braccio in un attacco di lupi, e entrambi i genitori per il dolore poco dopo. Il corpo della sorella non è mai stato trovato.
+* Izek è stato spesso deriso per la sua disabilità, ma dopo che diversi dei suoi tormentatori sono scomparsi, le risate si sono bruscamente fermate. Non sono mai stati trovati corpi, ma persistono voci che Izek, un bambino grande e spesso violento, li abbia uccisi lui stesso.
+* Circa un anno dopo aver perso i genitori, Izek è stato arrestato dalla guardia cittadina e portato alla villa dei Vallakovich. Nessuno sa quale crimine abbia commesso o perché sia stato rilasciato poco dopo, ma il figlio venticinquenne di Valentin Vallakovich, allora Baronet Vargas Vallakovich, ha praticamente adottato Izek e lo ha portato nella loro casa.
+* Izek ha servito fedelmente la famiglia Vallakovich per i successivi cinque anni. Quando Izek aveva sedici anni, ha ottenuto un nuovo braccio per sostituire quello che aveva perso, anche se il suo nuovo arto somigliava più a quello di un diavolo che a una forma umana. (Curiosamente, il giorno in cui Izek ha ricresciuto il braccio è lo stesso giorno in cui è stato annunciato che il Barone Valentin Vallakovich era morto nel sonno. Lady Wachter è sicura che i due eventi siano collegati.)
+* Il braccio demoniaco di Izek gli ha permesso di brandire un'arma adeguata, ma, cosa più significativa, gli ha dato il potere magico di evocare il fuoco. Vargas ha presto messo a frutto entrambe le abilità di Izek, designando Izek come suo esecutore personale e membro di rango della guardia cittadina di Vallaki. Col passare del tempo, Izek è diventato un terrore in tutta Vallaki, commettendo atti di batteria, incendio doloso ed estorsione sia per ordine del Barone che per soddisfare i propri capricci diabolici.
+* Molti abitanti della città odiano e temono Izek, un sentimento che si è lentamente diffuso anche a Vargas dopo il risveglio di Strahd. Tuttavia, la forza di Izek li protegge entrambi, eliminando rapidamente chiunque osi sfidarli e intimidendo coloro che non lo fanno.
 
-Where appropriate, Lady Wachter can also share the following story about her daughter, Stella:
+Dove appropriato, Lady Wachter può anche condividere la seguente storia su sua figlia, Stella:
 
-* Six months ago, against her advice, Lady Wachter’s daughter, Stella, began visiting Victor Vallakovich, the Baron’s son. Lady Wachter warned her against entanglement with the Vallakovich family, but Stella ignored her pleas.
-* Just over two months ago, Izek Strazni returned Stella to Wachterhaus in her current state: mindless and speechless, unable to walk, eat, or even dress herself without another’s assistance. 
-* Baron Vallakovich has refused to discuss the matter in depth, suggesting only that the girl’s fragile constitution and her family’s exposure to the Devil were to blame. Victor Vallakovich himself has refused to speak to her at all.
-* Fiona is convinced that Izek or the Vallakoviches did something terrible to Stella—and that, even if they did not, their cold refusal to assist or even commiserate with her illness proves their unfitness to rule.
+* Sei mesi fa, contro il suo consiglio, la figlia di Lady Wachter, Stella, ha iniziato a visitare Victor Vallakovich, il figlio del Barone. Lady Wachter l'ha avvertita di non intrecciare legami con la famiglia Vallakovich, ma Stella ha ignorato le sue suppliche.
+* Poco più di due mesi fa, Izek Strazni ha riportato Stella a Villa Wachter nello stato attuale: senza mente e senza parola, incapace di camminare, mangiare o persino vestirsi senza l'assistenza di qualcun altro.
+* Il Barone Vallakovich ha rifiutato di discutere la questione in profondità, suggerendo solo che la costituzione fragile della ragazza e l'esposizione della sua famiglia al Diavolo erano da biasimare. Victor Vallakovich stesso ha rifiutato di parlarle del tutto.
+* Fiona è convinta che Izek o i Vallakovich abbiano fatto qualcosa di terribile a Stella e che, anche se non l'hanno fatto, il loro freddo rifiuto di assistere o persino di commiserare con la sua malattia dimostra la loro inadeguatezza a governare.
 
-> [!abstract]+ **Stella’s Illness**
+> [!abstract]+ **La Malattia di Stella**
 >
-> If the players reveal the true nature of Stella’s illness, Lady Wachter’s eyes tighten, and she asks them for a full explanation of how Stella came to inhabit her current state.
+> Se i giocatori rivelano la vera natura della malattia di Stella, gli occhi di Lady Wachter si stringono e chiede loro una spiegazione completa di come Stella sia arrivata al suo stato attuale.
 >
-> When the players have finished their story, Lady Wachter states that she believes them to be playing a cruel joke upon her and her family, and asks whether they have any means of proving their claims. (She refuses to journey to the Vallakovich manor if the players suggest using the *spirit mirror* to allow her to view Stella directly, dismissing it as a “foolish” suggestion.)
+> Quando i giocatori hanno finito la loro storia, Lady Wachter afferma di credere che stiano giocando uno scherzo crudele a lei e alla sua famiglia, e chiede se hanno qualche mezzo per dimostrare le loro affermazioni. (Rifiuta di recarsi alla villa dei Vallakovich se i giocatori suggeriscono di usare lo *specchio degli spiriti* per permetterle di vedere Stella direttamente, respingendolo come un suggerimento "sciocco".)
 >
-> See [[Arc H - The Lost Soul#H5. Wachterhaus|Arc H - The Lost Soul]] for more information on how the players can persuade Lady Wachter of Stella’s fate.
-## F2e. The Wachter Conspiracy
-If the players appear receptive to her concerns, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] proceeds to ask for their discretion, as well as their promise that not a whisper of their conversation shall escape this room. If the players agree, Lady Wachter makes the following proposal, speaking carefully and making sure to choose her words delicately:
+> Vedi [[Arco H - L'Anima Perduta#H5. Villa Wachter|Arco H - L'Anima Perduta]] per ulteriori informazioni su come i giocatori possono persuadere Lady Wachter del destino di Stella.
+## F2e. La Cospirazione dei Wachter
+Se i giocatori sembrano ricettivi alle sue preoccupazioni, [[Personaggi Non Giocanti#Lady Fiona Wachter|Lady Wachter]] procede a chiedere la loro discrezione, nonché la loro promessa che non un sussurro della loro conversazione uscirà da questa stanza. Se i giocatori sono d'accordo, Lady Wachter fa la seguente proposta, parlando con attenzione e assicurandosi di scegliere le parole con delicatezza:
 
-* There are many in Vallaki who are uncomfortable with the Vallakoviches’ rule, and who would prefer to see fresh leadership overseeing the town.
-* However, so long as Izek Strazni serves the Baron’s household, any attempt to shift the town’s political leadership would be met with violent brutality.
-* Izek is utterly faithful to the Baron. His life is the sole obstacle to the change that Vallaki needs.
-* The players appear to be capable, intelligent, and good-hearted individuals—both well-armed and well-trained. If any group of individuals could aid Vallaki in its hour of need, they could.
+* Ci sono molti a Vallaki che sono a disagio con il governo dei Vallakovich e che preferirebbero vedere una nuova leadership che sovrintenda alla città.
+* Tuttavia, finché Izek Strazni serve la casa del Barone, qualsiasi tentativo di cambiare la leadership politica della città sarebbe accolto con brutale violenza.
+* Izek è completamente fedele al Barone. La sua vita è l'unico ostacolo al cambiamento di cui Vallaki ha bisogno.
+* I giocatori sembrano essere individui capaci, intelligenti e di buon cuore, ben armati e ben addestrati. Se un gruppo di individui potesse aiutare Vallaki nella sua ora di bisogno, potrebbero essere loro.
 
-If the players are interested in Lady Wachter’s proposal, she asks them to perform the following tasks:
+Se i giocatori sono interessati alla proposta di Lady Wachter, chiede loro di eseguire i seguenti compiti:
 
-* Follow Izek and find a time when he is vulnerable—unaccompanied by the guards that most often seem to follow him. (Any guards will fight to the death to defend him and raise the alarm if allowed, which will both make the players’ fight more difficult and complicate Lady Wachter’s efforts to ensure a smooth transfer of power.)
-* Once Izek is dispatched, dispose of the body, but bring his head to Lady Wachter. (Lady Wachter notes that proof of Izek’s removal should greatly aid any efforts to encourage Vargas to step down peacefully.)
-* When the players have completed their task, Lady Wachter and her associates will quietly and peacefully oversee the shift in power.
+* Seguire Izek e trovare un momento in cui è vulnerabile, non accompagnato dalle guardie che sembrano seguirlo spesso. (Qualsiasi guardia combatterà fino alla morte per difenderlo e darà l'allarme se permesso, il che renderà il combattimento dei giocatori più difficile e complicherà gli sforzi di Lady Wachter per garantire un trasferimento di potere senza intoppi.)
+* Una volta eliminato Izek, smaltire il corpo, ma portare la sua testa a Lady Wachter. (Lady Wachter nota che la prova della rimozione di Izek dovrebbe aiutare notevolmente qualsiasi sforzo per incoraggiare Vargas a dimettersi pacificamente.)
+* Quando i giocatori hanno completato il loro compito, Lady Wachter e i suoi associati sovrintenderanno tranquillamente e pacificamente al cambiamento di potere.
 
-Lady Wachter also shares that Izek is known to be a heavy drinker. While he is a formidable foe, she has secured a bottle of poisoned wine that should dull his senses—imposing the **poisoned** condition for 1 hour—shortly after finishing it. Should the players accept her assignment, she promises to have one of her associates deliver it to them.
+Lady Wachter condivide anche che Izek è noto per essere un forte bevitore. Sebbene sia un avversario formidabile, ha ottenuto una bottiglia di vino avvelenato che dovrebbe offuscare i suoi sensi, imponendo la condizione di **avvelenato** per 1 ora, poco dopo averlo finito. Se i giocatori accettano il suo incarico, promette di farlo consegnare da uno dei suoi associati.
 
-***Compensation.*** If the players demand compensation for their services, Lady Wachter promises them their selection of silvered weapons and ammunition from the town guard’s stores, paid once she assumes the Baron’s place. The players are also welcome to, of course, Izek’s silvered battleaxe and any valuables they may recover from his person. 
+***Compensazione.*** Se i giocatori richiedono una compensazione per i loro servizi, Lady Wachter promette loro la loro selezione di armi e munizioni argentate dai depositi della guardia cittadina, pagate una volta che assume il posto del Barone. I giocatori sono anche liberi di prendere, ovviamente, l'ascia da battaglia argentata di Izek e qualsiasi oggetto di valore che possano recuperare dal suo corpo.
 
-If the players demand additional compensation and succeed on a DC 15 Charisma (Persuasion) check, Fiona reluctantly agrees to pay an additional 100 gp upon completion of their task.
+Se i giocatori richiedono una compensazione aggiuntiva e riescono in una prova di Carisma (Persuasione) a CD 15, Fiona accetta con riluttanza di pagare ulteriori 100 mo al completamento del loro compito.
 
-Should the players mention the Barovian refugees, Lady Wachter swiftly, and without reservation, promises to ensure that the refugees will be permitted to safely enter the town as soon as Baron Vallakovich has been removed from power.
+Se i giocatori menzionano i rifugiati baroviani, Lady Wachter promette rapidamente e senza riserve di garantire che i rifugiati saranno autorizzati a entrare in città in sicurezza non appena il Barone Vallakovich sarà rimosso dal potere.
 
-***Fiona’s Loyalty.*** If the players indicate that they have concerns about Lady Wachter’s loyalty to Strahd, she shares the following story:
+***Lealtà di Fiona.*** Se i giocatori indicano di avere preoccupazioni sulla lealtà di Lady Wachter a Strahd, condivide la seguente storia:
 
 <div class="description">
-<p>“Barovia, Vallaki, and Krezk—this land’s three lights of civilization. Did you know, however, that there was once a fourth?</p>
-<p>“It was a fishing village named Berez, built on the banks of the Luna River, not far south of here. In its prime, it was a bustling and thriving place, full of life, hope, and laughter.</p>
-<p>“And then, one day, more than three hundred years ago, the village’s burgomaster defied the will of Strahd von Zarovich.</p>
-<p>“The details are lost to time. But the histories make clear that Berez thought itself able to challenge the Devil’s rule. Whether it was pride, desperation, or mere foolishness, I cannot say. But it was, nonetheless, a grave mistake.</p>
-<p>“Zarovich did not argue. He did not negotiate. He simply commanded the river Luna to rise, and it obeyed. The waters swallowed Berez whole. No building was left standing, and few lives were spared. The survivors found themselves lost, adrift, and broken. Most found their way north, to Vallaki, where they struggled to forge new lives amongst the ruins of the old.</p>
-<p>“What did defiance earn Berez? A marsh and some broken stone. A stark, cold warning to anyone who would follow their path.</p>
-<p>“As a child, I once heard a tale of a sword that shone with the fury of the sun—a mighty weapon indeed, and one that would dawn a new age for Barovia in the dreams of a little girl. But a lady cannot waste time on fairy tales or fools’ errands. She must take the world as it is, not the way that she wishes it to be.</p>
-<p>“We live under Zarovich’s rule, and survival requires pragmatism. A lord at peace can be reasoned with—even ignored, with sufficient assurances paid. But a vengeful lord cannot be put aside so easily.</p>
-<p>“Defiance leads to nothing but destruction. Berez learned this the hard way. It is our duty—our obligation, to both our ancestors and to our children—to take that lesson to heart.”</p>
+<p>"Barovia, Vallaki e Krezk - le tre luci della civiltà di questa terra. Sapevate, tuttavia, che una volta c'era una quarta?</p>
+<p>"Era un villaggio di pescatori chiamato Berez, costruito sulle rive del fiume Luna, non lontano a sud di qui. Nel suo periodo di massimo splendore, era un luogo vivace e prospero, pieno di vita, speranza e risate.</p>
+<p>"E poi, un giorno, più di trecento anni fa, il borgomastro del villaggio sfidò la volontà di Strahd von Zarovich.</p>
+<p>"I dettagli sono persi nel tempo. Ma le storie rendono chiaro che Berez pensava di poter sfidare il dominio del Diavolo. Che fosse orgoglio, disperazione o semplice follia, non posso dirlo. Ma fu, comunque, un grave errore.</p>
+<p>"Zarovich non discusse. Non negoziò. Comandò semplicemente al fiume Luna di alzarsi, e obbedì. Le acque inghiottirono Berez interamente. Nessun edificio rimase in piedi e poche vite furono risparmiate. I sopravvissuti si trovarono persi, alla deriva e spezzati. La maggior parte trovò la strada verso nord, a Vallaki, dove lottarono per costruirsi nuove vite tra le rovine delle vecchie.</p>
+<p>"Cosa guadagnò la sfida di Berez? Una palude e qualche pietra rotta. Un avvertimento freddo e severo per chiunque volesse seguire il loro cammino.</p>
+<p>"Da bambina, una volta ho sentito una storia di una spada che brillava con la furia del sole, un'arma potente, e che avrebbe inaugurato una nuova era per Barovia nei sogni di una bambina. Ma una signora non può perdere tempo con fiabe o missioni da sciocchi. Deve prendere il mondo com'è, non come vorrebbe che fosse.</p>
+<p>"Viviamo sotto il dominio di Zarovich, e la sopravvivenza richiede pragmatismo. Un signore in pace può essere ragionevole, persino ignorato, con sufficienti assicurazioni pagate. Ma un signore vendicativo non può essere messo da parte così facilmente.</p>
+<p>"La sfida porta solo alla distruzione. Berez ha imparato questa lezione nel modo più duro. È nostro dovere, la nostra obbligazione, sia verso i nostri antenati che verso i nostri figli, prendere a cuore quella lezione."</p>
 </div>
 
-If the players reject Lady Wachter’s argument, she replies curtly with the following points:
+Se i giocatori rifiutano l'argomento di Lady Wachter, risponde bruscamente con i seguenti punti:
 
-* It is a popular thing amongst the Barovian people to worship the Morninglord—especially now, with Strahd recently returned. Fervent worshippers proclaim the day when the Morninglord’s light shall return to the valley, a new dawn rising with the sun.
-* Lady Wachter rejects such illusions. Instead, she heeds the word of Ezra, goddess of the Mists, who teaches her followers to look past one’s hopes, to recognize them as the fog that clouds the mind, and to see the world as it truly is and shall forever be. It is Ezra who teaches her followers to endure what must be endured. After all, the oak fights the wind and is broken, but the willow bends when it must and survives.
-* Strahd von Zarovich is not so immutable or unreasonable as he may appear. Centuries ago, Lady Wachter’s ancestor, Lady Lovina Wachter, served Strahd faithfully as his vassal. When a traitor and assassin named Leo Dilisnya murdered Lovina’s husband and attempted to kill Lovina as well, Strahd defended her, then hunted Dilisnya down to punish him for his treachery. House Wachter has remained loyal to Strahd ever since.
-* Lady Wachter does not begrudge others their hope that the valley may one day escape Strahd’s control. She does not seek to destroy that hope, nor bring pain where unnecessary. But, in the meantime, she believes that her people must bend like the willow in order to survive. If the players seek to oppose Strahd, she will lift no finger to stop them. She merely asks that they bring no harm to Vallaki as they do.
+* È una cosa popolare tra il popolo baroviano adorare il Signore del Mattino, soprattutto ora, con il recente ritorno di Strahd. I ferventi adoratori proclamano il giorno in cui la luce del Signore del Mattino tornerà nella valle, una nuova alba che sorge con il sole.
+* Lady Wachter respinge tali illusioni. Invece, ascolta la parola di Ezra, dea delle Nebbie, che insegna ai suoi seguaci a guardare oltre le proprie speranze, a riconoscerle come la nebbia che offusca la mente e a vedere il mondo com'è veramente e sarà per sempre. È Ezra che insegna ai suoi seguaci a sopportare ciò che deve essere sopportato. Dopotutto, la quercia combatte il vento e si spezza, ma il salice si piega quando deve e sopravvive.
+* Strahd von Zarovich non è così immutabile o irragionevole come può sembrare. Secoli fa, l'antenata di Lady Wachter, Lady Lovina Wachter, servì fedelmente Strahd come sua vassalla. Quando un traditore e assassino di nome Leo Dilisnya uccise il marito di Lovina e tentò di uccidere anche lei, Strahd la difese, poi cacciò Dilisnya per punirlo per il suo tradimento. La Casa Wachter è rimasta fedele a Strahd da allora.
+* Lady Wachter non disdegna gli altri per la loro speranza che la valle possa un giorno sfuggire al controllo di Strahd. Non cerca di distruggere quella speranza, né di portare dolore dove non necessario. Ma, nel frattempo, crede che il suo popolo debba piegarsi come il salice per sopravvivere. Se i giocatori cercano di opporsi a Strahd, non alzerà un dito per fermarli. Chiede solo che non portino danno a Vallaki mentre lo fanno.
 
-If the players insist that Madam Eva foresaw the existence of the *Sunsword*, she pauses, then notes that, as much as the “Vistana seer” might *believe* what she saw, “the future is notoriously difficult to interpret.” She is willing to concede—albeit with some amusement—that, despite her doubts, she may be more willing to believe the players’ arguments should the sword itself be found.
+Se i giocatori insistono che Madam Eva ha previsto l'esistenza della *Spada del Sole*, si ferma, poi nota che, per quanto la "veggente Vistana" possa *credere* in ciò che ha visto, "il futuro è notoriamente difficile da interpretare." È disposta a concedere, sebbene con un po' di divertimento, che, nonostante i suoi dubbi, potrebbe essere più disposta a credere agli argomenti dei giocatori se la spada stessa fosse trovata.
 
-> [!design]- **Design Notes: Lady Wachter's Arc**
-> Lady Wachter is first introduced as a cynical, if helpful ally. As the players assist her in freeing Vallaki from Izek's tyranny, and later aid her in restoring her daughter's soul in [[Arc H - The Lost Soul]], Lady Wachter gradually grows less cynical and more open to hope for a better future. 
+> [!design]- **Note di Design: L'Arco di Lady Wachter**
+> Lady Wachter viene introdotta per la prima volta come un'alleata cinica, sebbene utile. Man mano che i giocatori la aiutano a liberare Vallaki dalla tirannia di Izek e successivamente la aiutano a ripristinare l'anima di sua figlia in [[Arco H - L'Anima Perduta]], Lady Wachter diventa gradualmente meno cinica e più aperta alla speranza per un futuro migliore.
 > 
-> The players' lighting of the beacon of Argynvostholt in [[Arc Q - A Shining Beacon]] inspires Lady Wachter to hope for a future without Strahd von Zarovich. She becomes a steadfast ally in the fight against Strahd after the players obtain the *Sunsword* in [[Arc S - The Amber Temple]].
+> L'accensione del faro di Argynvostholt da parte dei giocatori in [[Arco Q - Un Faro Splendente]] ispira Lady Wachter a sperare in un futuro senza Strahd von Zarovich. Diventa un'alleata ferma nella lotta contro Strahd dopo che i giocatori ottengono la *Spada del Sole* in [[Arco S - Il Tempio d'Ambra]].
 
-***Accepting the Mission.*** If the players accept Lady Wachter’s assignment, she promises that she will send one of her associates to brief them on Izek Strazni’s schedule—and provide the bottle of poisoned wine—the following morning.
+***Accettare la Missione.*** Se i giocatori accettano l'incarico di Lady Wachter, promette che invierà uno dei suoi associati per informarli sul programma di Izek Strazni e fornire la bottiglia di vino avvelenato la mattina seguente.
 
-> [!lore]+ **Ezra: What Barovians Know**
-> Some learned Barovians, such as Kasimir or Father Petrovich, know the information about Ezra contained in <span class="citation"><em>Van Richten's Guide to Ravenloft</em> (p. 64)</span>. However, few know more than that, even among Ezra's own worshippers. Kasimir and other long-lived Barovians can share that worship of Ezra began only after Barovia passed into the mists, and that no Barovian had heard the goddess's name before then.
-## F2f. The Traitor
-If the players ask Lady Wachter about the "ancient foe of an old and noble house" described in Madam Eva's Tarokka reading regarding the *Tome of Strahd*, she hesitates, then promises to tell them all she knows regarding her family's history should they successfully defeat Izek.
-# F3. Return to the Blue Water Inn
-The following morning, as the players enter the taproom of the Blue Water Inn, [[Non-Player Characters#Danika Dorakova|Danika]] informs them that a man has requested their presence at his table by the southern window. She quietly adds that Urwin has identified the man as the same cloaked individual who delivered the players’ invitation the previous day.
+> [!lore]+ **Ezra: Cosa sanno i Baroviani**
+> Alcuni Baroviani istruiti, come Kasimir o Padre Petrovich, conoscono le informazioni su Ezra contenute in <span class="citation"><em>Guida di Van Richten a Ravenloft</em> (p. 64)</span>. Tuttavia, pochi sanno più di questo, anche tra i seguaci di Ezra. Kasimir e altri Baroviani longevi possono condividere che il culto di Ezra è iniziato solo dopo che Barovia è passata nelle nebbie, e che nessun Baroviano aveva mai sentito il nome della dea prima di allora.
+## F2f. Il Traditore
+Se i giocatori chiedono a Lady Wachter del "antico nemico di una vecchia e nobile casa" descritto nella lettura del Tarokka di Madam Eva riguardo al *Tomo di Strahd*, esita, poi promette di raccontare loro tutto ciò che sa sulla storia della sua famiglia se riusciranno a sconfiggere Izek.
+# F3. Ritorno alla Locanda delle Acque Blu
+La mattina seguente, quando i giocatori entrano nella sala comune della Locanda delle Acque Blu, [[Personaggi Non Giocanti#Danika Dorakova|Danika]] li informa che un uomo ha richiesto la loro presenza al suo tavolo vicino alla finestra meridionale. Aggiunge silenziosamente che Urwin ha identificato l'uomo come lo stesso individuo incappucciato che ha consegnato l'invito ai giocatori il giorno precedente.
 
-The man, Ernst Larnak (described in **N4. Wachterhaus**, p. 110), is currently enjoying a breakfast of bread, egg, and cured sausage. In lieu of greeting the players, he reflects (with his mouth full) on the quality of Urwin Martikov’s cooking, but mourns that the inn doesn’t carry coffee, a wonderful foreign drink he once purchased from a Vistana caravan.
+L'uomo, Ernst Larnak (descritto in **N4. Villa Wachter**, p. 110), sta attualmente gustando una colazione di pane, uova e salsiccia stagionata. Invece di salutare i giocatori, riflette (con la bocca piena) sulla qualità della cucina di Urwin Martikov, ma si lamenta che la locanda non serve caffè, una meravigliosa bevanda straniera che una volta ha acquistato da una carovana Vistana.
 
-Once he has finished his breakfast, Ernst can inform the players that Izek Strazni generally receives a delivery of a midday meal and a case carrying two bottles of wine shortly after noon in the Vallaki town square, delivered by the Baron’s cook, Tereska. Izek’s afternoon schedule is highly variable, but he reliably finishes the first bottle of wine by dusk and drains the second bottle shortly after settling down in one of several favored haunts.
+Una volta terminata la colazione, Ernst può informare i giocatori che Izek Strazni riceve generalmente una consegna di un pasto di mezzogiorno e una cassa contenente due bottiglie di vino poco dopo mezzogiorno nella piazza di Vallaki, consegnata dal cuoco del Barone, Tereska. Il programma pomeridiano di Izek è altamente variabile, ma finisce regolarmente la prima bottiglia di vino al tramonto e svuota la seconda bottiglia poco dopo essersi sistemato in uno dei suoi luoghi preferiti.
 
-Ernst can also provide the players with a burlap sack of sufficient size to contain Izek’s head, which also contains the bottle of poisoned wine. (“To carry the goods,” he says, grinning, as he holds out the sack. As he opens it to reveal the bottle, he adds, “And a parting gift for their owner.”) The wine is labeled Red Dragon Crush.
+Ernst può anche fornire ai giocatori un sacco di iuta di dimensioni sufficienti per contenere la testa di Izek, che contiene anche la bottiglia di vino avvelenato. ("Per trasportare la merce," dice, sorridendo, mentre porge il sacco. Mentre lo apre per rivelare la bottiglia, aggiunge, "E un regalo d'addio per il loro proprietario.") Il vino è etichettato Red Dragon Crush.
 
-When the handoff is complete, Ernst advises the players to follow Izek as he leaves the town square to ensure that they don’t lose sight of him by evening. He then snidely wishes the players luck before departing.
+Quando la consegna è completata, Ernst consiglia ai giocatori di seguire Izek mentre lascia la piazza della città per assicurarsi di non perderlo di vista entro sera. Poi augura sarcasticamente buona fortuna ai giocatori prima di andarsene.
 
-> [!lore]+ **Ernst’s Preparations**
+> [!lore]+ **I Preparativi di Ernst**
 >
-> Ernst was able to learn of Izek’s daytime schedule by stalking Izek himself. However, he was unable to learn of the inner goings-on within the burgomaster’s mansion until recently, when the Baron’s butler and the Baroness’s lady-in-waiting departed the manor out of fear of its recent haunting. Ernst took advantage of the situation and bribed the two former servants to share those details with him.
+> Ernst è stato in grado di apprendere il programma diurno di Izek seguendo Izek stesso. Tuttavia, non è stato in grado di apprendere gli eventi interni alla villa del borgomastro fino a poco tempo fa, quando il maggiordomo del Barone e la dama di compagnia della Baronessa hanno lasciato la villa per paura della recente infestazione. Ernst ha approfittato della situazione e ha corrotto i due ex servitori per condividere quei dettagli con lui.
 >
-> The poison that Ernst added to the wine was purchased from Arrigal, one of the two leaders of the Vallakian Vistani encampment.
+> Il veleno che Ernst ha aggiunto al vino è stato acquistato da Arrigal, uno dei due capi dell'accampamento Vistani di Vallaki.
 
-# F4. Izek’s Assassination
-On the particular day that the players choose to carry out their plan, Izek follows the following schedule unless interrupted:
+# F4. L'Assassinio di Izek
+Il giorno particolare in cui i giocatori scelgono di portare a termine il loro piano, Izek segue il seguente programma a meno che non venga interrotto:
 
-* **11:00 A.M.** Izek wakes from his drunken slumber and takes his morning meal in the kitchen of the burgomaster’s mansion, where he is met by two **guards** who deliver a morning report.
-* **11:30 A.M.** Izek, accompanied by the two **guards**, travels to the western Sunset Gate, the northern Zarovich Gate, and the eastern Morning Gate to receive the guards’ reports and inspect the town’s defenses.
-* **1:00 P.M.** The Baron’s cook delivers Izek a midday meal and a case of two bottles of wine in the Vallaki town square. Izek eats his lunch and begins drinking the first bottle of wine while the two **guards** patrol the surrounding area.
-* **2:00 P.M.** Izek and the two **guards** visit three or four of Izek’s “spies” scattered across the town to receive reports of recent malicious unhappiness. (Ernst notes with distaste that Izek’s “spies” are mere town gossips who Izek has intimidated into snitching on their neighbors.)
-* **4:00 P.M.** Izek and the two **guards** travel to the Sunset, Zarovich Gate, and Morning Gate (beginning with whichever gate is closest) to receive the guards’ reports and inspect the town’s defenses.
-* **5:30 P.M.** Izek dismisses the two **guards** and travels alone to Lake Zarovich. He spends the remainder of the evening consuming the second bottle of wine and staring into space.
-* **10:00 P.M.** Izek returns to the burgomaster’s mansion and takes his evening meal, as well as a third bottle of wine, in his bedroom.
+* **11:00 A.M.** Izek si sveglia dal suo sonno ubriaco e prende il suo pasto mattutino nella cucina della villa del borgomastro, dove viene incontrato da due **guardie** che consegnano un rapporto mattutino.
+* **11:30 A.M.** Izek, accompagnato dalle due **guardie**, si reca alla Porta del Tramonto occidentale, alla Porta Zarovich settentrionale e alla Porta del Mattino orientale per ricevere i rapporti delle guardie e ispezionare le difese della città.
+* **1:00 P.M.** Il cuoco del Barone consegna a Izek un pasto di mezzogiorno e una cassa contenente due bottiglie di vino nella piazza di Vallaki. Izek mangia il suo pranzo e inizia a bere la prima bottiglia di vino mentre le due **guardie** pattugliano l'area circostante.
+* **2:00 P.M.** Izek e le due **guardie** visitano tre o quattro delle "spie" di Izek sparse per la città per ricevere rapporti sull'infelicità maliziosa recente. (Ernst nota con disgusto che le "spie" di Izek sono semplici pettegoli della città che Izek ha intimidito a fare la spia sui loro vicini.)
+* **4:00 P.M.** Izek e le due **guardie** si recano alla Porta del Tramonto, alla Porta Zarovich e alla Porta del Mattino (iniziando con la porta più vicina) per ricevere i rapporti delle guardie e ispezionare le difese della città.
+* **5:30 P.M.** Izek congeda le due **guardie** e si reca da solo al Lago Zarovich. Trascorre il resto della serata consumando la seconda bottiglia di vino e fissando il vuoto.
+* **10:00 P.M.** Izek torna alla villa del borgomastro e prende il suo pasto serale, oltre a una terza bottiglia di vino, nella sua camera da letto.
 
-Once Izek drinks the entire bottle of Lady Wachter’s poisoned wine, he suffers the **poisoned** condition for 1 hour afterward.
-## F4a. Planting the Poisoned Wine
-The players can attempt to plant the poisoned bottle of wine in Izek’s case of wine in multiple ways, including (but not limited to) the following:
+Una volta che Izek beve l'intera bottiglia di vino avvelenato di Lady Wachter, subisce la condizione di **avvelenato** per 1 ora successiva.
+## F4a. Piazzare il Vino Avvelenato
+I giocatori possono tentare di piazzare la bottiglia di vino avvelenato nella cassa di vino di Izek in vari modi, tra cui (ma non solo) i seguenti:
 
-* The players can sneak into the kitchen of the burgomaster’s manor and distract the cook, Tereska, in order to replace the second bottle with the poisoned bottle.
-* The players can follow Tereska to the Vallaki town square and distract Izek while he’s eating his lunch in order to replace the second bottle with the poisoned bottle.
+* I giocatori possono intrufolarsi nella cucina della villa del borgomastro e distrarre il cuoco, Tereska, per sostituire la seconda bottiglia con quella avvelenata.
+* I giocatori possono seguire Tereska fino alla piazza di Vallaki e distrarre Izek mentre sta mangiando il pranzo per sostituire la seconda bottiglia con quella avvelenata.
 
-***Sneaking Into the Kitchen.*** If the players choose to swap the bottles in the burgomaster’s mansion, Tereska’s schedule unfolds as follows:
+***Intrufolarsi nella Cucina.*** Se i giocatori scelgono di scambiare le bottiglie nella villa del borgomastro, il programma di Tereska si svolge come segue:
 
-* **12:00 P.M.** Tereska retrieves two bottles of Purple Grapemash No. 3 wine from the pantry and places them on the counter in the kitchen beside an empty leather wine case.
-* **12:15 P.M.** Tereska places the two bottles of wine into the wine case, beginning with the bottle closest to the case. (If the players have replaced one of the bottles with the poisoned bottle, which is labeled Red Dragon Crush, Tereska regards it with surprise and makes a cursory Wisdom (Perception) check to discern whether anyone else is in or around the kitchen. If she sees no one, she chides herself for forgetfulness and assumes that the bottle was labeled Red Dragon Crush all along.)
-* **12:45 P.M.** After preparing and packing Izek’s midday meal, Tereska takes the leather wine case and walks it to the Vallaki town square, where she delivers it to Izek.
+* **12:00 P.M.** Tereska recupera due bottiglie di vino Purple Grapemash No. 3 dalla dispensa e le posiziona sul bancone della cucina accanto a una cassa di vino vuota in pelle.
+* **12:15 P.M.** Tereska posiziona le due bottiglie di vino nella cassa di vino, iniziando con la bottiglia più vicina alla cassa. (Se i giocatori hanno sostituito una delle bottiglie con quella avvelenata, etichettata Red Dragon Crush, Tereska la guarda con sorpresa e fa una prova di Saggezza (Percezione) per discernere se qualcuno è presente in cucina o nei dintorni. Se non vede nessuno, si rimprovera per la dimenticanza e assume che la bottiglia fosse etichettata Red Dragon Crush fin dall'inizio.)
+* **12:45 P.M.** Dopo aver preparato e confezionato il pasto di mezzogiorno di Izek, Tereska prende la cassa di vino in pelle e la porta nella piazza di Vallaki, dove la consegna a Izek.
 
-Tereska cannot be bribed, cajoled, or intimidated into switching the bottles. (She is too suspicious of strangers and too fearful of Izek to risk disappointing him.) 
+Tereska non può essere corrotta, persuasa o intimidita a scambiare le bottiglie. (È troppo sospettosa degli estranei e troppo timorosa di Izek per rischiare di deluderlo.)
 
-However, if the players fake a convincing cover story, they can convince her to replace one of the Purple Grapemash No. 3 bottles with the poisoned Red Dragon Crush bottle with a successful DC 13 Charisma (Deception) check.
+Tuttavia, se i giocatori inventano una storia di copertura convincente, possono convincerla a sostituire una delle bottiglie di Purple Grapemash No. 3 con quella avvelenata Red Dragon Crush con una prova di Carisma (Inganno) a CD 13.
 
-***Distracting Izek.*** If the players choose to swap the bottles while [[Non-Player Characters#Izek Strazni|Izek]] is eating lunch, they can distract Izek by, among other possibilities, causing any apparent breach of the peace, such as an evident jailbreak by one or more of the prisoners in the town stocks. 
+***Distrarre Izek.*** Se i giocatori scelgono di scambiare le bottiglie mentre [[Personaggi Non Giocanti#Izek Strazni|Izek]] sta mangiando il pranzo, possono distrarre Izek causando, tra le altre possibilità, qualsiasi apparente violazione della pace, come una fuga evidente di uno o più prigionieri nelle scorte della città.
 
-Players should be careful, however, to avoid being caught in the act. Izek is liable to declare—and join—a manhunt for any player seen breaking the law. Any manhunt, which will require Izek to rouse the town’s twelve off-duty **guards**, will last until nightfall. Izek then resumes his normal schedule the following day.
-## F4b. Trailing Izek
-As the players trail [[Non-Player Characters#Izek Strazni|Izek]], any or all of the following encounters may take place. 
+I giocatori dovrebbero fare attenzione, tuttavia, a non essere catturati in flagrante. Izek è incline a dichiarare e unirsi a una caccia all'uomo per qualsiasi giocatore visto infrangere la legge. Qualsiasi caccia all'uomo, che richiederà a Izek di radunare le dodici **guardie** fuori servizio della città, durerà fino al calar della notte. Izek riprende quindi il suo programma normale il giorno seguente.
+## F4b. Seguire Izek
+Mentre i giocatori seguono [[Personaggi Non Giocanti#Izek Strazni|Izek]], possono verificarsi uno o più dei seguenti incontri.
 
-> [!info]+ **Getting Caught**
-> Should the players fail to escape initial notice in any of these encounters, they can still avoid detection by making a successful DC 13 group Dexterity (Stealth) check, which may be accompanied by one or more additional skill checks at your discretion. (See **Group Checks** in the <span class="citation">Player's Handbook,  p. 175</span>.) For example, a player who seeks to escape notice by clambering onto the roof of a nearby house might attempt a DC 10 Strength (Athletics) check, gaining advantage on their Dexterity (Stealth) check if they succeed.
+> [!info]+ **Essere Catturati**
+> Se i giocatori non riescono a sfuggire alla notifica iniziale in uno di questi incontri, possono comunque evitare la rilevazione con una prova di Destrezza (Furtività) di gruppo a CD 13, che può essere accompagnata da una o più prove di abilità aggiuntive a discrezione del DM. (Vedi **Prove di Gruppo** nel <span class="citation">Manuale del Giocatore, p. 175</span>.) Ad esempio, un giocatore che cerca di sfuggire alla notifica arrampicandosi sul tetto di una casa vicina potrebbe tentare una prova di Forza (Atletica) a CD 10, ottenendo vantaggio sulla prova di Destrezza (Furtività) se riesce.
 > 
-> If Izek detects the players, he demands to know whether the players have been following him and accuses them of being "spies and criminals." The players can deceive him with a successful DC 9 Charisma (Deception) check. On a failure, Izek directs any nearby guards to arrest the players to be locked in the stocks; if the players resist, or if there are no guards nearby, Izek attacks in an attempt to knock the players out himself.
+> Se Izek rileva i giocatori, chiede se i giocatori lo hanno seguito e li accusa di essere "spie e criminali". I giocatori possono ingannarlo con una prova di Carisma (Inganno) a CD 9. In caso di fallimento, Izek ordina a qualsiasi guardia nelle vicinanze di arrestare i giocatori per essere rinchiusi nelle scorte; se i giocatori resistono, o se non ci sono guardie nelle vicinanze, Izek attacca nel tentativo di stordire i giocatori lui stesso.
 > 
-> If the players are detected but successfully deceive Izek as to their intentions, if Izek previously saw the players in Ireena Kolyana's company, he immediately demands to know her location. The players can deceive Izek with another successful DC 9 Charisma (Deception) check, made with disadvantage if the players deny any association with Ireena. If he catches the players in a lie, Izek coldly vows to "beat the truth out of them" and attacks.
-### 1. The Town Square
-<span class="citation"><em>This scene takes place in Chapter 5: Area N8.</em></span>
+> Se i giocatori vengono rilevati ma riescono a ingannare Izek sulle loro intenzioni, se Izek ha visto in precedenza i giocatori in compagnia di Ireena Kolyana, chiede immediatamente di sapere la sua posizione. I giocatori possono ingannare Izek con un'altra prova di Carisma (Inganno) a CD 9, effettuata con svantaggio se i giocatori negano qualsiasi associazione con Ireena. Se coglie i giocatori in una bugia, Izek ringhia che "gli farà sputare la verità" e attacca.
+### 1. La Piazza della Città
+<span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N8.</em></span>
 
-As the players watch [[Non-Player Characters#Izek Strazni|Izek]] eating his lunch in the town square, Bluto, the town fisherman, drunkenly approaches them carrying a large, shallow wicker basket lined with river reeds and filled with stinking fish. (“Fresh-caught from Lake Zarovich!”) 
+Mentre i giocatori osservano [[Personaggi Non Giocanti#Izek Strazni|Izek]] mangiare il suo pranzo nella piazza della città, Bluto, il pescatore della città, si avvicina a loro ubriaco portando un grande cesto di vimini poco profondo foderato di canne di fiume e pieno di pesci puzzolenti. ("Appena pescati dal Lago Zarovich!")
 
-Bluto loudly and belligerently demands to know whether the players will buy one of his fish for 4 cp, or a half-dozen of his fish for 20 cp. He takes any refusals as a personal offense and begins yelling at the players for being “outsiders” and “looking down at him,” which draws the attention of Izek and his guards. 
+Bluto chiede rumorosamente e con arroganza se i giocatori compreranno uno dei suoi pesci per 4 mo, o una mezza dozzina dei suoi pesci per 20 mo. Prende qualsiasi rifiuto come un'offesa personale e inizia a urlare ai giocatori per essere "estranei" e "guardarlo dall'alto in basso", attirando l'attenzione di Izek e delle sue guardie.
 
-The players can calm Bluto with a successful DC 14 Charisma (Persuasion) check or by purchasing one or more of his fish. 
-### 2. Izek’s Spies
- As [[Non-Player Characters#Izek Strazni|Izek]] visits one of his spies, the players can overhear a conversation in which the spy informs Izek that several of their neighbors have recently visited the Morning Gate to purchase "pastries that allow you to dream while wide-awake" from a peddler named Morgantha.
+I giocatori possono calmare Bluto con una prova di Carisma (Persuasione) a CD 14 o acquistando uno o più dei suoi pesci.
+### 2. Le Spie di Izek
+Mentre [[Personaggi Non Giocanti#Izek Strazni|Izek]] visita una delle sue spie, i giocatori possono ascoltare una conversazione in cui la spia informa Izek che diversi dei loro vicini hanno recentemente visitato la Porta del Mattino per acquistare "pasticcini che ti permettono di sognare mentre sei sveglio" da una venditrice di nome Morgantha.
 
-As the conversation continues, the players are noticed by a small, mangy **mastiff** standing guard in the alleyway near the spy’s house. Upon spotting the players, the dog begins to growl at them, threatening to draw the attention of Izek, his guards, or his spy. The players can calm the dog with a successful DC 14 Wisdom (Animal Handling) check or by providing it with food.
-### 3. Gate Inspections
-As [[Non-Player Characters#Izek Strazni|Izek]] visits the eastern Morning Gate, three Barovian refugees rattle the iron bars of the gate and plead for entry, claiming that the camp’s food stores are running low and wolves have been spotted prowling around the edges of the forest on multiple recent nights—made worse by the fact that nearly a full quarter of the camp has grown addicted to the so-called "dream pastries" sold by the peddler Morgantha. 
+Mentre la conversazione continua, i giocatori vengono notati da un piccolo **mastino** spelacchiato che fa la guardia nel vicolo vicino alla casa della spia. Vedendo i giocatori, il cane inizia a ringhiare contro di loro, minacciando di attirare l'attenzione di Izek, delle sue guardie o della spia. I giocatori possono calmare il cane con una prova di Saggezza (Addestrare Animali) a CD 14 o fornendogli del cibo.
+### 3. Ispezioni delle Porte
+Mentre [[Personaggi Non Giocanti#Izek Strazni|Izek]] visita la Porta del Mattino orientale, tre rifugiati baroviani scuotono le sbarre di ferro della porta e implorano di entrare, affermando che le scorte di cibo del campo stanno diminuendo e che i lupi sono stati avvistati aggirarsi ai margini della foresta in più notti recenti, peggiorati dal fatto che quasi un quarto del campo è diventato dipendente dai cosiddetti "pasticcini dei sogni" venduti dalla venditrice Morgantha.
 
-Izek conjures a flame in his hand and threatens to burn the refugees unless they disperse, which they do. Izek then snarls to the guards that if wolves are getting brave enough to approach the walls, werewolves can’t be far behind. 
+Izek evoca una fiamma nella sua mano e minaccia di bruciare i rifugiati a meno che non si disperdano, cosa che fanno. Izek poi ringhia alle guardie che se i lupi stanno diventando abbastanza coraggiosi da avvicinarsi alle mura, i lupi mannari non possono essere lontani.
 
-Izek then commands one of the guards to fetch a dozen fresh silvered crossbow bolts from a weapons cache stored in crates near the players’ hiding position. The players can avoid the guard’s attention with a successful DC 13 group Dexterity (Stealth) check or by other suitable means.
+Izek poi ordina a una delle guardie di recuperare una dozzina di nuovi dardi d'argento da una cassa di armi conservata in casse vicino alla posizione nascosta dei giocatori. I giocatori possono evitare l'attenzione della guardia con una prova di Destrezza (Furtività) di gruppo a CD 13 o con altri mezzi adeguati.
 
-As Izek is leaving the Morning Gate, he idly commands one of the guards standing watch to purchase and deliver a dream pastry for him when the peddler returns the following day.
-### 4. End of the Day
-When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to <span class="citation">N7. Blinsky Toys (p. 118)</span>, where he attempts to pick up the doll that looks like Ireena Kolyana. 
+Mentre Izek lascia la Porta del Mattino, ordina distrattamente a una delle guardie di acquistare e consegnare un pasticcino dei sogni per lui quando la venditrice tornerà il giorno seguente.
+### 4. Fine della Giornata
+Quando [[Personaggi Non Giocanti#Izek Strazni|Izek]] ha terminato l'ispezione serale di tutte le porte, congeda le sue due **guardie** come al solito. Tuttavia, invece di recarsi in uno dei suoi soliti luoghi di bevute, si reca a <span class="citation">N7. Giocattoli di Blinsky (p. 118)</span>, dove tenta di ritirare la bambola che assomiglia a Ireena Kolyana.
 
-> [!abstract]+ **The Missing Doll**
+> [!abstract]+ **La Bambola Mancante**
 >
-> If the doll is not available for Izek to take, he beats Blinsky using **_unarmed strikes_** until the toymaker is at 1 hit point, and then uses his **_hurl flame_** ability to burn each of the other toys on display to cinders. Izek then threatens to kill Blinsky and burn his shop down unless a replacement doll is completed by dusk on the following day.
+> Se la bambola non è disponibile per Izek, picchia Blinsky usando **_colpi non armati_** fino a quando il giocattolaio non ha 1 punto ferita, e poi usa la sua abilità **_lanciafiamme_** per bruciare tutti gli altri giocattoli in mostra in cenere. Izek poi minaccia di uccidere Blinsky e bruciare il suo negozio a meno che una bambola sostitutiva non sia completata entro il tramonto del giorno seguente.
 >
-> In his fury, Izek forgets the case containing the poisoned wine on Blinsky’s counter. The players can persuade Blinsky to help them poison Izek when he returns by showing Blinsky kindness and treating his wounds or with a successful DC 15 Charisma (Persuasion) check.
-## F4c. Ambushing Izek
-<span class="citation"><em>This scene takes place in Chapter 2: Area L.</em></span>
+> Nella sua furia, Izek dimentica la cassa contenente il vino avvelenato sul bancone di Blinsky. I giocatori possono persuadere Blinsky ad aiutarli ad avvelenare Izek quando tornerà mostrando gentilezza a Blinsky e curando le sue ferite o con una prova di Carisma (Persuasione) a CD 15.
+## F4c. Tendere un'imboscata a Izek
+<span class="citation"><em>Questa scena si svolge nel Capitolo 2: Area L.</em></span>
 
-Upon retrieving the doll, [[Non-Player Characters#Izek Strazni|Izek]] proceeds north through the Zarovich Gate until arriving at Lake Zarovich. As he sits upon the shore, he drains the second bottle of wine in his case—gaining the **poisoned** condition for the duration of the following hour—and regards the doll with obsessive fixation.
+Dopo aver recuperato la bambola, [[Personaggi Non Giocanti#Izek Strazni|Izek]] procede a nord attraverso la Porta Zarovich fino ad arrivare al Lago Zarovich. Mentre si siede sulla riva, svuota la seconda bottiglia di vino nella sua cassa, ottenendo la condizione di **avvelenato** per la durata dell'ora successiva, e guarda la bambola con fissazione ossessiva.
 
-While he is poisoned in this way, treat Izek’s passive Wisdom (Perception) score as 8. 
+Mentre è avvelenato in questo modo, considera il punteggio di Saggezza (Percezione) passiva di Izek come 8.
 
-If Izek is undisturbed, he leaves Lake Zarovich and returns to the burgomaster’s mansion approximately four hours later. If Izek is attacked, he defends himself, vowing to destroy the players for their insolence. Izek always begins combat using the statistics of his **first form**. Upon realizing his poisoned state at the end of his first turn in combat, Izek roars in rage and demands to know what the players have done to him.
+Se Izek non viene disturbato, lascia il Lago Zarovich e torna alla villa del borgomastro circa quattro ore dopo. Se Izek viene attaccato, si difende, giurando di distruggere i giocatori per la loro insolenza. Izek inizia sempre il combattimento usando le statistiche della sua **prima forma**. Realizzando il suo stato avvelenato alla fine del suo primo turno in combattimento, Izek ruggisce di rabbia e chiede di sapere cosa gli hanno fatto i giocatori.
 
-If the players ask the truth behind the Ireena-shaped doll, Izek snarls that the doll is none of their business.
+Se i giocatori chiedono la verità dietro la bambola a forma di Ireena, Izek ringhia che la bambola non è affar loro.
 
-If Ireena has accompanied the players to the lake, Izek instructs her to stand aside while he "teaches these worms some manners." If defied, he snarls in rage.
+Se Ireena ha accompagnato i giocatori al lago, Izek le ordina di farsi da parte mentre "insegna a questi vermi alcune maniere". Se viene sfidato, ringhia di rabbia.
 
-> [!warning]+ **Poisoned Izek**
-> Remember that Izek remains **poisoned** while the effect lasts. Changing forms doesn't remove this (or any other) condition.
+> [!warning]+ **Izek Avvelenato**
+> Ricorda che Izek rimane **avvelenato** mentre l'effetto dura. Cambiare forma non rimuove questa (o qualsiasi altra) condizione.
 
-> [!warning]+ **Don't Use Tactics!**
-> All enemies in this guide, including boss monsters, have been exhaustively playtested and balanced using the Challenge Ratings 2.0 encounter-building system. All major boss encounters, including the two-phase fight with the **flesh mound**, have been calibrated to consume most or all of the players' hit points, in order to create a dangerous and exciting fight.
+> [!warning]+ **Non Usare Tattiche!**
+> Tutti i nemici in questa guida, inclusi i mostri boss, sono stati esaustivamente testati e bilanciati utilizzando il sistema di costruzione degli incontri Challenge Ratings 2.0. Tutti i principali incontri con i boss, inclusi i combattimenti a due fasi con il **mucchio di carne**, sono stati calibrati per consumare la maggior parte o la totalità dei punti ferita dei giocatori, al fine di creare un combattimento pericoloso ed emozionante.
 > 
-> However, these boss statblocks have enough hit points and deal enough damage per round (DPR) to ensure that they can present a suitable threat without any special tactics or strategy. To the extent any such strategies exist, they have been built into the statblock and require no additional strategizing by the Dungeon Master.
+> Tuttavia, questi statblock dei boss hanno abbastanza punti ferita e infliggono abbastanza danni per round (DPR) per garantire che possano rappresentare una minaccia adeguata senza alcuna tattica o strategia speciale. Nella misura in cui esistono tali strategie, sono state integrate nello statblock e non richiedono ulteriori strategie da parte del Dungeon Master.
 > 
-> Accordingly, unless your players have proven themselves highly tactical and/or optimized, **avoid playing these boss statblocks tactically**—because if you *do* play them tactically, you're very likely to TPK your players. Instead, simply choose whichever actions, bonus actions, reactions, and targets will provide the most interest and excitement for the current round.
+> Di conseguenza, a meno che i tuoi giocatori non si siano dimostrati altamente tattici e/o ottimizzati, **evita di giocare questi statblock dei boss tatticamente** - perché se *lo fai*, è molto probabile che tu faccia un TPK ai tuoi giocatori. Invece, scegli semplicemente le azioni, le azioni bonus, le reazioni e i bersagli che forniranno il maggior interesse ed eccitazione per il round corrente.
 
 <div class="statblock">
-<h2>Izek Strazni, 1st Form</h2>
-<em>Medium humanoid, neutral evil</em>
+<h2>Izek Strazni, 1a Forma</h2>
+<em>Umanoide medio, malvagio neutrale</em>
 <hr>
-<strong>Armor Class</strong> 14 (studded leather)
+<strong>Classe Armatura</strong> 14 (cuoio borchiato)
 <br>
-<strong>Hit Points</strong> 110 (13d8 + 42)
+<strong>Punti Ferita</strong> 110 (13d8 + 42)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 30 ft.
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -381,50 +381,50 @@ If Ireena has accompanied the players to the lake, Izek instructs her to stand a
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +8, Con +7<br>
-<strong>Skills</strong> Athletics +8, Intimidation +5, Perception +2<br>
-<strong>Damage Resistances</strong> fire<br>
-<strong>Senses</strong> passive Perception 12<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 6 or 5 if poisoned<br>
+<strong>Tiri Salvezza</strong> For +8, Cos +7<br>
+<strong>Abilità</strong> Atletica +8, Intimidazione +5, Percezione +2<br>
+<strong>Resistenze ai Danni</strong> fuoco<br>
+<strong>Sensi</strong> Percezione passiva 12<br>
+<strong>Linguaggi</strong> Comune<br>
+<strong>Sfida</strong> 6 o 5 se avvelenato<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Izek fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)
-<p><strong><em>Second Phase.</em></strong> When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Izek makes two attacks.</p>
-<p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d10 + 5) slashing damage and Izek can push the target up to 5 ft. away.</p>
-<p><strong><em>Flame Hurl.</em></strong> <em>Ranged spell attack:</em> +5 to hit, range 60 ft., one target. <em>Hit:</em> 7 (2d6) fire damage.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Slicing Whirl.</em></strong> Izek whirls his battleaxe around him. Each creature within a 5-foot radius must succeed on a DC 16 Dexterity saving throw or take 5 (2d4) slashing damage and fall prone. A creature that succeeds on the saving throw takes half damage and doesn’t fall prone.</p>
-<p><strong><em>Flame Volley.</em></strong> Izek conjures a volley of fiery orbs that rain down on a point within 60 ft. that he can see. Each creature within 10 ft. of that point must make a DC 13 Dexterity saving throw or take 7 (2d6) fire damage.</p>
-<h3>Reactions</h3>
-<p>Izek can take up to three reactions per round, but only one per turn. If Izek would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Forceful Retreat.</em></strong> In response to taking damage from a melee attack, Izek makes a shove attack against the attacker. He can then immediately move up to 15 ft. away from the attacker without provoking opportunity attacks.</p>
-<p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
+<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Izek fallisce un tiro salvezza, può scegliere di riuscire invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se Izek verrebbe paralizzato o stordito, viene rallentato invece. (La sua velocità è dimezzata, ha svantaggio sui tiri salvezza di Destrezza e le creature hanno vantaggio sugli attacchi contro di lui.)
+<p><strong><em>Seconda Fase.</em></strong> Quando Izek viene ridotto a 0 punti ferita, le sue braccia e l'ascia si avvolgono di fiamme, le punte sul suo braccio demoniaco diventano più lunghe e affilate, e la sua pelle diventa rossa e inizia a fumare. Le sue statistiche vengono quindi immediatamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio dell'iniziativa non cambia. I danni in eccesso non si trasferiscono alla sua nuova forma, ma mantiene qualsiasi condizione avesse nella sua forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Izek effettua due attacchi.</p>
+<p><strong><em>Ascia da Battaglia Argentata.</em></strong> <em>Attacco con arma da mischia:</em> +8 a colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 11 (1d10 + 5) danni taglienti e Izek può spingere il bersaglio fino a 5 ft. di distanza.</p>
+<p><strong><em>Lancio di Fiamme.</em></strong> <em>Attacco con incantesimo a distanza:</em> +5 a colpire, portata 60 ft., un bersaglio. <em>Colpito:</em> 7 (2d6) danni da fuoco.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Vortice Tagliente.</em></strong> Izek fa roteare la sua ascia da battaglia intorno a sé. Ogni creatura entro un raggio di 5 piedi deve riuscire in un tiro salvezza di Destrezza a CD 16 o subire 5 (2d4) danni taglienti e cadere prono. Una creatura che riesce nel tiro salvezza subisce metà danno e non cade prona.</p>
+<p><strong><em>Pioggia di Fiamme.</em></strong> Izek evoca una pioggia di sfere infuocate che cadono su un punto entro 60 piedi che può vedere. Ogni creatura entro 10 piedi da quel punto deve effettuare un tiro salvezza di Destrezza a CD 13 o subire 7 (2d6) danni da fuoco.</p>
+<h3>Reazioni</h3>
+<p>Izek può effettuare fino a tre reazioni per round, ma solo una per turno. Se Izek perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p><strong><em>Ritirata Forzata.</em></strong> In risposta a subire danni da un attacco in mischia, Izek effettua un attacco di spinta contro l'attaccante. Può quindi muoversi immediatamente fino a 15 piedi di distanza dall'attaccante senza provocare attacchi di opportunità.</p>
+<p><strong><em>Colpo Vendicativo.</em></strong> In risposta a subire danni da un attacco o incantesimo, Izek può muoversi fino a 15 piedi verso l'attaccante senza provocare attacchi di opportunità. Può quindi effettuare immediatamente un attacco contro quella creatura con la sua ascia da battaglia.</p>
 </div>
 
 <br>
 
 <div class="statblock">
-<h2>Izek Strazni, 2nd Form</h2>
-<em>Medium humanoid, neutral evil</em>
+<h2>Izek Strazni, 2a Forma</h2>
+<em>Umanoide medio, malvagio neutrale</em>
 <hr>
-<strong>Armor Class</strong> 14 (studded leather)
+<strong>Classe Armatura</strong> 14 (cuoio borchiato)
 <br>
-<strong>Hit Points</strong> 110 (13d8 + 42)
+<strong>Punti Ferita</strong> 110 (13d8 + 42)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 30 ft.
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -439,140 +439,140 @@ If Ireena has accompanied the players to the lake, Izek instructs her to stand a
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +8, Con +7<br>
-<strong>Skills</strong> Athletics +8, Intimidation +5, Perception +2<br>
-<strong>Damage Immunities</strong> fire<br>
-<strong>Senses</strong> passive Perception 12<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 6 or 5 if poisoned<br>
+<strong>Tiri Salvezza</strong> For +8, Cos +7<br>
+<strong>Abilità</strong> Atletica +8, Intimidazione +5, Percezione +2<br>
+<strong>Immunità ai Danni</strong> fuoco<br>
+<strong>Sensi</strong> Percezione passiva 12<br>
+<strong>Linguaggi</strong> Comune<br>
+<strong>Sfida</strong> 6 o 5 se avvelenato<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Izek fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Izek would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Izek makes two melee attacks.</p>
-<p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 5) slashing damage plus 2 (1d4) fire damage.</p>
-<p><strong><em>Burning Punch.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (1d4 + 5) bludgeoning damage plus 2 (1d4) fire damage, and Izek can push the target up to 5 ft. away. On a critical hit, the target must also succeed on a DC 16 Constitution saving throw or be dazed until the start of Izek’s next turn. (That creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Flaming Wave.</em></strong> A wave of flames sweeps out from Izek in a line that is 60 feet long and 5 feet wide. Each creature in the line must make a DC 13 Dexterity saving throw or take 11 (2d10) fire damage. The fire ignites flammable objects in the area that aren't being worn or carried.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Flame Burst.</em></strong> Izek slams his battleaxe into the ground, causing a torrent of flames to swirl around him. Each creature within 5 feet must make a DC 13 Dexterity saving throw or take 7 (2d6) fire damage.</p>
-<p><strong><em>Explosive Blast.</em></strong> A bright streak flashes from Izek’s clawed hand to a point he chooses within 90 feet and then blossoms with a low roar into an explosion of flame. Each creature in a 5-foot-radius sphere centered on that point must make a DC 13 Dexterity saving throw. A target takes 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. A target that fails the save is also knocked prone. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.</p>
-<h3>Reactions</h3>
-<p>Izek can take up to three reactions per round, but only one per turn. If Izek would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Hot Pursuit.</em></strong> In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a <strong><em>burning punch</em></strong> attack against a creature within range.</p>
-<p><strong><em>Cinder Sparks.</em></strong> In response to taking damage from a melee attack, Izek causes the air around him to burst with swirling cinders. The attacker must succeed on a DC 13 Constitution saving throw or take 2 (1d4) fire damage and be blinded until the end of its next turn.</p>
-<p><strong><em>Retaliatory Burn (1/round).</em></strong> In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. Any creature in physical contact with the weapon immediately takes 4 (1d8) fire damage and must succeed on a DC 13 Constitution saving throw or drop the weapon if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of Izek’s next turn.</p>
+<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Izek fallisce un tiro salvezza, può scegliere di riuscire invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se Izek verrebbe paralizzato o stordito, viene rallentato invece. (La sua velocità è dimezzata, ha svantaggio sui tiri salvezza di Destrezza e le creature hanno vantaggio sugli attacchi contro di lui.)
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Izek effettua due attacchi in mischia.</p>
+<p><strong><em>Ascia da Battaglia Argentata.</em></strong> <em>Attacco con arma da mischia:</em> +8 a colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 10 (1d8 + 5) danni taglienti più 2 (1d4) danni da fuoco.</p>
+<p><strong><em>Pugno Infuocato.</em></strong> <em>Attacco con arma da mischia:</em> +8 a colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 8 (1d4 + 5) danni contundenti più 2 (1d4) danni da fuoco, e Izek può spingere il bersaglio fino a 5 ft. di distanza. Con un colpo critico, il bersaglio deve anche riuscire in un tiro salvezza di Costituzione a CD 16 o essere stordito fino all'inizio del prossimo turno di Izek. (Quella creatura può muoversi o effettuare un'azione nel suo turno, non entrambi. Non può nemmeno effettuare un'azione bonus o una reazione.)</p>
+<p><strong><em>Onda di Fiamme.</em></strong> Un'onda di fiamme si propaga da Izek in una linea lunga 60 piedi e larga 5 piedi. Ogni creatura nella linea deve effettuare un tiro salvezza di Destrezza a CD 13 o subire 11 (2d10) danni da fuoco. Il fuoco incendia oggetti infiammabili nell'area che non sono indossati o trasportati.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Esplosione di Fiamme.</em></strong> Izek colpisce il terreno con la sua ascia da battaglia, causando un torrente di fiamme che vorticano intorno a lui. Ogni creatura entro 5 piedi deve effettuare un tiro salvezza di Destrezza a CD 13 o subire 7 (2d6) danni da fuoco.</p>
+<p><strong><em>Esplosione Esplosiva.</em></strong> Un lampo luminoso parte dalla mano artigliata di Izek verso un punto a sua scelta entro 90 piedi e poi si espande con un ruggito basso in un'esplosione di fiamme. Ogni creatura in una sfera di 5 piedi di raggio centrata su quel punto deve effettuare un tiro salvezza di Destrezza a CD 13. Un bersaglio subisce 7 (2d6) danni da fuoco con un tiro salvezza fallito, o metà danno con un tiro salvezza riuscito. Un bersaglio che fallisce il tiro salvezza viene anche buttato a terra. Il fuoco si propaga intorno agli angoli. Incendia oggetti infiammabili nell'area che non sono indossati o trasportati.</p>
+<h3>Reazioni</h3>
+<p>Izek può effettuare fino a tre reazioni per round, ma solo una per turno. Se Izek perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p><strong><em>Inseguimento Infuocato.</em></strong> In risposta a subire danni da un attacco o incantesimo, Izek si spinge in avanti con un getto di fiamme crepitanti, muovendosi fino a 30 piedi senza provocare attacchi di opportunità. Può quindi effettuare immediatamente un attacco di <strong><em>pugno infuocato</em></strong> contro una creatura a portata.</p>
+<p><strong><em>Scintille di Cenere.</em></strong> In risposta a subire danni da un attacco in mischia, Izek fa esplodere l'aria intorno a sé con scintille vorticose. L'attaccante deve riuscire in un tiro salvezza di Costituzione a CD 13 o subire 2 (1d4) danni da fuoco e essere accecato fino alla fine del suo prossimo turno.</p>
+<p><strong><em>Bruciatura di Ritorsione (1/round).</em></strong> In risposta a subire danni da un attacco in mischia effettuato con un'arma di metallo, Izek fa sì che l'oggetto diventi rovente fino all'inizio del suo prossimo turno. Qualsiasi creatura in contatto fisico con l'arma subisce immediatamente 4 (1d8) danni da fuoco e deve riuscire in un tiro salvezza di Costituzione a CD 13 o lasciare cadere l'arma se può. Se non lascia cadere l'oggetto, ha svantaggio sui tiri per colpire e sulle prove di abilità fino all'inizio del prossimo turno di Izek.</p>
 </div>
 
-> [!combat]+ **Balancing the Brute**
-> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 2 ally (Ireena Kolyana), and will each consume approximately 31% of their total maximum hit points (for a total of 62% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]+ **Bilanciare il Bruto**
+> A causa del meccanismo delle fasi, questa è una serie di due incontri di combattimento **brutali** consecutivi contro un gruppo di cinque giocatori di 4° livello e un alleato di GS 2 (Ireena Kolyana), e consumeranno ciascuno circa il 31% dei loro punti ferita massimi totali (per un totale del 62% dei loro punti ferita massimi). Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue:
 >
-> * ***Three Players.*** Reduce Izek’s hit points to 75 in each phase. For his first phase, reduce his silvered battleaxe attack to 7 (1d8+3) damage, his flame hurl attack and flame volley bonus action to 4 (1d8) damage, and his slicing whirl bonus action to 3 (1d6) damage. For his second phase, reduce his silvered battleaxe attack to 6 (1d6+3) slashing damage plus 1 fire damage, his burning punch attack to 5 (1d4+3) bludgeoning damage plus 1 fire damage, his flaming wave action to 7 (2d6) damage, his flame burst and explosive blast bonus actions to 4 (1d8) damage, his retaliatory burn reaction to 2 (1d4) fire damage, and his cinder sparks reaction to 1 fire damage.
-> * ***Four Players.*** Reduce Izek’s hit points to 92 in each phase. For his first phase, reduce his silvered battleaxe attack to 9 (1d8+5) damage, his flame hurl attack and flame volley bonus action to 5 (1d10) damage, and his slicing whirl bonus action to 4 (1d8) damage. For his second phase, reduce his silvered battleaxe attack to 8 (1d6+5) slashing damage plus 1 fire damage, his burning punch attack to 7 (1d4+5) bludgeoning damage plus 1 fire damage, his flaming wave action to 9 (2d8) damage, his flame burst and explosive blast bonus actions to 6 (1d12) damage, his retaliatory burn reaction to 3 (1d6) fire damage, and his cinder sparks reaction to 1 fire damage.
->  * ***Six Players.*** Increase Izek’s hit points to 128 in each phase. For his first phase, increase his silvered battleaxe attack to 11 (1d12+5) damage and his slicing whirl bonus action to 6 (1d12) damage. For his second phase, increase his silvered battleaxe attack to 10 (1d10+5) slashing damage plus 2 (1d4) fire damage, his burning punch attack to 9 (1d8+5) bludgeoning damage plus 2 (1d4) fire damage, his flaming wave action to 13 (2d12) damage, and his retaliatory burn reaction to 5 (1d10) fire damage.
+> * ***Tre Giocatori.*** Riduci i punti ferita di Izek a 75 in ciascuna fase. Per la sua prima fase, riduci il danno dell'attacco con l'ascia da battaglia argentata a 7 (1d8+3), il danno dell'attacco di lancio di fiamme e dell'azione bonus di pioggia di fiamme a 4 (1d8), e il danno dell'azione bonus di vortice tagliente a 3 (1d6). Per la sua seconda fase, riduci il danno dell'attacco con l'ascia da battaglia argentata a 6 (1d6+3) danni taglienti più 1 danno da fuoco, il danno dell'attacco di pugno infuocato a 5 (1d4+3) danni contundenti più 1 danno da fuoco, il danno dell'azione di onda di fiamme a 7 (2d6), il danno dell'azione bonus di esplosione di fiamme e di esplosione esplosiva a 4 (1d8), il danno della reazione di bruciatura di ritorsione a 2 (1d4) danni da fuoco, e il danno della reazione di scintille di cenere a 1 danno da fuoco.
+> * ***Quattro Giocatori.*** Riduci i punti ferita di Izek a 92 in ciascuna fase. Per la sua prima fase, riduci il danno dell'attacco con l'ascia da battaglia argentata a 9 (1d8+5), il danno dell'attacco di lancio di fiamme e dell'azione bonus di pioggia di fiamme a 5 (1d10), e il danno dell'azione bonus di vortice tagliente a 4 (1d8). Per la sua seconda fase, riduci il danno dell'attacco con l'ascia da battaglia argentata a 8 (1d6+5) danni taglienti più 1 danno da fuoco, il danno dell'attacco di pugno infuocato a 7 (1d4+5) danni contundenti più 1 danno da fuoco, il danno dell'azione di onda di fiamme a 9 (2d8), il danno dell'azione bonus di esplosione di fiamme e di esplosione esplosiva a 6 (1d12), il danno della reazione di bruciatura di ritorsione a 3 (1d6) danni da fuoco, e il danno della reazione di scintille di cenere a 1 danno da fuoco.
+>  * ***Sei Giocatori.*** Aumenta i punti ferita di Izek a 128 in ciascuna fase. Per la sua prima fase, aumenta il danno dell'attacco con l'ascia da battaglia argentata a 11 (1d12+5) e il danno dell'azione bonus di vortice tagliente a 6 (1d12). Per la sua seconda fase, aumenta il danno dell'attacco con l'ascia da battaglia argentata a 10 (1d10+5) danni taglienti più 2 (1d4) danni da fuoco, il danno dell'attacco di pugno infuocato a 9 (1d8+5) danni contundenti più 2 (1d4) danni da fuoco, il danno dell'azione di onda di fiamme a 13 (2d12), e il danno della reazione di bruciatura di ritorsione a 5 (1d10) danni da fuoco.
 
-If the players loot Izek’s body following his death, they can recover his silvered battleaxe, a pouch containing 35 gp, and an amber shard of Seriach, the Hell Hound Whisperer. (See the [[Amber Shards]] appendix for more information about amber shards.)
+Se i giocatori saccheggiano il corpo di Izek dopo la sua morte, possono recuperare la sua ascia da battaglia argentata, una borsa contenente 35 mo e un frammento d'ambra di Seriach, il Sussurratore dei Segugi Infernali. (Vedi l'appendice [[Frammenti d'Ambra]] per ulteriori informazioni sui frammenti d'ambra.)
 
-# F5. Aftermath of the Mission
-If the players successfully deliver Izek’s severed head to [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], she thanks them and assures them that she and her associates will “take it from here.” If the players are concerned about the possibility of further bloodshed, Lady Wachter assures them that, once shown Izek’s head, Baron Vallakovich will step down peacefully. She promises to provide them with any promised compensation the following evening at Wachterhaus, and invites them to attend a public transition ceremony in the town square the following morning.
+# F5. Conseguenze della Missione
+Se i giocatori consegnano con successo la testa mozzata di Izek a [[Personaggi Non Giocanti#Lady Fiona Wachter|Lady Wachter]], lei li ringrazia e assicura loro che lei e i suoi associati "si occuperanno del resto". Se i giocatori sono preoccupati per la possibilità di ulteriori spargimenti di sangue, Lady Wachter li assicura che, una volta mostrata la testa di Izek, il Barone Vallakovich si dimetterà pacificamente. Promette di fornire loro qualsiasi compenso promesso la sera seguente a Villa Wachter e li invita a partecipare a una cerimonia di transizione pubblica nella piazza della città la mattina seguente.
 
-> [!abstract]+ **The Transfer of Power**
+> [!abstract]+ **Il Trasferimento di Potere**
 >
-> That night, Lady Wachter, accompanied by her three **cult fanatics**, travels to the Baron’s mansion, requests an audience with the Baron, and presents him with Izek’s severed head. The Baron, assuming that he is about to be assassinated, attempts to flee. However, he is forcefully stopped by the _command_ spell of one of Lady Wachter’s cultists.
+> Quella notte, Lady Wachter, accompagnata dai suoi tre **fanatici cultisti**, si reca alla villa del Barone, richiede un'udienza con il Barone e gli presenta la testa mozzata di Izek. Il Barone, assumendo di essere sul punto di essere assassinato, tenta di fuggire. Tuttavia, viene fermato con forza dall'incantesimo _comando_ di uno dei cultisti di Lady Wachter.
 >
-> Trapped in Lady Wachter’s clutches, the Baron spitefully agrees to relinquish his claim to the position of burgomaster. (Lady Wachter graciously permits him to retain his noble title, ensuring that he retains his family’s estate, incomes, and other trappings of status.)
-## F5a. The Abdication
-The following morning, Vallaki’s guards gather the townsfolk for an announcement in the town square. While standing atop the wooden scaffold erected for the Festival of the Blazing Sun, the Baron solemnly abdicates his position as burgomaster and appoints Lady Wachter to replace him. 
+> Intrappolato nelle grinfie di Lady Wachter, il Barone accetta con disprezzo di rinunciare alla sua pretesa alla posizione di borgomastro. (Lady Wachter gli permette graziosamente di mantenere il suo titolo nobiliare, assicurandosi che mantenga la sua tenuta di famiglia, i redditi e altri ornamenti di status.)
+## F5a. L'Abdicazione
+La mattina seguente, le guardie di Vallaki radunano gli abitanti della città per un annuncio nella piazza della città. Mentre si trova in cima al palco di legno eretto per il Festival del Sole Splendente, il Barone abdica solennemente dalla sua posizione di borgomastro e nomina Lady Wachter come sua sostituta.
 
-If the players attend the announcement, Lady Wachter does not publicly acknowledge them, but offers them a knowing look and a small nod of recognition.
+Se i giocatori partecipano all'annuncio, Lady Wachter non li riconosce pubblicamente, ma offre loro uno sguardo di riconoscimento e un piccolo cenno di riconoscenza.
 
-Lady Wachter first commands the town guard to release the prisoners in the stocks, and then proclaims that the town shall have no further festivals, except those on holy days. She then delivers the following speech:
+Lady Wachter ordina prima alla guardia cittadina di liberare i prigionieri nelle scorte, e poi proclama che la città non avrà più festival, tranne quelli nei giorni sacri. Poi pronuncia il seguente discorso:
 
 <div class="description">
-<p>“Thank you, Baron Vallakovich, both for your foresight in these times of trouble, and for your family's long history of service to the good people of Vallaki. You honor me with this position, and I vow to do my utmost to carry out the responsibilities of burgomaster with wisdom and care.</p>
-<p>“My fellow Vallakians, we find ourselves in a period of change. Change is difficult—it can lead us into danger, or into a period of new and brighter prosperity. To navigate such murky waters, a steady hand is needed—a hand that acknowledges the world as it is, not the world as we may wish it to be.</p>
-<p>"It is neither defiance nor abdication that will lead us to prosperity and peace, but respect, homage, and a sense of proper duty.</p>
-<p>"It is through these three principles that we may secure the safety of our children, our neighbors, and ourselves—and it is through these three principles that I will work to ensure a better future for our beloved town.</p>
-<p>“May Vallaki find sanctuary in the mercy of the mists, and may we come together stronger, more united, and more prosperous than ever before. Thank you.”</p>
+<p>"Grazie, Barone Vallakovich, sia per la vostra lungimiranza in questi tempi difficili, sia per la lunga storia di servizio della vostra famiglia al bene del popolo di Vallaki. Mi onorate con questa posizione, e prometto di fare del mio meglio per svolgere le responsabilità di borgomastro con saggezza e cura.</p>
+<p>"Miei concittadini di Vallaki, ci troviamo in un periodo di cambiamento. Il cambiamento è difficile, può portarci in pericolo o in un periodo di nuova e più luminosa prosperità. Per navigare in acque così torbide, è necessaria una mano ferma, una mano che riconosca il mondo com'è, non il mondo come vorremmo che fosse.</p>
+<p>"Non è né la sfida né l'abdicazione che ci porteranno alla prosperità e alla pace, ma il rispetto, l'omaggio e un senso di dovere appropriato.</p>
+<p>"È attraverso questi tre principi che possiamo garantire la sicurezza dei nostri figli, dei nostri vicini e di noi stessi, ed è attraverso questi tre principi che lavorerò per garantire un futuro migliore per la nostra amata città.</p>
+<p>"Che Vallaki trovi rifugio nella misericordia delle nebbie, e che ci uniamo più forti, più uniti e più prosperi che mai. Grazie."</p>
 </div>
 
-The townsfolk answer her speech with muted applause and slowly disperse from the square. 
+Gli abitanti della città rispondono al suo discorso con un applauso sommesso e si disperdono lentamente dalla piazza.
 
-If still alive, Father Lucian Petrovich emerges from the crowd and greets the players. He notes, with dry amusement, that he has not previously heard the phrase “find sanctuary in the mercy of the mists” before, but that it is reminiscent of a passage he once read in a prayer book dedicated to Ezra, goddess of the Mists. He wonders aloud whether Vallaki shall soon see a religious revival of a different kind, then chuckles wryly and moves to return to St. Andral’s Church. 
+Se ancora vivo, Padre Lucian Petrovich emerge dalla folla e saluta i giocatori. Nota, con secca ironia, che non ha mai sentito prima la frase "trovare rifugio nella misericordia delle nebbie", ma che ricorda un passaggio che una volta ha letto in un libro di preghiere dedicato a Ezra, dea delle Nebbie. Si chiede ad alta voce se Vallaki vedrà presto un risveglio religioso di un tipo diverso, poi ride sommessamente e si dirige verso la Chiesa di Sant'Andral.
 
-If asked his opinion on Lady Wachter, Father Petrovich states, carefully, that he believes that her heart is in the right place, and that he believes that the light of the Morninglord can guide any soul—even those that believe themselves lost to the Mists. 
+Se gli viene chiesto il suo parere su Lady Wachter, Padre Petrovich afferma, con cautela, di credere che il suo cuore sia nel posto giusto e che crede che la luce del Signore del Mattino possa guidare qualsiasi anima, anche quelle che si credono perdute nelle Nebbie.
 
-Father Petrovich also briefly expresses his regret for his younger sister, Baroness Lydia Petrovna, who has faced many challenges over the past several months and years, and shares his hopes that the Vallakovich family will find a sense of peace amidst their new circumstances.
-## F5b. The Reward
-If the players return to Wachterhaus to obtain their promised compensation (if any), Lady Wachter provides it to them with gratitude. Their reward is as follows:
+Padre Petrovich esprime anche brevemente il suo rammarico per la sua sorella minore, la Baronessa Lydia Petrovna, che ha affrontato molte sfide negli ultimi mesi e anni, e condivide le sue speranze che la famiglia Vallakovich trovi un senso di pace nelle loro nuove circostanze.
+## F5b. La Ricompensa
+Se i giocatori tornano a Villa Wachter per ottenere la compensazione promessa (se presente), Lady Wachter la fornisce loro con gratitudine. La loro ricompensa è la seguente:
 
-* Up to thirty silvered crossbow bolts
-* Up to four silvered spears
-* Up to two sets of armor worth 100 gp or less
-* Up to one set of armor worth 400 gp or less
-* Enough raw silver to silver up to two additional weapons
+* Fino a trenta dardi d'argento
+* Fino a quattro lance d'argento
+* Fino a due set di armature del valore di 100 mo o meno
+* Fino a un set di armature del valore di 400 mo o meno
+* Abbastanza argento grezzo per argentare fino a due armi aggiuntive
 
-All of the weapons, ammunition, and armor were taken from an old armory whose location was lost for several years due to Izek’s chronic mismanagement.
+Tutte le armi, munizioni e armature sono state prese da un vecchio arsenale la cui posizione è stata persa per diversi anni a causa della gestione cronica di Izek.
 
-If the players ask Lady Wachter about the "ancient foe of an old and noble house" described in Madam Eva's Tarokka reading, or if she previously promised to share that information upon Izek's death, she guides them upstairs to <span class="citation">N4p. Library (p. 113)</span>. There, she retrieves a thin, worn volume from an upper shelf titled *The Noble House of Wachter* by Lady Lovina Wachter.
+Se i giocatori chiedono a Lady Wachter del "antico nemico di una vecchia e nobile casa" descritto nella lettura del Tarokka di Madam Eva, o se ha promesso in precedenza di condividere tali informazioni alla morte di Izek, li guida al piano superiore a <span class="citation">N4p. Biblioteca (p. 113)</span>. Lì, recupera un volume sottile e logoro da uno scaffale superiore intitolato *La Nobile Casa dei Wachter* di Lady Lovina Wachter.
 
-Lady Wachter can share the following information as she retrieves and leafs through the book:
+Lady Wachter può condividere le seguenti informazioni mentre recupera e sfoglia il libro:
 
-* Her ancestor, Lady Lovina Wachter nee Dilisnya, came to Barovia shortly after Strahd von Zarovich settled it. For her loyalty, she received deeds to land and estates, as well as a Barovian title with Strahd as her liege-lord.
-* Lovina, an amateur historian, wrote *The Noble House of Wachter* to document her new family's history, which allegedly dated back to the days of Old Zarovia, long before Barovia was founded.
+* La sua antenata, Lady Lovina Wachter nata Dilisnya, è arrivata a Barovia poco dopo che Strahd von Zarovich l'ha stabilita. Per la sua lealtà, ha ricevuto atti di proprietà terriere e tenute, oltre a un titolo baroviano con Strahd come suo signore.
+* Lovina, una storica dilettante, ha scritto *La Nobile Casa dei Wachter* per documentare la storia della sua nuova famiglia, che presumibilmente risaliva ai giorni della Vecchia Zarovia, molto prima che Barovia fosse fondata.
 
-Once Lady Wachter has located the proper page, the players can read the following passage from Lovina's book, titled only "The Wedding" and written in erratic, jagged pen-strokes at odds with the clean, elegant script of the remainder of the book:
+Una volta che Lady Wachter ha trovato la pagina giusta, i giocatori possono leggere il seguente passaggio dal libro di Lovina, intitolato solo "Il Matrimonio" e scritto con tratti di penna irregolari e frastagliati in contrasto con la scrittura pulita ed elegante del resto del libro:
 
 <div class="description">
-<p>The wedding of Prince Sergei von Zarovich and Tatyana Federovna began with good cheer, but ended in madness and blood. Prince Sergei was found dead in his chambers, his bride-to-be rumored to have cast herself from the overlook in despair.</p>
-<p>Though no suspect was confirmed, Leo Dilisnya—my own kin—led a treacherous uprising against Lord von Zarovich, abetted by a score of castle guards. When I sought to mediate, they turned upon us, slaughtering Vladislav and his mother and confining us within the confines of the kitchens.</p>
-<p>It was only by some miracle that Lord von Zarovich emerged unscathed from their assault. Now possessed with an unearthly power, he smote the traitors and drove Leo himself from the castle.</p>
-<p>In his escape, I saw Leo's face contort with hatred and disgust. "Blood-traitor, I name you, Lovina," he swore, "for your allegiance to the beast who abandoned Reinhold to his fate." He renounced our bond, proclaimed I was no longer of House Dilisnya, and vowed that he would one day expunge the Wachter blight from the valley—once and forevermore.</p>
-<p>I know not what has become of him. He is gone from the Pillarstone now, and though more of the treacherous guards return in caskets to the castle each day, his face is not among them. But each night I hear his voice in my nightmares, I know he yet lives—and dread the occasion of his return.</p>
+<p>Il matrimonio del Principe Sergei von Zarovich e Tatyana Federovna iniziò con buon umore, ma finì nella follia e nel sangue. Il Principe Sergei fu trovato morto nelle sue stanze, la sua promessa sposa si dice si sia gettata dal belvedere per la disperazione.</p>
+<p>Sebbene nessun sospetto sia stato confermato, Leo Dilisnya - mio stesso parente - guidò una rivolta traditrice contro il Signore von Zarovich, aiutato da una ventina di guardie del castello. Quando cercai di mediare, si rivolsero contro di noi, massacrando Vladislav e sua madre e confinandoci nelle cucine.</p>
+<p>Fu solo per un miracolo che il Signore von Zarovich emerse incolume dal loro assalto. Ora posseduto da un potere ultraterreno, colpì i traditori e scacciò Leo stesso dal castello.</p>
+<p>Nella sua fuga, vidi il volto di Leo contorcersi di odio e disgusto. "Traditrice di sangue, ti nomino, Lovina," giurò, "per la tua alleanza con la bestia che ha abbandonato Reinhold al suo destino." Rinunciò al nostro legame, proclamò che non ero più della Casa Dilisnya e giurò che un giorno avrebbe estirpato la piaga dei Wachter dalla valle, una volta per tutte.</p>
+<p>Non so cosa ne sia stato di lui. È scomparso dal Pilastro di Pietra ora, e sebbene più delle guardie traditrici tornino ogni giorno al castello in bare, il suo volto non è tra loro. Ma ogni notte sento la sua voce nei miei incubi, so che vive ancora e temo il giorno del suo ritorno.</p>
 </div>
 
-The remainder of the book is concerned with genealogies, family legends, and notable figures in House Wachter's pre-Barovian history, with little relevance to Strahd.
+Il resto del libro riguarda genealogie, leggende familiari e figure notevoli nella storia pre-baroviana della Casa Wachter, con poca rilevanza per Strahd.
 
-Lady Wachter can share that, according to the book, Vladislav was a Wachter and Lovina's husband. She isn't sure who Reinhold is, however, and doesn't know any more relevant information about Lady Lovina Wachter, Leo Dilisnya, Sergei von Zarovich, or Tatyana Federovna.
+Lady Wachter può condividere che, secondo il libro, Vladislav era un Wachter e il marito di Lovina. Non è sicura di chi sia Reinhold, tuttavia, e non conosce altre informazioni rilevanti su Lady Lovina Wachter, Leo Dilisnya, Sergei von Zarovich o Tatyana Federovna.
 
-***Milestone.*** Assassinating Izek completes a story milestone. When Lady Wachter takes power, award each player 1,500 XP.
+***Pietra Miliare.*** Assassinate Izek completa una pietra miliare della storia. Quando Lady Wachter prende il potere, assegna a ciascun giocatore 1.500 PE.
 
-> [!abstract]+ **Lady Wachter’s Promises**
+> [!abstract]+ **Le Promesse di Lady Wachter**
 >
-> When Lady Wachter’s speech is complete, she returns to Wachterhaus and there establishes her seat of government. She summons each of Vallaki’s town guards and meets with them personally, reassuring them that their employment will be protected and their salaries maintained. She further recruits one dozen members of her cult to serve as “deputy guards” to assist in patrolling the walls and keeping the peace throughout the town.
+> Quando il discorso di Lady Wachter è terminato, torna a Villa Wachter e lì stabilisce la sua sede di governo. Convoca ciascuna delle guardie cittadine di Vallaki e le incontra personalmente, rassicurandole che il loro impiego sarà protetto e i loro stipendi mantenuti. Recluta inoltre una dozzina di membri del suo culto per servire come "guardie aggiunte" per aiutare a pattugliare le mura e mantenere la pace in tutta la città.
 >
-> Lady Wachter then commands the guards to open the gates to the Barovian refugees, resettling them in the town square until such a time as housing can be found. (Any Barovian refugees addicted to dream pastries continue to visit the eastern Morning Gate daily to purchase fresh pastries from Morgantha, and are joined by a number of Vallakians interested in her wares.) Any Vistani who wish to are also free to enter the town as they choose.
+> Lady Wachter ordina quindi alle guardie di aprire le porte ai rifugiati baroviani, reinsediandoli nella piazza della città fino a quando non sarà possibile trovare alloggi. (Qualsiasi rifugiato baroviano dipendente dai pasticcini dei sogni continua a visitare la Porta del Mattino orientale ogni giorno per acquistare pasticcini freschi da Morgantha, e sono accompagnati da un numero di Vallakiani interessati alle sue merci.) Qualsiasi Vistano che lo desideri è anche libero di entrare in città a piacimento.
 >
-> Baron Vargas Vallakovich and his family are placed under unofficial house arrest, with the mansion guarded by two of Lady Wachter’s **cultists** at all times—one guarding the front door and one guarding the back. The cultists assure Baron Vallakovich that they are present for his protection, both from ungrateful townsfolk and servants of Strahd, but are under strict orders to bar him and his family from exiting the manor. Victor Vallakovich, the Baron’s son, is mildly perturbed by this development, but takes no action against it.
+> Il Barone Vargas Vallakovich e la sua famiglia sono posti sotto arresti domiciliari non ufficiali, con la villa sorvegliata da due **cultisti** di Lady Wachter in ogni momento, uno che sorveglia la porta anteriore e uno che sorveglia la porta posteriore. I cultisti assicurano al Barone Vallakovich che sono presenti per la sua protezione, sia dagli ingrati abitanti della città che dai servitori di Strahd, ma sono sotto ordini severi di impedirgli e alla sua famiglia di uscire dalla villa. Victor Vallakovich, il figlio del Barone, è leggermente turbato da questo sviluppo, ma non prende alcuna azione contro di esso.
 >
-> Udo Lukovich, the shoemaker, is released from his prison in the Baron’s home and returned to his mother, Willemina.
+> Udo Lukovich, il calzolaio, viene rilasciato dalla sua prigione nella casa del Barone e restituito a sua madre, Willemina.
 
-# Design Notes: Lady Wachter's Wish
-***The Blue Water Inn.*** The hook to this quest—Lady Wachter's decision to send the players an invitation to dine at Wachterhaus—has been tweaked to provide more support for Lady Wachter's decision to entrust the players with her conspiracy.
+# Note di Design: Il Desiderio di Lady Wachter
+***La Locanda delle Acque Blu.*** L'aggancio a questa missione - la decisione di Lady Wachter di inviare ai giocatori un invito a cenare a Villa Wachter - è stato modificato per fornire un maggiore supporto alla decisione di Lady Wachter di affidare ai giocatori la sua cospirazione.
 
-***Wachterhaus.*** The corpse of Nikolai Wachter has been removed from Wachterhaus to ensure that he does not serve as a black mark against Lady Wachter—a complicated figure who the players should have more cause to trust, not less. (See [[Arc H - The Lost Soul]] and [[Arc S - The Moonlit Murders]] for more information about the players' relationship with Lady Fiona Wachter.)
+***Villa Wachter.*** Il cadavere di Nikolai Wachter è stato rimosso da Villa Wachter per garantire che non serva come macchia contro Lady Wachter, una figura complessa che i giocatori dovrebbero avere più motivi per fidarsi, non meno. (Vedi [[Arco H - L'Anima Perduta]] e [[Arco S - Gli Omicidi al Chiaro di Luna]] per ulteriori informazioni sulla relazione dei giocatori con Lady Fiona Wachter.)
 
-Lady Wachter's spell list has been updated to include *zone of truth* in order to provide her with a powerful tool to encourage the players to trust her. (See [[Arc D - The Tome of Strahd]] for more information about Lady Wachter's use of *zone of truth*). 
+La lista degli incantesimi di Lady Wachter è stata aggiornata per includere *zona di verità* per fornirle uno strumento potente per incoraggiare i giocatori a fidarsi di lei. (Vedi [[Arco D - Il Tomo di Strahd]] per ulteriori informazioni sull'uso di *zona di verità* da parte di Lady Wachter).
 
-*Toll the Dead*, *Bane*, *Blindness/Deafness*, and *Lesser Restoration* have also been added to Lady Wachter's spell list to provide her with additional options in the fight against the **specters** of the Ethereal Plane and Leo Dilisnya's spirit in [[Arc H - The Lost Soul]].
+*Toll the Dead*, *Bane*, *Blindness/Deafness* e *Lesser Restoration* sono stati aggiunti alla lista degli incantesimi di Lady Wachter per fornirle ulteriori opzioni nella lotta contro i **spettri** del Piano Etereo e lo spirito di Leo Dilisnya in [[Arco H - L'Anima Perduta]].
 
-Stella's introduction has been added as a prelude to the dinner to humanize Lady Wachter and to encourage the players to view her with sympathy, and to foreshadow Stella's fate in [[Arc I - The Lost Soul.]]
+L'introduzione di Stella è stata aggiunta come preludio alla cena per umanizzare Lady Wachter e incoraggiare i giocatori a vederla con simpatia, e per prefigurare il destino di Stella in [[Arco I - L'Anima Perduta]].
 
-Lady Wachter's connection to Baba Lysaga and the tragic death of her family have been added to provide her with a tie to the spirit of Leo Dilisnya, and a means to entrap the hags of Old Bonegrinder in [[Arc I - The Lost Soul.]]
+La connessione di Lady Wachter con Baba Lysaga e la tragica morte della sua famiglia sono state aggiunte per fornirle un legame con lo spirito di Leo Dilisnya e un mezzo per intrappolare le streghe di Old Bonegrinder in [[Arco I - L'Anima Perduta]].
 
-Lady Wachter's interest in using Stella to secure power in Vallaki through marriage with Victor Vallakovich has been removed to make Lady Wachter a more sympathetic character, to deepen her internal conflict and guilt in [[Arc H - The Lost Soul]] (because her coldness toward Victor discouraged him and Stella from seeking her aid sooner), and to make Victor's friendship with Stella more meaningful to the two of them.
+L'interesse di Lady Wachter nell'usare Stella per assicurarsi il potere a Vallaki attraverso il matrimonio con Victor Vallakovich è stato rimosso per rendere Lady Wachter un personaggio più simpatico, per approfondire il suo conflitto interno e il senso di colpa in [[Arco H - L'Anima Perduta]] (perché la sua freddezza verso Victor ha scoraggiato lui e Stella dal cercare il suo aiuto prima) e per rendere l'amicizia di Victor con Stella più significativa per entrambi.
 
-Lady Wachter's scheme with the poisoned wine has been added to provide the players with a fuller gameplay experience in the lead-up to Izek's assassination (thereby building the dramatic tension and enhancing the impact of Izek's ultimate death), and to provide the players with a reason to seek out and benefit from Lady Wachter's aid.
+Il piano di Lady Wachter con il vino avvelenato è stato aggiunto per fornire ai giocatori un'esperienza di gioco più completa nella preparazione all'assassinio di Izek (aumentando così la tensione drammatica e migliorando l'impatto della morte finale di Izek) e per fornire ai giocatori un motivo per cercare e beneficiare dell'aiuto di Lady Wachter.
 
-In addition to supporting her argument, Lady Wachter's tale of Berez has been added to introduce the fate of the ruined village (which the players can visit in [[Arc I - The Walls of Krezk]]) and to subtly foreshadow her connection to Baba Lysaga.
+Oltre a sostenere il suo argomento, la storia di Lady Wachter su Berez è stata aggiunta per introdurre il destino del villaggio in rovina (che i giocatori possono visitare in [[Arco I - Le Mura di Krezk]]) e per prefigurare sottilmente la sua connessione con Baba Lysaga.
 
-Lady Wachter's anecdotes regarding Ezra and Leo Dilisnya have been added to foreshadow Ezra's connection to the Dark Powers (which the players will discover in [[Arc X - Tatyana's Legacy]]) and to introduce Leo Dilisnya's hostile relationship with the Wachter family. (The players will have an opportunity to fight Leo Dilisnya and learn more about that relationship in [[Arc H - The Lost Soul]].)
+Gli aneddoti di Lady Wachter riguardo a Ezra e Leo Dilisnya sono stati aggiunti per prefigurare la connessione di Ezra con i Poteri Oscuri (che i giocatori scopriranno in [[Arco X - L'Eredità di Tatyana]]) e per introdurre la relazione ostile di Leo Dilisnya con la famiglia Wachter. (I giocatori avranno l'opportunità di combattere Leo Dilisnya e di apprendere di più su quella relazione in [[Arco H - L'Anima Perduta]].)
 
-***Return to the Blue Water Inn.*** The players' encounter with Ernst Larnak has been added to introduce his character prior to his antagonistic role in [[Arc S - The Moonlit Murders]].
+***Ritorno alla Locanda delle Acque Blu.*** L'incontro dei giocatori con Ernst Larnak è stato aggiunto per introdurre il suo personaggio prima del suo ruolo antagonista in [[Arco S - Gli Omicidi al Chiaro di Luna]].
 
-***Izek's Assassination.*** Izek's wine case has been added to provide the players with an additional opportunity to explore the Baron's mansion, and to provide preliminary stealth gameplay to raise the dramatic tension before the assassination takes place. The players' encounters with Bluto in the town square, with the dog in the Vallaki alleyway, and with the town guard by the eastern Morning gate provide similar roles.
+***L'Assassinio di Izek.*** La cassa di vino di Izek è stata aggiunta per fornire ai giocatori un'ulteriore opportunità di esplorare la villa del Barone e per fornire un gameplay preliminare di furtività per aumentare la tensione drammatica prima che l'assassinio abbia luogo. Gli incontri dei giocatori con Bluto nella piazza della città, con il cane nel vicolo di Vallaki e con la guardia cittadina alla Porta del Mattino orientale svolgono ruoli simili.
 
-Izek's spy, as well as the refugees' complaints regarding Morgantha's dream pastries, has been added to foreshadow Morgantha's nature as a **night hag**, which the players will explore further in [[Arc I - The Lost Soul.]]
+La spia di Izek, così come le lamentele dei rifugiati riguardo ai pasticcini dei sogni di Morgantha, sono state aggiunte per prefigurare la natura di Morgantha come **strega della notte**, che i giocatori esploreranno ulteriormente in [[Arco I - L'Anima Perduta]].
 
-***Ambushing Izek.*** Izek's statblock has been redesigned to provide a challenging, yet winnable solo combat encounter for a balanced party of 4th-level players. Note, however, that this statblock will likely prove an exceptionally difficult (if not impossible) fight for such a party if faced in a fair fight—the players will need to leverage one or more advantages (such as Lady Wachter's poisoned wine) in order to win.
+***Tendere un'imboscata a Izek.*** Lo statblock di Izek è stato ridisegnato per fornire un incontro di combattimento solitario impegnativo ma vincibile per un gruppo bilanciato di giocatori di 4° livello. Nota, tuttavia, che questo statblock probabilmente risulterà un combattimento eccezionalmente difficile (se non impossibile) per un tale gruppo se affrontato in un combattimento leale: i giocatori dovranno sfruttare uno o più vantaggi (come il vino avvelenato di Lady Wachter) per vincere.
 
-***Aftermath of the Mission.*** There are intentionally no direct consequences for Lady Wachter's takeover of Vallaki. Her role in this guide is as a sympathetic antihero—and, eventually, as a full-blown heroic ally to the players. The sole consequences of Lady Wachter's rise to power can be found in [[Arc S - The Moonlit Murders]], in which Anastrasya Karelova and Ernst Larnak take advantage of Lady Wachter's fealty to Strahd to misguide and misdirect her following a slew of unnatural murders in the streets of Vallaki.
+***Conseguenze della Missione.*** Non ci sono intenzionalmente conseguenze dirette per la presa di potere di Vallaki da parte di Lady Wachter. Il suo ruolo in questa guida è quello di un'anti-eroina simpatica e, infine, di un'alleata eroica a tutti gli effetti per i giocatori. Le uniche conseguenze dell'ascesa al potere di Lady Wachter si trovano in [[Arco S - Gli Omicidi al Chiaro di Luna]], in cui Anastrasya Karelova ed Ernst Larnak approfittano della fedeltà di Lady Wachter a Strahd per fuorviarla e disorientarla dopo una serie di omicidi innaturali nelle strade di Vallaki.
