@@ -549,7 +549,7 @@ Questa stanza è in gran parte come descritta in <span class="citation">Camera d
 <p>Questa stanza fredda e soffocata dalla polvere contiene un letto sottile, un comodino, una piccola stufa di ferro, una scrivania con uno sgabello, un armadio vuoto e una sedia a dondolo. Una bambola accigliata in un vestito di pizzo giallo siede nella cassa della finestra settentrionale accanto a una vecchia scatola musicale ossidata, coperta di ragnatele come un velo da sposa.</p>
 </div>
 
-I giocatori possono riconoscere la bambola come la stessa bambola che Rose teneva nel ritratto di famiglia nella Sala Grande.
+I giocatori possono riconoscere la bambola come la stessa bambola che Thorn teneva nel ritratto di famiglia nella Sala Grande.
 
 La scatola musicale contiene un coltello da scuoio arrugginito e macchiato di sangue, nonché la chiave del lucchetto sulla porta della camera da letto di Rose e Thorn.
 
@@ -1071,7 +1071,7 @@ Una creatura inghiottita dalla prima forma dell'ammasso può sentire il debole s
 <h3>Reazioni</h3>
 <p>L'ammasso di carne può effettuare fino a tre reazioni per round, ma non più di una per turno. Se perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
 <p><strong><em>Schizzo.</em></strong> In risposta a subire danni da un attacco in mischia, l'ammasso di carne tenta di afferrare l'attaccante usando il suo attacco <strong><em>colpo</em></strong>.</p>
-<p><strong><em>Rotolare.</em></strong> In risposta a subire danni da un attacco a distanza o incantesimo, l'ammasso di carne si muove fino alla sua velocità direttamente verso o lontano dall'attaccante senza provocare attacchi di opportunità.</p>
+<p><strong><em>Rotolare.</em></strong> In risposta a subire danni da un attacco a distanza o incantesimo, l'ammasso di carne si muove fino alla sua velocità direttamente verso o lontano dall'attaccante senza provocare attacchi di opportunità. Se si muove verso l'attaccante, può quindi tentare immediatamente di spingerlo.</p>
 </div><br>
 
 <div class="statblock">

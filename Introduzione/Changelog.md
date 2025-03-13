@@ -1,3 +1,23 @@
+# Patch 2.0.10.4 (February 13th, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Revised XP rewards to match milestone levels
+* Added images for Anastrasya second phase, Doru's notes on Castle Ravenloft, Van Richten's notes on Castle Ravenloft, Ismark the Great, Ithuriel, the Wolf's Head Jamboree, the Keeper's Whistle, Ludmilla's second phase, Rudoph van Richten, the Talisman of Echoes, the Twilight Crest, and the Martikovs of the Blue Water Inn
+* Added maps for the Village of Barovia, and Lake Zarovich 
+* Added blindsight to Strahd von Zarovich when casting fog bank
+# Patch 2.0.10.3 (January 12, 2025)
+* Amended various typos and errors in formatting
+* Amended inconsistencies across various statblocks
+* Amended Zuleika's surname to Toranescu
+* Clarified how much attention the players garner if they try and steal the skull in [[Arc O - Dinner with the Devil]]
+* Added foreshadowing of Baba Lysaga by Zuleika, Ludmilla, and Diavola
+* Amended inconsistencies of wolf and werewolf numbers in [[Arc L - The Den of Wolves]]
+* Clarified that if all players die in Varushka's nightmare in [[Arc O - Dinner with the Devil]] that they die in reality
+* Removed attunement requirement for the spirit mirror in [[Arc H - The Lost Soul]]
+* Added details of Godfrey being ordered by Vladimir to not speak to players upon their return in [[Arc Q - A Shining Beacon]]
+* Amended Muriel's stat block and added a reminder on NPC allies falling to death saves in [[Arc C - Into the Valley]]
+* Removed Resurrection Madness mechanics from the guide in [[Lore of Barovia]]
+* Amended all vampire bite attacks and HP recovery mechanics to be in line with Strahd's in [[Strahd von Zarovich]]
+* Added necrotic resistance to the Abbot's stat blocks in [[Arc Q - A Shining Beacon]]
 # Hotfix 2.0.10.2 (December 20, 2024)
 * Amended the bodaks' combat strategy in [[Arc R - Trials of the Mountain]]
 # Hotfix 2.0.10.1 (December 19, 2024)

@@ -59,7 +59,7 @@ The players can learn from Urwin Martikov, Danika Dorakova, Father Lucian Petrov
 
 If the players received [[#H1. Erasmus' Plea]] and ask to speak with Victor, Baron Vallakovich allows them to do so with a successful DC 12 Charisma (Persuasion or Deception) check, or automatically if they sufficiently flatter him or if Lady Wachter has already seized power. 
 
-If the players describe Erasmus's visitation to Victor, Victor glances at the *spirit mirror* in his workroom and says, sounding hurt, “I thought I told you I had this under control!” 
+If the players describe Erasmus' visitation to Victor, Victor glances at the *spirit mirror* in his workroom and says, sounding hurt, “I thought I told you I had this under control!”
 
 A moment later, Victor's face softens, and he reluctantly tells the players that “Stella” and "Erasmus" have decided that he needs help, and that they might not be entirely wrong. He then asks the players if they would be willing to assist him “Stella,” and "Erasmus"—the spirit that they encountered—with a particular task.
 ### What Victor Knows
@@ -883,7 +883,7 @@ After a few moments have passed, the players hear a teenaged girl's voice behind
 
 The voice belongs to the **specter** of the sixteen-year-old Stella Wachter, who floats down to the players from ten feet above the ground. Stella appears largely as she does in life, though her body is translucent and her legs below the knees have begun to fade into mist.
 
-> [!profile]+ **Stella Wachter**
+> [!profile]+ **Profile: Stella Wachter**
 > **Roleplaying Information.**
 > ***Resonance.*** Stella should inspire sympathy for her guilt over causing such anxiety and pain to her family and Victor; endearment for her chipper, optimistic attitude; and gratitude for her steadfast faith in the players.
 > 
@@ -918,6 +918,10 @@ If one of the players moves to attack, Erasmus shouts, “Wait! I don’t mean t
 <p>The spectral silhouette grows in brightness and definition until it assumes a more solidified shape: the ethereal form of a ghostly young man. He appears to be no more than fourteen, his form shimmering with a warm, inviting light that seems to soften the gray monotone of his surroundings.</p>
 <p>He wears short pants, a loose shirt, and a vest, though his body becomes wisps of curling fog not far below his knees. His eyes glitter with mirth, and an elfin smile plays across his face as his unkempt hair drifts lazily amidst the gloom. When he speaks, his voice is cheery and light, and his fingers twitch with excitement. “Stella! You brought your friends!”</p>
 </div>
+
+![[Erasmus.png]]
+
+<span class="credit">"Erasmus van Richten" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Erasmus greets the players and Victor warmly, and Stella introduces him using his full name as he stands beside her. Victor greets Erasmus somewhat stiffly, and a DC 10 Wisdom (Insight) check reveals that he is slightly jealous of the younger ghost. (Though Victor has no romantic interest in Stella, he has had few friends throughout his life, and fears losing his only friend to the cheerier, sunnier Erasmus.)
 
@@ -1077,8 +1081,8 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <p><strong><em>Will-o'-Wisp.</em></strong> <em>Ranged Spell Attack:</em> +8 to hit, range 30 ft., one creature. <em>Hit:</em> 13 (3d8) necrotic damage.</p>
 <p><strong><em>Deathly Visions.</em></strong> The gallows speaker forces a creature that it can see within 30 feet to make a DC 16 Wisdom saving throw, flooding its mind with terrifying images of its own violent death. On a failure, that creature is paralyzed until the start of the gallows speaker’s next turn.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Lash of Souls.</em></strong> Ethereal chains lash out around the gallows speaker, forcing up to two creatures that the gallows speaker can see within 5 feet to succeed on a DC 16 Strength saving throw or take 9 (2d8) necrotic damage and be restrained until the start of the gallows speaker’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t restrained.</p>
-<p><strong><em>Wisplight Flare.</em></strong> The gallows speaker directs one of its wisps to a point it can see within 30 feet, where it flares with golden light. Each creature within 5 feet of that point must succeed on a DC 16 Constitution saving throw or take 14 (4d6) radiant damage and be blinded until the start of the gallows speaker's next turn. A creature that succeeds on the saving throw takes half damage and isn't blinded.</p>
+<p><strong><em>Lash of Souls.</em></strong> Ethereal chains lash out around the gallows speaker, forcing up to two creatures within 5 feet to succeed on a DC 16 Strength saving throw or take 9 (2d8) necrotic damage and be restrained until the start of the gallows speaker’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t restrained.</p>
+<p><strong><em>Wisplight Flare.</em></strong> The gallows speaker directs one of its wisps to a point within 30 feet, where it flares with golden light. Each creature within 5 feet of that point must succeed on a DC 16 Constitution saving throw or take 14 (4d6) radiant damage and be blinded until the start of the gallows speaker's next turn. A creature that succeeds on the saving throw takes half damage and isn't blinded.</p>
 <h3>Reactions</h3>
 <p>The gallows speaker can take up to three reactions per round, though no more than one per turn. If it would lose its reactions and isn't incapacitated, it loses one reaction instead.</p>
 <p><strong><em>Death's Revelation.</em></strong> In response to taking damage from a creature within range, the gallows speaker attacks that creature with its <strong><em>foretelling touch</em></strong> or <strong><em>will-o'-wisp</em></strong>.</p>
@@ -1145,7 +1149,7 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 </div>
 
 > [!combat]- **Balancing the Gallows Speaker**
-> Due to the phase mechanic, this is a series of two consecutive **bloody** combat encounters against a party of five 5th-level players and two CR 2 allies (Erasmus van Richten and Lady Fiona Wachter), which will each consume approximately 42% of the party's total maximum hit points (for a total of 84% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 5th-level players, a CR 6 ally (Victor Vallakovich), a CR 1 ally (Majesto), and a CR 2 ally (Fiona Wachter), and will each consume approximately 28% of their total maximum hit points (for a total of 56% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce Leo’s hit points to 92 in each phase. For his first phase, reduce his foretelling touch attack to to 11 (2d8+2) damage, his will-o’-wisp attack to 10 (3d6) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 10 (4d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 5 (1d6+2) piercing and 10 (4d4) necrotic damage, his grasp of the grave attack to 14 (4d6) initial damage and 7 (2d6) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes to 7 (3d4) damage.
 > * ***Four Players.*** Reduce Leo’s hit points to 109 in each phase. For his first phase, reduce his foretelling touch attack to to 13 (2d8+4) damage, his will-o’-wisp attack to 11 (2d10) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 12 (5d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 6 (1d4+4) piercing and 12 (5d4) necrotic damage, his grasp of the grave attack to 15 (6d4) initial damage and 7 (3d4) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes reaction to 9 (2d8) damage.
@@ -1184,11 +1188,11 @@ In gratitude for the players’ efforts, Lady Wachter grants them a *lantern of 
 
 > [!item]+ **Spirit Mirror**
 >
-> *Wondrous item, rare (requires attunement)*
+> *Wondrous item, rare*
 >
 > In addition to its current plane, this ornate bronze mirror also reflects the corresponding location in the Ethereal Plane out to a distance of 60 feet.
 >
-> Once per day while attuned, you can use an action to cause it to either shrink to the size of a hand mirror or grow to the size of a full-length mirror.
+> Once per day, you can use an action to cause it to either shrink to the size of a hand mirror or grow to the size of a full-length mirror.
 
 > [!abstract]+ **Van Richten & the Spirit Mirror**
 > Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc S - The Moonlit Murders]] for more information about lifting Van Richten's curse.
@@ -1232,9 +1236,9 @@ As such, this arc aims to comprehensively rework these stray narrative elements 
 * The players now have a true opportunity to witness and intervene in the suffering wrought by night hags upon their victims, and to destroy their corruption once and for all.
 * Finally, the players now have a chance to learn about the dark history of Leo Dilisnya, enhancing the themes developed in the *Tome of Strahd*, foreshadowing Strahd's use of Leo's Ba'al Verzi dagger to seal the leeches corrupting the Fanes of Barovia, and providing emotional closure to Lady Wachter's character arc as it pertains to her deceased parents and brother.
 
-This arc also serves to cement Lady Wachter's alliance with the players, strengthening the themes of resonance and unity that run throughout the adventure and providing a clear narrative progression to their relationship in [[Arc G - Lady Wachter's Wish.]]
+This arc also serves to cement Lady Wachter's alliance with the players, strengthening the themes of resonance and unity that run throughout the adventure and providing a clear narrative progression to their relationship in [[Arc F - Lady Wachter's Wish.]]
 
-***Erasmus's Plea.*** Erasmus's visitation has been added to provide a backup hook to this arc if the players miss or decline it elsewhere. Erasmus's presence in this portion of the adventure also serves to provide the players with exposition regarding the **gallows speaker**  hunting Stella's soul, and to continue developing the tragedy of the Van Richten family that began in [[Arc F - The Missing Vistana.]]
+***Erasmus's Plea.*** Erasmus's visitation has been added to provide a backup hook to this arc if the players miss or decline it elsewhere. Erasmus's presence in this portion of the adventure also serves to provide the players with exposition regarding the **gallows speaker**  hunting Stella's soul, and to continue developing the tragedy of the Van Richten family that began in [[Arc E - The Missing Vistana.]]
 
 ***Burgomaster's Mansion.*** The *spirit mirror* has been added as a means of explaining Victor's communication with Stella, and as an eventual reward for the players upon restoring Stella's soul.
 

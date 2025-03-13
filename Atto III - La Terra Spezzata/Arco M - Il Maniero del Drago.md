@@ -276,7 +276,7 @@ Ultimately, the players can also dissuade Wensencia from harvesting the elk by s
 
 As Wensencia departs, if the players treated her cordially, she warns them to beware the creatures that lurk amidst the gloom of the nearby crags and woods. "This meadow is a place of ancient death," she says, "and such creatures are drawn to it like moths to a flame. Do not linger long, lest you draw their attention—and their appetites." (Wensencia is referring to the **ghouls** that dwell amidst the cliffs of the nearby mountains, described in further detail below.)
 
-If the players successfully dissuade or drive off Wensencia, the raven clucks gratefully and solemnly bows its head in a showing of respect. If the players linger an additional five minutes, the dire elk passes away, its eyes slowly drifting closed as the wound overtakes it.
+If the players successfully dissuade or drive off Wensencia, the raven clucks gratefully and solemnly bows its head in a showing of respect. If the players linger an additional five minutes, the dire elk passes away, its remaining eye slowly drifting closed as the wound overtakes it.
 #### The Mass Grave
 When the players depart the stone slab for the grave site, read:
 
@@ -499,10 +499,10 @@ The northeastern barrel appears to be empty. However, a player who uses the crow
 This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
 
 > [!combat]+ **Balancing the Spiders’ Ballroom**
-> This combat encounter is a **bruising** combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players.** Reduce the number of giant spiders to seven. 
-> * **Four Players.** Reduce the number of giant spiders to eight. 
-> * **Six Players**. Increase the number of giant spiders to ten.
+> This two-wave encounter includes a bruising combat encounter followed by a mild combat encounter against a party of five 6th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 1/4 ally (Zorya), the first of which will consume approximately 30% of their total maximum hit points and the second of which will consume approximately 7% of their total maximum hit points (for a total of 37% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+> * **Three Players.** Reduce the number of giant spiders in the first wave to one. Have the phase spiders appear in waves—first one, then the other. 
+> * **Four Players.** Reduce the number of giant spiders in the first wave to six. 
+> * **Six Players**. Increase the number of giant spiders in the first wave to eight.
 
 > [!info]+ **Phase Spider Harvesting**
 > A single adult **phase spider** possesses two large fangs, each of which can produce up to three vials of venom. A character can harvest a single fang successfully by succeeding on a DC 12 Dexterity (Nature) check. (On a failure, the fang is cracked and unusable.)
@@ -901,7 +901,7 @@ The players must succeed on a DC 14 Dexterity (Stealth) check to ascend the stai
 ![[Vladimir Horngaard.png]]
 <span class="credit">"Commander Vladimir Horngaard" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Vladimir Horngaard**
+> [!profile]+ **Profile: Vladimir Horngaard**
 > **Roleplaying Information**
 > ***Resonance.*** Vladimir should inspire unease and discomfort with his suspicion and paranoia, (restrained) anger with his apathy for the plight of the Barovian people, and pity for the ways in which his rage and pain have blinded him.
 > 
@@ -938,7 +938,7 @@ If asked, Vladimir can share the following information:
 > Vladimir can’t remember the love he shared with Sir Godfrey Gwilym in life, and angrily denies any insinuations otherwise. If confronted with the rings from [[#Wine Storage]] or the portrait from [[#Vladimir’s Bedroom]], Vladimir is obviously disturbed and thrown off balance. However, he insists that such things prove nothing, and that the players mock him and the Order with their lies. “There is no room for love in the war we fight," he snarls. “We are knights, born only to die in the battle against evil. This is how it has always been, and how it will always be."
 
 > [!lore] **Vladimir and Argynvost**
-> Vladimir's anger and hatred prevent him from hearing Argynvost's voice. If the players mention anyone communicating with Argynvost's spirit, he claims they are lying. As Argynvost's commander, Vladimir is convinced that if he has not heard Argynvost's spirit, then no one will have, and is unable to be persuaded otherwise.
+> Vladimir's anger and hatred prevent him from hearing Argynvost's voice. If the players mention anyone communicating with Argynvost's spirit, he claims they are lying. (As Argynvost's commander, Vladimir is convinced that if he can't hear Argynvost's spirit, then no one can, and can't be persuaded otherwise.)
 
 If the players mention an interest in Argynvost’s spirit, Vladimir asks them coldly if “the fool in the chapel" set them to this mission. If the players deny Sir Godfrey’s involvement and succeed on a DC 14 Charisma (Deception) check, Vladimir regards them coolly, then states tiredly that the “old dragon" has earned his rest and old spirits should be left well-enough alone. He then instructs the players to depart once they have satisfied their curiosities and descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
 
@@ -1011,7 +1011,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <strong>Damage Resistances</strong> necrotic, psychic<br>
 <strong>Damage Immunities</strong> poison<br>
 <strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
+<strong>Senses</strong> darkvision 60 ft., passive Perception 18<br>
 <strong>Languages</strong> Common, Draconic<br>
 <strong>Challenge</strong> 15<br>
 <strong>Proficiency</strong> +5
@@ -1127,7 +1127,7 @@ The players can summon an aspect of Argynvost’s spirit to briefly animate the 
 
 The gargoyle then whispers the short verse described in <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>.
 
-***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,000 XP.
+***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,500 XP.
 
 > [!info]+ **Returning the Skull**
 > The players can return Argynvost's skull to his crypt in [[Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]].

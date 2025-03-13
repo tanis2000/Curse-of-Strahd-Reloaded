@@ -338,11 +338,15 @@ Se i giocatori chiedono la verità dietro la bambola a forma di Ireena, Izek rin
 
 Se Ireena ha accompagnato i giocatori al lago, Izek le ordina di farsi da parte mentre "insegna a questi vermi alcune maniere". Se viene sfidato, ringhia di rabbia.
 
+![[Lake-Zarovich_Izek-Encounter_4k_NoGrid_40x30_102PPI_Gloom_Fog.jpg]]
+
+<span class="credit">"Lake Zarovich" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/29a5db8e9c/">here!</a></span>
+
 > [!warning]+ **Izek Avvelenato**
 > Ricorda che Izek rimane **avvelenato** mentre l'effetto dura. Cambiare forma non rimuove questa (o qualsiasi altra) condizione.
 
 > [!warning]+ **Non Usare Tattiche!**
-> Tutti i nemici in questa guida, inclusi i mostri boss, sono stati esaustivamente testati e bilanciati utilizzando il sistema di costruzione degli incontri Challenge Ratings 2.0. Tutti i principali incontri con i boss, inclusi i combattimenti a due fasi con il **mucchio di carne**, sono stati calibrati per consumare la maggior parte o la totalità dei punti ferita dei giocatori, al fine di creare un combattimento pericoloso ed emozionante.
+> Tutti i nemici in questa guida, inclusi i mostri boss, sono stati esaustivamente testati e bilanciati utilizzando il sistema di costruzione degli incontri Challenge Ratings 2.0. Tutti i principali incontri con i boss sono stati calibrati per consumare la maggior parte o la totalità dei punti ferita dei giocatori, al fine di creare un combattimento pericoloso ed emozionante.
 > 
 > Tuttavia, questi statblock dei boss hanno abbastanza punti ferita e infliggono abbastanza danni per round (DPR) per garantire che possano rappresentare una minaccia adeguata senza alcuna tattica o strategia speciale. Nella misura in cui esistono tali strategie, sono state integrate nello statblock e non richiedono ulteriori strategie da parte del Dungeon Master.
 > 
@@ -555,15 +559,15 @@ La lista degli incantesimi di Lady Wachter è stata aggiornata per includere *zo
 
 *Toll the Dead*, *Bane*, *Blindness/Deafness* e *Lesser Restoration* sono stati aggiunti alla lista degli incantesimi di Lady Wachter per fornirle ulteriori opzioni nella lotta contro i **spettri** del Piano Etereo e lo spirito di Leo Dilisnya in [[Arco H - L'Anima Perduta]].
 
-L'introduzione di Stella è stata aggiunta come preludio alla cena per umanizzare Lady Wachter e incoraggiare i giocatori a vederla con simpatia, e per prefigurare il destino di Stella in [[Arco I - L'Anima Perduta]].
+L'introduzione di Stella è stata aggiunta come preludio alla cena per umanizzare Lady Wachter e incoraggiare i giocatori a vederla con simpatia, e per prefigurare il destino di Stella in [[Arco H - L'Anima Perduta]].
 
-La connessione di Lady Wachter con Baba Lysaga e la tragica morte della sua famiglia sono state aggiunte per fornirle un legame con lo spirito di Leo Dilisnya e un mezzo per intrappolare le streghe di Old Bonegrinder in [[Arco I - L'Anima Perduta]].
+La connessione di Lady Wachter con Baba Lysaga e la tragica morte della sua famiglia sono state aggiunte per fornirle un legame con lo spirito di Leo Dilisnya e un mezzo per intrappolare le streghe di Old Bonegrinder in [[Arco H - L'Anima Perduta]].
 
 L'interesse di Lady Wachter nell'usare Stella per assicurarsi il potere a Vallaki attraverso il matrimonio con Victor Vallakovich è stato rimosso per rendere Lady Wachter un personaggio più simpatico, per approfondire il suo conflitto interno e il senso di colpa in [[Arco H - L'Anima Perduta]] (perché la sua freddezza verso Victor ha scoraggiato lui e Stella dal cercare il suo aiuto prima) e per rendere l'amicizia di Victor con Stella più significativa per entrambi.
 
 Il piano di Lady Wachter con il vino avvelenato è stato aggiunto per fornire ai giocatori un'esperienza di gioco più completa nella preparazione all'assassinio di Izek (aumentando così la tensione drammatica e migliorando l'impatto della morte finale di Izek) e per fornire ai giocatori un motivo per cercare e beneficiare dell'aiuto di Lady Wachter.
 
-Oltre a sostenere il suo argomento, la storia di Lady Wachter su Berez è stata aggiunta per introdurre il destino del villaggio in rovina (che i giocatori possono visitare in [[Arco I - Le Mura di Krezk]]) e per prefigurare sottilmente la sua connessione con Baba Lysaga.
+Oltre a sostenere il suo argomento, la storia di Lady Wachter su Berez è stata aggiunta per introdurre il destino del villaggio in rovina (che i giocatori possono visitare in [[Arco H - Le Mura di Krezk]]) e per prefigurare sottilmente la sua connessione con Baba Lysaga.
 
 Gli aneddoti di Lady Wachter riguardo a Ezra e Leo Dilisnya sono stati aggiunti per prefigurare la connessione di Ezra con i Poteri Oscuri (che i giocatori scopriranno in [[Arco X - L'Eredità di Tatyana]]) e per introdurre la relazione ostile di Leo Dilisnya con la famiglia Wachter. (I giocatori avranno l'opportunità di combattere Leo Dilisnya e di apprendere di più su quella relazione in [[Arco H - L'Anima Perduta]].)
 

@@ -3,9 +3,9 @@
 > [!warning]+ **Aggiornamento Recente**
 > Questo arco narrativo è stato sostanzialmente rivisto il 19 luglio 2024. Per accedere alla versione obsoleta di questo arco narrativo, visita [[Materiale Obsoleto/Arco B - Benvenuti a Barovia|Arco B - Benvenuti a Barovia]] nell'appendice del Materiale Obsoleto.
 
-In questo arco narrativo, i giocatori viaggiano verso il cupo villaggio di Barovia, devastato dalla morte e dalla disperazione in seguito alla rinascita di Strahd. Quando un mannaro corvo travestito li guida alla Taverna Sangue della Vite, incontrano Ismark, il figlio maggiore del borgomastro del villaggio, recentemente ferito.
+In questo arco narrativo, i giocatori viaggiano verso il cupo villaggio di Barovia, devastato dalla morte e dalla disperazione in seguito alla rinascita di Strahd. Quando i giocatori arrivano alle barricate, incontrano Ismark, il figlio maggiore del borgomastro recentemente ferito del villaggio.
 
-Lì, i giocatori apprendono che il villaggio è stato attaccato dall'orda di non morti di Strahd ogni notte negli ultimi sei giorni—e che l'orda è prevista ritorni al crepuscolo. In cambio di cibo, riparo e informazioni, Ismark chiede ai giocatori di imbracciare le armi insieme ai baroviani e di prepararsi a difendere le fortificazioni del villaggio dall'assalto dei morti.
+Alla Taverna Sangue della Vite, i giocatori apprendono che il villaggio è stato attaccato dall'orda di non morti di Strahd ogni notte negli ultimi sei giorni—e che l'orda è prevista ritorni al crepuscolo. In cambio di cibo, riparo e informazioni, Ismark chiede ai giocatori di imbracciare le armi insieme ai baroviani e di prepararsi a difendere le fortificazioni del villaggio dall'assalto dei morti.
 
 Dopo aver difeso con successo le barricate, i giocatori apprendono che Strahd ha invaso personalmente la dimora del borgomastro, uccidendo il padre di Ismark e mordendo sua sorella, Ireena. Con il borgomastro del villaggio morto, Strahd ritira formalmente l'orda dal villaggio, permettendo a Ismark, Ireena e ai giocatori di raccogliere i pezzi.
 
@@ -144,7 +144,7 @@ Mentre i giocatori si avvicinano, Kereza li sfida. Leggi:
 
 Kereza sospetta dei giocatori, credendoli vampiri, zombi o ghoul travestiti. Indipendentemente dalla risposta dei giocatori, Ismark interviene, rimproverando gentilmente Kereza per la sua paranoia e rassicurando gli altri Baroviani con buon umore che i giocatori sono chiaramente vivi, "proprio come noi".
 
-Ismark quindi invita gentilmente i giocatori a superare la barricata e dà loro il benvenuto. Confessa, tuttavia, di temere che siano arrivati in un momento poco propizio, spiegando che il villaggio è sotto assedio da un'orda di non-morti da diverse notti.
+Ismark quindi invita gentilmente i giocatori a superare la barricata attraverso una sezione rimuovibile e dà loro il benvenuto. Confessa, tuttavia, di temere che siano arrivati in un momento poco propizio, spiegando che il villaggio è sotto assedio da un'orda di non-morti da diverse notti.
 
 Dopo aver confermato che la barricata è quasi riparata, Ismark invita i giocatori a unirsi a lui alla Taverna Sangue di Vite al centro della città, dove ha altre questioni da sbrigare e dove possono parlare più approfonditamente e bere qualcosa. ("Abbiamo almeno tre ore prima che cali il crepuscolo," dice, strizzando gli occhi verso il cielo grigio sopra la testa. "Dovrebbe darci abbastanza tempo prima che i morti ritornino.")
 
@@ -156,7 +156,7 @@ Se i giocatori accettano, Muriel li segue verso la piazza del paese, restando so
 > [!design]+ **Nota di Design: Entrando nel Villaggio**
 > Questa scena è stata scritta per trasmettere immediatamente la diffidenza degli abitanti del villaggio, presentare Ismark come un alleato comprensivo e introdurre il **licantropo corvo** Muriel Vinshaw e i corvi di Barovia, prefigurando così i Custodi della Piuma. 
 >
-> Muriel riapparirà in seguito in [[Atto I - Nelle Nebbie/Arco C - Nella Valle#C3. La Strix|Arco C - Nella Valle]], in fuga da una **strix superiore** dopo aver origliato l'incontro di Strahd con Madama Eva, e accompagnerà i giocatori fino alla città di Vallakia per il resto dell'Arco C. Muriel apparirà anche nella sua forma e persona umana in [[Arco J - La Gemma Rubata#Incontro con Muriel|Arco J - La Gemma Rubata]] per accompagnare i giocatori durante il loro viaggio verso l'azienda vinicola Mago dei Vini, e rivelerà la sua vera natura licantropica a [[Atto I - Nelle Nebbie/Arco C - Nella Valle#Provocazioni di Ludmilla|Yester Hill]].
+> Muriel riapparirà in seguito in [[Atto I - Nelle Nebbie/Arco C - Nella Valle#C3. La Strix|Arco C - Nella Valle]], in fuga da una **strix superiore** dopo aver origliato l'incontro di Strahd con Madama Eva, e accompagnerà i giocatori fino alla città di Vallakia per il resto dell'Arco C. Muriel apparirà anche nella sua forma e persona umana in [[Arco J - La Gemma Rubata#Incontro con Muriel|Arco J - La Gemma Rubata]] per accompagnare i giocatori durante il loro viaggio verso l'azienda vinicola Mago dei Vini, e rivelerà la sua vera natura licantropica a [[Arco J - La Gemma Rubata#Provocazioni di Ludmilla|Yester Hill]].
 
 ## B5b. La Piazza Cittadina
 
@@ -213,7 +213,7 @@ Se uno o più dei giocatori si uniscono a lui, Bildrath può rivelare ulteriori 
 •	Nessuno dei rivoluzionari fece ritorno. Pochi giorni dopo, un elfo dalla pelle ambrata giunse al villaggio annunciando che i popoli avevano novanta giorni per riconciliarsi con le divinità, prima che il signore di Castel Ravenloft — ora risvegliatosi dopo cento anni di sonno — esigesse il pentimento per la loro disobbedienza.
 •	Alcuni abitanti abbandonarono Barovia, mentre molti altri rimasero. Tuttavia, Ismark fece un discorso clamoroso nella piazza, davanti alla statua di Ismark il Grande, promettendo che chi fosse rimasto avrebbe difeso la propria casa. "La sfacciataggine del bastardo," borbotta Bildrath, "a fronte della statua di un antenato leggendario, come se valesse un decimo di lui."
 •	Bildrath stesso desiderava fuggire, ma sua sorella Marta e il marito Dragomir decisero di restare insieme a loro figlio Parriwimple, ispirati dalle parole di Ismark. "Pensavano di combattere per ciò che era loro," sputa tra le lacrime, "mentre idioti come quelli dovevano scappare e non voltarsi mai indietro."
-•	Novanta giorni dopo la proclamazione dell'elfo, le creature non morte invasero: orde di scheletri e zombi emergettero dai boschi di Svalich. Gli abitanti si opposero, difendendo le strade con barricate, spade e archi. "Ma i morti continuavano ad arrivare," borbotta Bildrath, "e Marta—" si interrompe, con il dolore addosso. (Bildrath perse Marta e Dragomir durante l'assedio, e incolpa Ismark per non averli protetti.)
+•	Novanta giorni dopo la proclamazione dell'elfo, le creature non morte invasero: orde di scheletri e zombi emergettero dai boschi di Svalich. Gli abitanti si opposero, difendendo le strade con barricate, spade e archi. "Ma i morti continuavano ad arrivare," borbotta Bildrath, "e Marta—" si interrompe, con il dolore addosso. (Bildrath perse Marta e Dragomir durante l'assedio, e incolpa Ismark per non averli protetti, il che ha lasciato Parrywimple-il nipote di Bildrath-orfano.)
 •	Quando si è ripreso, Bildrath ammonì i giocatori: il villaggio (e forse tutta Barovia) è condannato. "Non c’è sole che possa tornare," sputa, "né scampo dalle Nebbie. Qui è l'Inferno, ora e per sempre. Prima accettate la vostra sorte, tanto meglio per voi."
 
 ### Le Notizie di Mary
@@ -334,7 +334,7 @@ Se i giocatori non riescono a disperdere la folla ma si rifiutano di permettere 
 Se scoppia un combattimento, Ireena si unisce ai giocatori nella difesa della dimora mentre Kolyan implora i combattenti di evitare di uccidere qualcuno. Se due dei Baroviani vengono storditi, o se uno viene ucciso, i rimanenti fuggono.
 
 > [!info]+ **Danno Non Letale**
-> La morte indiscriminata dei comuni baroviani alienerà i villaggi e i membri della famiglia di Ismark. I giocatori che desiderano evitare di uccidere i Baroviani possono incapacitarli come descritto in <span class="citation">Stordire una Creatura (p. 198)</span>. Se i giocatori scelgono di non farlo, permetti ai membri storditi della folla di effettuare tiri salvezza per la morte come descritto in <span class="citation">Mostri e Morte (p. 198)</span>. 
+> La morte indiscriminata dei comuni baroviani alienerà i villaggi e i membri della famiglia di Ismark. I giocatori che desiderano evitare di uccidere i Baroviani possono incapacitarli come descritto in <span class="citation">Stordire una Creatura (*Manuale del Giocatore* p. 198)</span>. Se i giocatori scelgono di non farlo, permetti ai membri storditi della folla di effettuare tiri salvezza per la morte come descritto in <span class="citation">Mostri e Morte (*Manuale del Giocatore* p. 198)</span>. 
 
 Se i giocatori riescono a disperdere la folla, Kolyan e Ireena li invitano nella dimora con gratitudine.
 
@@ -423,7 +423,7 @@ Quando i giocatori sono pronti a partire, Ireena recupera una cassa di legno con
 ## B5e. L'Emporio di Bildrath
 <span class="citation"><em>Questa scena si svolge nel Capitolo 3: Area E1.</em></span>
 
-Se i giocatori scelgono di visitarlo prima di procedere a [[#B5e. La Barricata Orientale]], questa area è in gran parte come descritto in <span class="citation">Emporio di Bildrath (p. 43)</span>. Tuttavia, invece di vendere oggetti a dieci volte il prezzo elencato nel _Manuale del Giocatore_, Bildrath li vende solo al doppio del prezzo, citando i recenti sconvolgimenti economici.
+Se i giocatori scelgono di visitarlo prima di procedere a [[#B5f. La Barricata Orientale]], questa area è in gran parte come descritto in <span class="citation">Emporio di Bildrath (p. 43)</span>. Tuttavia, invece di vendere oggetti a dieci volte il prezzo elencato nel _Manuale del Giocatore_, Bildrath li vende solo al doppio del prezzo, citando i recenti sconvolgimenti economici.
 
 Se uno dei giocatori è stato gentile con lui nella taverna, vende invece quegli oggetti ai giocatori al prezzo normale elencato nel *Manuale del Giocatore*—un'offerta speciale, solo per loro. Se uno dei giocatori ha difeso Ismark nella taverna, Bildrath li guarda torvo e vende invece quegli oggetti ai giocatori a cinque volte il prezzo elencato nel _Manuale del Giocatore_, affermando con disprezzo che si tratta di un "offerta speciale" per gli amici del "grande eroe" del villaggio.
 
@@ -549,6 +549,10 @@ Se i giocatori la seguono, Muriel li guida verso ovest verso la piazza del paese
 <p>Le torce a ovest sono state spente, i difensori occidentali del villaggio fuggiti—o uccisi. Solo una figura rimane in piedi: Ismark, i suoi vestiti strappati e insanguinati, con una spada lunga nella mano sinistra e una spada corta nella destra. A venti piedi di distanza da lui si trova uno zombi dalla pelle pallida, la sua carne di un bianco liscio e malato che si gonfia di vene rosse. I suoi occhi fissano ottusamente verso le tende nella piazza del paese oltre, e, mentre una nube di nebbia rossastra fuoriesce delicatamente dalla sua bocca spalancata, fa un passo traballante in avanti.</p>
 </div>
 
+![[Town-Square_4k_NoGrid_30x20_136PPI_Gloom_Fog.jpg]]
+
+<span class="credit">"Village of Barovia Town Square" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/05afd01fa8/">here!</a></span>
+
 Ismark, che è stato ridotto a 40 punti ferita, accoglie con favore qualsiasi aiuto che i giocatori possano fornire contro il diffusore di piaghe. Se ridotto a 30 punti ferita o meno, Ismark ostacola direttamente il diffusore di piaghe mentre prende l'azione Schivare in ogni suo turno, sperando di ritardarlo mentre fornisce ai giocatori il tempo sufficiente per sconfiggerlo.
 
 Il diffusore di piaghe, che inizia a 120 piedi dal centro della piazza del paese e ha le stesse modifiche del diffusore di piaghe in [[#L'Assedio]], non userà la sua ***miasma virulenta*** fino a quando non raggiunge il centro della piazza del paese o viene ridotto a 30 punti ferita o meno. Ogni round, tenta di muoversi alla sua velocità massima in linea retta verso la piazza del paese. Se non può, usa la sua ***multiattacco*** per attaccare qualsiasi creatura a portata. (Il diffusore di piaghe non tenta di muoversi intorno alle creature che lo ostacolano, anche se farlo potrebbe permettergli di raggiungere la sua destinazione.)
@@ -658,8 +662,8 @@ La proclamazione iniziale di Rahadin lascia Ismark rigido e con il volto di piet
 <p><strong><em>Lame Vorticose.</em></strong> Ogni creatura entro 10 piedi da Rahadin deve effettuare un tiro salvezza di Destrezza CD 19, subendo 7 (2d6) danni taglienti in caso di fallimento, o metà danno in caso di successo.</p>
 <h3>Reazioni</h3>
 <p>Rahadin può effettuare fino a tre reazioni per round, ma non più di una per turno. Se Rahadin perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
-<p><strong><em>Parata.</em></strong> Rahadin aggiunge +5 alla sua Classe Armatura contro un attacco in mischia o a distanza che lo colpirebbe o al risultato di un tiro salvezza di Destrezza fallito, o non subisce danni da <em>dardo incantato</em> in questo turno. Se causa a un attacco in mischia di mancare in questo modo, può quindi immediatamente usare una reazione aggiuntiva, se disponibile, per usare la sua Risposta contro l'attaccante.</p>
-<p><strong><em>Risposta.</em></strong> Quando un nemico manca Rahadin con un attacco in mischia, può usare la sua reazione per muoversi fino alla sua velocità verso uno spazio non occupato entro 5 piedi da quel nemico senza provocare attacchi di opportunità. Può quindi immediatamente effettuare un attacco con <strong><em>sciabola</em></strong> contro quel nemico con vantaggio.</p>
+<p><strong><em>Colpo Punitivo.</em></strong> Quando Rahadin viene colpito da un attacco in mischia o a distanza, può usare la sua reazione per muoversi fino alla sua velocità verso l'attaccante e fare un attacco con la sua sciabola. Questo movimento non provoca attacchi di opportunità.</p>
+<p><strong><em>Disarmare.</em></strong> Quando un nemico manca Rahadin con un attacco in mischia mentre brandisce un'arma, Rahadin può usare la sua reazione per costringere quel nemico a effettuare un tiro salvezza di Forza con CD 19, con vantaggio se il nemico sta impugnando l'arma con due mani. In caso di fallimento, il nemico lascia cadere l'oggetto, che viene spinto a 3 metri di distanza.</p>
 <p><strong><em>Passo Velato (1/round).</em></strong> Quando un nemico manca Rahadin con un attacco o gli infligge danni, può usare la sua reazione per lanciare <em>passo velato</em>. Può quindi immediatamente effettuare l'azione Nascondersi. Rahadin non ha bisogno di vedere la sua destinazione quando lancia <em>passo velato</em> in questo modo.</p>
 <p><strong><em>Urlo Psichico (1/giorno).</em></strong> Quando Rahadin viene ridotto a 0 punti ferita, può usare la sua reazione per far emettere al suo coro mortale un terribile urlo. Ogni creatura entro 60 piedi da Rahadin deve effettuare un tiro salvezza di Saggezza CD 17, subendo 11 (2d10) danni psichici in caso di fallimento o metà danno in caso di successo. Se una creatura fallisce il tiro salvezza di 5 o più, è anche stordita fino all'inizio del prossimo turno di Rahadin.</p>
 </div>
@@ -720,8 +724,7 @@ La proclamazione iniziale di Rahadin lascia Ismark rigido e con il volto di piet
 <p><strong><em>Passo Rapido.</em></strong> Rahadin effettua l'azione Scattare o Disimpegnarsi.
 <h3>Reazioni</h3>
 <p>Rahadin può effettuare fino a tre reazioni per round, ma non più di una per turno. Se Rahadin perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
-<p><strong><em>Colpo Vendicativo.</em></strong> Quando Rahadin viene colpito da un attacco in mischia o a distanza, può usare la sua reazione per muoversi fino alla sua velocità verso l'attaccante e effettuare un attacco con <strong><em>Spina</em></strong> o <strong><em>Catena</em></strong>. Questo movimento non provoca attacchi di opportunità.</p>
-<p><strong><em>Disarmare.</em></strong> Quando un nemico manca Rahadin con un attacco in mischia mentre brandisce un'arma, può usare la sua reazione per costringere quel nemico a effettuare un tiro salvezza di Forza CD 19, con vantaggio se il nemico sta tenendo l'arma con due mani. In caso di fallimento, il nemico lascia cadere l'oggetto, che viene spinto a 10 piedi di distanza.</p>
+<p><strong><em>Parare.</em></strong> Rahadin aggiunge +5 alla sua Classe Armatura contro un attacco in mischia o a distanza che lo colpirebbe o al risultato di un tiro salvezza di Destrezza fallito, oppure non subisce danni da <em>dardo incantato</em> in questo turno. Se in questo modo fa mancare un attacco in mischia, può immediatamente usare una reazione aggiuntiva, se disponibile, per usare la sua Risposta contro l'attaccante.</p> <p><strong><em>Risposta.</em></strong> Quando un nemico manca Rahadin con un attacco in mischia, può usare la sua reazione per muoversi fino alla sua velocità in uno spazio non occupato entro 1,5 metri da quel nemico senza provocare attacchi di opportunità. Può quindi immediatamente fare un attacco con <strong><em>Spina</em></strong> o <strong><em>Catena</em></strong> contro quel nemico con vantaggio.</p>
 </div>
 
 ## B5h. Ritorno alla Dimora

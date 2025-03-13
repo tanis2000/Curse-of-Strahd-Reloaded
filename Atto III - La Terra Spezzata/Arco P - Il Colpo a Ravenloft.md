@@ -1,22 +1,26 @@
 *An adventure for five 7th-level characters.*
 
-In this arc, while Strahd is away from the keep, the players must infiltrate Castle Ravenloft to recover several prisoners and precious objects, including the **werewolf** Emil Toranescu, Doru’s betrothed Gertruda, the skull of Argynvost, the *Icon of Ravenloft*, and the long-lost *spear of the Huntress*. To do so, they must bypass the castle guards, navigate Ravenloft’s twisting corridors, and defeat Strahd’s consorts, servants, and other minions.
+In this arc, while Strahd is away from the keep, the players must infiltrate Castle Ravenloft to recover several prisoners and precious objects, including the **werewolf** Emil Toranescu, Doru’s betrothed Gertruda, the skull of Argynvost, the *Icon of Dawn's Grace*, and the long-lost *spear of the Huntress*. To do so, they must bypass the castle guards, navigate Ravenloft’s twisting corridors, and defeat Strahd’s consorts, servants, and other minions.
 
 As they work to enter the castle, they’ll need to avoid the attentions of the **wights** patrolling the castle parapets. Through the main entrance, a team of **gargoyles** lies in wait as the vampire Ludmilla Vilisevic lurks nearby. In the servants’ wing, a pair of **vampire spawn** lurk amidst the darkness, with the castle’s ancient elevator trap not far away. In the king’s apartments above, the vampire Anastrasya Karelova keeps Gertruda under lock and key with the aid of four **wight** guards—and in the treasury nearby, an **invisible stalker** defends Strahd’s most precious riches.
 
-Far above the rest of the castle, Strahd’s **guardian portrait** watches over the silent landing outside the guest suite, while the witches’ coven prepares a noxious brew to create heralds of Strahd’s forthcoming zombie plague.  In the garrisons, an undead army quietly awaits its master’s orders. In the dungeons far below, the vampire **Volenta Popofsky** and her foul **zombies** guard Emil’s place in the castle’s black cells, while, in the catacombs, the *Icon of Ravenloft* and *spear of the Huntress* dwell in the crypts of Saint Markovia and King Dostron the Hellborn. 
+Far above the rest of the castle, Strahd’s **guardian portrait** watches over the silent landing outside the guest suite, while the witches’ coven prepares a noxious brew to create heralds of Strahd’s forthcoming zombie plague.  In the garrisons, an undead army quietly awaits its master’s orders. In the dungeons far below, the vampire **Volenta Popofsky** and her foul **zombies** guard Emil’s place in the castle’s black cells, while, in the catacombs, the *Icon of Dawn's Grace* and *spear of the Huntress* dwell in the crypts of Saint Markovia and King Dostron the Hellborn. 
 
 And in the shadows, Strahd’s chamberlain Rahadin sits and meditates, preparing himself for his sacrifice on the day of the Grand Conjunction . . . 
 # P1. Preparing for the Heist
 Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner with the Devil]], the players can make any plans and preparations they would like in advance of the heist. As they do, if the players don’t suggest it first, Ezmerelda and Ireena might make any or all of the following suggestions:
 
-* The players can use the *Keeper’s whistle* they obtained at the conclusion of [[Arc J - The Stolen Gem#J6b. Returning the Gem|Arc J - the Stolen Gem]] to request the assistance of the Keepers of the Feather in scouting out the grounds, distracting castle guards, and/or delivering messages to any NPC whose help the players might seek.
+* The players can use the *Keeper’s whistle* they obtained at the conclusion of [[Arc J - The Stolen Gem#J7b. Returning the Gem|Arc J - the Stolen Gem]] to request the assistance of the Keepers of the Feather in scouting out the grounds, distracting castle guards, and/or delivering messages to any NPC whose help the players might seek.
 * The players might ask Doru or Rudolph van Richten for a rough map of the castle to guide them. (See **Mapping the Castle** below for details.)
 * The players should prepare a plan—and preferably a backup plan—for getting into the castle while the drawbridge is up. (If the players ask their companions for ideas, Ireena suggests asking the Martikovs for help, while Ezmerelda suggests purchasing a grappling hook and rope from Arasek Stockyard, as well as climber’s kits to ascend the outer walls of the keep.)
 
 > [!abstract]+ **Mapping the Castle**
 > > [!info]+ **What Doru Knows**
 > > If asked, Doru can provide a rough boxes-and-lines map of the following areas, with additional commentary:
+> > 
+> > ![[Dorus_Notes.png]]
+> > 
+> > <span class="credit">"Doru's Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 > >
 > > <span class="citation">K1. Front Courtyard (p. 52)</span>. “The drawbridge leads right into the front courtyard. I’m not sure if it’ll be up for you—it was down when we first went in, but the Master—er, Strahd kept it up often." 
 > > <span class="citation">K7. Entry (p. 54)</span>. “The dragon statues here always gave me a weird feeling—like they were watching me. Be careful."
@@ -30,10 +34,14 @@ Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner 
 > > <span class="citation">K85. Sergei’s Tomb (p. 93)</span>. “I never saw what was in this tomb—there was a portcullis blocking the entrance. It was always well-lit, though."
 > > <span class="citation">K86. Strahd’s Tomb (p. 93)</span>. “This was *his* tomb. I still remember opening the coffin when we first marched on it—and finding it empty."
 > > <span class="citation">K87. Guardians (p. 94)</span>. “There was a strange magic curtain blocking the staircase down. I didn’t know if it was helpful or harmful, but I tried to steer clear nonetheless."
-> > <span class="citation">K88. Tomb of King Barov and Queen Ravenovia (p. > 94)</span>. “There was some kind of tomb down here, but I don’t know whose. Rahadin came here often."
+> > <span class="citation">K88. Tomb of King Barov and Queen Ravenovia (p. 94)</span>. “There was some kind of tomb down here, but I don’t know whose. Rahadin came here often."
 >
 > > [!info]+ **What Van Richten Knows**
 > > If asked, Van Richten can provide a rough boxes-and-lines map of the following areas, with additional commentary:
+> > 
+> > ![[Dorus_Notes_Plus_VR.png]]
+> > 
+> > <span class="credit">"Van Richten's Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 > >
 > > <span class="citation">K1. Front Courtyard (p. 52)</span>. “The drawbridge leads into the front courtyard. I observed two gate towers, which I presume contain the mechanism that controlls the bridge."
 > > <span class="citation">K2. Center Court Gate (p. 54)</span>. “There are two side courtyards—one north, one south. The north was obstructed by a heavy, old portcullis, which I only barely managed to lift. I presume the south was as well."
@@ -72,12 +80,12 @@ Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner 
 > **Muriel Vinshaw (Any).** Muriel is reluctant to venture into Ravenloft due to Davian’s orders and her grief over Elric’s death, though she is more than happy to meet the players with several **swarms of ravens** to assist their efforts to enter the castle. However, a player who promises Muriel an opportunity to obtain justice for Elric and succeeds on a DC 20 Charisma (Persuasion) check can convince her to join the party in the castle as well.
 # P2. The Old Svalich Road
 ## P2a. Approaching the Crossroads
-The journey from Vallaki to the castle crossroads is eight and one-quarter miles long and takes two hours and forty-five minutes. As they travel, the players pass <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span> and the western <span class="citation">B. Gates of Barovia (p. 33)</span>.
+The journey from Vallaki to the castle crossroads is eight-and-a-half miles long and takes two hours and fifty minutes. As they travel, the players pass <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span> and the western <span class="citation">B. Gates of Barovia (p. 33)</span>.
 
 Alternatively, if the players are traveling from Barovia, the journey is ten and one-half miles long and takes three hours and thirty minutes. As they travel, the players cross <span class="citation">D. River Ivlis (p. 35)</span>, pass through <span class="citation">F. River Ivlis Crossroads (p. 35)</span>, pass the watchtower described in [[Act I - Into the Mists/Arc C - Into the Valley#C6. The Watchtower|Arc C - Into the Valley]], and cross the bridge at <span class="citation">H. Tser Falls (p. 37)</span>.
 
 > [!abstract]+ **The Revenant at the Falls**
-> As the players cross the bridge at Tser Falls, the **revenant** described in [[Act I - Into the Mists/Arc C - Into the Valley#Tser Falls|Arc C - Into the Valley]] hails them with familiarity. Although the revenant isn’t willing or able to take up arms against Strahd or his servants, players who mention their friendship with Sir Godfrey Gwilym and succeed on a DC 10 Charisma (Persuasion) check can convince the revenant to take some minor action to assist them, succeeding automatically if they mention their quest to restore Argynvost’s skull to his tomb. (The revenant won’t enter the castle or its grounds, but is otherwise glad to assist creative players.)
+> As the players cross the bridge at Tser Falls, the **revenant** described in [[Act I - Into the Mists/Arc C - Into the Valley#C7b. Tser Falls|Arc C - Into the Valley]] hails them with familiarity. Although the revenant isn’t willing or able to take up arms against Strahd or his servants, players who mention their friendship with Sir Godfrey Gwilym and succeed on a DC 10 Charisma (Persuasion) check can convince the revenant to take some minor action to assist them, succeeding automatically if they mention their quest to restore Argynvost’s skull to his tomb. (The revenant won’t enter the castle or its grounds, but is otherwise glad to assist creative players.)
 
 As the players travel, they encounter a caravan of three **Vistani** riding a colorful, horse-drawn wagon from Tser Pool to Vallaki. (If the players are traveling from Vallaki, they encounter the Vistani near the monument to the Seeker described in [[Act I - Into the Mists/Arc C - Into the Valley#C9. Old Bonegrinder|Arc C - Into the Valley]]. If the players are traveling from Barovia, they encounter the Vistani at <span class="citation">F. River Ivlis Crossroads (p. 35)</span>.)
 
@@ -185,14 +193,13 @@ The players might use any of the following methods to distract the **wights** pa
 > See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
 
 > [!info]+ **Heist Milestones**
-> Raiding Castle Ravenloft completes a story milestone. If the players depart Castle Ravenloft with one or more of their objectives completed, award each player:
+> Stealing Argynvost's skull completes a story milestone. When the players depart Ravenloft, award each player 4,000 XP. If the players depart Castle Ravenloft after completing one or more of the following additional objectives, award each player:
 > 
-> * 1,000 XP if they recovered Argynvost's skull
-> * 1,000 XP if they obtained the *Icon of Dawn's Grace* from St. Markovia's crypt
-> * 1,000 XP if they rescued Emil Toranescu
-> * 500 XP if they rescued Gertruda
-> * 500 XP if they obtained the *spear of the Huntress* from King Dostron's crypt
-> * 500 XP if they looted Strahd's treasury
+> * 250 XP if they obtained the *Icon of Dawn's Grace* from St. Markovia's crypt
+> * 250 XP if they rescued Emil Toranescu
+> * 250 XP if they rescued Gertruda
+> * 250 XP if they obtained the *Spear of the Huntress* from King Dostron's crypt
+> * 250 XP if they looted Strahd's treasury
 ## P3a. Front Courtyard
 <span class="citation"><em>This scene takes place in Chapter 4, Area K1.</em></span>
 
@@ -202,7 +209,7 @@ This area is largely as described in <span class="citation">K1. Front Courtyard 
 > If the players haven’t alerted the **wights** atop the walls yet, they must succeed on a DC 14 group Dexterity (Stealth) check to evade detection each time they move across the grounds without pausing. If the players fail the check, the **wights** attack from atop the walls using their longbows, but don’t follow the players into the castle.
 
 > [!info]+ **Entering the Main Doors of the Keep**
-> Players who enter the main doors of the keep exit the castle grounds and enter [[#P4. Castle Commons]] via [[#P4a. Main Entry]].
+> Players who enter the main doors of the keep exit the castle grounds and enter [[#P4. Castle Commons]] via [[Arc P - Ravenloft Heist#Main Entrance]].
 ## P3b. Center Court Gate
 <span class="citation"><em>These scenes take place in Chapter 4, Area K2.</em></span>
 
@@ -213,7 +220,7 @@ These north and south courtyards are largely as described in <span class="citati
 This area is as described in <span class="citation">K3. Servants’ Courtyard (p. 54)</span>.
 
 > [!info]+ **Entering the Servants’ Entrance**
-> Players who enter the wooden door here exit the castle grounds and enter [[#P5. Servants’ Wing]] via [[#P5a. Servants’ Entrance]].
+> Players who enter the wooden door here exit the castle grounds and enter [[#P5. Servants’ Wing]] via [[Arc P - Ravenloft Heist#Servants’ Entrance|Servants’ Entrance]].
 ## P3d. Carriage House
 <span class="citation"><em>This scene takes place in Chapter 4, Area K4.</em></span>
 
@@ -269,7 +276,7 @@ Shortly after the players first enter this area, the *major image* abruptly chan
 
 Ludmilla greets the players coldly and notes her regrets that the guards upon the walls evidently could not keep “troglodytes" such as them outside of the keep. She proceeds to attempt to provoke the players into attacking her, preferring to focus her insults and provocations upon melee-oriented players most likely to lose their tempers. (Ludmilla might threaten characters the player holds dear, impugn their principles or sense of honor, or imply that they are weak or otherwise incapable.)
 
-If no player rises to meet the bait, Ludmilla concludes that she will be pleased to bring their “cold, unmoving" remains to “Count von Zarovich"—*after* she’s dissected them herself. She then moves to attack.
+If no player rises to meet the bait, Ludmilla sneers at the players for believing they could match "Baba Lysaga's eldest and greatest student" (herself), and concludes that she will be pleased to bring their “cold, unmoving" remains to “Count von Zarovich"—*after* she’s dissected them herself. She then moves to attack.
 
 > [!combat]+ **Balancing the Witch** 
 > Due to the phase mechanic, this combat encounter is a series of two consecutive **mild** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 12% of their total maximum hit points per phase (for a total of 24% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
@@ -331,7 +338,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <strong>Proficiency Bonus</strong> +3
 <hr>
 <p><strong><em>Devil’s Sight.</em></strong> Ludmilla can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</p>
-<p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
+<p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage (which includes damage from holy water), this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
 <p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her Mistfiend form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
@@ -340,7 +347,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <p><strong><em>Shocking Grasp.</em></strong> <em>Melee Spell Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (2d8) lightning damage. On a hit, the target can't take reactions until the start of its next turn.</p>
 <p><strong><em>Lightning Lance.</em></strong> A bolt of lightning arcs toward a creature of Ludmilla’s choice that she can see within 30 feet. Two bolts then leap from that creature to as many as two other creatures, each of which must be within 10 feet of the first creature. (A creature can be targeted by only one of the bolts.) Each creature must make a <span class="highlight">DC 15 Dexterity saving throw</span>, taking 9 (2d8) lightning damage on a failed save, or half as much damage on a success.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to damage dealt by melee attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
+<p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to damage dealt by melee weapon attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
 <p><strong><em>Duplicate.</em></strong> Ludmilla creates a perfect, intangible illusion of herself that lasts until the start of her next turn. The illusion appears in an unoccupied space within 30 feet of her. Ludmilla can then magically switch places with the illusion. While the illusion remains, it perfectly mimics Ludmilla's actions, speech, and movement, though it cannot attack. A player can make a <span class="highlight">DC 15 Intelligence (Investigation) check</span> (no action required) to determine which Ludmilla is illusory. The illusion vanishes if it takes any damage.</p>
 <p><strong><em>Freezing Ray.</em></strong> <em>Ranged Spell Attack:</em> +7 to hit, range 120 ft., three creatures. <em>Hit:</em> 7 (2d6) cold damage per ray.</p>
 <p><strong><em>Darkness (1/day).</em></strong> Ludmilla casts <em>darkness</em> with a radius of 40 feet.</p>
@@ -385,7 +392,8 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <hr>
 <strong>Saving Throws</strong> Dex +6, Int +7, Wis +3<br>
 <strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
-<strong>Damage Vulnerabilities</strong> lightning, necrotic<br>
+<strong>Damage Vulnerabilities</strong> cold, lightning<br>
+<strong>Damage Resistances</strong> necrotic<br>
 <strong>Damage Immunities</strong> bludgeoning, piercing, and slashing from nonmagical attacks<br>
 <strong>Condition Immunities</strong> grappled, prone, restrained<br>
 <strong>Senses</strong> passive Perception 13<br>
@@ -403,7 +411,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <p><strong><em>Multiattack.</em></strong> Ludmilla makes two attacks with her claws. She can replace one attack with a mist shards or bite attack.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d4 + 3) slashing damage plus 2 (1d4) necrotic damage. Instead of dealing the slashing damage, Ludmilla can grapple the target (escape DC 14).</p>
 <p><strong><em>Mist Shards.</em></strong> <em>Ranged Weapon Attack:</em> +6 to hit, range 30 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage plus 3 (1d6) necrotic damage.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Ludmilla regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Ludmilla regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Dissipate.</em></strong> If Ludmilla is heavily obscured by mist or fog, she takes the Hide action.
 <p><strong><em>Asphyxiate.</em></strong> One creature within 30 feet must make a <span class="highlight">DC 14 Constitution saving throw</span>. On a failure, the target's head is surrounded by a vacuum of air for 1 minute, or while Ludmilla maintains her concentration (as if concentrating on a spell). While surrounded by this vacuum, the target is deafened, can't speak, can't breathe (but can hold its breath), and has a number of levels of exhaustion equal to three minus the number of minutes of air it has left (minimum 0). In addition, a target surrounded by this vacuum must succeed on a DC 14 Constitution saving throw at the end of each of its turns or lose 1 minute of air on a failure.<br>&nbsp;&nbsp;&nbsp;&nbsp;The target loses all levels of exhaustion gained in this way if it falls unconscious or the vacuum disappears. The vacuum disappears if Ludmilla takes the Hide action or if the target is ever behind full cover or more than 30 feet away from her.</p>
@@ -414,6 +422,10 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 <p><strong><em>Ambush.</em></strong> In response to hearing or seeing a creature move within 30 feet while she's hidden, Ludmilla moves up to her speed toward it and attacks it with her claws.</p>
 </div>
 <br>
+
+![[Ludmilla_Phase_2transparent.png]]
+
+<span class="credit">"Ludmilla in her second phase" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 <div class="statblock">
 <h2>Gargoyle</h2>
@@ -469,16 +481,16 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 </div>
 
 > [!info]+ **Ascending the Landing**
-> Players who ascend <span class="citation">K19. Grand Landing (p. 58)</span> reach [[#Audience Hall]].
+> Players who ascend <span class="citation">K19. Grand Landing (p. 58)</span> reach [[Arc P - Ravenloft Heist#Audience Hall|Audience Hall]].
 
 > [!info]+ **South Tower Stair**
-> ***B2F.*** Players who descend two flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the castle commons and enter [[#P11. Dungeons]] via [[#Dungeon Hall]].
+> ***B2F.*** Players who descend two flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the castle commons and enter [[#P11. Dungeons]] via [[Arc P - Ravenloft Heist#P11a. Dungeon Hall|Dungeon Hall]].
 >
 > ***B1F.*** Players who descend one flight of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the castle commons and enter [[#P5. Servants’ Wing]] via [[#Elevator Hall]].
 >
-> ***3F.*** Players who ascend two flights of stairs up <span class="citation">K21. South Tower Stair (p. 59)</span> exit the castle commons and enter [[#P6. King’s Apartments]] via [[#Guardian Vermin]].
+> ***3F.*** Players who ascend two flights of stairs up <span class="citation">K21. South Tower Stair (p. 59)</span> exit the castle commons and enter [[#P6. King’s Apartments]] via [[Arc P - Ravenloft Heist#King’s Antechamber|King's Antechamber]].
 >
-> ***4F.*** Players who ascend three flights of stairs up <span class="citation">K21. South Tower Stair (p. 59)</span> exit the castle commons and enter [[#P8. Guest Suite]] via [[#Guest Landing]].
+> ***4F.*** Players who ascend three flights of stairs up <span class="citation">K21. South Tower Stair (p. 59)</span> exit the castle commons and enter [[Arc P - Ravenloft Heist#P8. Guest Suite|Guest Suite]] via [[Arc P - Ravenloft Heist#P8a. Guest Landing|Guest Landing]].
 ### Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K10.</em></span>
 
@@ -523,7 +535,7 @@ Ludmilla has cast *gaseous form* and concealed herself at a random point within 
 > [!info]+ **The High Tower**
 > Players who ascend the high tower staircase reach the high tower peak, which is largely as described in <span class="citation">K59. High Tower Peak (p. 73)</span>, except Pidlwick II cannot be found there.
 >
-> Players who descend the high tower staircase are obstructed by the masonry wall described in <span class="citation">K18. High Tower Staircase (p. 58)</span>. Players who bypass the wall and continue to descend exit the castle commons and enter [[#P12. Castle Crypts]] via [[#P12a. Catacombs]].
+> Players who descend the high tower staircase are obstructed by the masonry wall described in <span class="citation">K18. High Tower Staircase (p. 58)</span>. Players who bypass the wall and continue to descend exit the castle commons and enter [[Arc P - Ravenloft Heist#P12. Catacombs|Castle Crypts]] via [[Arc P - Ravenloft Heist#P12. Catacombs|P12. Catacombs]].
 #### Chapel Stairs
 <span class="citation"><em>This scene takes place in Chapter 4, Area K29.</em></span>
 
@@ -546,10 +558,10 @@ Ludmilla has cast *gaseous form* and concealed herself at a random point within 
 ### Audience Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K25.</em></span>
 
-This area is largely as described in <span class="citation">K25. King’s Balcony (p. 61)</span>. However, if Ludmilla has passed through here, the doors leading to <span class="citation">K27. King’s Hall (p. 62)</span> are slightly ajar.
+This area is largely as described in <span class="citation">K25. Audience Hall (p. 61)</span>. However, if Ludmilla has passed through here, the doors leading to <span class="citation">K27. King’s Hall (p. 62)</span> are slightly ajar.
 
 > [!info]+ **Secret Door**
-> Players who find and enter the secret door behind the throne exit the castle commons and enter [[#P10. Garrison]] via [[#Second Floor South Archers' Post Access Hall]].
+> Players who find and enter the secret door behind the throne exit the castle commons and enter [[#P10. Garrison]] via [[Arc P - Ravenloft Heist#Second Floor South Archers’ Post Access Hall|Second Floor South Archers’ Post Access Hall]].
 ### Accountant’s Office
 <span class="citation"><em>This scene takes place in Chapter 4, Area K30.</em></span>
 
@@ -570,7 +582,7 @@ If treated with kindness and allowed to ramble regarding Strahd’s assorted ric
 <p>"If only Count Strahd would let me properly tabulate the items he’s added to the old treasury over the years," Lief grumbles. “Too many trinkets and baubles, all layered in dust. No ledger entries, no tallies, and he expects the numbers to match!" The old wight scratches his chin, grunting. “At least the old girl keeps an eye on them, bless her heart. A dreadful business when she was alive, though. A right shame."</p>
 </div>
 
-Lief then continues to ramble. If stopped and further questionned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If Ireena is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
+Lief then continues to ramble. If stopped and further questioned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If Ireena is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
 
 If asked how to access the “old treasury," Lief is willing to help the players only if they first promise to fully tabulate and log the items found therein, and to avoid taking any for themselves. (“Count Strahd always finds out," he wheezes, wagging a bony finger at them.) Players who intend to steal from the treasury can convince Lief of their good faith by succeeding on a DC 12 Charisma (Deception) check. If they do, Lief abashedly admits that he doesn’t recall the proper way to enter, but does remember that it involved “poking" something in the third-floor study. (Lief doesn’t remember it, but he’s referring to the poker mechanism by the fireplace in <span class="citation">K37. Study (p. 66)</span>.
 ### King’s Hall
@@ -613,13 +625,13 @@ This area is as described in <span class="citation">K34. Servants’ Upper Floor
 This area is as described in <span class="citation">K31. Trapworks (p. 63)</span> and <span class="citation">K31a. Elevator Shaft (p. 63)</span>.
 
 > [!lore]+ **The Elevator**
-> The elevator trap was once a proper elevator, designed by the genius toymaker Fritz von Weerg. In its heyday, servants used it to reach the [[#King’s Hall]] (for access to the [[#Audience Hall]] and [[#Chapel Balcony]]), [[#Belfry Access Hall]] (to ring the bell to mark meals, mornings, emergencies, and other occasions), and [[#P8. Guest Suite]] (to deliver meals to visiting guests and dignitaries). After he became a vampire, however, Strahd turned the elevator into a trap for thieves and vampire hunters.
+> The elevator trap was once a proper elevator, designed by the genius toymaker Fritz von Weerg. In its heyday, servants used it to reach the [[#King’s Hall]] (for access to the [[#Audience Hall]] and [[#Chapel Balcony]]), [[Arc P - Ravenloft Heist#P7b. Belfry Access Hall|Belfry Access Hall]] (to ring the bell to mark meals, mornings, emergencies, and other occasions), and [[#P8. Guest Suite]] (to deliver meals to visiting guests and dignitaries). After he became a vampire, however, Strahd turned the elevator into a trap for thieves and vampire hunters.
 >
 > A player who inspects the machinery here and succeeds on a DC 15 Intelligence (Investigation) check discerns that the elevator has been reconfigured to be activated by a trigger mechanism elsewhere in the castle. A player who subsequently succeeds on a DC 20 Dexterity (Thieves or Tinkers’ Tools) check can manually activate the elevator mechanism, causing the elevator to rise or descend to any accessible floor. (A player who activates the elevator in this way before entering it must succeed on a DC 15 Dexterity saving throw to enter the elevator before it departs.)
 
 > [!info]+ **Second-Floor Shaft Access**
 > Players who find and pass through the secret door exit the servants’ wing and enter [[#P4. Castle Commons]] via [[#King’s Hall]].
-## P5d. Servants’ Wing, Third Floor
+## P5c. Servants’ Wing, Third Floor
 ### Third-Floor Elevator Access
 <span class="citation"><em>This scene takes place in Chapter 4, Area K31b.</em></span>
 
@@ -684,7 +696,7 @@ The first time any player approaches the doors to <span class="citation">K67. Ha
 When the dinner bell rings, the two **vampire spawn** lurking in [[#Kitchen]] and [[#Butler’s Quarters]] quietly scuttle across the 10-foot ceiling, attacking from above the following round. Players with a passive Wisdom (Perception) score of 15 or below are surprised when the vampires attack.
   
 > [!combat]- **Balancing the Ravenous Spawn** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 7% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 7% of their total maximum hit points. For parties of smaller, modify the encounter as follows: 
 > **Three Players**. Reduce the number of vampire spawn to one.
 
 The vampires prefer to target easy prey, including unarmored or surprised characters. Once a vampire has successfully grappled a target with its ***claws***, it attempts to drag its prey away to a quiet place for feeding as follows:
@@ -743,7 +755,7 @@ This area is largely as described in <span class="citation">K32. Maid in Hell (p
 > The broom belongs to the witches’ coven that resides in [[#P9. Coven’s Quarters]], whose members affectionately refer to the broom as their “pet."
 
 > [!lore]+ **Historic Inhabitants**
-> This room once served as the living quarters for the members of Strahd’s court, including castle fool Sir Jarnwald the Trickster (entombed in <span class="citation">Crypt 35, p. 92</span>, court wizard Gralmore Nimblenobs (entombed in <span class="citation">Crypt 36, p. 92</span>), and castle chaplain Tasha Petrovna (entombed in <span class="citation">Crypt 11, p. 87)</span>).
+> This room once served as the living quarters for the members of Strahd’s court, including castle fool Sir Jarnwald the Trickster (entombed in <span class="citation">Crypt 35, p. 92</span>, court wizard Gralmore Nimblenobs (entombed in <span class="citation">Crypt 37, p. 92</span>), and castle chaplain Tasha Petrovna (entombed in <span class="citation">Crypt 11, p. 87)</span>).
 ## P6b. King’s Apartments, Third Floor
 ### King’s Antechamber
 <span class="citation"><em>This scene takes place in Chapter 4, Area K35.</em></span>
@@ -757,15 +769,15 @@ This area is largely as described in <span class="citation">K35. Guardian Vermin
 > * **Six Players**. Increase the number of swarms of rats to five.
 
 > [!info]+ **South Tower Stair**
-> ***B2F.*** Players who descend four flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments and enter [[#P11. Dungeons]] via [[#Dungeon Hall]].
+> ***B2F.*** Players who descend four flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments and enter [[#P11. Dungeons]] via [[Arc P - Ravenloft Heist#P11a. Dungeon Hall|Dungeon Hall]].
 >
 > ***B1F.*** Players who descend three flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments  and enter [[#P5. Servants’ Wing]] via [[#Elevator Hall]].
 >
-> ***1F.*** Players who descend two flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments and enter [[#P4. Castle Commons]] via [[#Main Entry]].
+> ***1F.*** Players who descend two flights of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments and enter [[#P4. Castle Commons]] via [[Arc P - Ravenloft Heist#Main Entrance|Main Entrance]].
 >
 > ***2F.*** Players who descend one flight of stairs down <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments and enter [[#P4. Castle Commons]] via [[#Accountant’s Office]].
 >
-> ***4F.*** Players who ascend one flight of stairs up <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments  and enter [[#P8. Guest Suite]] via [[#Guest Landing]].
+> ***4F.*** Players who ascend one flight of stairs up <span class="citation">K21. South Tower Stair (p. 59)</span> exit the king’s apartments  and enter [[#P8. Guest Suite]] via [[Arc P - Ravenloft Heist#P8a. Guest Landing|Guest Landing]].
 ### King’s Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K36.</em></span>
 
@@ -775,12 +787,12 @@ This area is largely as described in <span class="citation">K36. (p. 65)</span>.
 
 This area is largely as described in <span class="citation">K37. Study (p. 66)</span>. However, the doors leading to <span class="citation">K36. Dining Hall of the Count (p. 65)</span>, <span class="citation">K45. Hall of Heroes (p. 68)</span>, and <span class="citation">K83. Spiral Stair (p. 85)</span> are locked as described in <span class="citation">The Lands of Barovia: Common Features (p. 33)</span>.
 
-In addition, a player who inspects the portrait of Tatyana notices that she is wearing a silver bracelet carved with an intricate pattern of the moon and stars, with a moonstone gem embedded at the center of the moon and multiple lapis-lazuli serving as the stars. A player who has previously seen Ireena’s bracelet in [[Act I - Into the Mists/Arc B - Welcome to Barovia#B5e. Lugdana’s Knoll|Arc B - Welcome to Barovia]] recognizes it as the same bracelet.
+In addition, a player who inspects the portrait of Tatyana notices that she is wearing a silver bracelet carved with an intricate pattern of the moon and stars, with a moonstone gem embedded at the center of the moon and multiple lapis-lazuli serving as the stars. A player who has previously seen Ireena’s bracelet in [[Act I - Into the Mists/Arc B - Welcome to Barovia#B5j. Lugdana's Knoll|Arc B - Welcome to Barovia]] recognizes it as the same bracelet.
 
 If present, Ireena is disturbed at the sight of the portrait and its clear resemblance to her, and voices her disbelief and discomfort at the thought that Strahd would commission a portrait of her. A player who succeeds on a DC 10 Intelligence (Investigation) check discerns that the portrait is centuries old. If informed of this fact, Ireena’s discomfort lessens, though she becomes stressed and disturbed at the prospect of this strange woman’s resemblance to her—especially if the players suggest she might be this woman’s reincarnation.
 
 > [!info]+ **Exiting the Study**
-> A player who departs the study via <span class="citation">K83. Spiral Stair (p. 85)</span> exits the king’s apartments, passes through <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>, and enters the [[#Dungeons]] via [[#P11e. Brazier Room]].
+> A player who departs the study via <span class="citation">K83. Spiral Stair (p. 85)</span> exits the king’s apartments, passes through <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>, and enters the [[Arc P - Ravenloft Heist#P11. Dungeons|Dungeons]] via [[#P11e. Brazier Room]].
 >
 > The spiral stair landing is largely as described in <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>, but the tapestry is no longer present.
 ### Bath Chamber & Closet
@@ -797,7 +809,7 @@ This area is largely as described in <span class="citation">K42. King’s Bedcha
 ![[Gertruda.png]]
 <span class="credit">"Gertruda" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Gertruda**
+> [!profile]+ **Profile: Gertruda**
 > **Roleplaying Information**
 > ***Resonance.*** Gertruda should inspire endearment for her idealism and pity for Escher, sympathy for her devotion to Doru and her mother, and flattery for her sincere gratitude to the players for rescuing her.
 >
@@ -914,7 +926,7 @@ As with Ludmilla, Anastrasya fights to the death, unwilling to face Strahd’s w
 <strong>Saving Throws</strong> Dex +6, Wis +3, Cha +6<br>
 <strong>Skills</strong> Deception +6, Perception +3, Persuasion +6, Stealth +6<br>
 <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> passive Perception 13<br>
+<strong>Senses</strong> darkvision 60ft., passive Perception 13<br>
 <strong>Languages</strong> Common, Elvish<br>
 <strong>Challenge</strong> 7 (2,900 XP)<br>
 <strong>Proficiency Bonus</strong> +3
@@ -925,6 +937,7 @@ As with Ludmilla, Anastrasya fights to the death, unwilling to face Strahd’s w
 <p><strong><em>Skinchange.</em></strong> When Anastrasya is reduced to 0 hit points, her skin sloughs off, revealing a giant, bloated, grotesque bat. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn’t change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Anastrasya makes three attacks with her flying sword, or two with her claws.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> <span class="highlight">+6 to hit</span>, reach 5 ft., one willing creature, or a creature that is grappled by Anastrasya, incapacitated, or restrained. <em>Hit:</em> <span class="highlight">6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage</span>. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Anastrasya regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Anastrasya can grapple the target (escape DC 13).</p>
 <p><strong><em>Flying Sword.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 30 ft., one target. <em>Hit:</em> 7 (1d8 + 3) slashing damage.</p>
 <h3>Bonus Actions</h3>
@@ -972,7 +985,7 @@ As with Ludmilla, Anastrasya fights to the death, unwilling to face Strahd’s w
 <strong>Saving Throws</strong> Dex +6, Wis +3, Cha +6<br>
 <strong>Skills</strong> Deception +6, Perception +3, Persuasion +6, Stealth +6<br>
 <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> passive Perception 13<br>
+<strong>Senses</strong> darkvision 60ft., passive Perception 13<br>
 <strong>Languages</strong> Common, Elvish<br>
 <strong>Challenge</strong> 7 (2,900 XP)<br>
 <strong>Proficiency Bonus</strong> +3
@@ -982,7 +995,7 @@ As with Ludmilla, Anastrasya fights to the death, unwilling to face Strahd’s w
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Anastrasya takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Anastrasya makes three attacks, only one of which can be a bite attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> <span class="highlight">+6 to hit</span>, reach 5 ft., one willing creature, or a creature that is grappled by Anastrasya, incapacitated, or restrained. <em>Hit:</em> <span class="highlight">6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage</span>. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Anastrasya regains hit points equal to that amount. The reduction lasts until the target finishes a long rest.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> <span class="highlight">+6 to hit</span>, reach 5 ft., one willing creature, or a creature that is grappled by Anastrasya, incapacitated, or restrained. <em>Hit:</em> <span class="highlight">6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage</span>. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Anastrasya regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> <span class="highlight">+6 to hit</span>, reach 5 ft., one target. <em>Hit:</em> <span class="highlight">8 (2d4 + 3) slashing damage</span>. Instead of dealing damage, Anastrasya can grapple the target (escape <span class="highlight">DC 13</span>).</p>
 <p><strong><em>Vomit Blood.</em></strong> Anastrasya spews blood in a <span class="highlight">15-foot cone</span>. Each creature in that area must make a <span class="highlight">DC 14 Dexterity saving throw</span>, taking <span class="highlight">7 (2d6) bludgeoning damage and 3 (1d6) necrotic damage</span> on a failed save, or half as much damage on a successful one.</p>
 <h3>Bonus Actions</h3>
@@ -993,6 +1006,9 @@ As with Ludmilla, Anastrasya fights to the death, unwilling to face Strahd’s w
 <p><strong><em>Wing Attack.</em></strong> When Anastrasya takes damage from a creature within 5 feet of her, she can force the attacker to make a <span class="highlight">DC 14 Strength saving throw</span>. On a failed save, the attacker is pushed back <span class="highlight">10 feet</span>. If they fail the save by 5 or more, they also fall prone.</p>
 <p><strong><em>Vampiric Command.</em></strong> When a creature moves within 10 feet of Anastrasya or damages her while within 10 feet of her, she can use her reaction to force the creature to make a <span class="highlight">DC 14 Wisdom saving throw</span>. On a failed save, Anastrasya can command the creature as if she had cast the <em>command</em> spell, without expending a spell slot or using any components.</p>
 </div>
+
+![[Ana_Phase_2.png]]
+<span class="credit">"Anastrasya in her second form" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### Hall of Heroes
 <span class="citation"><em>This scene takes place in Chapter 4, Area K45.</em></span>
@@ -1194,7 +1210,7 @@ The witches in [[#P9c. Cauldron Room]] emerge and join the fray if they hear the
 ## P9c. Cauldron Room
 <span class="citation"><em>This scene takes place in Chapter 4, Area K56.</em></span>
 
-This area is largely as described in <span class="citation">K56. (p. Cauldron Room)</span>. However, replace the reference to “green-glowing wisps of steam" in this area’s description with “red-glowing wisps of steam."
+This area is largely as described in <span class="citation">K56. Cauldron (p. 72)</span>. However, replace the reference to “green-glowing wisps of steam" in this area’s description with “red-glowing wisps of steam."
 
 > [!lore]+ **The Cauldron**
 > The potion in the cauldron, when imbibed by a **zombie**, transforms it into a **zombie plague spreader**. Due to the enchantments layered into the potion by the witches, a **zombie plague spreader** created in this way is loyal first to Strahd, second to Rahadin, third to Strahd’s consorts, and last to the witches who created it. Unless ordered otherwise, the plague spreader attacks any non-undead on sight.
@@ -1212,7 +1228,7 @@ If the players didn’t attract her to [[#Main Foyer]], Ludmilla Vilisevic is al
 > [!item]+ **Potion of Poison Immunity**
 > A *potion of poison immunity* has the properties of a *potion of poison resistance*, but grants immunity rather than resistance.
 
-One of the Barovian stormwitches is Diavola, the leader of the coven. Diavola, who wears pewter earrings shaped like lightning bolts, has 28 hit points and an additional 2nd-level spell slot. In addition, rather than a _potion of healing_, Diavola carries a *potion of greater healing*.
+One of the Barovian stormwitches is Diavola, the leader of the coven. Diavola, who wears pewter earrings shaped like lightning bolts, has 28 hit points and an additional 2nd-level spell slot. In addition, rather than a _potion of healing_, Diavola carries a *potion of greater healing*. On her first turn in combat, Diavola cries: "We shall defeat you as Mother Lysaga taught us—for the glory of Brother Strahd!"
 
 > [!info]+ **Hexwitches, Bogwitches & Stormwitches**
 >
@@ -1368,7 +1384,7 @@ This area is as described in <span class="citation">K12. Turret Post (p. 57)</sp
 This area is as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. Players who ascend the stairs reach [[#King’s Landing]]. Players who descend the stairs reach [[#North Tower Vestibule]].
 
 > [!info]+ **The Secret Door**
-> Players who find and pass through the secret door set in the northeastern wall exit the Garrison and enter [[#P5. Servants' Wing]] via [[#Servants' Upper Floor]].
+> Players who find and pass through the secret door set in the northeastern wall exit the Garrison and enter [[#P5. Servants’ Wing]] via [[Arc P - Ravenloft Heist#Servants’ Upper Floor|Servants' Upper Floor]].
 
 > [!info]+ **The Heart of Sorrow**
 > The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
@@ -1405,7 +1421,7 @@ This area is largely as described in <span class="citation">K46. Parapets (p. 68
 
 This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. Players who ascend the stairs reach [[#General’s Landing]] via [[#North Tower Stair]]. Players who descend the stairs reach [[#Servants’ Landing]].
 
-Players who pass through the western archway exit the Garrison and enter [[#P6a. King’s Apartments]] via [[#Hall of Heroes]].
+Players who pass through the western archway exit the Garrison and enter [[Arc P - Ravenloft Heist#P6. King’s Apartments|King's Apartments]] via [[#Hall of Heroes]].
 
 > [!info]+ **The Heart of Sorrow**
 > The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
@@ -1455,7 +1471,7 @@ This area is largely as described in <span class="citation">K20. Heart of Sorrow
 This area is as described in <span class="citation">K57. Tower Roof (p. 72)</span> and<span class="citation">K58. Bridge (p. 73)</span>.
 
 > [!info]+ **Descending the Offstair**
-> Players who descend <span class="citation">K48. Offstair (p. 70)</span> exit the Garrison and enter [[#P9. Coven's Quarters]] via the landing outside [[#P9a. Familiar Room]].
+> Players who descend <span class="citation">K48. Offstair (p. 70)</span> exit the Garrison and enter [[Arc P - Ravenloft Heist#P9. Coven’s Quarters|Coven's Quarters]] via the landing outside [[#P9a. Familiar Room]].
 ## P10h. Garrison, Seventh Floor
 ### North Tower Peak
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K60.</em></span>
@@ -1490,7 +1506,7 @@ The bats arrive in two rounds, rather than three.
 <span class="citation"><em>This scene takes place in Chapter 4, Area K73.</em></span>
 
 > [!info]+ **Flooded Areas** 
-> The areas of <span class="citation">K73. Dungeon Hall (p. 82) </span>, <span class="citation">K74. North Dungeon (p. 82) </span>, <span class="citation">K75. North Dungeon (p. 82) </span>, <span class="citation">K76. Torture Chamber (p. 82) </span>, and <span class="citation">K77. Observation Balcony (p. 82)</span> are difficult terrain.
+> The areas of <span class="citation">K73. Dungeon Hall (p. 82) </span>, <span class="citation">K74. North Dungeon (p. 82) </span>, <span class="citation">K75. North Dungeon (p. 82) </span>, <span class="citation">and K76. Torture Chamber (p. 82) </span>  are difficult terrain.
 
 This area is largely as described in <span class="citation">K73. Dungeon Hall (p. 79)</span>. However, the trapdoors function as follows:
 
@@ -1618,7 +1634,7 @@ Otherwise, if the players successfully placated Volenta at dinner, Anton Konstan
 > > 
 > > The bull’s stomach also contains a **boneless** (<span class="citation">Van Richten’s Guide, p. 228</span>), which attacks any living creatures on sight.
 > >
-> > > > A creature can open the bull’s stomach compartment by succeeding on a DC 15 Dexterity (Thieves’ Tools) check or a DC 20 Strength check. A creature imprisoned within the bull has disadvantage on any check made to open it.
+> > > A creature can open the bull’s stomach compartment by succeeding on a DC 15 Dexterity (Thieves’ Tools) check or a DC 20 Strength check. A creature imprisoned within the bull has disadvantage on any check made to open it.
 >
 > > [!info]- **The Breaking Wheel**
 > > This device is a large metal wheel with four rusted iron manacles attached to its circumference. A character teleported to this device from [[#P11a. Dungeon Hall]] finds themselves manacled to the device, their arms and legs spread and shackled against its metal frame. While imprisoned in this way, a character is restrained, and any attack that hits it is a critical hit if the attacker is within 5 feet of the creature.
@@ -1644,7 +1660,7 @@ Otherwise, if the players successfully placated Volenta at dinner, Anton Konstan
 ### Meeting Volenta
 If she is still alive and the players haven’t encountered her yet in the other areas of [[#P11. Dungeons]], Volenta Popofsky is seated on the left throne on <span class="citation">K77. Observation Balcony (p. 82)</span>, playing with a human skull held in her hand. (The skull belongs to Dezdrelda Konstaninova, Anton’s wife, who Volenta fed to the ghouls after her corpse was drained for blood in [[Arc O - Dinner with the Devil]].)
 
-Volenta greets the players with mild surprise and congratulates them on surviving the traps and foes elsewhere in the castle. If the players defeated her or otherwise foiled her plot in [[#Arc D - St. Andral’s Feast]], she informs them that she’s been relishing the opportunity for a rematch, and directs the **zombies** beneath the water to arise and attack. 
+Volenta greets the players with mild surprise and congratulates them on surviving the traps and foes elsewhere in the castle. If the players defeated her or otherwise foiled her plot in [[Arc D - St. Andral's Feast]], she informs them that she’s been relishing the opportunity for a rematch, and directs the **zombies** beneath the water to arise and attack. 
   
 > [!combat]- **Balancing the Torturer** 
 > Due to the phase mechanic, this combat encounter is a series of two consecutive **mild** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 11% of their total maximum hit points and the second of which will consume approximately 6% of their total maximum hit points (for a total of 17% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
@@ -1792,7 +1808,7 @@ Yellow for the mountain keep<br>
 In addition, revise the stones’ destinations as follows:
 
 * Violet leads to <span class="citation">U5. Marina’s Monument (p. 164)</span> in Berez.
-* Orange leads to <span class="citation">V7. Tower, First Floor (p. 171)</span> in Van Richten’s Tower.
+* Orange leads to <span class="citation">V4. Tower, First Floor (p. 170)</span> in Van Richten’s Tower.
 * Red leads to the Shrine of the White Sun in <span class="citation">S4. Pool and Shrine (p. 146)</span> in Krezk.
 * Green leads to <span class="citation">N6f. Vampire Nest (p. 118)</span> in the Coffin Maker’s Shop in Vallaki.
 * Indigo leads to <span class="citation">E6. Cemetery (p. 48)</span> in the Village of Barovia.
@@ -1843,7 +1859,7 @@ This **shadow**, which understands Common but can’t speak it, is the remnant o
 
 This area is as described in <span class="citation">K81. Tunnel (p. 84)</span> and <span class="citation">K82. Marble Slide (p. 85)</span>.
 
-> [!info]+ **Exiting the Tunnell**
+> [!info]+ **Exiting the Tunnel**
 > A player who exits the eastern end of the tunnel exits the dungeons and enters [[#P12. Catacombs]] via [[#North Crypts, First Row]].
 # P12. Catacombs
 <span class="citation"><em>This scene takes place in Chapter 4, Area K84.</em></span>
@@ -1945,7 +1961,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 30 (p
 In addition, remove the **imp** from Crypt 34, and place the *Spear of the Huntress* inside of the sarcophagus there.
 
 > [!item]+ **Spear of the Huntress**
-> This six-foot shaft of ash wood is adorned with carvings of wild animals, vines, and leaves, and bears a simple, yet sharp stone head. When first recovered from Dostron’s sarcophagus, it has the properties of a *blood spear* (<span class="citation">Blood Spear, p. 221</span>), but its wielder gains only a +1 bonus to attack and damage rolls made with it instead of +2. (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored only by reconsectating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav on Mount Ghakis.)
+> This six-foot shaft of ash wood is adorned with carvings of wild animals, vines, and leaves, and bears a simple, yet sharp stone head. When first recovered from Dostron’s sarcophagus, it has the properties of a *blood spear* (<span class="citation">Blood Spear, p. 221</span>), but its wielder gains only a +1 bonus to attack and damage rolls made with it instead of +2. (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored only by reconsecrating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav on Mount Ghakis.)
 #### South Crypts, Third Row
 This row of crypts is largely as described in <span class="citation">Crypt 35 (p. 92)</span>, <span class="citation">Crypt 36 (p. 92)</span>, <span class="citation">Crypt 37 (p. 92)</span>, <span class="citation">Crypt 38 (p. 92)</span>, <span class="citation">Crypt 39 (p. 93)</span>, and <span class="citation">Crypt 40 (p. 93)</span>. However, the **hell hounds** and General Grislek’s **wraith** do not emerge from Crypt 38 when it is first opened. In addition, Beucephalus cannot be found in Crypt 39 at this time. Finally, move the invisible teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> to the base of the stairs in Strahd’s tomb (see below).
 
@@ -2129,8 +2145,8 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 >
 > * The wielder gains the lair actions described in <span class="citation">Lair Actions (p. 239)</span>, and gains the ability to pass through solid walls, doors, ceilings, and floors as if they weren’t there.
 > * Every crypt door in <span class="citation">K84. Catacombs (p. 85)</span> swings open.
-> * The **skeletons** in <span class="citation">Crypt 2 (p. 86)</span>, <span class="citation">Crypt 3 (p. 86)</span>, <span class="citation">Crypt 5 (p. 86)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, <span class="citation">Crypt 13 (p. 88)</span>, <span class="citation">Crypt 16 (p. 89)</span>, <span class="citation">Crypt 17 (p. 89)</span>, <span class="citation">Crypt 19 (p. 89)</span>, <span class="citation">Crypt 24 (p. 90)</span>, <span class="citation">Crypt 25 (p. 90)</span>, <span class="citation">Crypt 26 (p. 90)</span>, <span class="citation">Crypt 28 (p. 90)</span>, <span class="citation">Crypt 30 (p. 91)</span>, <span class="citation">Crypt 33 (p. 91)</span>, <span class="citation">Crypt 36 (p. 92)</span>, <span class="citation">Crypt 37 (p. 92)</span>, and <span class="citation">Crypt 40 (p. 93)</span> animate. The following round, each skeleton emerges from its crypt, attacking any intruders on sight. (Skeletons without weapons can make only unarmed strikes and grapples.)
-> * All one hundred **skeletons** in <span class="citation">Crypt 14 (p. 88)</span> animate. Over the following three rounds, the skeletons form a living ladder, allowing any remaining **wights** in the vault to climb from the shaft and emerge from the crypt, attacking any intruders on sight. 2d6 armed **skeletons** emerge from the crypt each subsequent round, until all skeletons have emerged.
+> * The **skeletons** in <span class="citation">Crypt 2 (p. 86)</span>, <span class="citation">Crypt 3 (p. 86)</span>, <span class="citation">Crypt 5 (p. 86)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, <span class="citation">Crypt 13 (p. 88)</span>, <span class="citation">Crypt 16 (p. 89)</span>, <span class="citation">Crypt 17 (p. 89)</span>, <span class="citation">Crypt 19 (p. 89)</span>, <span class="citation">Crypt 24 (p. 90)</span>, <span class="citation">Crypt 25 (p. 90)</span>, <span class="citation">Crypt 26 (p. 90)</span>, <span class="citation">Crypt 28 (p. 90)</span>, <span class="citation">Crypt 30 (p. 91)</span>, <span class="citation">Crypt 33 (p. 91)</span>, <span class="citation">Crypt 36 (p. 92)</span>, <span class="citation">Crypt 37 (p. 92)</span>, and <span class="citation">Crypt 40 (p. 93)</span> animate. The following round, each skeleton emerges from its crypt, pursuing and attacking any intruders on sight. (Skeletons without weapons can make only unarmed strikes and grapples.)
+> * All one hundred **skeletons** in <span class="citation">Crypt 14 (p. 88)</span> animate. Over the following three rounds, the skeletons form a living ladder, allowing any remaining **wights** in the vault to climb from the shaft and emerge from the crypt, pursuing and attacking any intruders on sight. 2d6 armed **skeletons** emerge from the crypt each subsequent round, until all skeletons have emerged.
 > * On initiative count 20 of the third round after the amulet is activated, the **hell hounds** and **wraith** described in <span class="citation">Crypt 38 (p. 92)</span> begin to manifest in their crypt, coalescing fully from brimstone smoke three rounds later. They then emerge to pursue any intruders still remaining in the catacombs or [[#P11g. Catacomb Tunnel]].
 > * The **iron golems** in <span class="citation">K78. Brazier Room (p. 82)</span> begin to animate, activating fully on initiative count 20 of the fifteenth round after the amulet is activated. (Creatures in the Brazier Room while the golems are activating can observe their limbs and heads slowly grinding to life, their lifeless gazes locking onto any intruders present in their chamber.)
 > * The **red dragon wyrmling** statues in the [[#Main Entrance]], as well as any remaining **gargoyles** in the [[#Main Foyer]] and any remaining **wights** still guarding the castle walls (see [[#P2d. Crossing the Chasm]]), animate and begin moving toward the amulet’s wielder.

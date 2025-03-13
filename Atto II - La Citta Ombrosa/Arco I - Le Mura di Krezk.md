@@ -56,7 +56,7 @@ La strada per Krezk è come descritta in <span class="citation">S1. Incrocio Str
 
 I cancelli di Krezk sono in gran parte come descritti in <span class="citation">S2. Casa di Guardia (pag. 145)</span>. Se i giocatori hanno già sconfitto i druidi che occupano il Mago dei Vini in [[Arco J - La Gemma Rubata]], il Barone Krezkov li riconosce dalle descrizioni condivise da Adrian ed Elvir Martikov e li accoglie con gioia a Krezk. Procedi a [[#I6. Il Villaggio di Krezk]] qui sotto.
 
-> [!profile]+ **Barone Dmitri Krezkov**
+> [!profile]+ **Profilo: Barone Dmitri Krezkov**
 > **Informazioni di Ruolo.**
 > ***Risonanza.*** Dmitri dovrebbe ispirare conforto con la sua tranquilla fiducia e leadership, simpatia per la sua ansia e il suo dolore per la scomparsa del figlio, e lieve fastidio per la sua testardaggine e sospetto abituale verso gli estranei.
 > 
@@ -242,7 +242,7 @@ I fiori sono *aconito*. Il giovane uomo è l'Abate dell'Abbazia di San Markovia,
 
 Se i giocatori si avvicinano o si rivolgono a lui, l'Abate, senza alzare lo sguardo dal fiore, dice: "Un talismano contro il male, eppure un veleno mortale. Non è strano che un semplice fiore possa contenere tale dualità al suo interno?"
 
-> [!profile]+ **L'Abate**
+> [!profile]+ **Profilo: L'Abate**
 > **Informazioni di Ruolo**
 > ***Risonanza.*** L'Abate dovrebbe ispirare disagio con il suo stoicismo e le sue osservazioni di routine riguardo ai "mortali", disgusto per la sua mancanza di rispetto per la vita umana o i valori, rabbia per la sua suprema e incrollabile fiducia in se stesso, e gratitudine per la sua (un po' inquietante) cordialità e disponibilità a curare i giocatori dalla licantropia senza costi.
 > 

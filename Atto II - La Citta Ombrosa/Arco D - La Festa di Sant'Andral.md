@@ -364,7 +364,7 @@ Volenta usa i due vampiri spawn con lei come copertura, mettendoli tra lei e i g
 > * ***Sei Giocatori.*** Aumenta il numero di vampiri spawn a tre.
 
 > [!warning]+ **Luce Solare a Barovia**
-> Ricorda che i vampiri e altre creature a Barovia non sono influenzati dalla luce solare, come descritto in <span class="citation">Luce Solare a Barovia (p. 24)</span>.
+> Ricorda che i vampiri e altre creature a Barovia non sono influenzati dalla luce solare Baroviana, come descritto in <span class="citation">Luce Solare a Barovia (p. 24)</span>.
 
 > [!warning]+ **I Vampiri Non Sono Umanoidi**
 > Ricorda che i **vampiri spawn**, inclusa Volenta, hanno il tipo **non-morto**, piuttosto che il tipo **umanoide**. Pertanto, incantesimi ed effetti che bersagliano solo umanoidi, come _blocca persona_, o che non possono influenzare i non-morti, come _comando_, non hanno effetto su Volenta e sui vampiri che l'accompagnano.
@@ -472,7 +472,7 @@ Volenta usa i due vampiri spawn con lei come copertura, mettendoli tra lei e i g
 <p><strong><em>Frenesia del Sangue.</em></strong> Volenta ha vantaggio sui tiri per colpire in mischia contro qualsiasi creatura che non ha tutti i suoi punti ferita.</p>
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> Volenta effettua due attacchi, uno dei quali può essere un attacco di morso.</p>
-<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 a colpire, portata 5 ft., una creatura consenziente, o una creatura afferrata da Volenta, incapacitata o trattenuta. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti più 7 (2d6) danni necrotici. Il massimo dei punti ferita del bersaglio è ridotto di un ammontare pari ai danni necrotici subiti, e Volenta recupera punti ferita pari a quell'ammontare. La riduzione dura fino a quando il bersaglio non termina un riposo lungo. Il bersaglio muore se questo effetto riduce il suo massimo di punti ferita a 0.</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, portata 1,5 m, una creatura consenziente, o una creatura che è afferrata da Volenta, incapacitata o trattenuta. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti più 7 (2d6) danni necrotici. Il massimo dei punti ferita del bersaglio è ridotto di un ammontare pari ai danni necrotici subiti, e Volenta recupera punti ferita pari a tale ammontare. Il bersaglio muore se questo effetto riduce il suo massimo dei punti ferita a 0. Ogni volta che il bersaglio termina un riposo lungo senza essere morso di nuovo, può tirare uno dei suoi dadi ferita e aggiungere il suo modificatore di Costituzione. Il massimo dei punti ferita del bersaglio aumenta di un ammontare pari al risultato. (Questo aumento non può far salire i punti ferita del bersaglio sopra il suo massimo originale.)</p>
 <p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 a colpire, portata 5 ft., una creatura. <em>Colpito:</em> 8 (2d4 + 3) danni taglienti. Invece di infliggere danni, Volenta può afferrare il bersaglio (fuga CD 13).</p>
 <h3>Azioni Bonus</h3>
 <p><strong><em>Balzo.</em></strong> Volenta si muove fino alla sua velocità senza provocare attacchi di opportunità. Mentre lo fa, può sostituire 10 piedi di movimento con un salto in alto di 10 piedi.</p>

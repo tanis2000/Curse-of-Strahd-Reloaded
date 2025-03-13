@@ -50,7 +50,7 @@ When the players meet Urwin in the Blue Water Inn's kitchen after accepting his 
 ![[Muriel Vinshaw 1.png]]
 <span class="credit">"Muriel Vinshaw" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Muriel Vinshaw**
+> [!profile]+ **Profile: Muriel Vinshaw**
 > **Roleplaying Information**
 > ***Resonance.*** Muriel should inspire endearment with her enthusiastic, go-getter attitude, amusement with her snarky comments and cheerful sense of humor, and mild irritation with her stubbornness and occasional (though apologetic) refusals to reveal the secrets of the Keepers of the Feather.
 > 
@@ -235,7 +235,7 @@ As the players proceed past the pit trap, read:
 <p>The road continues, bending again as the trees begin to pull back from the path. Not far from the road, amidst a small grove of berry-bearing bushes stands an old stone slab standing just under six feet in height. It rests on an old, cracked stone circle, and seems to bear some kind of carving.</p>
 </div>
 
-If the players choose to investigate the slab, they find that it bears a carving of a wolf over an engraved three-pointed star.  (The slab is an ancient monument to the Huntress, and the three-pointed star the symbol of the Ladies Three. Unlike the other two slabs in Barovia, there is no lichen or moss on this monument, which is ordinarily well-maintained by the Martikovs. Although the Martikovs don't remember the names or natures of the Ladies of the Fanes, they retain a strong respect for Barovia's old gods.)
+If the players choose to investigate the slab, they find that it bears a carving of a wolf over an engraved three-pointed star.  (The slab is an ancient monument to the Huntress, and the three-pointed star the symbol of the Ladies Three. Unlike the other three slabs in Barovia, there is no lichen or moss on this monument, which is ordinarily well-maintained by the Martikovs. Although the Martikovs don't remember the names or natures of the Ladies of the Fanes, they retain a strong respect for Barovia's old gods.)
 # J3. The Wizard of Wines
 The last stretch of the journey to the Wizard of Wines is largely as described in <span class="citation">Approaching the Vineyard (p. 174)</span>. If Muriel is with the party, she recognizes the man's cloak as Davian Martikov’s and urges the players to meet him.
 
@@ -691,7 +691,7 @@ If the players free the ravens from their cages, they join the party as a **swar
     <p><strong><em>False Appearance.</em></strong> While the blight remains motionless, it is indistinguishable from a dead sapling.</p>
     <h3>Actions</h3>
     <p><strong><em>Multiattack.</em></strong> The twig blight makes one attack with its <em>claws</em> and up to one attack with its <em>roots</em>.</p>
-    <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage and the target is grappled (escape DC 9).</p>
+    <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage and the target is grappled (escape DC 9).</p>
     <p><strong><em>Root.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one creature that is grappled by the blight, incapacitated, or restrained. <em>Hit:</em> 4 (1d4 + 2) piercing damage plus 5 (2d4) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the blight regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
 </div>
 
@@ -1093,7 +1093,7 @@ The players can climb the trail straight to <span class="citation">Y3. Druids Ci
 > [!info]+ **The Swarms of Ravens**
 > The **swarms of ravens** that accompanied the players to Yester Hill follow in the skies behind them, but don't join in the fighting. (If the players mention this, Muriel points out that they'd be of little use when attacking against more dangerous foes than the blights of the winery, but notes her belief that they may find some way to help all the same.)
 > 
-> Although the ravens won't act as combatants in battle, they can aid the players in their fight against Ludmilla and in their efforts to escape should the ritual fail. See [[#Ludmilla & Muriel]] and [[#Stopping the Ritual]] for more information on how the ravens help.
+> Although the ravens won't act as combatants in battle, they can aid the players in their fight against Ludmilla and in their efforts to escape should the ritual fail. See [[#Ludmilla's Provocations]] and [[#J5f. Stopping the Ritual]] for more information on how the ravens help.
 ## J5a. Entering the Circle
 The druids' circle is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, add the following text to the end of the area's description:
 
@@ -1112,7 +1112,7 @@ Just beside the entrance to the ring of black boulders that forms the **Druids�
 The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers.** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
 
 > [!combat]- **Balancing the Ritual’s Guards**
-> The combat encounter with the **druid assailants** and **berserkers** (see [[#The Ritual Begins]] below) is a **bruising** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 2 ally (Muriel Vinshaw), and will consume approximately 35% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> The combat encounter with the **druid assailants** and **berserkers** (see [[Arc J - The Stolen Gem#J5c. The Ritual Begins|The Ritual Begins]] below) is a **bruising** combat encounter against a party of five 5th-level players, one CR 1 ally (Ireena Kolyana), and one CR 2 ally (Muriel Vinshaw), and will consume approximately 35% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of druid assailants to one.
 > * ***Four Players.*** Reduce the number of berserkers to one.
@@ -1125,7 +1125,7 @@ Shortly after the players enter the circle, any players still looking at the cir
 ![[Ludmilla.png]]
 <span class="credit">"Ludmilla Vilisevic" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Ludmilla Vilisevic**
+> [!profile]+ **Profile: Ludmilla Vilisevic**
 > **Roleplaying Information**
 > ***Resonance.*** Ludmilla should inspire irritation with her refusal to let the players provoke her (and her evident inability to feel anger), discomfort with her detached and analytical personality, and anger for her condescension and intricate insults.
 > 
@@ -1193,7 +1193,7 @@ The lightning strike signals the true beginning of the druids’ ritual. Once th
 > 
 > At the end of each hour that a player is infested by the tree’s roots, they must succeed on a DC 17 Constitution saving throw or take 1d6 necrotic damage. Their hit point maximum is reduced by an amount equal to the necrotic damage. This reduction lasts until the player finishes a long rest, and the player dies if this effect reduces their hit point maximum to 0.
 ## J5d. The Druidic Guards
-Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[#J5e. The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows*** (see below).
+Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[Arc J - The Stolen Gem#The Shroud of Mist|The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows*** (see below).
 <br>
 
 ![[Yester Hill Layout (Presentation) (1).png]]
@@ -1251,11 +1251,11 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
     <h2>Ludmilla, First Form</h2>
     <em>Medium undead, neutral evil</em>
     <hr>
-    <strong>Armor Class</strong> 16 (natural armor)
+    <strong>Armor Class</strong> 15 (natural armor)
     <br>
     <strong>Hit Points</strong> 120 (16d8 + 48)
     <br>
-    <strong>Speed</strong> 30 ft., climb 30 ft.
+    <strong>Speed</strong> 30 ft., climb 20 ft.
     <hr>
     <table class="ability-table">
         <thead>
@@ -1280,14 +1280,15 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
         </tbody>
     </table>
     <hr>
-    <strong>Saving Throws</strong> Dex +6, Wis +5, Int +7<br>
+    <strong>Saving Throws</strong> Dex +6, Int +7, Wis +3<br>
     <strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
     <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical weapons<br>
-    <strong>Senses</strong> Darkvision 120 ft., passive Perception 13<br>
-    <strong>Languages</strong> Common, Abyssal, Infernal<br>
-    <strong>Challenge Rating</strong> 6<br>
+    <strong>Senses</strong> passive Perception 13<br>
+    <strong>Languages</strong> Abyssal, Common, Draconic, Infernal<br>
+    <strong>Challenge Rating</strong> 8<br>
     <strong>Proficiency Bonus</strong> +3
     <hr>
+    <p><strong><em>Devil's Sight.</em></strong> Ludmilla can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
     <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn’t in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
     <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
     <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
@@ -1460,6 +1461,10 @@ When the players all either return from the Whispering Wall or decline to do so,
 > 
 > The wielder can spend all 3 charges as an action at any time of day to cast _enervation_ (save DC 15). If they do, the crest doesn’t regain charges for the next three dawns.
 
+![[Twilight_Crest.png]]
+
+<span class="credit">"Twilight Crest" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 When all players have either accepted or declined their gifts, Strahd mounts Beucephalus once again, bids them farewell, and notes that he looks forward to seeing them at dinner. He and Beucephalus then vanish into the Ethereal Plane.
 ## J6c. Gulthias Tree
 The players should have no reason to visit the grove of the Gulthias Tree at this time. Should they do, this area as described in <span class="citation">Y4. Gulthias Tree (p. 198)</span>. However, replace the last two sentences of the area description with the following text:
@@ -1495,7 +1500,7 @@ If he is satisfied that any of the players would choose sanctity over comfort, K
 
 * In Kavan’s ailing years, a tyrant named King Dostron the Hellborn invaded the valley with his army, scattering the First Folk and destroying their homes. He dammed up the Luna River to make farmland, and shattered the First Folks’ faith in the Ladies Three. When Dostron died, his armies withdrew and abandoned his fortress, but the First Folk remained apart and weak.
 * When Strahd invaded the valley hundreds of years later, many members of the druidic caste—still angered by Kavan’s betrayal and Dostron’s oppression—sought out his protection. A great schism split the First Folk, with those who opposed Strahd retreating to Soldav and those who favored Strahd remaining within the Svalich Wood. Today, Barovians know them as the Mountain Folk and the Forest Folk.
-* The land of Barovia, which the First Folk once called “Cerunnos"—meaning “fertile land"—has been corrupted by Strahd’s will and magic. Kavan doesn’t understand the nature of Strahd’s corruption, but he knows that Strahd draws power from the land, and that this profane connection causes great suffering to the creatures and landscape of the valley. To learn how to cleanse Strahd’s corruption, the players must travel to Soldav to seek the guidance of an elder of the faith of the Rozana among the Mountain Folk. (Only an elder of the faith of the Rozana can conjure and maintain the mist that shields Soldav from outsiders.)
+* The land of Barovia, which the First Folk once called “Girvisa"—meaning “fertile land"—has been corrupted by Strahd’s will and magic. Kavan doesn’t understand the nature of Strahd’s corruption, but he knows that Strahd draws power from the land, and that this profane connection causes great suffering to the creatures and landscape of the valley. To learn how to cleanse Strahd’s corruption, the players must travel to Soldav to seek the guidance of an elder of the faith of the Rozana among the Mountain Folk. (Only an elder of the faith of the Rozana can conjure and maintain the mist that shields Soldav from outsiders.)
 * Soldav is hidden somewhere in the Balinok Mountains, protected by a shroud of enchanted mist. So long as the mist remains, Soldav’s enemies can never find it, nor can they remember where it lies. Kavan remembers only the landmark that marks its entrance: a place in the mountains where two waterfalls run together. "Without a token of the Ladies, however," he warns, "you will never find the entrance, nor will Soldav's elders grant you entry."
 
 If the players ask why Kavan withheld this information during their initial meeting, he truthfully tells them that he sought to avoid revealing Soldav’s existence to Strahd’s servants or spies. “I betrayed my people once by choice," he rumbles. “I will not betray them a second time through foolish indiscretion."
@@ -1546,6 +1551,10 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 >* **Spy** on a location or character, tailing them discreetly and reporting back on their activities and associations after a predetermined period of time. (The agent won’t enter any structures while doing so.)
 >
 >The agent departs after completing the requested task.
+
+![[Keepers_Whistle.png]]
+
+<span class="credit">"Keeper's Whistle" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!abstract]+ **The Wine Shipments**
 > With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (freshly repaired) cart in <span class="citation">W2. Loading Dock (p. 176)</span> and set off, delivering three barrels first to Krezk then an additional three barrels to the Blue Water Inn in Vallaki. 

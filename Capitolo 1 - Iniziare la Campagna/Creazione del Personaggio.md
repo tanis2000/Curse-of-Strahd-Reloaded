@@ -212,7 +212,7 @@ Un giocatore in cerca di **redenzione** inizia la campagna con la *piuma d'angel
 
 Sconosciuto al giocatore, la *piuma d'angelo* apparteneva un tempo a Ithuriel, un **deva** che serve il dio Lathander, noto ai suoi seguaci come il Signore del Mattino. Ithuriel è il vero nome dell'Abate, che dimora nell'Abbazia di San Markovia a Barovia. Quando percepisce la presenza della Casa della Morte, la piuma viene spazzata via da un vento invisibile, i suoi barbule brillano di luce dorata, prima di atterrare sulla soglia della casa.
 
-Il giocatore che possiede la *piuma d'angelo* dovrebbe avere forti e vivide ragioni per credere che la piuma un giorno lo condurrà alla penitenza per i peccati che ha commesso.
+Il giocatore che possiede la *piuma d'angelo* dovrebbe avere forti e vivide ragioni per credere che la piuma un giorno lo condurrà alla redenzione per i peccati che ha commesso.
 
 ***Sviluppi.*** Quando i giocatori arrivano per la prima volta all'Abbazia in [[Arco I - Le Mura di Krezk]] o [[Arco K - L'Abbazia Caduta]], la *piuma d'angelo* brilla e viene spazzata via nello stesso modo in cui ha fatto percependo la Casa della Morte, guidando il giocatore verso l'Abate. L'Abate riconosce la piuma come sua, ma ne minimizza l'importanza.
 

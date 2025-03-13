@@ -222,6 +222,10 @@ Mentre i personaggi si muovono per partire dall'Incrocio del Fiume Ivlis dopo ch
 # C3. La Strige
 A metà strada dal sentiero dall'Incrocio del Fiume Ivlis all'Accampamento di Tser Pool, i personaggi sentono il suono di un uccello in difficoltà che gracchia dall'alto. Un corvo con le ali blu—riconoscibile come lo stesso corvo che li ha incontrati nel villaggio di Barovia—si schianta sulla strada ai piedi dei personaggi, visibilmente ferito. Questo è, ancora una volta, il **corvo mannaro** Muriel, in travestimento con 1 punto ferita. Le sue ali e il suo torso sono stati penetrati da diverse dozzine di spine d'argento, lasciandola incapace di volare, rigenerarsi o trasformarsi fino a quando non vengono rimosse.
 
+> [!info]+ **NPG moribondi**
+>
+> Come indicato in Mostri e Morte (<span class="citation">Manuale del Giocatore, p. 198</span>), i personaggi non giocanti alleati—come Muriel Vinshaw e qualsiasi altro PNG che combatta al fianco dei giocatori—dovrebbero cadere proni e incoscienti quando vengono ridotti a 0 punti ferita. Quando ciò accade, seguono le stesse regole per i tiri salvezza contro la morte dei personaggi giocanti, descritte ulteriormente in Tiri Salvezza contro la Morte (<span class="citation">Manuale del Giocatore, p. 197</span>).
+
 L'arrivo del corvo è seguito poco dopo da un terribile stridio e dall'arrivo di una **strige maggiore**: un grande "uccello" artificiale fatto di legno, pelli di animali, iuta e centinaia di piume di corvo nere. 
 
 La **strige maggiore** usa le statistiche di una **manticora**, ma è di taglia Media e ha vulnerabilità ai danni da fuoco. Invece di vere e proprie spine caudali, l'attacco **_spine caudali_** della strige maggiore rilascia una raffica di dozzine di piccole spine d'argento dalle sue ali.
@@ -289,7 +293,7 @@ Se salvata, Muriel rimane con i personaggi fino a quando non riesce a discernere
 <strong>Bonus di Competenza</strong> +2
 <br> 
 <hr> 
-<p><strong><em>Rigenerazione.</em></strong>  Muriel recupera 10 punti ferita all'inizio del suo turno se non ha subito danni necrotici o danni contundenti, perforanti o taglienti da un'arma d'argento dall'ultimo turno. Muore solo se inizia il suo turno con 0 punti ferita e non si rigenera.</p> 
+<p><strong><em>Rigenerazione.</em></strong>  Muriel recupera 10 punti ferita all'inizio del suo turno se non ha subito danni necrotici o danni contundenti, perforanti o taglienti da un'arma d'argento dall'ultimo turno.</p> 
 <p><strong><em>Imitazione.</em></strong> Muriel può imitare suoni semplici che ha sentito, come una persona che sussurra, un bambino che piange o un animale che cinguetta. Una creatura che sente i suoni può capire che sono imitazioni con una prova di Saggezza (Intuizione) CD 10.</p> 
 <p><strong><em>Caduta.</em></strong> Se Muriel vola per almeno 20 piedi dritta verso un bersaglio mentre scende di almeno cinque piedi verso il suolo, e poi colpisce quel bersaglio con un attacco con spada corta nello stesso turno, il bersaglio subisce un danno perforante extra di 7 (2d6). Se il bersaglio è una creatura, deve superare un tiro salvezza di Forza CD 12 o essere atterrato prono.</p> 
 <h3>Azioni</h3> 
@@ -614,7 +618,7 @@ Se i personaggi accettano il compito di Madam Eva, lei annuisce con approvazione
 <p>Muove la mano verso la terza carta, al braccio destro della croce, chiudendo le palpebre come in trance, le labbra serrate in una contemplazione silenziosa. La luce delle candele svanisce, per un battito di cuore—e poi ritorna in una nova di bianco ardente, così puro e forte e pulito che fa male guardarlo, brucia vederlo—</p>
 <p>Gli occhi di Madam Eva si spalancano, bruciando di una determinazione feroce.</p>
 <p>"Questa è una carta di potere e forza. Parla di un'arma di vendetta: una spada di luce solare." Gira la carta.</p>
-<p>La luce rivela una terza illustrazione: un uomo dal volto solenne vestito con paramenti sacri, una mano che stringe la catena di un turibolo di bronzo che emette fumo ardente. “L'Otto di Glifi—Il Vescovo.” La voce della veggente è forte di determinazione. (Vedi <span class="citation">Glifi (Cuori), p. 14</span>, per la predizione di questa carta.)</p>
+<p>La luce rivela una terza illustrazione: un uomo dal volto solenne vestito con paramenti sacri, una mano che stringe la catena di un turibolo di bronzo che emette fumo ardente. “L'Otto di Glifi—Il Vescovo.” La voce della veggente è forte di determinazione. "Ciò che cerchi si trova in una prigione di oscurità, oltre un paio di porte d'ambra," intona lei, socchiudendo gli occhi. "Quest'arma è nascosta da lungo tempo. La casa del drago caduto può condurti lì."</p>
 <p>Si sposta alla quarta carta, alla base della croce, e ascolta ancora una volta, tracciando piccoli cerchi sulla sua schiena mentre canticchia una nota contemplativa. Le fiamme magiche saltano e danzano sui loro stoppini, ora proiettando vortici di braci viola nell'aria mentre le tombe oltre brillano di un bagliore crepuscolare.</p>
 <p>"Questa carta fa luce su qualcuno che vi aiuterà grandemente nella battaglia contro l'oscurità."</p>
 <p>Gira la carta.</p>
@@ -655,7 +659,7 @@ Mentre i personaggi viaggiano verso ovest dall'Incrocio del Fiume Ivlis, leggi:
 <p>Presto, però, la strada si livella, continuando oltre una torre di guardia in rovina di tre piani situata sul bordo della scogliera. </p>
 <p>Le vecchie mura di pietra della torre sono coperte di muschio e edera, la sua porta di legno marcio che pende dai cardini. Nelle vicinanze, due tombe fresche si trovano contro la strada. Un cadavere di animale sembra giacere nell'erba alta non lontano.</p></div>
 
-Fermati per permettere ai personaggi di agire o reagire. Se i personaggi rimangono in silenzio, continua a [[#C7. La Caccia dei Lupi]] di seguito. Altrimenti, permetti ai personaggi di esplorare l'area.
+Fermati per permettere ai personaggi di agire o reagire. Se i personaggi rimangono in silenzio, continua a [[#C7. La Strada Alta]] di seguito. Altrimenti, permetti ai personaggi di esplorare l'area.
 ## La Torre di Guardia
 La torre di guardia in rovina è stata costruita come posto di vedetta dall'Ordine del Drago d'Argento molto tempo fa. Ha la stessa struttura della <span class="citation">Torre di Guardia (p. 157)</span> al Passo di Tsolenka, con le seguenti modifiche:
 
@@ -836,7 +840,7 @@ Questa scena si svolge in gran parte come descritto in <span class="citation">Pa
 > 
 > ***Morale.*** In un combattimento, Morgantha tenterebbe di negoziare per la pace, poi userebbe la sua abilità ***eterealità*** per fuggire nel Piano Etereo se sembra inutile.
 > 
-> ***Relazioni.*** Morgantha è la madre delle **streghe notturne** Bella e Offalia e la venditrice di pasticcini dei sogni per il rifugiato baroviano [[Arco H - L'Anima Perduta#I3b. Tenda di Franz|Franz]].
+> ***Relazioni.*** Morgantha è la madre delle **streghe notturne** Bella e Offalia e la venditrice di pasticcini dei sogni per il rifugiato baroviano [[Arco H - L'Anima Perduta#H3b. Tenda di Franz|Franz]].
 
 Morgantha saluta calorosamente i personaggi, chiamandoli "viaggiatori stanchi," e condivide la sua speranza che la strada non sia stata troppo dura per loro. Condivide liberamente le seguenti informazioni se le viene chiesto:
 
@@ -1051,6 +1055,10 @@ Quando i personaggi arrivano per la prima volta, l'inn contiene i seguenti PNG n
 * Urwin Martikov, che sta cucinando pane e stufato di barbabietole in **N2e. Cucina**;
 * Brom e Bray Martikov, che stanno giocando con giocattoli in **N20. Camera dei Ragazzi**; e
 * Rictavio, che sta raccontando storie ai clienti in **N2c. Sala Comune**, tra cui Nikolai e Karl Wachter.
+
+![[Vallaki_Martikovs.png]]
+
+<span class="credit">"The Martikovs of the Blue Water Inn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profilo: Urwin Martikov**
 >
@@ -1384,7 +1392,7 @@ La storia di Stanimir indica la relazione tra Strahd e i Vistani, prefigurando c
 
 ***Cascate di Tser.*** L'incontro con il revenant è stato aggiunto per fornire ai personaggi un gancio chiaro, anche se non urgente, per Argynvostholt. Le risposte del revenant sono intenzionalmente mantenute terse per garantire che i personaggi apprendano poco dell'Ordine del Drago d'Argento fino al loro incontro con Sir Godfrey Gwilym.
 
-***Incontro con Morgantha.*** Questa scena è stata strutturata intenzionalmente per scoraggiare i personaggi dal scoprire la vera identità di Morgantha, attaccare le streghe notturne o entrare nel Vecchio Mulino. (Avranno un'opportunità completa di farlo più tardi in ***Arco I. L'Anima Perduta***.) Invece, questa scena introduce semplicemente Morgantha come personaggio, prefigura il suo dominio sui sogni e informa i personaggi che vive nel vecchio mulino con le sue due figlie (cioè, la sua congrega).
+***Incontro con Morgantha.*** Questa scena è stata strutturata intenzionalmente per scoraggiare i personaggi dal scoprire la vera identità di Morgantha, attaccare le streghe notturne o entrare nel Vecchio Mulino. (Avranno un'opportunità completa di farlo più tardi in [[Arco H - L'Anima Perduta]].) Invece, questa scena introduce semplicemente Morgantha come personaggio, prefigura il suo dominio sui sogni e informa i personaggi che vive nel vecchio mulino con le sue due figlie (cioè, la sua congrega).
 
 ***I Boschi Profondi.*** Gli sciami di corvi sono stati aggiunti per garantire che i personaggi vedano i corvi (e, per estensione, i corvi mannari) come amici e alleati. La reazione di Ireena al Lago Zarovich è stata aggiunta per prefigurare ulteriormente la sua relazione con Izek e le sue origini a Vallaki.
 
