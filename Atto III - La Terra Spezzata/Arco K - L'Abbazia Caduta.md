@@ -1,569 +1,569 @@
-_An adventure for five 5th- or 6th-level characters._
+_Un'avventura per cinque personaggi di 5° o 6° livello._
 
-In this arc, upon gaining entry to Krezk, the players must ascend to the Abbey of Saint Markovia, where they are destined to meet their foretold ally against Strahd.
+In questo arco narrativo, una volta ottenuto l'accesso a Krezk, i giocatori devono salire all'Abbazia di Santa Markovia, dove sono destinati a incontrare il loro predetto alleato contro Strahd.
 
-Upon their arrival, the Abbot can provide the players with a brief tour and history of the Abbey, as well as inform them that the Vistana monster-hunter Ezmerelda d’Avenir has been a guest of the Abbey in recent days. 
+Al loro arrivo, l'Abate può fornire ai giocatori un breve tour e la storia dell'Abbazia, e informarli che la cacciatrice di mostri Vistana Ezmerelda d'Avenir è stata ospite dell'Abbazia negli ultimi giorni.
 
-If the players have arrived before the second night after the full moon, the Abbot informs the players that Ezmerelda is away and will return soon. If the players have arrived on or after the second night after the full moon, the Abbot leads them to Ezmerelda, who is glad to join their efforts—on the condition that they help her save Krezk from the Abbot’s madness.
-# K1. The Village of Krezk
-The players’ first journey to Krezk is as described in [[Arc I - The Walls of Krezk]]. However, if the players have already completed [[Arc J - The Stolen Gem]] and the Martikovs have delivered a shipment of wine to the village, Baron Krezkov has already heard of the players’ exploits and gladly allows them entry. (The Krezkov and Martikov families have long been close, ever since an heir of the Martikov clan married a member of the Krezkov family and inherited ownership of the Wizard of Wines winery. If the players have aided the Martikovs, Baron Krezkov feels he owes them a debt of personal gratitude.)
+Se i giocatori sono arrivati prima della seconda notte dopo la luna piena, l'Abate informa loro che Ezmerelda è via e tornerà presto. Se i giocatori sono arrivati alla seconda notte dopo la luna piena o più tardi, l'Abate li conduce da Ezmerelda, che è lieta di unirsi ai loro sforzi, a condizione che la aiutino a salvare Krezk dalla follia dell'Abate.
+# K1. Il Villaggio di Krezk
+Il primo viaggio dei giocatori a Krezk è come descritto in [[Arco I - Le Mura di Krezk]]. Tuttavia, se i giocatori hanno già completato [[Arco J - La Gemma Rubata]] e i Martikov hanno consegnato una spedizione di vino al villaggio, il Barone Krezkov ha già sentito parlare delle gesta dei giocatori e permette loro volentieri l'ingresso. (Le famiglie Krezkov e Martikov sono da lungo tempo in stretti rapporti, da quando un erede del clan Martikov sposò un membro della famiglia Krezkov ed ereditò la proprietà della cantina del Mago dei Vini. Se i giocatori hanno aiutato i Martikov, il Barone Krezkov sente di dover loro un debito di gratitudine personale.)
 
-> [!profile]+ **Profile: Baron Dmitri Krezkov**
-> **Roleplaying Information.**
-> ***Resonance.*** Dmitri should inspire comfort with his quiet confidence and leadership, sympathy for his anxiety and grief following his son's disappearance, and mild annoyance for his stubbornness and habitual suspicion of outsiders.
+> [!profile]+ **Profilo: Barone Dmitri Krezkov**
+> **Informazioni di Interpretazione**
+> ***Risonanza.*** Dmitri dovrebbe ispirare conforto con la sua tranquilla sicurezza e leadership, simpatia per la sua ansia e dolore dopo la scomparsa del figlio, e lieve fastidio per la sua testardaggine e abituale diffidenza verso gli stranieri.
 > 
-> ***Emotions.*** Dmitri most often feels concerned, melancholy, somber, determined, wary, stubborn, or gracious.
+> ***Emozioni.*** Dmitri si sente più spesso preoccupato, malinconico, cupo, determinato, cauto, testardo o cortese.
 > 
-> ***Motivations.*** Dmitri wants to protect his village and keep his family together.
+> ***Motivazioni.*** Dmitri vuole proteggere il suo villaggio e tenere unita la sua famiglia.
 > 
-> ***Inspirations.*** When playing Dmitri, channel Eddard Stark (*Game of Thrones*), King Théoden (*Lord of the Rings*) and Stoick the Vast (*How to Train Your Dragon*).
+> ***Ispirazioni.*** Nell'interpretare Dmitri, canalizza Eddard Stark (*Il Trono di Spade*), Re Théoden (*Il Signore degli Anelli*) e Stoick l'Immenso (*Dragon Trainer*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Dmitri is a grim, but warm leader. To those he trusts, Dmitri is a warm and loving father, husband, and friend. Only Dmitri knows the extent of his grief, anxiety, and guilt regarding his family's curse and the fate of his children and wife.
+> **Informazioni sul Personaggio**
+> ***Persona.*** Per il mondo, Dmitri è un leader cupo ma caloroso. Per coloro di cui si fida, Dmitri è un padre, marito e amico affettuoso e amorevole. Solo Dmitri conosce l'entità del suo dolore, ansia e senso di colpa riguardo alla maledizione della sua famiglia e al destino dei suoi figli e di sua moglie.
 > 
-> ***Morale.*** In a fight, Dmitri would act only to protect himself or his loved ones, beginning by warning his opponent to stand down, then fighting fiercely until his opponent yielded or was defeated.
+> ***Morale.*** In un combattimento, Dmitri agirebbe solo per proteggere se stesso o i suoi cari, iniziando avvertendo il suo avversario di arrendersi, poi combattendo ferocemente fino a quando il suo avversario non si arrende o viene sconfitto.
 > 
-> ***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the burgomaster of the village of Krezk.
+> ***Relazioni.*** Dmitri, un segreto **licantropo**, è il marito della Baronessa Anna Krezkova, il fratello del **licantropo** chierico di Madre Notte Zuleika Toranescu, il padre di Kala e Ilya Krezkov, e il borgomastro del villaggio di Krezk.
 
-The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation">Krezk Lore (p. 146)</span>, but with the following changes:
+Il villaggio di Krezk è come descritto in <span class="citation">S3. Village of Krezk (p. 145)</span>. Una volta che i giocatori sono all'interno delle mura del villaggio, il Barone Krezkov è felice di condividere qualsiasi o tutte le informazioni fornite in <span class="citation">Krezk Lore (p. 146)</span>, ma con le seguenti modifiche:
 
-* Dmitri's sole two children are the thirteen-year-old Ilya and the eight-year-old Kala. Ilya recently went missing after a werewolf attack.
-* The Abbot doesn't demand tribute in the form of wine. Additionally, while many believe the Abbot is Strahd or one of Strahd's servants, Dmitri's late grandfather once spoke of a time when the Abbot was kind and compassionate, and cared for the sick and suffering of Barovia. (Dmitri isn't sure whether he believes this or not.)
+* I due unici figli di Dmitri sono il tredicenne Ilya e l'ottenne Kala. Ilya è recentemente scomparso dopo un attacco di licantropi.
+* L'Abate non richiede tributi sotto forma di vino. Inoltre, mentre molti credono che l'Abate sia Strahd o uno dei suoi servitori, il defunto nonno di Dmitri parlava di un tempo in cui l'Abate era gentile e compassionevole, e si prendeva cura dei malati e sofferenti di Barovia. (Dmitri non è sicuro se crederci o meno.)
 
-If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov’s expression becomes stony and cold. He warns the players that the Abbot is a cruel and capricious creature, and further shares the Abbey’s sordid history and the strange rumors surrounding the Abbot.
+Se i giocatori menzionano il loro interesse per l'Abbazia di Santa Markovia, l'espressione del Barone Krezkov diventa pietrosa e fredda. Avverte i giocatori che l'Abate è una creatura crudele e capricciosa, e condivide ulteriormente la sordida storia dell'Abbazia e le strane voci che circondano l'Abate.
 
-If the players have completed [[Arc J - The Stolen Gem]] and are looking to stay overnight in Krezk, the Baron feels indebted to the players given his family's long friendship with the Martikovs, and invites the players to stay as guests in his family’s home.
+Se i giocatori hanno completato [[Arco J - La Gemma Rubata]] e cercano di pernottare a Krezk, il Barone si sente in debito con i giocatori dato il lungo rapporto di amicizia della sua famiglia con i Martikov, e invita i giocatori a soggiornare come ospiti nella sua casa di famiglia.
 
-> [!lore]+ **The Baron's Grief**
-> The Krezkov family has a secret: ever since a werewolf bit the Krezkov heir eighty years ago, some of the family’s direct descendants have been natural—born lycanthropes. Because these descendants are not the product of a union between two werewolves, they are born without the benefits of their curse, which emerges only on the night of the first full moon after their thirteenth birthday.
+> [!lore]+ **Il Dolore del Barone**
+> La famiglia Krezkov ha un segreto: da quando un licantropo ha morso l'erede dei Krezkov ottanta anni fa, alcuni dei discendenti diretti della famiglia sono stati licantropi naturali—licantropi nati. Poiché questi discendenti non sono il prodotto di un'unione tra due licantropi, nascono senza i benefici della loro maledizione, che emerge solo nella notte della prima luna piena dopo il loro tredicesimo compleanno.
 > 
-> Today, Baron Dmitri Krezkov is a **werewolf**, as is his thirteen-year-old son, Ilya Krezkov. Baroness Anna Krezkova, who married into the family, does not share the curse. Their eight-year-old daughter, Kala Krezkova, is too young to know whether she also shares the curse. (Baron Krezkov also has an elder sister, Zuleika Toranescu née Krezkova, a **werewolf** who abdicated her position as heir to join her lover, the **werewolf** Emil Toranescu, as a member of the Lake Baratok werewolf pack fourteen years ago.)
+> Oggi, il Barone Dmitri Krezkov è un **licantropo**, così come suo figlio tredicenne, Ilya Krezkov. La Baronessa Anna Krezkova, che ha sposato la famiglia, non condivide la maledizione. La loro figlia di otto anni, Kala Krezkova, è troppo giovane per sapere se condivide anche lei la maledizione. (Il Barone Krezkov ha anche una sorella maggiore, Zuleika Toranescu nata Krezkova, un **licantropo** che ha abdicato alla sua posizione di erede per unirsi al suo amante, il **licantropo** Emil Toranescu, come membro del branco di licantropi del Lago Baratok quattordici anni fa.)
 > 
-> Every two weeks, on the night of the full moon, Baroness Krezkova harvests a wolfsbane flower from the shores of Krezk’s blessed pool and brews a *potion of wolfsbane*, which she gives to Baron Krezkov to suppress the curse’s aggression. She then locks the Baron in silver shackles in the hidden basement beneath their cottage, where he transforms into a docile wolf at moonrise. Until recently, both Ilya and Kala were ignorant as to their family’s true nature, which their parents have kept a careful secret from both the village and their children.
+> Ogni due settimane, nella notte della luna piena, la Baronessa Krezkova raccoglie un fiore di aconito dalle rive della piscina benedetta di Krezk e prepara una *pozione di aconito*, che dà al Barone Krezkov per sopprimere l'aggressività della maledizione. Poi chiude il Barone in manette d'argento nel seminterrato nascosto sotto il loro cottage, dove si trasforma in un docile lupo al sorgere della luna. Fino a poco tempo fa, sia Ilya che Kala erano ignari della vera natura della loro famiglia, che i loro genitori hanno tenuto un attento segreto sia dal villaggio che dai loro figli.
 > 
-> One month ago, while constructing the **flesh golem** Vasilka, the Abbot of the Abbey of Saint Markovia determined that his creation required a living human heart, given willingly to strengthen its potency in “matters of the heart." After reviewing the family cemeteries within the village, the Abbot learned that Baroness Krezkova was, in fact, a direct descendant of the Federovna line and a distant relative of Tatyana Federovna. He decided that, as a blood descendant of Strahd's first love, she would therefore be a perfect candidate for Vasilka’s completion.
+> Un mese fa, mentre costruiva il **golem di carne** Vasilka, l'Abate dell'Abbazia di Santa Markovia determinò che la sua creazione richiedeva un cuore umano vivente, dato volontariamente per rafforzarne la potenza in "questioni di cuore". Dopo aver esaminato i cimiteri di famiglia all'interno del villaggio, l'Abate scoprì che la Baronessa Krezkova era, in effetti, una discendente diretta della linea Federovna e una lontana parente di Tatyana Federovna. Decise che, come discendente di sangue del primo amore di Strahd, sarebbe stata quindi una candidata perfetta per il completamento di Vasilka.
 > 
-> The Abbot, however, knew that the Baroness would never give him her heart willingly—and so, he developed a dark and cunning plot.
+> L'Abate, tuttavia, sapeva che la Baronessa non gli avrebbe mai dato il suo cuore volontariamente—e così, sviluppò un oscuro e astuto complotto.
 > 
-> As a celestial, the Abbot could sense the scent of lycanthropy upon Baron Krezkov and his son, Ilya. Through the use of his ***change shape*** ability, the Abbot appeared to Ilya in the form of Ilya’s long-absent aunt, Zuleika. 
+> Come celestiale, l'Abate poteva percepire l'odore della licantropia su Barone Krezkov e suo figlio, Ilya. Usando la sua abilità di ***cambiare forma***, l'Abate apparve a Ilya sotto forma della sua zia da lungo tempo assente, Zuleika.
 > 
-> "Zuleika" revealed to Ilya that he and his father's line were werewolves—misunderstood creatures once feared and respected as enemies of Strahd.  She claimed, however, that Strahd had corrupted their bloodline by convincing his ancestors to poison themselves with wolfsbane and silver, removing some of his most powerful foes.
+> "Zuleika" rivelò a Ilya che lui e la linea del padre erano licantropi—creature fraintese una volta temute e rispettate come nemici di Strahd. Affermò, tuttavia, che Strahd aveva corrotto la loro linea di sangue convincendo i suoi antenati ad avvelenarsi con aconito e argento, rimuovendo alcuni dei suoi nemici più potenti.
 > 
-> "Zuleika" told Ilya that she had abandoned Krezk because she refused to accept the family's poison, fearing that Strahd might one day rise again. She told Ilya that he shared the blood of great warriors, and that, by embracing his curse, he could protect his family and neighbors in the calamity of Strahd's reawakening.
+> "Zuleika" disse a Ilya che aveva abbandonato Krezk perché rifiutava di accettare il veleno della famiglia, temendo che Strahd potesse un giorno risorgere. Gli disse che condivideva il sangue di grandi guerrieri e che, abbracciando la sua maledizione, poteva proteggere la sua famiglia e i suoi vicini nella calamità del risveglio di Strahd.
 > 
-> To do so, "Zuleika" told him, he must pretend to drink the potion his mother provided him on the night of the full moon, and secretly discard its contents to fool her. She warned him to tell no one of their conversation—and especially not his parents.
+> Per farlo, "Zuleika" gli disse, doveva fingere di bere la pozione che sua madre gli forniva nella notte della luna piena, e segretamente scartare il suo contenuto per ingannarla. Gli avvertì di non dire a nessuno della loro conversazione—e soprattutto non ai suoi genitori.
 > 
-> Ilya, unwilling to believe that he or his parents were werewolves, rejected “Zuleika’s" story with anger and disbelief. But when, several days later, his parents informed him of his lycanthropic heritage, his world was shattered—and the Abbot's words filled the void to take its place.
+> Ilya, non volendo credere che lui o i suoi genitori fossero licantropi, respinse la storia di "Zuleika" con rabbia e incredulità. Ma quando, alcuni giorni dopo, i suoi genitori gli informarono della sua eredità licantropica, il suo mondo fu distrutto—e le parole dell'Abate riempirono il vuoto per prendere il loro posto.
 > 
-> On the night of the full moon, Ilya fooled his mother into believing he had drunk the *potion of wolfsbane*, but secretly poured it out in the earth of the family garden. That night, he transformed into a fearsome and aggressive werewolf, destroying his restraints and embarking on a rampage across the village—killing his younger sister, Kala, in the process. By midnight, Ilya had vanished from the village, fleeing the villagers' weapons and clambering across the walls to escape into the Svalich Wood.
+> Nella notte della luna piena, Ilya ingannò sua madre facendole credere di aver bevuto la *pozione di aconito*, ma segretamente la versò nel terreno del giardino di famiglia. Quella notte, si trasformò in un feroce e aggressivo licantropo, distruggendo le sue restrizioni e iniziando una furia attraverso il villaggio—uccidendo sua sorella minore, Kala, nel processo. Entro mezzanotte, Ilya era scomparso dal villaggio, fuggendo dalle armi dei villaggi e arrampicandosi sui muri per scappare nel Bosco di Svalich.
 > 
-> The following morning, the Abbot's messengers—Otto and Zygfrek Belview—approached the grieving Krezkovs and invited them to an audience at the Abbey. There, the Abbot promised to restore Kala's life—on the condition that the Baroness offer her own heart to the Abbot in trade. Baron Krezkov, horrified, watched helplessly as his wife gladly accepted the Abbot's offer.
+> La mattina seguente, i messaggeri dell'Abate—Otto e Zygfrek Belview—si avvicinarono ai Krezkov in lutto e li invitarono a un'udienza all'Abbazia. Lì, l'Abate promise di riportare in vita Kala—a condizione che la Baronessa offrisse il proprio cuore all'Abate in cambio. Il Barone Krezkov, inorridito, guardò impotente mentre sua moglie accettava volentieri l'offerta dell'Abate.
 > 
-> The Abbot resurrected Kala immediately as a sign of good faith. Then, in an attempted act of mercy, he allowed the Baroness one month to bid her goodbyes before returning to the Abbey to surrender her heart. Should she fail to return, he warned her, he would come himself to collect—and her entire village would pay the price.
-## K1a. The Krezkovs’ Cottage
-As the players approach the Krezkovs’ cottage, read:
+> L'Abate resuscitò immediatamente Kala come segno di buona fede. Poi, in un tentativo di atto di misericordia, concesse alla Baronessa un mese per dire i suoi addii prima di tornare all'Abbazia per cedere il suo cuore. Se non fosse tornata, la avvertì, sarebbe venuto lui stesso a raccogliere—e tutto il suo villaggio avrebbe pagato il prezzo.
+## K1a. Il Cottage dei Krezkov
+Quando i giocatori si avvicinano al cottage dei Krezkov, leggi:
 
 <div class="description">
-<p>The cottage before you is the largest structure you’ve seen within the village, but still modest in its design. Its outer walls are constructed of sturdy pine logs, weathered by time but well-maintained. A thick thatch roof slopes gently above, crowned by a stone chimney from which a thin wisp of smoke rises into the air. The windows are small but adorned with simple lace curtains, offering a glimpse of a warmer interior. </p>
-<p>Nearby, a fenced-in area reveals a small garden, the earth freshly turned and bearing a variety of herbs and vegetables. To one side of the cottage, a narrow path leads to a small family graveyard, its tombstones casting long shadows in the grey light.</p>
+<p>Il cottage davanti a voi è la struttura più grande che avete visto nel villaggio, ma ancora modesta nel suo design. Le sue pareti esterne sono costruite con robusti tronchi di pino, invecchiati dal tempo ma ben mantenuti. Un tetto di paglia spesso si inclina dolcemente sopra, coronato da un camino di pietra da cui un sottile filo di fumo sale nell'aria. Le finestre sono piccole ma adornate con semplici tende di pizzo, offrendo un'anteprima di un interno più caldo. </p>
+<p>Vicino, un'area recintata rivela un piccolo giardino, la terra appena rivoltata e che ospita una varietà di erbe e verdure. A un lato del cottage, un sentiero stretto conduce a un piccolo cimitero di famiglia, le sue lapidi che proiettano lunghe ombre nella luce grigia.</p>
 </div>
 
-The front door to the cottage leads to the entryway.
-### Entryway
-When the players enter the cottage’s front door, read:
+La porta d'ingresso del cottage conduce all'ingresso.
+### Ingresso
+Quando i giocatori entrano dalla porta d'ingresso del cottage, leggi:
 
 <div class="description">
-<p>The heavy wooden door creaks open to reveal an entryway with a worn rug underfoot. The scent of pine wood mingles with the earthy aroma of burning logs from a nearby fireplace, and a simple wooden table sits beside the door, holding a bowl filled with small trinkets.</p>
-<p>A mounted hand-carved board holds two hanging coats—one sized for an adult and one for a young child—with two pairs of boots hanging beneath the coats. Two additional empty pegs jut out from the board beside them.</p>
+<p>La pesante porta di legno si apre con un cigolio, rivelando un ingresso con un tappeto consumato sotto i piedi. L'odore del legno di pino si mescola con l'aroma terroso dei ceppi che bruciano in un camino vicino, e un semplice tavolo di legno si trova accanto alla porta, contenente una ciotola piena di piccoli gingilli.</p>
+<p>Una tavola montata e intagliata a mano tiene due cappotti appesi—uno della misura di un adulto e uno per un bambino piccolo—con due paia di stivali appesi sotto i cappotti. Due ulteriori ganci vuoti sporgono dalla tavola accanto a loro.</p>
 </div>
 
-Upon entering, Baron Krezkov—who insists that the players call him Dmitri while guests in his home—hangs his coat on one of the pegs on the wall and removes his boots. He then calls out to his wife, Baroness Anna Krezkova, who exits from the kitchen to warmly greet the players.
+Entrando, il Barone Krezkov—che insiste che i giocatori lo chiamino Dmitri mentre sono ospiti nella sua casa—appende il suo cappotto su uno dei ganci sul muro e si toglie gli stivali. Poi chiama sua moglie, la Baronessa Anna Krezkova, che esce dalla cucina per salutare calorosamente i giocatori.
 
-> [!profile]+ **Profile: Baroness Anna Krezkova**
-> **Roleplaying Information**
-> ***Resonance.*** Anna should inspire gratitude and comfort with her kindness and hospitality, mild irritation with her no-nonsense attitude, and (when the players learn of it) sympathy and endearment for her promise to the Abbot.
+> [!profile]+ **Profilo: Baronessa Anna Krezkova**
+> **Informazioni di Interpretazione**
+> ***Risonanza.*** Anna dovrebbe ispirare gratitudine e conforto con la sua gentilezza e ospitalità, lieve irritazione con il suo atteggiamento senza fronzoli, e (quando i giocatori ne vengono a conoscenza) simpatia e affetto per la sua promessa all'Abate.
 > 
-> ***Emotions.*** Anna most often feels compassionate, worried, determined, skeptical, thoughtful, sorrowful, or melancholy.
+> ***Emozioni.*** Anna si sente più spesso compassionevole, preoccupata, determinata, scettica, riflessiva, addolorata o malinconica.
 > 
-> ***Motivations.*** Anna wants to help Dmitri lead and support the people of Krezk, keep her children safe and happy, and see Ilya safely returned to Krezk.
+> ***Motivazioni.*** Anna vuole aiutare Dmitri a guidare e sostenere il popolo di Krezk, mantenere i suoi figli al sicuro e felici, e vedere Ilya tornare sano e salvo a Krezk.
 > 
-> ***Inspirations.*** When playing Anna, channel Catelyn Stark (_Game of Thrones_), Molly Weasley (_Harry Potter_), and Joyce Byers (_Stranger Things_).
+> ***Ispirazioni.*** Nell'interpretare Anna, canalizza Catelyn Stark (_Il Trono di Spade_), Molly Weasley (_Harry Potter_) e Joyce Byers (_Stranger Things_).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Anna is a compassionate and strong-willed leader dedicated to the safety of Krezk. To those she trusts, she is a caring woman who has resigned herself to the Abbot's bargain—and who grieves the thought of her children growing up without a mother.
+> **Informazioni sul Personaggio**
+> ***Persona.*** Per il mondo, Anna è una leader compassionevole e determinata dedicata alla sicurezza di Krezk. Per coloro di cui si fida, è una donna premurosa che si è rassegnata al patto con l'Abate—e che soffre al pensiero che i suoi figli crescano senza una madre.
 > 
-> ***Morale.*** In a fight, Anna would take up her battleaxe and command any opponents to lay down their weapons, but wouldn't hesitate to fight to defend herself, her family, or her neighbors.
+> ***Morale.*** In un combattimento, Anna prenderebbe la sua ascia da battaglia e comanderebbe agli avversari di deporre le armi, ma non esiterebbe a combattere per difendere se stessa, la sua famiglia o i suoi vicini.
 > 
-> ***Relationships.*** Anna is the wife of Baron Dmitri Krezkov, the mother of Ilya and Kala Krezkov, and the sister-in-law of the **werewolf** Zuleika Toranescu. In exchange for Kala's resurrection, Anna has also promised to allow the Abbot to remove the heart from her chest.
+> ***Relazioni.*** Anna è la moglie del Barone Dmitri Krezkov, la madre di Ilya e Kala Krezkov, e la cognata del **licantropo** Zuleika Toranescu. In cambio della resurrezione di Kala, Anna ha anche promesso di permettere all'Abate di rimuovere il cuore dal suo petto.
 
-If the players intend on staying the night, Anna asks the players to assist her in completing a series of chores before dinner: feeding the chickens, mucking out the pig pen, weeding the vegetable garden, and (most importantly) obtaining a bucket of milk from the cow of Kretyana Dolvof—a widow whose cottage lies just southwest of the village’s freshwater pool. Anna also welcomes the players’ help in the kitchen as she prepares an evening meal.
+Se i giocatori intendono pernottare, Anna chiede loro di aiutarla a completare una serie di faccende prima di cena: dare da mangiare ai polli, pulire il porcile, diserbare l'orto e (soprattutto) ottenere un secchio di latte dalla mucca di Kretyana Dolvof—una vedova il cui cottage si trova appena a sud-ovest della piscina d'acqua dolce del villaggio. Anna accoglie anche l'aiuto dei giocatori in cucina mentre prepara il pasto serale.
 
-Though the Krezkovs’ cottage doesn’t have much space, the players are welcome to set down their packs and bedrolls in the animal pens and the structure’s only empty bedroom (see [[#Ilya’s Bedroom]] below).
-### Animal Pens
-Behind a partition in the rear of the cottage are the animal pens. When the players enter this area, read:
+Sebbene il cottage dei Krezkov non abbia molto spazio, i giocatori sono invitati a posare i loro zaini e sacchi a pelo nei recinti degli animali e nell'unica camera da letto vuota della struttura (vedi [[#La Camera di Ilya]] sotto).
+### Recinti degli Animali
+Dietro una partizione nella parte posteriore del cottage ci sono i recinti degli animali. Quando i giocatori entrano in quest'area, leggi:
 
 <div class="description">
-<p>The grunting of pigs and clucking of chickens fill this area. Straw covers the floor, and wooden fences separate a pair of pens, which lie next to a trio of large chicken coops. A few lanterns hang from the ceiling, providing dim light, and a thick barn-style door leads out into the yard beyond.</p>
+<p>Il grugnito dei maiali e il chiocciare dei polli riempiono quest'area. La paglia copre il pavimento e recinti di legno separano una coppia di recinti, che si trovano accanto a un trio di grandi pollai. Alcune lanterne pendono dal soffitto, fornendo una luce fioca, e una spessa porta in stile fienile conduce nel cortile oltre.</p>
 </div>
 
-### Kitchen
-When the players enter this area, read:
+### Cucina
+Quando i giocatori entrano in quest'area, leggi:
 
 <div class="description">
-<p>A large wooden table stands at the center, surrounded by chairs and covered with a simple checkered tablecloth. Copper pots and pans hang from hooks above a stone hearth, and a variety of herbs dry from a wooden rack on the wall. An open window allows a cool breeze into the space, and a small pile of birdseed rests upon the windowsill.</p>
+<p>Un grande tavolo di legno si trova al centro, circondato da sedie e coperto con una semplice tovaglia a quadri. Pentole e padelle di rame pendono da ganci sopra un focolare di pietra, e una varietà di erbe secche pende da un rack di legno sulla parete. Una finestra aperta permette a una fresca brezza di entrare nello spazio, e un piccolo mucchio di semi di uccello riposa sul davanzale.</p>
 </div>
 
-If the players linger here, they notice that a musty, acrid odor emits from a mortar and pestle atop one of the higher shelves. If retrieved, the mortar contains a faint ground powder colored a vibrant shade of purple, identifiable as wolfsbane with a DC 13 Intelligence (Nature) check.
+Se i giocatori si soffermano qui, notano che un odore di muffa e acre emana da un mortaio e pestello in cima a uno degli scaffali più alti. Se recuperato, il mortaio contiene una polvere macinata di colore viola vibrante, identificabile come aconito con una prova di Intelligenza (Natura) CD 13.
 
-At some point before dinner, Dmitri and Anna meet in the kitchen for a quiet conversation, asking any players present to excuse themselves from the room for a moment of privacy. A player who eavesdrops on the conversation sees the following: 
+A un certo punto prima di cena, Dmitri e Anna si incontrano in cucina per una conversazione tranquilla, chiedendo a qualsiasi giocatore presente di scusarsi dalla stanza per un momento di privacy. Un giocatore che origlia la conversazione vede quanto segue:
 
 <div class="description">
-<p>A small robin flutters down to the windowsill, pecking quietly at the birdseed, as Dmitri and Anna huddle closer together and begin to speak in hushed voices.</p>
+<p>Un piccolo pettirosso svolazza giù sul davanzale, beccando tranquillamente i semi di uccello, mentre Dmitri e Anna si avvicinano e iniziano a parlare a bassa voce.</p>
 </div>
 
-The robin is the Abbot in disguise.
+Il pettirosso è l'Abate sotto mentite spoglie.
 
-A player can make a DC 14 Wisdom (Perception) check to attempt to eavesdrop on the conversation. On a success, they hear the following:
+Un giocatore può fare una prova di Saggezza (Percezione) CD 14 per tentare di origliare la conversazione. Con un successo, sente quanto segue:
 
 <div class="description">
-<p>“I know you said you’d made up your mind," Dmitri murmurs. “But please, Anna — you have to reconsider."</p>
-<p>“Dmitri—" Anna begins.</p>
-<p>Dmitri clasps her hands, his voice strained and desperate. “Gargosh, Ivan, and Falkon will help us. They won't ask questions; they know how dangerous it is to travel the roads. Ivan can lend us his mules—we can make a new life for you in Vallaki."</p>
-<p>Anna jerks her hands away. “No," she whispers. “I made my choice—for Kala and our people. How <em>dare</em> you ask me to flee like a coward?"</p>
+<p>“So che hai detto di aver preso una decisione," mormora Dmitri. “Ma per favore, Anna—devi riconsiderare."</p>
+<p>“Dmitri—" inizia Anna.</p>
+<p>Dmitri le stringe le mani, la sua voce tesa e disperata. “Gargosh, Ivan e Falkon ci aiuteranno. Non faranno domande; sanno quanto è pericoloso viaggiare per le strade. Ivan può prestarci i suoi muli—possiamo fare una nuova vita per te a Vallaki."</p>
+<p>Anna ritira bruscamente le mani. “No," sussurra. “Ho fatto la mia scelta—per Kala e il nostro popolo. Come <em>osi</em> chiedermi di fuggire come una codarda?"</p>
 </div>
 
-Dmitri flinches, then reflexively checks over his shoulder to ensure that no one is listening. A player must succeed on a DC 16 Dexterity (Stealth) check to remain unobserved; otherwise, Dmitri hears and smells them through the use of his ***keen hearing and smell*** feature. (Dmitri sharply asks the player whether they were eavesdropping, and tells them to forget what they heard and tell no one if they admit to doing so.)
+Dmitri si ritrae, poi controlla riflessivamente alle sue spalle per assicurarsi che nessuno stia ascoltando. Un giocatore deve superare una prova di Destrezza (Furtività) CD 16 per rimanere inosservato; altrimenti, Dmitri li sente e li annusa attraverso l'uso della sua caratteristica ***udito e olfatto acuti***. (Dmitri chiede bruscamente al giocatore se stava origliando, e gli dice di dimenticare ciò che ha sentito e di non dirlo a nessuno se ammette di averlo fatto.)
 
-If the eavesdropping player escapes detection, read:
+Se il giocatore che origlia sfugge alla rilevazione, leggi:
 
 <div class="description">
-<p>Dmitri closes his eyes and swallows. “I’m sorry," he says. “I just don’t want to lose you. With Ilya gone, and Kala in so much pain . . ." You hear the sound of a half-stifled sob. “I can’t do this on my own. I can’t do this without you."</p>
-<p>Anna embraces him. “We’ll figure this out," she whispers. “We always do."</p>
+<p>Dmitri chiude gli occhi e deglutisce. “Mi dispiace," dice. “Non voglio solo perderti. Con Ilya scomparso, e Kala in così tanto dolore . . ." Senti il suono di un singhiozzo mezzo soffocato. “Non posso farlo da solo. Non posso farlo senza di te."</p>
+<p>Anna lo abbraccia. “Troveremo una soluzione," sussurra. “Lo facciamo sempre."</p>
 </div>
 
-The robin on the windowsill flies away shortly thereafter.
+Il pettirosso sul davanzale vola via poco dopo.
 
-### Garden
+### Giardino
 
-When the players enter this area, read:
+Quando i giocatori entrano in quest'area, leggi:
 
 <div class="description">
-<p>Rows of vegetables—cabbages, carrots, and hardy turnips—grow in organized plots, their leaves a vibrant green against the dark, tilled soil. A wooden fence encloses the garden, its posts adorned with simple talismans—feathers, small stones, and bits of twine—that sway gently in the breeze. </p>
-<p>A small, lonely graveyard sits in the shadow of the cottage just beyond the fence.</p>
+<p>File di verdure—cavoli, carote e rape resistenti—crescono in appezzamenti organizzati, le loro foglie di un verde vibrante contro il terreno scuro e arato. Una recinzione di legno racchiude il giardino, i suoi pali adornati con semplici talismani—piume, piccole pietre e pezzi di spago—che ondeggiano dolcemente nella brezza. </p>
+<p>Un piccolo, solitario cimitero si trova all'ombra del cottage appena oltre la recinzione.</p>
 </div>
 
-If the players enter the garden during the day, add:
+Se i giocatori entrano nel giardino durante il giorno, aggiungi:
 
 <div class="description">
-<p>A young girl sits atop a boulder in the cemetery, staring at something just out of sight.</p>
+<p>Una giovane ragazza siede su un masso nel cimitero, fissando qualcosa appena fuori vista.</p>
 </div>
 
-The girl is Kala Krezkova. She doesn’t respond if the players call out to her.
+La ragazza è Kala Krezkova. Non risponde se i giocatori la chiamano.
 
-### Graveyard
-When the players enter this area, read:
+### Cimitero
+Quando i giocatori entrano in quest'area, leggi:
 
 <div class="description">
-<p>Tombstones, some weathered by time and others freshly carved, mark the resting places of the Krezkov family in this small, snow-dusted graveyard. A small grave, freshly dug but vacant, stands apart from the others. </p>
+<p>Lapidi, alcune consumate dal tempo e altre appena scolpite, segnano i luoghi di riposo della famiglia Krezkov in questo piccolo cimitero coperto di neve. Una piccola tomba, appena scavata ma vuota, si trova separata dalle altre. </p>
 </div>
 
-If the players enter the graveyard during the day, add:
+Se i giocatori entrano nel cimitero durante il giorno, aggiungi:
 
 <div class="description">
-<p>A young, dark-haired girl sits atop a boulder nearby, her hands hugging her knees to her chest as she stares silently at a small grave. She wears a thin tunic and no shoes, her small body so still that she seems almost to be a statue.</p>
+<p>Una giovane ragazza dai capelli scuri siede su un masso vicino, le mani che abbracciano le ginocchia al petto mentre fissa silenziosamente una piccola tomba. Indossa una tunica sottile e nessuna scarpa, il suo piccolo corpo così immobile che sembra quasi una statua.</p>
 </div>
 
 ![[Kala Krezkova.png]]
-<span class="credit">"Kala Krezkova" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Kala Krezkova" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The girl is Kala Krezkova. She doesn’t immediately respond if the players speak to her. If the players approach, however, she abruptly asks them: "Have you ever had a bad dream you couldn't wake up from?" 
+La ragazza è Kala Krezkova. Non risponde immediatamente se i giocatori le parlano. Se i giocatori si avvicinano, tuttavia, chiede bruscamente: "Hai mai avuto un brutto sogno da cui non riuscivi a svegliarti?"
 
-If the players answer her question with thoughtfulness and compassion, she asks: "If something bad happened, but then went away, is it like it never happened?"
+Se i giocatori rispondono alla sua domanda con riflessione e compassione, chiede: "Se è successo qualcosa di brutto, ma poi è andato via, è come se non fosse mai successo?"
 
-If the players again answer her question with thoughtfulness and compassion, Kala looks them in the eyes and whispers, "I don't think bad dreams ever really go away." Despite her young age, her eyes look haunted and weary.
+Se i giocatori rispondono di nuovo alla sua domanda con riflessione e compassione, Kala li guarda negli occhi e sussurra: "Non credo che i brutti sogni vadano mai via davvero." Nonostante la sua giovane età, i suoi occhi sembrano tormentati e stanchi.
 
-Baroness Anna Krezkova arrives shortly thereafter and exclaims, “There you are, Kala! You can’t go outside without a coat or boots; you’ll catch cold." She then scoops Kala up and brings her inside. (If asked, Anna awkwardly apologizes for Kala’s macabre thoughts, and claims that Kala has been like this ever since she “took ill" a few days ago. A successful DC 12 Wisdom (Medicine) check suggests that Kala has no apparent illness, while a successful DC 12 Wisdom (Insight) check suggests that Anna is not telling the entire truth. Anna refuses to elaborate and doubles down on her claim if challenged.)
-### Dining Room & Living Room
-The dining room shares a space with the living room, with no wall dividing them. When the players enter this area, read:
-
-<div class="description">
-<p>This large room is divided into two halves: a dining room and a living room. In the dining room, walls of aged pine softly absorb the flickering light from an wrought-iron chandelier that hangs overhead, its candles casting a cozy glow. A sideboard against one wall holds a variety of ceramic dishes and wooden utensils, as well as a few clay jars that might contain preserves or spices. The center of the room is dominated by a wooden table crafted of solid oak, its sides carved with patterns of forest leaves curled around crescents, circles, and oblong shapes. Six hand-carved wooden chairs sit around the table.</p>
-<p>A stone fireplace dominates a wall on the opposite side of the chamber, crackling softly as it bathes the space in a warm, flickering glow. A few well-worn chairs and a sofa huddle around a low wooden coffee table nearby, and shelves along the walls hold an assortment of books, family portraits, and small whittled wooden sculptures.</p>
-</div>
-
-Close inspection of the patterns on the table reveals that they depict the phases of the moon. The whittled sculptures depict an assortment of small wooden wolves and ravens, as well as a carved wooden sun and moon.
-
-Dinner consists of borscht (warm beetroot soup with carrots and potatoes), crusty rye bread with butter, and spiced milk with nutmeg (purchased from a Vistani caravan). If there aren’t enough chairs for both the Krezkovs and the players to sit at the dining table, any remaining players can take their meals in the living room.
-
-Midway through dinner, there comes a knock at the door. When Anna goes to answer it, a woman with the voice and appearance of Kretyana Dolvof greets her. When Anna greets her in return, with some small amount of surprise, and asks her business, read:
+La Baronessa Anna Krezkova arriva poco dopo e esclama: “Eccoti, Kala! Non puoi uscire senza cappotto o stivali; prenderai freddo." Poi prende in braccio Kala e la porta dentro. (Se interrogata, Anna si scusa goffamente per i pensieri macabri di Kala, e afferma che Kala è stata così da quando si è "ammalata" alcuni giorni fa. Una prova di Saggezza (Medicina) CD 12 suggerisce che Kala non ha alcuna malattia apparente, mentre una prova di Saggezza (Intuizione) CD 12 suggerisce che Anna non sta dicendo tutta la verità. Anna si rifiuta di elaborare e insiste sulla sua affermazione se sfidata.)
+### Sala da Pranzo e Soggiorno
+La sala da pranzo condivide uno spazio con il soggiorno, senza alcuna parete che li divida. Quando i giocatori entrano in quest'area, leggi:
 
 <div class="description">
-<p>One moment, the visage of an elderly woman stands before you. In the next instant, without any shade of transition or spectacle, she is gone—and in her place stands a handsome young man in a brown monk's robe, a painted wooden symbol that depicts the sun hanging from a chain around his neck. He carries himself with an ageless grace, and his eyes bear a quiet, cold serenity.</p>
+<p>Questa grande stanza è divisa in due metà: una sala da pranzo e un soggiorno. Nella sala da pranzo, le pareti di pino invecchiato assorbono dolcemente la luce tremolante di un lampadario in ferro battuto che pende sopra, le sue candele che proiettano un bagliore accogliente. Una credenza contro una parete contiene una varietà di piatti in ceramica e utensili in legno, così come alcuni vasi di argilla che potrebbero contenere conserve o spezie. Il centro della stanza è dominato da un tavolo di legno massiccio di quercia, i suoi lati intagliati con motivi di foglie di foresta avvolte intorno a crescenti, cerchi e forme oblunghe. Sei sedie di legno intagliate a mano sono disposte intorno al tavolo.</p>
+<p>Un camino di pietra domina una parete sul lato opposto della camera, crepitando dolcemente mentre bagna lo spazio in un caldo, tremolante bagliore. Alcune sedie ben usate e un divano si raggruppano intorno a un basso tavolino di legno nelle vicinanze, e scaffali lungo le pareti contengono una varietà di libri, ritratti di famiglia e piccole sculture in legno intagliato.</p>
 </div>
 
-This is the Abbot. Anna and Dmitri react to his appearance with shock, and a player with a passive Wisdom (Insight) score of 13 or higher notices that they appear to be terrified. In a low voice, Dmitri commands Kala to go to her bedroom—an order she silently obeys.
+Un'ispezione ravvicinata dei motivi sul tavolo rivela che raffigurano le fasi della luna. Le sculture intagliate rappresentano una serie di piccoli lupi e corvi di legno, così come un sole e una luna intagliati in legno.
 
-The Abbot greets Dmitri, Anna, and the players cordially, and notes with mild interest that the Krezkovs have guests. 
+La cena consiste in borscht (zuppa calda di barbabietole con carote e patate), pane di segale croccante con burro e latte speziato con noce moscata (acquistato da una carovana Vistani). Se non ci sono abbastanza sedie per far sedere sia i Krezkov che i giocatori al tavolo da pranzo, i giocatori rimanenti possono prendere i loro pasti nel soggiorno.
 
-Dmitri nervously asks to know why the Abbot has come to visit them. In response, as he steps toward the shelves above the hearth to inspect the whittled statues there, the Abbot asks whether it is a sin to visit the home of his friends and neighbors—"especially," he notes, with a glance toward Anna, “friends and neighbors who may soon be family?"
-
-As the conversation continues, the Abbot asks the players the following questions—ostensibly to ask their thoughts about Krezk, but meant in truth to deliver an ominous warning to the Krezkovs regarding the consequences of betrayal:
-
-* "How do you like the village? A quaint and quiet settlement, no?" (*The village is safe and quiet—for now.*)
-* "The children of Krezk have always seemed healthy and well-protected. The Krezkovs have been good stewards of this land, haven't they?" (*I gave you your child’s health. She and your neighbors will keep their lives and livelihoods—if you uphold your end of our bargain.*)
-* "I see by your weapons that you're no strangers to the dangers outside these walls. It's good that the good people of Krezk are protected, isn't it, from the threats that lurk beyond?" (*Krezk’s mighty walls will not protect you from my wrath.*)
-* "Isn't it beautiful how such a small, fragile thing can exist on the corners of Strahd's domain?" (*You exist because I allow it—and you will end if I demand it.*)
-
-If asked why the Krezkovs appear to be afraid of him, the Abbot insists that they have nothing to be afraid of. “There is no fear in doing one’s duty," he says serenely, “nor shame or sin in accepting one’s fate. Like the sun, moon, and stars, we all have our parts to play, and theirs is a blessed one." (The Abbot won’t share the Krezkovs’ “duty," insisting that one’s relationship with the gods is a private matter, to be shared only as one chooses. If addressed, the Krezkovs appear paralyzed with fear, and Dmitri only shakes his head instead of responding.)
-
-If further addressed, the Abbot looks briefly stricken and adds sadly, as he inspects a carved figurine of a wolf upon the mantelpiece, “It is true that many instruments of the gods have first rejected their calling. But is it not written that those who refuse to serve the divine become the tools of the divine, while those who serve the divine themselves become the divine?" He murmurs, mournfully, “The choice, I fear, is never an easy one."
-
-Unless stopped, the Abbot inclines his head respectfully toward Dmitri and Anna, apologizes for disturbing their meal, and bids them a good night. “You will consider my words tonight, I hope," he says, bowing deeply. “May the light of the Morninglord go with you." He then departs the cottage. Read:
+A metà cena, si sente un bussare alla porta. Quando Anna va a rispondere, una donna con la voce e l'aspetto di Kretyana Dolvof la saluta. Quando Anna la saluta a sua volta, con una piccola sorpresa, e le chiede il motivo della sua visita, leggi:
 
 <div class="description">
-<p>Through the front door of the cottage, beneath the fresh-falling snow, the young man’s silent silhouette stands wrought in a halo of dark moonlight. Then, within the blink of an eye, the man simply ceases to be; in his place, an eagle taller than a man stands upon the earth, its feathers blending seamlessly with the falling snowflakes. With a powerful flap of its wings, the creature ascends, soaring into the night sky until it vanishes into the depths of the Barovian darkness.</p>
+<p>Un momento, la figura di una donna anziana sta davanti a voi. Nell'istante successivo, senza alcuna ombra di transizione o spettacolo, è scomparsa—e al suo posto c'è un giovane uomo attraente in una tunica marrone da monaco, un simbolo di legno dipinto che raffigura il sole appeso a una catena intorno al collo. Si muove con una grazia senza tempo, e i suoi occhi portano una quieta, fredda serenità.</p>
 </div>
 
-Dmitri and Anna then collapse onto their knees, holding one another and crying quietly. If comforted, they can share the following information:
+Questo è l'Abate. Anna e Dmitri reagiscono alla sua apparizione con shock, e un giocatore con un punteggio di Saggezza (Intuizione) passivo di 13 o superiore nota che sembrano essere terrorizzati. Con una voce bassa, Dmitri comanda a Kala di andare nella sua camera da letto—un ordine che obbedisce silenziosamente.
 
-* Recently, a werewolf attacked the village of Krezk, somehow managing to bypass its walls. In its rampage, it wounded many and killed Kala. (“I held her in my arms as she died," Dmitri sobs. “Half her side was missing. She kept whispering, ‘Daddy’ and ‘Mommy’ over and over again, until she finally fell still.")
-* The Krezkovs’ son, Ilya, vanished in the chaos, and hasn’t been seen in days. (If the players located Ilya in [[Arc I - The Walls of Krezk]], Dmitri adds that, until recently, they feared him to be dead as well.)
-* The Krezkovs prayed to the Morninglord for guidance and deliverance, begging for mercy and salvation—and the Abbot answered.
-* The following morning, the Abbot’s bestial servants—a pair of creatures who called themselves Otto and Zygfrek—invited the mourning Krezkovs to the Abbey. There, the Abbot offered a bargain, promising to resurrect Kala in full health if Anna promised to sacrifice her heart to the Abbot’s foul creation: the **flesh golem** he calls Vasilka. To Dmitri’s horror, Anna accepted—and the Abbot brought Kala back to life.
-* The Abbot gave Anna one month’s time to make peace with her family and neighbors—an act he called “the Morninglord’s mercy." The Krezkovs don’t have much time left. (The Abbot’s deadline expires two weeks and one day after the players’ first full moon in Vallaki.)
-* Kala hasn’t been the same since her resurrection. Dmitri and Anna haven’t asked, but they’re terrified that she remembers the experience of dying—and that what she saw beyond the veil of mortality scarred her forever. The life and laughter have gone out of her, and she spends much of her time staring at the grave her parents once prepared for her.
-### Kala’s Bedroom
-If the players enter this area, read:
+L'Abate saluta cordialmente Dmitri, Anna e i giocatori, e nota con lieve interesse che i Krezkov hanno ospiti.
+
+Dmitri chiede nervosamente di sapere perché l'Abate è venuto a visitarli. In risposta, mentre si avvicina agli scaffali sopra il focolare per ispezionare le statue intagliate lì, l'Abate chiede se è un peccato visitare la casa dei suoi amici e vicini—"soprattutto," nota, con uno sguardo verso Anna, “amici e vicini che potrebbero presto essere famiglia?"
+
+Mentre la conversazione continua, l'Abate chiede ai giocatori le seguenti domande—apparentemente per chiedere le loro opinioni su Krezk, ma in verità per consegnare un avvertimento minaccioso ai Krezkov riguardo alle conseguenze del tradimento:
+
+* "Come vi piace il villaggio? Un insediamento tranquillo e silenzioso, no?" (*Il villaggio è sicuro e tranquillo—per ora.*)
+* "I bambini di Krezk sono sempre sembrati sani e ben protetti. I Krezkov sono stati buoni amministratori di questa terra, vero?" (*Ho dato la salute a vostra figlia. Lei e i vostri vicini manterranno le loro vite e i loro mezzi di sussistenza—se mantenete la vostra parte del nostro accordo.*)
+* "Vedo dalle vostre armi che non siete estranei ai pericoli fuori da queste mura. È bene che il buon popolo di Krezk sia protetto, vero, dalle minacce che si nascondono oltre?" (*Le possenti mura di Krezk non vi proteggeranno dalla mia ira.*)
+* "Non è bello come una cosa così piccola e fragile possa esistere ai margini del dominio di Strahd?" (*Esistete perché lo permetto—e finirete se lo esigo.*)
+
+Se viene chiesto perché i Krezkov sembrano avere paura di lui, l'Abate insiste che non hanno nulla da temere. “Non c'è paura nel fare il proprio dovere," dice serenamente, “né vergogna o peccato nell'accettare il proprio destino. Come il sole, la luna e le stelle, tutti abbiamo i nostri ruoli da svolgere, e il loro è un ruolo benedetto." (L'Abate non condividerà il "dovere" dei Krezkov, insistendo che il rapporto con gli dei è una questione privata, da condividere solo come si sceglie. Se affrontati, i Krezkov appaiono paralizzati dalla paura, e Dmitri scuote solo la testa invece di rispondere.)
+
+Se ulteriormente affrontato, l'Abate appare brevemente colpito e aggiunge tristemente, mentre ispeziona una figurina intagliata di un lupo sul caminetto, “È vero che molti strumenti degli dei hanno prima rifiutato la loro chiamata. Ma non è forse scritto che coloro che rifiutano di servire il divino diventano gli strumenti del divino, mentre coloro che servono il divino diventano essi stessi il divino?" Mormora, mestamente, “La scelta, temo, non è mai facile."
+
+A meno che non venga fermato, l'Abate inclina rispettosamente la testa verso Dmitri e Anna, si scusa per aver disturbato il loro pasto e augura loro una buona notte. “Considererete le mie parole stanotte, spero," dice, inchinandosi profondamente. “Che la luce del Signore del Mattino sia con voi." Poi lascia il cottage. Leggi:
 
 <div class="description">
-<p>A small bed sits against one wall of this small, muted bedroom, its quilt a patchwork of floral patterns and faded pastels. A shelf above a nearby dresser displays a few simple toys: a stuffed bear with button eyes, a whittled wooden horse, and a small, tattered book of Barovian folk tales. On the windowsill rests a small ceramic pot that holds a wilting flower, its petal drooping in the shadowed light.</p>
+<p>Attraverso la porta d'ingresso del cottage, sotto la neve fresca che cade, la silhouette silenziosa del giovane è forgiata in un alone di luce lunare scura. Poi, in un batter d'occhio, l'uomo semplicemente cessa di esistere; al suo posto, un'aquila più alta di un uomo sta sulla terra, le sue piume che si fondono perfettamente con i fiocchi di neve che cadono. Con un potente battito delle ali, la creatura si alza, volando nel cielo notturno fino a scomparire nelle profondità dell'oscurità di Barovia.</p>
 </div>
 
-If Kala has been dismissed to her room, she can be found here, sitting on her bed with her knees clutched to her chest and staring at the wilted flower on the windowsill.
+Dmitri e Anna poi crollano in ginocchio, tenendosi l'un l'altro e piangendo silenziosamente. Se confortati, possono condividere le seguenti informazioni:
 
-If a player speaks kindly to Kala, she asks them whether they’ve ever seen a “monster" before. She then asks, “Why do monsters like the dark so much?"
-
-As the conversation continues, Kala hesitates, then asks the player if they will help her. If the player agrees to do so, she insists that they keep her request from her parents, “because I don’t want to make them sad." If the player agrees again, she can share the following information:
-
-* Her parents won’t tell her, but she thinks she died—and that the Abbot had something to do with her coming back. She doesn’t remember exactly what happened: only a flash of teeth and claws, and blood and pain. 
-* Kala then remembers being somewhere dark, filled with mist and distant screams. “I felt like I was supposed to go somewhere," she mumbles, “but the mist stopped me. Every time I tried to leave, it brought me back into the screams and the darkness." 
-* Eventually, she awoke once more into her body—healed and whole, without any more pain. Her parents took her home and lavished her with love and care, but Kala could tell that they were nervous and afraid, as if one wrong move could break her.
-
-Kala has had nightmares ever since her resurrection—dreams of the monster that killed her, and of the dark place she went to when she died. She believes that confronting the monster will allow the nightmares to stop.
-
-Kala informs the player that she had snuck outside to play in the garden on the night that she died—and that the monster came from the wine cellar beneath the house. She asks the player to wait until her parents are asleep, then bring her there and keep her safe, so that she can either see the monster for herself or confirm that it has gone forever.
-
-If the player attempts to dissuade Kala from venturing down to the cellar, she replies, "I need to see for myself. I don't want to be afraid of the dark anymore."
-### Ilya’s Bedroom
-When the players enter this area, read:
+* Recentemente, un licantropo ha attaccato il villaggio di Krezk, riuscendo in qualche modo a bypassare le sue mura. Nella sua furia, ha ferito molti e ucciso Kala. (“L'ho tenuta tra le braccia mentre moriva," singhiozza Dmitri. “Metà del suo fianco mancava. Continuava a sussurrare, ‘Papà’ e ‘Mamma’ più e più volte, fino a quando finalmente si è fermata.")
+* Il figlio dei Krezkov, Ilya, è scomparso nel caos e non è stato visto da giorni. (Se i giocatori hanno trovato Ilya in [[Arco I - Le Mura di Krezk]], Dmitri aggiunge che, fino a poco tempo fa, temevano che fosse morto anche lui.)
+* I Krezkov hanno pregato il Signore del Mattino per guida e liberazione, implorando misericordia e salvezza—e l'Abate ha risposto.
+* La mattina seguente, i servitori bestiali dell'Abate—una coppia di creature che si chiamavano Otto e Zygfrek—invitarono i Krezkov in lutto all'Abbazia. Lì, l'Abate offrì un patto, promettendo di resuscitare Kala in piena salute se Anna avesse promesso di sacrificare il suo cuore alla creazione malvagia dell'Abate: il **golem di carne** che chiama Vasilka. Con orrore di Dmitri, Anna accettò—e l'Abate riportò in vita Kala.
+* L'Abate diede ad Anna un mese di tempo per fare pace con la sua famiglia e i suoi vicini—un atto che chiamò “la misericordia del Signore del Mattino." I Krezkov non hanno molto tempo rimasto. (Il termine dell'Abate scade due settimane e un giorno dopo la prima luna piena dei giocatori a Vallaki.)
+* Kala non è stata la stessa da quando è stata resuscitata. Dmitri e Anna non hanno chiesto, ma sono terrorizzati che ricordi l'esperienza della morte—e che ciò che ha visto oltre il velo della mortalità l'abbia segnata per sempre. La vita e il riso sono scomparsi da lei, e trascorre gran parte del suo tempo fissando la tomba che i suoi genitori avevano preparato per lei.
+### La Camera di Kala
+Se i giocatori entrano in quest'area, leggi:
 
 <div class="description">
-<p>The bed in this modest bedroom is neatly made, covered with a hand-stitched quilt. A wooden shelf above the desk holds an assortment of curios—a feather, a small rock crystal, and what appears to be a wolf's tooth. A small weapon rack hangs on the wall, currently holding a short sword and a hunting bow with a quiver of arrows beneath it. A round window with simple lace curtains lets in a sliver of natural light, illuminating a hand-drawn map tacked to the wall beside it.</p>
+<p>Un piccolo letto si trova contro una parete di questa piccola camera da letto attenuata, la sua trapunta un patchwork di motivi floreali e pastelli sbiaditi. Uno scaffale sopra un comò vicino espone alcuni semplici giocattoli: un orso di peluche con occhi di bottone, un cavallo di legno intagliato e un piccolo libro logoro di racconti popolari di Barovia. Sul davanzale riposa un piccolo vaso di ceramica che contiene un fiore appassito, il suo petalo che si piega nella luce ombreggiata.</p>
 </div>
 
-The map depicts the local woods around Krezk, extending as far south as the Wizard of Wines and as far east as Lake Baratok. (It doesn’t include the werewolf den or the tower on Lake Baratok.)
+Se Kala è stata mandata nella sua stanza, può essere trovata qui, seduta sul suo letto con le ginocchia strette al petto e fissando il fiore appassito sul davanzale.
 
-A player who inspects the map observes a small piece of parchment tucked away behind it. If removed, the parchment contains a charcoal sketch of a woman, described as follows:
+Se un giocatore parla gentilmente a Kala, lei chiede se hanno mai visto un "mostro" prima. Poi chiede, “Perché i mostri amano tanto il buio?"
+
+Mentre la conversazione continua, Kala esita, poi chiede al giocatore se lo aiuterà. Se il giocatore accetta di farlo, insiste che tengano la sua richiesta nascosta ai suoi genitori, “perché non voglio renderli tristi." Se il giocatore accetta di nuovo, può condividere le seguenti informazioni:
+
+* I suoi genitori non glielo diranno, ma pensa di essere morta—e che l'Abate abbia avuto qualcosa a che fare con il suo ritorno. Non ricorda esattamente cosa è successo: solo un lampo di denti e artigli, e sangue e dolore.
+* Kala poi ricorda di essere stata in un luogo oscuro, pieno di nebbia e urla distanti. “Mi sentivo come se dovessi andare da qualche parte," mormora, “ma la nebbia mi fermava. Ogni volta che cercavo di andarmene, mi riportava indietro nelle urla e nell'oscurità."
+* Alla fine, si è svegliata di nuovo nel suo corpo—guarita e intera, senza più dolore. I suoi genitori l'hanno portata a casa e l'hanno riempita di amore e cura, ma Kala poteva dire che erano nervosi e spaventati, come se un passo falso potesse romperla.
+
+Kala ha avuto incubi da quando è stata resuscitata—sogni del mostro che l'ha uccisa e del luogo oscuro in cui è andata quando è morta. Crede che affrontare il mostro permetterà agli incubi di fermarsi.
+
+Kala informa il giocatore che si era intrufolata fuori per giocare nel giardino la notte in cui è morta—e che il mostro è venuto dalla cantina del vino sotto la casa. Chiede al giocatore di aspettare fino a quando i suoi genitori sono addormentati, poi portarla lì e tenerla al sicuro, in modo che possa vedere il mostro per se stessa o confermare che è andato via per sempre.
+
+Se il giocatore tenta di dissuadere Kala dall'avventurarsi nella cantina, risponde, "Devo vedere per me stessa. Non voglio più avere paura del buio."
+### La Camera di Ilya
+Quando i giocatori entrano in quest'area, leggi:
 
 <div class="description">
-<p>The sketch depicts a woman with narrowed, low-set eyes, whose lips seem to unconsciously curl into a snarl. A gray bandana ties back a set of thick, short-cropped dreadlocks behind her head, and a half-shredded black tunic lies beneath a set of worn leather armor upon her chest.</p>
+<p>Il letto in questa modesta camera da letto è ordinatamente rifatto, coperto con una trapunta cucita a mano. Uno scaffale di legno sopra la scrivania contiene una serie di curiosità—una piuma, un piccolo cristallo di roccia e quello che sembra essere un dente di lupo. Un piccolo rastrelliera per armi pende dalla parete, attualmente contenente una spada corta e un arco da caccia con una faretra di frecce sotto di esso. Una finestra rotonda con semplici tende di pizzo lascia entrare un filo di luce naturale, illuminando una mappa disegnata a mano attaccata alla parete accanto ad essa.</p>
 </div>
 
-The woman is Zuleika Toranescu, Dmitri’s elder sister. A player with a passive Wisdom (Perception) score of 13 or higher notices that she bears a striking resemblance to Burgomaster Dmitri Krezkov.
+La mappa raffigura i boschi locali intorno a Krezk, estendendosi fino a sud fino al Mago dei Vini e fino a est fino al Lago Baratok. (Non include la tana dei licantropi o la torre sul Lago Baratok.)
+
+Un giocatore che ispeziona la mappa osserva un piccolo pezzo di pergamena nascosto dietro di essa. Se rimosso, la pergamena contiene uno schizzo a carboncino di una donna, descritta come segue:
+
+<div class="description">
+<p>Lo schizzo raffigura una donna con occhi stretti e bassi, le cui labbra sembrano arricciarsi inconsciamente in un ringhio. Un bandana grigia lega indietro un set di dreadlocks spessi e corti dietro la testa, e una tunica nera mezza strappata giace sotto un set di armature di cuoio consumate sul petto.</p>
+</div>
+
+La donna è Zuleika Toranescu, la sorella maggiore di Dmitri. Un giocatore con un punteggio di Saggezza (Percezione) passivo di 13 o superiore nota che ha una sorprendente somiglianza con il Borgomastro Dmitri Krezkov.
 
 ![[Sketch of Zuleika.png]]
-<span class="credit">"Sketch of Zuleika" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Schizzo di Zuleika" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-If shown the picture, Dmitri’s face pales, and he asks the player where they found it. If told that the player found it in Ilya’s room, he insists that it is impossible. “That is a drawing of my older sister, Zuleika," he says hoarsely, “and she has not been seen in Krezk in nearly thirteen years." (If asked why Zuleika left, Dmitri shares only that she had a fight with him and their ailing father about personal family matters, and that he has neither seen nor heard from her since she departed.)
-### Wine Cellar
-A heavy wooden bulkhead door stands against the cottage, on the side facing the garden. Close inspection reveals that two of its hinges are broken, and the lock is battered and broken. The center of the door bulges slightly outward, as though struck from the inside by a great force.
+Se mostrato il disegno, il volto di Dmitri impallidisce e chiede al giocatore dove l'ha trovato. Se detto che il giocatore l'ha trovato nella stanza di Ilya, insiste che è impossibile. “Quello è un disegno di mia sorella maggiore, Zuleika," dice con voce roca, “e non è stata vista a Krezk da quasi tredici anni." (Se chiesto perché Zuleika se ne è andata, Dmitri condivide solo che ha avuto una lite con lui e il loro padre malato riguardo a questioni familiari personali, e che non l'ha né vista né sentita da quando è partita.)
+### Cantina del Vino
+Una pesante porta di legno si trova contro il cottage, sul lato che guarda il giardino. Un'ispezione ravvicinata rivela che due delle sue cerniere sono rotte e la serratura è ammaccata e rotta. Il centro della porta si gonfia leggermente verso l'esterno, come se fosse stato colpito dall'interno da una grande forza.
 
-The door opens to a descending set of stone stairs that open into the wine cellar. When the players enter this room, read:
-
-<div class="description">
-<p>The room is chilly, and the walls are lined with empty wooden racks that once held bottles of wine. The scent of damp earth is pervasive.</p>
-<p>The floor bears a trail of deep gouges and claw marks. The marks lead to a bare spot between two wooden racks, covering a portion of the far stone wall approximately three feet across.</p>
-</div>
-
-A DC 12 Wisdom (Nature) check reveals that the marks and gouges were left by a large, lupine beast.
-
-The bare spot on the wall hides a secret door. No check is required to spot the secret door, which can’t be closed completely due to Ilya’s damage, leaving a thin crack in the wall from the floor to a point six feet above the ground.
-
-A player can force the secret door open with a successful DC 20 Strength check. Alternatively, the player can find the mechanism that unlocks the door—a disguised lever on the wine rack—with a successful DC 15 Intelligence (Investigation) check, succeeding automatically with 1 full minute of searching. Once the lever is pulled, the lock on the door releases and the door drifts slightly forward, revealing handholds along its side that can be used to pull it fully open.
-
-The secret door leads to the hidden basement (see below).
-### Hidden Basement
-This area is unlit. When the players first enter it, read:
+La porta si apre su una serie di scale di pietra discendenti che si aprono nella cantina del vino. Quando i giocatori entrano in questa stanza, leggi:
 
 <div class="description">
-<p>The air here is thick and musty. Three sets of heavy silver shackles are bolted to the stone walls, with two surrounded by disturbed half-circles of salt. Claw marks mar the walls and floor, and the silver shackles bolted to the east wall have been heavily damaged, with one shackle burst open and the other torn from the wall entirely.</p>
+<p>La stanza è fredda e le pareti sono foderate di scaffali di legno vuoti che una volta contenevano bottiglie di vino. L'odore di terra umida è pervasivo.</p>
+<p>Il pavimento porta una traccia di profondi graffi e segni di artigli. I segni conducono a un punto nudo tra due scaffali di legno, coprendo una parte della parete di pietra lontana larga circa tre piedi.</p>
 </div>
 
-If the players haven’t taken special steps to prevent or watch for the Krezkovs’ appearance, Dmitri and Anna find Kala missing from her bedroom, exit into the garden, and descend the wine cellar steps upon noticing the players’ footsteps in the snow, finding the players at the door to the hidden basement.
+Una prova di Saggezza (Natura) CD 12 rivela che i segni e i graffi sono stati lasciati da una grande bestia lupina.
 
-“I’m sure you have questions," Dmitri says, quietly, when he first arrives. His eyes are haunted and sad, and his gaze lingers somberly on Kala’s face. “I ask only that you not judge us too harshly when you hear the answers."
+Il punto nudo sulla parete nasconde una porta segreta. Non è richiesta alcuna prova per individuare la porta segreta, che non può essere chiusa completamente a causa del danno di Ilya, lasciando una sottile fessura nella parete dal pavimento a un punto sei piedi sopra il suolo.
 
-Dmitri can share the following information if asked:
+Un giocatore può forzare l'apertura della porta segreta con una prova di Forza CD 20. In alternativa, il giocatore può trovare il meccanismo che sblocca la porta—una leva camuffata sullo scaffale del vino—con una prova di Intelligenza (Investigazione) CD 15, riuscendo automaticamente con 1 minuto intero di ricerca. Una volta tirata la leva, la serratura sulla porta si sblocca e la porta si sposta leggermente in avanti, rivelando maniglie lungo il suo lato che possono essere utilizzate per aprirla completamente.
 
-* Eighty years ago, his grandfather was bitten by a werewolf. His ancestor survived, but the curse of lycanthropy remained with him until his death—and was passed down, intermittently, within the Krezkov line. The curse emerges on the first full moon after an infected Krezkov’s thirteenth birthday, transforming their body into a powerful, violent beast on that night and each full moon thereafter.
-* Since then, the Krezkov family has kept the curse under control by binding themselves in silver on the nights of the full moon and imbibing a *potion of wolfsbane*, which keeps the spirit of the wolf docile and calm.
-* Dmitri was born a werewolf. When Ilya was born, his parents hoped that he might escape the curse—but as the night of his first full moon approached, the signs of lycanthropy were impossible to ignore. (The signs of lycanthropy, Anna can share, include sudden, uncharacteristic bursts of restlessness and aggression. sharpened senses of hearing and smell, an amber tinge to the irises, and a markedly increased appetite around the time of the full moon.)
-* Anna prepared Ilya a *potion of wolfsbane*, and helped bind him to the shackles upon the walls beside his father. Somehow, however, when Ilya first transformed, the potion failed to suppress the rage or strength of the wolf inside. Ilya broke free of his shackles, escaped the cellar, and rampaged across the village—though not before wounding several of the villagers and killing his sister, Kala.
-* Ilya then fled across the walls and vanished into the Svalich Woods. Despite arranging several search parties in the weeks since his disappearance, Dmitri and Anna have found no sign of him.
+La porta segreta conduce al seminterrato nascosto (vedi sotto).
+### Seminterrato Nascosto
+Quest'area è non illuminata. Quando i giocatori entrano per la prima volta, leggi:
 
-Dmitri apologizes to the players for concealing this information from them, and notes his understanding if the players are frightened or upset.
+<div class="description">
+<p>L'aria qui è densa e ammuffita. Tre set di pesanti manette d'argento sono imbullonate alle pareti di pietra, con due circondate da mezzi cerchi di sale disturbato. Segni di artigli segnano le pareti e il pavimento, e le manette d'argento imbullonate alla parete est sono state pesantemente danneggiate, con una manetta esplosa e l'altra strappata completamente dalla parete.</p>
+</div>
 
-> [!abstract]+ **The Players' Choice**
-> The Krezkovs, self-reliant and proud, would never dream of asking the players to find Ilya or stop the Abbot for them. If the players offer to do so, however, the Krezkovs are humbled and brought to tears with gratitude, though they apologize for not having much to offer in thanks. (Even if the players don’t offer to do so, Ezmerelda d'Avenir will recruit them to save Ilya and defeat the Abbot after meeting Ezmerelda in [[#K2c. The East Wing]].)
-> 
-> The Krezkovs also have additional aid in locating Ilya: Ezmerelda d’Avenir, a monster hunter and a friend of the Krezkovs, has been traversing the Svalich Woods for the past several days in search of him. (See **Ezmerelda’s Visit** below for more information.)
+Se i giocatori non hanno preso misure speciali per prevenire o osservare l'apparizione dei Krezkov, Dmitri e Anna trovano Kala mancante dalla sua camera da letto, escono nel giardino e scendono le scale della cantina del vino notando le impronte dei giocatori nella neve, trovando i giocatori alla porta del seminterrato nascosto.
 
-> [!lore]+ **Ezmerelda’s Visit**
-> Five years ago, shortly after she and Dr. Rudolph van Richten parted ways, Ezmerelda d’Avenir was grievously wounded in a werewolf attack in the western woods of Barovia, losing her lower right leg to the jaws of Kiril Stoyanovich—the werewolf that now leads the Barovian pack. 
-> 
-> Dmitri and Anna, traversing the woods with a hunting party, scared Kiril off and found Ezmerelda unconscious and near-death amidst the trees. They brought Ezmerelda back to Krezk and nursed her back to health. As she regained her strength, Ezmerelda regaled Anna and the young Ilya Krezkov with tales of her adventures in the lands beyond the mists, filling Ilya’s head with dreams of hunting monsters as she did.
-> 
-> When Ezmerelda’s wound was fully healed, Anna and a party of three Krezkians escorted her to nearby Vallaki, where Ezmerelda commissioned her prosthetic leg from the toymaker Gadof Blinsky. (Although Baron Vallakovich's edicts prohibited Vistani from entering the town's walls, Baroness Krezkova's steely will and diplomatic manner were sufficient to bypass any such restrictions.) Ezmerelda thanked the Krezkovs deeply for their kindness, and swore to aid and protect them should they ever require it.
-> 
-> When Ezmerelda returned to Barovia in search of Dr. Van Richten, she sought shelter with the Krezkov family once again—and learned of Ilya’s fate and Anna’s bargain. Incensed with righteous fury, Ezmerelda vowed to bring Ilya home, as well as find a means of dissuading the Abbot from collecting his payment. Since then, she has spent most of her days and nights prowling the local Svalich Wood for signs of Ilya and—if the players completed [[Arc I - The Walls of Krezk]]—the den of the werewolves that took him, using her wagon as a mobile base near the shores of Lake Baratok.
-> 
-> Ezmerelda, a minor clairvoyant, has also sensed that the spirits within the Abbey are disturbed and restless. Though she hasn’t had a chance to do so yet, she plans to conduct a seance upon her return from the Svalich Wood in the hopes of contacting a spirit with more information about the Abbot and his plans.
-# K2. The Abbey of Saint Markovia
-The road to the Abbey of Saint Markovia is as described in <span class="citation">S5. Winding Road (p. 147)</span>. 
-## K2a. Entering the Abbey
-The gate to the Abbey and its occupants are as described in <span class="citation">S6. The North Gate (p. 147)</span>. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
+“Sono sicuro che avete domande," dice Dmitri, tranquillamente, quando arriva per la prima volta. I suoi occhi sono tormentati e tristi, e il suo sguardo indugia malinconicamente sul volto di Kala. “Chiedo solo che non ci giudichiate troppo duramente quando sentirete le risposte."
 
-> [!profile]+ **Profile: Otto & Zygfrek**
-> ***Roleplaying Information***
-> ***Resonance.*** Otto and Zygfrek should make the players feel amused with their antics, eccentricities, and squabbles, uncomfortable with Otto's lack of personal space and Zygfrek's bluntness, sympathetic to Zygfrek's discomfort with her appearance and voice, endeared to Otto's boundless positivity, and mildly irritated with Zygfrek's rudeness.
-> 
-> ***Emotions.*** Otto most often feels curious, excited, annoyed, or satisfied. Zygfrek most often feels annoyed, suspicious, insulted, melancholy, or thoughtful.
-> 
-> ***Motivations.*** Otto is primarily motivated by his desire for food and attention. Zygfrek is primarily motivated by her bitterness and self-loathing. Both are motivated by their loyalty to the Abbot and desire for the Abbot's "perfection."
-> 
-> ***Inspirations.*** When roleplaying Otto, channel Dobby (*Harry Potter*), Gollum (*Lord of the Rings*), Jar-Jar Binks (*Star Wars*), and Pinky (*Pinky and the Brain*). When roleplaying Zygfrek, channel Squidward Tentacles (*Spongebob SquarePants*), Marvin the Paranoid Android (*The Hitchhiker's Guide to the Galaxy*), and Oscar the Grouch (*Sesame Street*).
-> 
-> ***Character Information***
-> ***Persona.*** To the world, Otto is a braying, over-enthusiastic loudmouth with a fascination for interesting things, while Zygfrek is a brooding, grumpy cynic who can always find something to insult or complain about. To those she trusts, Zygfrek is a quiet, melancholy, self-loathing woman who desperately longs for the "perfection" the Abbot promises.
-> 
-> ***Morale.*** If attacked, Otto would gallantly declare his intent to fight, then immediately back down, while Zygfrek would demand her attacker cease, and plead for mercy if denied.
-> 
-> ***Relationships.*** Otto and Zygfrek are servants of the Abbot, cousins of Clovin Belview, and the grand-niece and -nephew of Strahd's butler, Cyrus Belview.
+Dmitri può condividere le seguenti informazioni se chiesto:
 
-If told that the players are seeking a Vistana who’s staying at the Abbey, Zygfrek responds as follows:
+* Ottanta anni fa, suo nonno fu morso da un licantropo. Il suo antenato sopravvisse, ma la maledizione della licantropia rimase con lui fino alla sua morte—e fu trasmessa, a intermittenza, all'interno della linea dei Krezkov. La maledizione emerge nella prima luna piena dopo il tredicesimo compleanno di un Krezkov infetto, trasformando il loro corpo in una potente e violenta bestia quella notte e ogni luna piena successiva.
+* Da allora, la famiglia Krezkov ha tenuto sotto controllo la maledizione legandosi in argento nelle notti di luna piena e bevendo una *pozione di aconito*, che mantiene lo spirito del lupo docile e calmo.
+* Dmitri è nato licantropo. Quando Ilya è nato, i suoi genitori speravano che potesse sfuggire alla maledizione—ma mentre la notte della sua prima luna piena si avvicinava, i segni della licantropia erano impossibili da ignorare. (I segni della licantropia, Anna può condividere, includono improvvisi e non caratteristici scoppi di irrequietezza e aggressività, sensi di udito e olfatto acuti, una sfumatura ambrata nelle iridi e un appetito marcatamente aumentato intorno al periodo della luna piena.)
+* Anna preparò a Ilya una *pozione di aconito* e aiutò a legarlo alle manette sulle pareti accanto a suo padre. In qualche modo, tuttavia, quando Ilya si trasformò per la prima volta, la pozione non riuscì a sopprimere la rabbia o la forza del lupo dentro di lui. Ilya ruppe le sue manette, scappò dalla cantina e si scatenò attraverso il villaggio—non prima di aver ferito diversi abitanti del villaggio e ucciso sua sorella, Kala.
+* Ilya poi fuggì oltre le mura e scomparve nel Bosco di Svalich. Nonostante abbia organizzato diverse squadre di ricerca nelle settimane successive alla sua scomparsa, Dmitri e Anna non hanno trovato alcuna traccia di lui.
 
-* **If Ezmerelda has not yet returned**, Zygfrek informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return on the second day after the full moon. (Zygfrek doesn’t know where Ezmerelda is, and shrugs with a grunt when asked where she’s gone.)
-* **If Ezmerelda has returned**, Zygfrek offers to lead the players to the Abbot, who knows where Ezmerelda is staying.
+Dmitri si scusa con i giocatori per aver nascosto loro queste informazioni e nota la sua comprensione se i giocatori sono spaventati o arrabbiati.
 
-> [!info]+ **Where's Ezmerelda?**
-> In the days leading up to the players’ first full moon in Vallaki, Ezmerelda is searching the Svalich Wood near Krezk for signs of the missing Ilya Krezkov, as well as the den of the werewolf pack that haunts those woods. She doesn’t plan to return to the Abbey until the second day after the players' first full moon in Vallaki.
+> [!abstract]+ **La Scelta dei Giocatori**
+> I Krezkov, autosufficienti e orgogliosi, non sognerebbero mai di chiedere ai giocatori di trovare Ilya o fermare l'Abate per loro. Se i giocatori offrono di farlo, tuttavia, i Krezkov sono umiliati e portati alle lacrime di gratitudine, anche se si scusano per non avere molto da offrire in segno di ringraziamento. (Anche se i giocatori non offrono di farlo, Ezmerelda d'Avenir li recluterà per salvare Ilya e sconfiggere l'Abate dopo aver incontrato Ezmerelda in [[#K2c. L'Ala Est]].)
+> 
+> I Krezkov hanno anche un ulteriore aiuto nel localizzare Ilya: Ezmerelda d’Avenir, una cacciatrice di mostri e amica dei Krezkov, ha attraversato il Bosco di Svalich negli ultimi giorni alla sua ricerca. (Vedi **La Visita di Ezmerelda** sotto per ulteriori informazioni.)
 
-After passing through the north gate, the players pass <span class="citation">S7. Graveyard (p. 148)</span> and approach <span class="citation">S10. Abbey Entrance (p. 148)</span>. 
+> [!lore]+ **La Visita di Ezmerelda**
+> Cinque anni fa, poco dopo che lei e il Dr. Rudolph van Richten si separarono, Ezmerelda d’Avenir fu gravemente ferita in un attacco di licantropi nei boschi occidentali di Barovia, perdendo la parte inferiore della gamba destra tra le fauci di Kiril Stoyanovich—il licantropo che ora guida il branco di Barovia.
+> 
+> Dmitri e Anna, attraversando i boschi con una squadra di caccia, spaventarono Kiril e trovarono Ezmerelda incosciente e in fin di vita tra gli alberi. Portarono Ezmerelda a Krezk e la curarono fino a guarigione. Mentre recuperava le forze, Ezmerelda raccontava ad Anna e al giovane Ilya Krezkov storie delle sue avventure nelle terre oltre le nebbie, riempiendo la testa di Ilya di sogni di cacciare mostri come lei.
+> 
+> Quando la ferita di Ezmerelda fu completamente guarita, Anna e una squadra di tre abitanti di Krezk la scortarono a Vallaki, dove Ezmerelda commissionò la sua gamba protesica al giocattolaio Gadof Blinsky. (Sebbene gli editti del Barone Vallakovich proibissero ai Vistani di entrare nelle mura della città, la volontà ferrea e il modo diplomatico della Baronessa Krezkova furono sufficienti per bypassare tali restrizioni.) Ezmerelda ringraziò profondamente i Krezkov per la loro gentilezza e giurò di aiutarli e proteggerli se mai ne avessero avuto bisogno.
+> 
+> Quando Ezmerelda tornò a Barovia in cerca del Dr. Van Richten, cercò rifugio con la famiglia Krezkov ancora una volta—e apprese del destino di Ilya e del patto di Anna. Incensata di furia giusta, Ezmerelda giurò di riportare Ilya a casa, così come di trovare un modo per dissuadere l'Abate dal riscuotere il suo pagamento. Da allora, ha trascorso la maggior parte dei suoi giorni e notti a perlustrare il Bosco di Svalich locale alla ricerca di segni di Ilya e—se i giocatori hanno completato [[Arco I - Le Mura di Krezk]]—la tana dei licantropi che lo hanno preso, usando il suo carro come base mobile vicino alle rive del Lago Baratok.
+> 
+> Ezmerelda, una chiaroveggente minore, ha anche percepito che gli spiriti all'interno dell'Abbazia sono disturbati e inquieti. Sebbene non abbia ancora avuto l'opportunità di farlo, ha intenzione di condurre una seduta spiritica al suo ritorno dal Bosco di Svalich nella speranza di contattare uno spirito con maggiori informazioni sull'Abate e i suoi piani.
+# K2. L'Abbazia di Santa Markovia
+La strada per l'Abbazia di Santa Markovia è come descritto in <span class="citation">S5. Winding Road (p. 147)</span>.
+## K2a. Entrare nell'Abbazia
+Il cancello dell'Abbazia e i suoi occupanti sono come descritto in <span class="citation">S6. The North Gate (p. 147)</span>. Prima di scortare i giocatori nell'Abbazia, Otto e Zygfrek chiedono di sapere perché sono venuti.
 
-If Otto and Zygfrek are accompanying the players, Otto leaps toward the wooden doors and knocks three times, whinnying in greeting. A few moments later, Clovin Belview (who is as described in <span class="citation">S17. Loft and Belfry (p. 152)</span>) answers the door and greets him skeptically, noting with irritation, “You’re not supposed to leave your posts." 
+> [!profile]+ **Profilo: Otto & Zygfrek**
+> ***Informazioni di Interpretazione***
+> ***Risonanza.*** Otto e Zygfrek dovrebbero far sentire i giocatori divertiti con le loro buffonate, eccentricità e litigi, a disagio con la mancanza di spazio personale di Otto e la schiettezza di Zygfrek, simpatia per il disagio di Zygfrek riguardo al suo aspetto e alla sua voce, affetto per l'inesauribile positività di Otto e lieve irritazione per la scortesia di Zygfrek.
+> 
+> ***Emozioni.*** Otto si sente più spesso curioso, eccitato, infastidito o soddisfatto. Zygfrek si sente più spesso infastidita, sospettosa, offesa, malinconica o riflessiva.
+> 
+> ***Motivazioni.*** Otto è principalmente motivato dal suo desiderio di cibo e attenzione. Zygfrek è principalmente motivata dalla sua amarezza e autocommiserazione. Entrambi sono motivati dalla loro lealtà all'Abate e dal desiderio della "perfezione" dell'Abate.
+> 
+> ***Ispirazioni.*** Nell'interpretare Otto, canalizza Dobby (*Harry Potter*), Gollum (*Il Signore degli Anelli*), Jar-Jar Binks (*Star Wars*) e Pinky (*Pinky and the Brain*). Nell'interpretare Zygfrek, canalizza Squidward Tentacles (*Spongebob SquarePants*), Marvin il Paranoico Android (*Guida galattica per autostoppisti*) e Oscar il Brontolone (*Sesame Street*).
+> 
+> **Informazioni sul Personaggio**
+> ***Persona.*** Per il mondo, Otto è un chiacchierone, entusiasta e rumoroso con una fascinazione per le cose interessanti, mentre Zygfrek è una cinica e burbera che può sempre trovare qualcosa da insultare o di cui lamentarsi. Per coloro di cui si fida, Zygfrek è una donna tranquilla, malinconica e autocommiserante che desidera disperatamente la "perfezione" promessa dall'Abate.
+> 
+> ***Morale.*** Se attaccato, Otto dichiarerebbe galantemente la sua intenzione di combattere, poi si ritirerebbe immediatamente, mentre Zygfrek chiederebbe al suo attaccante di cessare e implorerebbe pietà se negata.
+> 
+> ***Relazioni.*** Otto e Zygfrek sono servitori dell'Abate, cugini di Clovin Belview e pronipoti del maggiordomo di Strahd, Cyrus Belview.
 
-Otto apologizes for doing so, and Zygfrek introduces the players and their purpose (if shared). Clovin then inspects the players for a moment, then turns and invites them to follow him into <span class="citation">S12. Courtyard (p. 150)</span>, toward the main hall, where the Abbot awaits. (If they do, Otto and Zygfrek then return to their posts—and their naps.)
+Se detto che i giocatori stanno cercando una Vistana che soggiorna all'Abbazia, Zygfrek risponde come segue:
 
-> [!lore]+ **The Belviews' Perfection**
-> When the Belviews’ ancestors came to the Abbot over a century ago as described in <span class="citation">The Abbot (p. 225)</span>, they did not suffer leprosy, but a congenital disease that struck in early adulthood, leaving its victims physically frail and prematurely aged in appearance. 
-> 
-> The Abbot, though able to cure ordinary illness, could not heal them of this condition. Frustrated, desperate, and reluctantly encouraged by the Belviews’ pleas, the Abbot searched for other means of doing so.
-> 
-> It was Strahd, in disguise as Vasili von Holtz, who delivered the answer, furnishing the Abbot with forbidden lore plucked from the Amber Temple. With Vasili’s aid, the Abbot offered a new and unique treatment for each of the Belviews in turn, replacing blinded eyes with the eyes of a cat, arthritic knees with the legs of a mule, liver-spotted skin with the scales of a snake, and swollen feet with the wings of a bat.
-> 
-> The Belviews were delighted with their new appearances and attributes. The Abbot’s experiments, however, drove them to a strange kind of madness, infecting them with the mental traits of the animals whose parts they now shared. Those with carnivorous limbs or organs proved most dangerous to those around them, but even those with herbivorous parts proved unpredictable and uncontrollable at best.
-> 
-> With the Belviews’ reluctant consent, the Abbot sealed them away in the Abbey’s madhouse, promising to find a way to complete and “perfect" their transformation. He has toiled for over a century since then, occasionally abducting new Barovians and conducting additional experiments while searching in vain for a way to rid them of their condition. In recent decades, however, he has largely given up hope, choosing to focus his attention on other, more fruitful endeavors (such as lifting Strahd’s curse).
-> 
-> The Belviews’ descendants, however, have not yet lost hope. In the generations since their arrival, they have interbred both with one another and the new victims the Abbot brought to the Abbey, mixing their bestial traits and becoming strange chimeras with deep, twisted madness. The Abbot promises them regularly that he grows ever-closer to “perfecting" their transformations, giving them the beauty, strength, and swiftness they desperately crave—and so, the Belviews linger restlessly in their cells, awaiting a day that will never come.
-> 
-> Three months ago, when Strahd awoke in Castle Ravenloft, Rahadin came to the Abbey to announce his revival. As a means to win Strahd’s attention for his upcoming project, Vasilka, the Abbot offered Cyrus Belview—the oldest of the modern Belviews—as a “wedding gift," noting that Cyrus’s conscientiousness and dexterity would make him a fine servant for Rahadin’s master.
-> 
-> The Belviews, however, would have never tolerated the loss of their “patriarch." To address their concerns, the Abbot told them that Cyrus had reached a "new stage" in his journey; that this stage would unlock the doors of "salvation and transmutation"; and that Cyrus had been selected for a "special role at Castle Ravenloft" as a result. He didn't elaborate, however, that the "salvation and transmutation" in question were Strahd's alone, or that this "special role" was one of servitude, allowing the Belviews to assume that Cyrus had been elevated due to his "perfection."
+* **Se Ezmerelda non è ancora tornata**, Zygfrek informa i giocatori che la Vistana chiamata Ezmerelda d’Avenir è via per affari e dovrebbe tornare il secondo giorno dopo la luna piena. (Zygfrek non sa dove sia Ezmerelda e scrolla le spalle con un grugnito quando le viene chiesto dove sia andata.)
+* **Se Ezmerelda è tornata**, Zygfrek offre di condurre i giocatori dall'Abate, che sa dove si trova Ezmerelda.
 
-If the players appear disturbed or amused by the Belviews’ condition, Clovin asks as they walk whether they are surprised by his family’s appearance. If asked, he can share the following information:
+> [!info]+ **Dov'è Ezmerelda?**
+> Nei giorni precedenti alla prima luna piena dei giocatori a Vallaki, Ezmerelda sta cercando nel Bosco di Svalich vicino a Krezk segni del figlio scomparso di Burgomastro Dmitri Krezkov, Ilya, così come la tana del branco di licantropi che infesta quei boschi. Non ha intenzione di tornare all'Abbazia fino al secondo giorno dopo la prima luna piena dei giocatori a Vallaki.
 
-* Long ago, Clovin’s ancestors came to the Abbey seeking a cure for a strange and mysterious illness. The Abbot healed them by perfecting their bodies, giving them new parts and traits that elevated them beyond their former, pitiful condition.
-* The Abbot’s work, however, is not yet finished. The Belviews patiently await the day when their “blessed perfection" shall be complete—a day that Clovin believes is fast approaching. (If asked why, Clovin says only that his father, Cyrus, has only recently been perfected. Clovin shares that he is confident his turn shall come next, given his own long-standing loyalty and service to the Abbot.)
+Dopo aver attraversato il cancello nord, i giocatori passano <span class="citation">S7. Graveyard (p. 148)</span> e si avvicinano a <span class="citation">S10. Abbey Entrance (p. 148)</span>.
 
-If the players ask Clovin about the Vistana described in Madam Eva’s reading, he notes only (and with minor irritation) that the Abbot will answer their questions.
-## K2b. Main Hall
-This area is largely as described in <span class="citation">S13. Main Hall (p. 150)</span>. However, there is no music if Clovin is guiding the players. Additionally, Vasilka is a **flesh golem** with an Intelligence of 17, a Charisma of 8, proficiencies in Religion and Nature, and the ability to speak and understand Common and Celestial.
+Se Otto e Zygfrek stanno accompagnando i giocatori, Otto salta verso le porte di legno e bussa tre volte, nitrendo in saluto. Pochi istanti dopo, Clovin Belview (che è descritto in <span class="citation">S17. Loft and Belfry (p. 152)</span>) risponde alla porta e lo saluta scetticamente, notando con irritazione, “Non dovresti lasciare i tuoi posti."
 
-> [!profile]+ **Profile: The Abbot**
-> **Roleplaying Information**
-> ***Resonance.*** The Abbot should inspire discomfort with his stoicism and routine observations regarding "mortals," disgust for his lack of respect for human life or values, anger for his supreme and unshakeable self-confidence, and gratitude for his (somewhat off-putting) friendliness and willingness to cure the players of lycanthropy without cost.
-> 
-> ***Emotions.*** The Abbot most often feels curious, intrigued, cold, dispassionate, or (rarely) enraged.
-> 
-> ***Motivations.*** The Abbot wants to lift the "curse" upon Barovia and preserve the "sanctity" of the Abbey of Saint Markovia.
-> 
-> ***Inspirations.*** When playing the Abbot, channel Vision (*Marvel*), Data (*Star Trek*), and Dr. Manhattan (*Watchmen*).
-> 
-> **Character Information**
-> ***Persona.*** To the world, the Abbot is a serene, but inhumanly dispassionate holy man and "scientist." Only the Abbot knows that he is Ithuriel: an angel of the Morninglord sent to honor the memory of Saint Markovia.
-> 
-> ***Morale.*** In a fight, the Abbot would reveal his divine form, then command his enemies to lay down their weapons and surrender. If they failed to do so, he would attack them mercilessly, seeking to crush any resistance until and unless they surrendered or fled.
-> 
-> ***Relationships.*** The Abbot, an angel of the Morninglord once called Ithuriel, is the master of the Abbey of Saint Markovia, including the **mongrelfolk** Otto, Zygfrek, and Clovin Belview. He is also the creator of the **flesh golem** Vasilka and the resurrector of Kala Krezkova.
+Otto si scusa per averlo fatto, e Zygfrek presenta i giocatori e il loro scopo (se condiviso). Clovin poi ispeziona i giocatori per un momento, poi si gira e li invita a seguirlo in <span class="citation">S12. Courtyard (p. 150)</span>, verso la sala principale, dove l'Abate li aspetta. (Se lo fanno, Otto e Zygfrek tornano ai loro posti—e ai loro pisolini.)
 
-The Abbot greets the players with warmth, welcoming them to the Abbey of Saint Markovia. If asked about the Vistana described in Madam Eva’s reading, he can share the following information:
+> [!lore]+ **La Perfezione dei Belview**
+> Quando gli antenati dei Belview vennero dall'Abate oltre un secolo fa come descritto in <span class="citation">The Abbot (p. 225)</span>, non soffrivano di lebbra, ma di una malattia congenita che colpiva nella prima età adulta, lasciando le sue vittime fisicamente fragili e prematuramente invecchiate nell'aspetto.
+> 
+> L'Abate, sebbene in grado di curare malattie ordinarie, non poteva guarirli da questa condizione. Frustrato, disperato e riluttantemente incoraggiato dalle suppliche dei Belview, l'Abate cercò altri mezzi per farlo.
+> 
+> Fu Strahd, sotto mentite spoglie come Vasili von Holtz, a fornire la risposta, fornendo all'Abate conoscenze proibite prese dal Tempio d'Ambra. Con l'aiuto di Vasili, l'Abate offrì un nuovo e unico trattamento a ciascuno dei Belview a turno, sostituendo occhi ciechi con gli occhi di un gatto, ginocchia artritiche con le gambe di un mulo, pelle macchiata di fegato con le squame di un serpente e piedi gonfi con le ali di un pipistrello.
+> 
+> I Belview furono deliziati dai loro nuovi aspetti e attributi. Gli esperimenti dell'Abate, tuttavia, li portarono a una strana forma di follia, infettandoli con i tratti mentali degli animali di cui ora condividevano le parti. Coloro con arti o organi carnivori si dimostrarono i più pericolosi per coloro che li circondavano, ma anche quelli con parti erbivore si dimostrarono imprevedibili e incontrollabili nel migliore dei casi.
+> 
+> Con il consenso riluttante dei Belview, l'Abate li sigillò nel manicomio dell'Abbazia, promettendo di trovare un modo per completare e "perfezionare" la loro trasformazione. Ha lavorato per oltre un secolo da allora, occasionalmente rapendo nuovi baroviani e conducendo ulteriori esperimenti mentre cercava invano un modo per liberarli dalla loro condizione. Negli ultimi decenni, tuttavia, ha in gran parte perso la speranza, scegliendo di concentrare la sua attenzione su altri progetti più fruttuosi (come sollevare la maledizione di Strahd).
+> 
+> I discendenti dei Belview, tuttavia, non hanno ancora perso la speranza. Nelle generazioni successive al loro arrivo, si sono incrociati sia tra loro che con le nuove vittime che l'Abate ha portato all'Abbazia, mescolando i loro tratti bestiali e diventando strane chimere con una profonda, contorta follia. L'Abate promette loro regolarmente che si avvicina sempre di più a "perfezionare" le loro trasformazioni, dando loro la bellezza, la forza e la velocità che desiderano disperatamente—e così, i Belview rimangono inquieti nelle loro celle, aspettando un giorno che non arriverà mai.
+> 
+> Tre mesi fa, quando Strahd si svegliò nel Castello Ravenloft, Rahadin venne all'Abbazia per annunciare la sua rinascita. Come mezzo per attirare l'attenzione di Strahd per il suo prossimo progetto, Vasilka, l'Abate offrì Cyrus Belview—il più anziano dei moderni Belview—come "dono di nozze", notando che la coscienziosità e la destrezza di Cyrus lo avrebbero reso un ottimo servitore per il padrone di Rahadin.
+> 
+> I Belview, tuttavia, non avrebbero mai tollerato la perdita del loro "patriarca". Per affrontare le loro preoccupazioni, l'Abate disse loro che Cyrus aveva raggiunto una "nuova fase" nel suo viaggio; che questa fase avrebbe sbloccato le porte della "salvezza e trasmutazione"; e che Cyrus era stato selezionato per un "ruolo speciale al Castello Ravenloft" di conseguenza. Non elaborò, tuttavia, che la "salvezza e trasmutazione" in questione erano solo di Strahd, o che questo "ruolo speciale" era uno di servitù, permettendo ai Belview di assumere che Cyrus fosse stato elevato a causa della sua "perfezione".
 
-* **If Ezmerelda has not yet returned**, the Abbot informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return two days after the full moon. (The Abbot doesn’t know where Ezmerelda is, and notes gently that her business is her own. “She is a free spirit, that one," he observes thoughtfully.)
-* **If Ezmerelda has returned**, the Abbot offers to show the players to her room. However, he first asks the players to assist him with a particular task. (See **Vasilka’s Lesson** below.)
+Se i giocatori appaiono disturbati o divertiti dalla condizione dei Belview, Clovin chiede mentre camminano se sono sorpresi dall'aspetto della sua famiglia. Se chiesto, può condividere le seguenti informazioni:
+
+* Molto tempo fa, gli antenati di Clovin vennero all'Abbazia cercando una cura per una strana e misteriosa malattia. L'Abate li guarì perfezionando i loro corpi, dando loro nuove parti e tratti che li elevarono oltre la loro precedente, pietosa condizione.
+* Il lavoro dell'Abate, tuttavia, non è ancora finito. I Belview attendono pazientemente il giorno in cui la loro "benedetta perfezione" sarà completa—un giorno che Clovin crede sia imminente. (Se chiesto perché, Clovin dice solo che suo padre, Cyrus, è stato recentemente perfezionato. Clovin condivide che è fiducioso che il suo turno verrà dopo, data la sua lunga lealtà e servizio all'Abate.)
+
+Se i giocatori chiedono a Clovin della Vistana descritta nella lettura di Madam Eva, nota solo (e con lieve irritazione) che l'Abate risponderà alle loro domande.
+## K2b. Sala Principale
+Quest'area è in gran parte come descritto in <span class="citation">S13. Main Hall (p. 150)</span>. Tuttavia, non c'è musica se Clovin sta guidando i giocatori. Inoltre, Vasilka è un **golem di carne** con un'Intelligenza di 17, un Carisma di 8, competenze in Religione e Natura, e la capacità di parlare e comprendere il Comune e il Celestiale.
+
+> [!profile]+ **Profilo: L'Abate**
+> **Informazioni di Interpretazione**
+> ***Risonanza.*** L'Abate dovrebbe ispirare disagio con il suo stoicismo e le sue osservazioni di routine riguardo ai "mortali", disgusto per la sua mancanza di rispetto per la vita umana o i valori, rabbia per la sua suprema e incrollabile autoconfidenza, e gratitudine per la sua (leggermente inquietante) cordialità e disponibilità a curare i giocatori dalla licantropia senza costi.
+> 
+> ***Emozioni.*** L'Abate si sente più spesso curioso, intrigato, freddo, distaccato o (raramente) infuriato.
+> 
+> ***Motivazioni.*** L'Abate vuole sollevare la "maledizione" su Barovia e preservare la "santità" dell'Abbazia di Santa Markovia.
+> 
+> ***Ispirazioni.*** Nell'interpretare l'Abate, canalizza Vision (*Marvel*), Data (*Star Trek*) e Dr. Manhattan (*Watchmen*).
+> 
+> **Informazioni sul Personaggio**
+> ***Persona.*** Per il mondo, l'Abate è un uomo sereno, ma inumano e distaccato, "scienziato" e uomo di fede. Solo l'Abate sa che è Ithuriel: un angelo del Signore del Mattino inviato per onorare la memoria di Santa Markovia.
+> 
+> ***Morale.*** In un combattimento, l'Abate rivelerebbe la sua forma divina, poi comanderebbe ai suoi nemici di deporre le armi e arrendersi. Se non lo facessero, li attaccherebbe senza pietà, cercando di schiacciare qualsiasi resistenza fino a quando non si arrendessero o fuggissero.
+> 
+> ***Relazioni.*** L'Abate, un angelo del Signore del Mattino una volta chiamato Ithuriel, è il maestro dell'Abbazia di Santa Markovia, inclusi i **mongrelfolk** Otto, Zygfrek e Clovin Belview. È anche il creatore del **golem di carne** Vasilka e il resuscitatore di Kala Krezkova.
+
+L'Abate saluta calorosamente i giocatori, dando loro il benvenuto all'Abbazia di Santa Markovia. Se chiesto della Vistana descritta nella lettura di Madam Eva, può condividere le seguenti informazioni:
+
+* **Se Ezmerelda non è ancora tornata**, l'Abate informa i giocatori che la Vistana chiamata Ezmerelda d’Avenir è via per affari e dovrebbe tornare due giorni dopo la luna piena. (L'Abate non sa dove sia Ezmerelda e nota gentilmente che i suoi affari sono suoi. “È uno spirito libero, quella," osserva pensieroso.)
+* **Se Ezmerelda è tornata**, l'Abate offre di mostrare ai giocatori la sua stanza. Tuttavia, chiede prima ai giocatori di aiutarlo con un compito particolare. (Vedi **La Lezione di Vasilka** sotto.)
 
 ![[The Abbot.png]]
-<span class="credit">"The Abbot" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"L'Abate" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-### The Abbot’s Knowledge
-The Abbot can also share the following information about himself, Vasilka, and Strahd if asked:
+### La Conoscenza dell'Abate
+L'Abate può anche condividere le seguenti informazioni su se stesso, Vasilka e Strahd se chiesto:
 
-* He serves as the Abbot of the Abbey of Saint Markovia in Saint Markovia’s honor, a position he has held for some years. He was sent to reopen the Abbey following its tragic fate and abandonment—to make it a place of healing and sanctuary once again. (If asked how many years he has served at the Abbey, the Abbot shares that he has held his position for one hundred and seventeen years, ten months, and twenty-six days—a trivially brief time, in his mind. The Abbot won’t share his true angelic nature or identity, noting simply and serenely that he is merely a humble servant of the Morninglord.)
-* Twice has he had the opportunity to look into Strahd’s eyes—which, as it is said, are the windows to one’s soul. On the first occasion, he saw a man who ached with an unquenchable thirst to fill the void in his heart, like a parched desert longing for rain. On the second occasion, he realized that Strahd was cursed—a curse that clutched his very soul—that his soul was tied to the land itself, and that his ailment rendered the land barren and its people imprisoned. (If asked, the Abbot can share that the first occasion took place four hundred and seventeen years, eight months, and three days ago, and that the second took place one hundred and fifteen years, six months, and sixteen days ago. If asked how he met Strahd on the first occasion, the Abbot smiles serenely and states merely that the Morninglord’s service leads one on many paths.)
-* The Abbot believes that filling the void in Strahd’s soul—which Strahd has filled uselessly with power, pride, and wealth—is necessary to heal the wound that afflicts the land of Barovia. Only love can fill such a void, however: the deep, abiding, and unconditional love that Strahd has been denied all his life.
-* As an immortal, however, Strahd requires the companionship of a creature that will last for as long as he will. It is for this reason that the Abbot has constructed Vasilka: a **flesh golem** built to be the perfect bride to a man of power, stature, and noble descent. Unlike others of her kind, Vasilka was forged with a spark of life within her heart, allowing her to be the companion that Strahd so desperately needs.
-* The Abbot has begun to train Vasilka in the arts of etiquette and romance. Given Strahd’s brilliant intelligence and his respect for creatures of similar intellect, the Abbot has also taught her philosophy, theology, and the natural sciences. Soon, the Abbot will offer her to Strahd as his bride—and when they are wed, the Abbot believes, the curse upon the land shall be lifted. 
+* Serve come Abate dell'Abbazia di Santa Markovia in onore di Santa Markovia, una posizione che ha ricoperto per alcuni anni. È stato inviato per riaprire l'Abbazia dopo il suo tragico destino e abbandono—per renderla di nuovo un luogo di guarigione e santuario. (Se chiesto quanti anni ha servito all'Abbazia, l'Abate condivide che ha ricoperto la sua posizione per centodiciassette anni, dieci mesi e ventisei giorni—un tempo trivialmente breve, nella sua mente. L'Abate non condividerà la sua vera natura angelica o identità, notando semplicemente e serenamente che è solo un umile servitore del Signore del Mattino.)
+* Due volte ha avuto l'opportunità di guardare negli occhi di Strahd—che, come si dice, sono le finestre dell'anima. Alla prima occasione, vide un uomo che soffriva di una sete inestinguibile di riempire il vuoto nel suo cuore, come un deserto assetato che anela alla pioggia. Alla seconda occasione, si rese conto che Strahd era maledetto—una maledizione che afferrava la sua stessa anima—che la sua anima era legata alla terra stessa, e che il suo male rendeva la terra sterile e il suo popolo imprigionato. (Se chiesto, l'Abate può condividere che la prima occasione ebbe luogo quattrocentodiciassette anni, otto mesi e tre giorni fa, e che la seconda ebbe luogo centodiciassette anni, sei mesi e sedici giorni fa. Se chiesto come incontrò Strahd alla prima occasione, l'Abate sorride serenamente e afferma semplicemente che il servizio del Signore del Mattino porta su molti sentieri.)
+* L'Abate crede che riempire il vuoto nell'anima di Strahd—che Strahd ha riempito inutilmente con potere, orgoglio e ricchezza—sia necessario per guarire la ferita che affligge la terra di Barovia. Solo l'amore può riempire un tale vuoto, tuttavia: l'amore profondo, duraturo e incondizionato che a Strahd è stato negato per tutta la vita.
+* Come immortale, tuttavia, Strahd richiede la compagnia di una creatura che durerà tanto quanto lui. È per questo motivo che l'Abate ha costruito Vasilka: un **golem di carne** costruito per essere la sposa perfetta per un uomo di potere, statura e nobile discendenza. A differenza di altri della sua specie, Vasilka è stata forgiata con una scintilla di vita nel suo cuore, permettendole di essere la compagna di cui Strahd ha tanto bisogno.
+* L'Abate ha iniziato a addestrare Vasilka nelle arti dell'etichetta e del romanticismo. Dato l'intelletto brillante di Strahd e il suo rispetto per le creature di simile intelligenza, l'Abate le ha anche insegnato filosofia, teologia e scienze naturali. Presto, l'Abate la offrirà a Strahd come sua sposa—e quando saranno sposati, l'Abate crede, la maledizione sulla terra sarà sollevata.
 
-The Abbot notes, however, with some concern, that his window of opportunity is fast drawing to a close. Although he cannot discern neither its true nature nor its manner or time of arrival, he can sense the approach of a great storm on the horizon—one that will soon alter Strahd’s fate forever. (The Abbot is referring, of course, to the impending Grand Conjunction, though he does not know its name.)
+L'Abate nota, tuttavia, con una certa preoccupazione, che la sua finestra di opportunità si sta rapidamente chiudendo. Sebbene non possa discernere né la sua vera natura né il suo modo o tempo di arrivo, può percepire l'avvicinarsi di una grande tempesta all'orizzonte—una che presto altererà per sempre il destino di Strahd. (L'Abate si riferisce, ovviamente, all'imminente Grande Congiunzione, anche se non ne conosce il nome.)
 
-The Abbot can also share the following information about the Belviews if asked:
+L'Abate può anche condividere le seguenti informazioni sui Belview se chiesto:
 
-* Shortly after his arrival at the Abbey, a family suffering a debilitating, unwholesome disease, came to the abbey seeking salvation. Their hereditary condition, which struck in early adulthood, left its victims physically frail and prematurely aged in appearance.
-* The Abbot could not heal their malady—a congenital disease, rather than a mere infection or wound—directly. However, he was able to ameliorate its effects through grafting the parts of beasts upon their ailing bodies, replacing blinded eyes with the eyes of a cat, arthritic knees with the legs of a dog, liver-spotted skin with the scales of a snake, or swollen feet with the hooves of a mule.
-* The family’s illness, however, left their minds weak and vulnerable. The process, sadly, left their thoughts and emotions in a disturbed and unquiet state, requiring them to remain patients of the Abbey indefinitely, until their transformation could be perfected. The modern-day Belviews are their descendants. (The Abbot insists, if asked, that he is confident that he will one day find a cure for their condition.)
+* Poco dopo il suo arrivo all'Abbazia, una famiglia affetta da una debilitante e malsana malattia, venne all'abbazia cercando salvezza. La loro condizione ereditaria, che colpiva nella prima età adulta, lasciava le sue vittime fisicamente fragili e prematuramente invecchiate nell'aspetto.
+* L'Abate non poteva guarire la loro malattia—una malattia congenita, piuttosto che una semplice infezione o ferita—direttamente. Tuttavia, poteva alleviarne gli effetti innestando parti di bestie sui loro corpi malati, sostituendo occhi ciechi con gli occhi di un gatto, ginocchia artritiche con le gambe di un cane, pelle macchiata di fegato con le squame di un serpente o piedi gonfi con gli zoccoli di un mulo.
+* La malattia della famiglia, tuttavia, lasciava le loro menti deboli e vulnerabili. Il processo, purtroppo, lasciava i loro pensieri ed emozioni in uno stato disturbato e inquieto, richiedendo loro di rimanere pazienti dell'Abbazia indefinitamente, fino a quando la loro trasformazione potesse essere perfezionata. I Belview moderni sono i loro discendenti. (L'Abate insiste, se chiesto, che è fiducioso che un giorno troverà una cura per la loro condizione.)
 
-Finally, the Abbot can also share the following information about Saint Markovia and the Abbey if asked:
+Infine, l'Abate può anche condividere le seguenti informazioni su Santa Markovia e l'Abbazia se chiesto:
 
-* Saint Markovia was of the same generation as Strahd von Zarovich—but where Strahd lived a life of steel and blood, Saint Markovia walked in grace beneath the light of the Morninglord. 
-* As a youth, Markovia followed her heart and became a priest of the Morninglord soon after her eighteenth birthday. She proved to be a charismatic proselytizer and, before the age of thirty, had gained a reputation for allowing no evil to stand before her.
-* It was Tasha Petrovna, an oracle and cleric of the Morninglord, who, with the guidance of one of the Morninglord’s angels, elevated Saint Markovia as a new prophet of the Morninglord’s faith. Following internal strife with Saint Andral, the Most High Priest of the Morninglord’s church, however, Saint Markovia departed the Morninglord’s holy lands and built a new sanctuary in the quiet wilderness: the Abbey of Saint Markovia, which served as both a convent and hospital.
-* Shortly after Strahd’s curse fell upon the valley, Saint Markovia gathered her followers and marched upon Castle Ravenloft. Strahd destroyed them all, and those who remained at the Abbey soon fell into madness and despair. (“The darkness cannot be defeated by steel alone," the Abbot murmurs sorrowfully. “Only light can do that." If asked about the “sword of sunlight" Madam Eva mentioned, the Abbot shakes his head and laughs softly, insisting that no such thing dwells in Barovia.)
+* Santa Markovia era della stessa generazione di Strahd von Zarovich—ma dove Strahd visse una vita di acciaio e sangue, Santa Markovia camminava nella grazia sotto la luce del Signore del Mattino.
+* Da giovane, Markovia seguì il suo cuore e divenne una sacerdotessa del Signore del Mattino poco dopo il suo diciottesimo compleanno. Si dimostrò una proselitizzatrice carismatica e, prima dei trent'anni, aveva guadagnato una reputazione per non permettere a nessun male di stare davanti a lei.
+* Fu Tasha Petrovna, un'oracolo e chierica del Signore del Mattino, che, con la guida di uno degli angeli del Signore del Mattino, elevò Santa Markovia come nuova profetessa della fede del Signore del Mattino. Dopo conflitti interni con Sant'Andral, l'Alto Sacerdote della chiesa del Signore del Mattino, Santa Markovia lasciò le terre sacre del Signore del Mattino e costruì un nuovo santuario nella quieta wilderness: l'Abbazia di Santa Markovia, che serviva sia come convento che come ospedale.
+* Poco dopo che la maledizione di Strahd cadde sulla valle, Santa Markovia radunò i suoi seguaci e marciò sul Castello Ravenloft. Strahd li distrusse tutti, e coloro che rimasero all'Abbazia caddero presto nella follia e nella disperazione. (“L'oscurità non può essere sconfitta solo con l'acciaio," mormora tristemente l'Abate. “Solo la luce può farlo." Se chiesto della “spada di luce solare" menzionata da Madam Eva, l'Abate scuote la testa e ride dolcemente, insistendo che non esiste una cosa del genere a Barovia.)
 
-> [!lore]+ **Who is the Abbot?**
-> The Abbot—in truth a **deva** named Ithuriel—was once an angelic emissary of the Morninglord. It was he who chose Markovia to be the Morninglord’s prophet, and he who guided the oracle Tasha Petrovna to find and sanctify her, bestowing upon Markovia the holy relic that would one day become the *Icon of Dawn's Grace*—a mark of office that contained a spark of the Abbot’s pure divinity. (It was on this occasion that the Abbot—by chance—first encountered Strahd von Zarovich, then a commanding officer in King Barov’s army.)
+> [!lore]+ **Chi è l'Abate?**
+> L'Abate—in verità un **deva** di nome Ithuriel—era una volta un emissario angelico del Signore del Mattino. Fu lui a scegliere Markovia come profetessa del Signore del Mattino, e lui a guidare l'oracolo Tasha Petrovna a trovarla e santificarla, conferendole la reliquia sacra che un giorno sarebbe diventata l'*Icona della Grazia dell'Alba*—un segno di ufficio che conteneva una scintilla della pura divinità dell'Abate. (Fu in questa occasione che l'Abate—per caso—incontrò per la prima volta Strahd von Zarovich, allora ufficiale comandante nell'esercito del Re Barov.)
 > 
-> The Abbot, who first arrived in Krezk as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span> and <span class="citation">The Abbot (p. 225)</span>, came to the Abbey in memory of Saint Markovia, hoping to honor and restore the legacy of the woman he had once elevated. 
+> L'Abate, che arrivò per la prima volta a Krezk come descritto in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span> e <span class="citation">The Abbot (p. 225)</span>, venne all'Abbazia in memoria di Santa Markovia, sperando di onorare e restaurare l'eredità della donna che aveva una volta elevato.
 > 
-> However, the Dark Powers have corrupted his soul, subtly binding and tainting the Abbot’s divinity with chains and shrouds of spiritual mist. It was the Belviews who, through the Dark Powers’ quiet machinations, forged the first link in that chain—and Strahd who helped the Abbot fall from grace completely.
+> Tuttavia, i Poteri Oscuri hanno corrotto la sua anima, legando e contaminando sottilmente la divinità dell'Abate con catene e veli di nebbia spirituale. Furono i Belview che, attraverso le silenziose macchinazioni dei Poteri Oscuri, forgiarono il primo anello di quella catena—e Strahd che aiutò l'Abate a cadere completamente dalla grazia.
 > 
-> The Abbot has since descended into madness and quiet zealotry, wholly convinced of his own righteousness. Only by defeating him and unlocking his soul with the *Icon of Dawn's Grace* can the players cleanse the corruption that taints his heart and restore him to sanity.
-### Vasilka’s Lesson
-Before escorting the players to Ezmerelda’s room, the Abbot first asks them to assist in Vasilka’s next lesson.
+> L'Abate è da allora disceso nella follia e nel quieto zelo, completamente convinto della propria rettitudine. Solo sconfiggendolo e sbloccando la sua anima con l'*Icona della Grazia dell'Alba* i giocatori possono purificare la corruzione che macchia il suo cuore e riportarlo alla sanità mentale.
+### La Lezione di Vasilka
+Prima di scortare i giocatori nella stanza di Ezmerelda, l'Abate chiede loro di assistere alla prossima lezione di Vasilka.
 
-Although the Abbot has much experience in love of the divine, he admits he is wholly ignorant in the ways of love between a man and a woman. He therefore asks the players to teach Vasilka their knowledge of romantic love, including any tales they may have of their experiences with it. "If she is to wed," he says, “she must first understand the complex and irrational ways of mortal love."
+Sebbene l'Abate abbia molta esperienza nell'amore divino, ammette di essere completamente ignorante nelle vie dell'amore tra un uomo e una donna. Chiede quindi ai giocatori di insegnare a Vasilka la loro conoscenza dell'amore romantico, comprese eventuali storie che potrebbero avere delle loro esperienze con esso. "Se deve sposarsi," dice, “deve prima comprendere i modi complessi e irrazionali dell'amore mortale."
 
-If the players accept, the Abbot asks Vasilka to introduce herself, which she does with a small, if clumsy, curtsey. The Abbot defers almost entirely to the players for the duration of this brief “lesson," though he steps in to discourage unsavory topics if necessary.
+Se i giocatori accettano, l'Abate chiede a Vasilka di presentarsi, cosa che fa con una piccola, seppur goffa, riverenza. L'Abate si defila quasi completamente ai giocatori per tutta la durata di questa breve "lezione," intervenendo solo per scoraggiare argomenti sgradevoli se necessario.
 
 ![[Vasilka.png]]
-<span class="credit">"Vasilka" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Vasilka" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Vasilka, the Flesh Golem**
-> **Roleplaying Information**
-> ***Resonance.*** Vasilka should inspire endearment for her clumsy sweetness, occasionally awkward naivete, overpowering innocence, insatiable love of learning, and ability to find a silver lining to every cloud; sympathy for her anxiety and fear of angering the Abbot; and flattery for her genuine and rapt fascination with the players and their heroic adventures.
+> [!profile]+ **Profilo: Vasilka, il Golem di Carne**
+> **Informazioni di Interpretazione**
+> ***Risonanza.*** Vasilka dovrebbe ispirare affetto per la sua dolcezza goffa, occasionalmente ingenuità imbarazzante, insaziabile amore per l'apprendimento, capacità di trovare un lato positivo in ogni nuvola; simpatia per la sua ansia e paura di far arrabbiare l'Abate; e lusinga per la sua genuina e rapita fascinazione per i giocatori e le loro avventure eroiche.
 > 
-> ***Emotions.*** Vasilka most often feels curious, joyful, thoughtful, shy, anxious, hopeful, and dreamy.
+> ***Emozioni.*** Vasilka si sente più spesso curiosa, gioiosa, riflessiva, timida, ansiosa, speranzosa e sognante.
 > 
-> ***Motivations.*** Vasilka wants to make the Abbot happy, befriend her **flesh golem** "brother," and learn as much as she can about people and the world.
+> ***Motivazioni.*** Vasilka vuole rendere felice l'Abate, fare amicizia con il suo "fratello" **golem di carne** e imparare il più possibile sulle persone e sul mondo.
 > 
-> ***Inspirations.*** When playing Vasilka, channel Newt Scamander (*Fantastic Beasts*), Hinata Hyuuga (*Naruto*), and Alice (*Alice in Wonderland*).
+> ***Ispirazioni.*** Nell'interpretare Vasilka, canalizza Newt Scamander (*Animali Fantastici*), Hinata Hyuuga (*Naruto*) e Alice (*Alice nel Paese delle Meraviglie*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Vasilka is a polite, withdrawn, and well-mannered maiden. To those she trusts, she is a shy, occasionally anxious, and desperately curious spirit.
+> **Informazioni sul Personaggio**
+> ***Persona.*** Per il mondo, Vasilka è una fanciulla educata, riservata e ben educata. Per coloro di cui si fida, è uno spirito timido, occasionalmente ansioso e disperatamente curioso.
 > 
-> ***Morale.*** At the time the players meet her, Vasilka would cower and plead for peace if attacked, not fighting even to defend herself.
+> ***Morale.*** Al momento dell'incontro con i giocatori, Vasilka si rannicchierebbe e implorerebbe la pace se attaccata, non combattendo nemmeno per difendersi.
 > 
-> ***Relationships.*** Vasilka is the Abbot's creation and the "younger sister" of the Abbey's mindless **flesh golem**.
+> ***Relazioni.*** Vasilka è la creazione dell'Abate e la "sorella minore" del **golem di carne** senza mente dell'Abbazia.
 
-Throughout the lesson, Vasilka listens to the players with rapt attention and fascination, asking frequent clarifying and follow-up questions.
+Durante tutta la lezione, Vasilka ascolta i giocatori con rapita attenzione e fascinazione, facendo frequenti domande di chiarimento e di approfondimento.
 
-At an appropriate time, she asks the players whether flowers are a proper way to signify one’s care for another. As soon as the players have answered this question, Marzena, the bat-winged Belview in the courtyard (described in <span class="citation">S12d. Tethering Posts, p. 150</span>), escapes her post. Read:
+A un momento opportuno, chiede ai giocatori se i fiori sono un modo appropriato per significare la propria cura per un'altra persona. Non appena i giocatori hanno risposto a questa domanda, Marzena, il Belview alato di pipistrello nel cortile (descritto in <span class="citation">S12d. Tethering Posts, p. 150</span>), scappa dal suo posto. Leggi:
 
 <div class="description">
-<p>The terrible splintering of wood suddenly splits the air, followed immediately by the sound of rattling chains, beating, leathery wings, and an unintelligible scream of triumph. A moment later, a wide-eyed Clovin Belview bursts through the doors, his chest heaving as the cherubic head upon his shoulder wails with distress. "Marzena has escaped," he pants.</p>
+<p>Il terribile schianto del legno che si spezza improvvisamente riempie l'aria, seguito immediatamente dal suono di catene che tintinnano, ali di cuoio che battono e un urlo inintelligibile di trionfo. Un momento dopo, un Clovin Belview dagli occhi spalancati irrompe attraverso le porte, il petto che si solleva mentre la testa cherubica sulla sua spalla piange di angoscia. "Marzena è scappata," ansima.</p>
 </div>
 
-The Abbot gracefully excuses himself, insisting that the players continue their lesson with Vasilka rather than accompany him. He accompanies Clovin outside into the courtyard, whereupon he uses his ***change shape*** feature to assume the form of a **giant eagle**. He then takes to the skies in pursuit of Marzena. (Clovin stands guard in the courtyard, politely asking any players who depart the main hall to remain there until the Abbot has returned.)
+L'Abate si scusa con grazia, insistendo che i giocatori continuino la loro lezione con Vasilka piuttosto che accompagnarlo. Accompagna Clovin fuori nel cortile, dove usa la sua caratteristica ***cambiare forma*** per assumere la forma di un **aquila gigante**. Poi prende il volo all'inseguimento di Marzena. (Clovin fa la guardia nel cortile, chiedendo educatamente a qualsiasi giocatore che lascia la sala principale di rimanere lì fino al ritorno dell'Abate.)
 
-Once the Abbot has gone, Vasilka shyly asks whether she can share something with the players. If the players assent, she removes the golden sun disk hanging about the fireplace, which no longer conceals a *potion of healing (superior)*, but a small, clumsily-made garland necklace of red wildflowers.
+Una volta che l'Abate è andato, Vasilka chiede timidamente se può condividere qualcosa con i giocatori. Se i giocatori acconsentono, rimuove il disco solare dorato appeso sopra il camino, che non nasconde più una *pozione di guarigione (superiore)*, ma una piccola collana di ghirlanda di fiori rossi selvatici fatta goffamente.
 
-Vasilka first asks to confirm that flowers are a way to signify care. (If the players previously told her that they are not, she appears crestfallen and slightly abashed upon asking.) She can then share the following information:
+Vasilka chiede prima di confermare che i fiori sono un modo per significare la cura. (Se i giocatori le hanno precedentemente detto che non lo sono, appare abbattuta e leggermente imbarazzata nel chiedere.) Può quindi condividere le seguenti informazioni:
 
-* The east wing of the Abbey is guarded by a **flesh golem** like her, but which lacks whichever spark allows her to think and speak. Vasilka doesn’t know much about it, but knows that the Abbot built it before her, as a means to first perfect his craft.
-* The Abbot has strictly forbidden her from approaching it, insisting that interaction with such a brute would “disturb her delicate constitution" and “afflict her mind with unpleasant thoughts."
-* Vasilka has watched it from a distance, and feels that it must be lonely. She feels sorrowful for it, and believes that it deserves recognition and respect for its toils. “We are siblings, in a way," she says quietly. “Were we not both made by the same hand?"
-* While exploring the garden, Vasilka was struck by the beauty of the wildflowers there, and linked them into a garland to give the golem as a gift. “It seems so terrible that it should lurk always in the darkness of the east wing," she says, “and never see the wonderful things that await outside." She has kept the garland hidden, however, fearing that the Abbot would not approve of its purpose.
+* L'ala est dell'Abbazia è sorvegliata da un **golem di carne** come lei, ma che manca della scintilla che le permette di pensare e parlare. Vasilka non sa molto su di esso, ma sa che l'Abate lo ha costruito prima di lei, come mezzo per perfezionare la sua arte.
+* L'Abate le ha severamente proibito di avvicinarsi ad esso, insistendo che l'interazione con un tale bruto "disturberebbe la sua delicata costituzione" e "affliggerebbe la sua mente con pensieri spiacevoli."
+* Vasilka lo ha osservato da lontano e sente che deve essere solo. Si sente dispiaciuta per esso e crede che meriti riconoscimento e rispetto per i suoi sforzi. “Siamo fratelli, in un certo senso," dice tranquillamente. “Non siamo stati entrambi creati dalla stessa mano?"
+* Mentre esplorava il giardino, Vasilka fu colpita dalla bellezza dei fiori selvatici lì e li legò in una ghirlanda da dare al golem come regalo. “Sembra così terribile che debba sempre nascondersi nell'oscurità dell'ala est," dice, “e non vedere mai le meravigliose cose che aspettano fuori." Ha tenuto la ghirlanda nascosta, tuttavia, temendo che l'Abate non approverebbe il suo scopo.
 
-> [!abstract]+ **Anna's Sacrifice**
-> If the players ask Vasilka about Anna Krezkov's sacrifice of her heart, Vasilka shares her genuine discomfort and sympathy for Anna's situation. "But I trust the Abbot," she says, somewhat reluctantly, and adds, "Surely he must have good reason for his decisions."
+> [!abstract]+ **Il Sacrificio di Anna**
+> Se i giocatori chiedono a Vasilka del sacrificio del cuore di Anna Krezkov, Vasilka condivide il suo genuino disagio e simpatia per la situazione di Anna. "Ma mi fido dell'Abate," dice, leggermente riluttante, e aggiunge, "Sicuramente deve avere buone ragioni per le sue decisioni."
 
-Vasilka asks the players to deliver the garland necklace to the flesh golem as a gift from her. “I do not know if it regards me as its younger sister," she says softly. “I do not know if it regards me at all. But it seems a cruel thing to leave it alone and unloved."
+Vasilka chiede ai giocatori di consegnare la collana di ghirlanda al golem di carne come regalo da parte sua. “Non so se mi considera come sua sorella minore," dice dolcemente. “Non so se mi considera affatto. Ma sembra una cosa crudele lasciarlo solo e non amato."
 
-If the players agree, Vasilka asks them to keep the garland hidden from the Abbot until they’ve delivered it to the golem, fearing how the Abbot might respond upon learning of her duplicity.
+Se i giocatori accettano, Vasilka chiede loro di tenere la ghirlanda nascosta dall'Abate fino a quando non l'hanno consegnata al golem, temendo come l'Abate potrebbe rispondere una volta appreso della sua duplicità.
 
-Whether the players accept or refuse Vasilka’s request, Marzena Belview bursts in through a courtyard-facing window shortly thereafter. Read:
+Che i giocatori accettino o rifiutino la richiesta di Vasilka, Marzena Belview irrompe attraverso una finestra che dà sul cortile poco dopo. Leggi:
 
 <div class="description">
-<p>With a deafening clash of shattering glass, a winged figure bursts through one of the main hall's towering windows—the bat-winged Belview you saw in the courtyard. Her leathery wings beat desperately, and a heavy wooden post and chain dangle beside her.</p>
-<p>As quickly as it enters, the figure is violently yanked back, stopped in her airborne escape as the post and chain snag on the corner of the windowsill. A wail of frustration tears from her lips as the chain goes taut. "Where Cyrus?" she screams, gnashing her mandibles together. "Want Cyrus!"</p>
+<p>Con un fragore assordante di vetri infranti, una figura alata irrompe attraverso una delle alte finestre della sala principale—il Belview alato di pipistrello che avete visto nel cortile. Le sue ali di cuoio battono disperatamente, e un pesante palo di legno e una catena penzolano accanto a lei.</p>
+<p>Non appena entra, la figura viene violentemente tirata indietro, fermata nella sua fuga aerea mentre il palo e la catena si impigliano sull'angolo del davanzale. Un urlo di frustrazione le sfugge dalle labbra mentre la catena si tende. "Dov'è Cyrus?" urla, digrignando le mandibole. "Voglio Cyrus!"</p>
 </div>
 
-The Abbot descends to the courtyard immediately thereafter, landing with the sound of heavy, beating wings before assuming human form once more. (If the players have not already concealed it, Vasilka glances toward the flower garland with wide, terrified eyes.)
+L'Abate scende nel cortile immediatamente dopo, atterrando con il suono di ali che battono pesantemente prima di assumere di nuovo la forma umana. (Se i giocatori non hanno già nascosto la ghirlanda, Vasilka guarda verso di essa con occhi spalancati e terrorizzati.)
 
-As the Abbot re-enters the main hall, accompanied by Clovin Belview, he apologizes to the players for the disturbance. He then moves to inspect Marzena. 
+Mentre l'Abate rientra nella sala principale, accompagnato da Clovin Belview, si scusa con i giocatori per il disturbo. Poi si muove per ispezionare Marzena.
 
-“Cyrus has gone, child," he reminds her, calmly moving to untangle her chain from the windowsill. “He has moved on to the next stage of his journey. Perhaps you shall join him, someday." (As the Abbot takes hold of her chain, Marzena collapses onto the floor, sobbing quietly in anger and despair.)
+“Cyrus è andato, bambina," le ricorda, calmamente muovendosi per districare la sua catena dal davanzale. “È passato alla fase successiva del suo viaggio. Forse un giorno ti unirai a lui." (Mentre l'Abate prende la sua catena, Marzena crolla sul pavimento, singhiozzando tranquillamente di rabbia e disperazione.)
 
-The Abbot then hands Marzena’s chain to Clovin, and asks that she be bound in one of the sheds in the courtyard. “I had thought the light and air would prove a curative for her diseased mind," he says sorrowfully. “But the solemnity of solitude may provide a better environment for her reflection and healing."
+L'Abate poi consegna la catena di Marzena a Clovin e chiede che venga legata in uno dei capannoni nel cortile. “Pensavo che la luce e l'aria sarebbero state curative per la sua mente malata," dice tristemente. “Ma la solennità della solitudine potrebbe fornire un ambiente migliore per la sua riflessione e guarigione."
 
-As Clovin guides a sobbing, unresisting Marzena into the courtyard, the Abbot apologizes again to the players, thanks them for sharing their knowledge with Vasilka, and offers to lead them to the east wing of the Abbey, where Ezmerelda is staying. He can also share the following information about Cyrus as they walk:
+Mentre Clovin guida una Marzena singhiozzante e non resistente nel cortile, l'Abate si scusa di nuovo con i giocatori, li ringrazia per aver condiviso la loro conoscenza con Vasilka e offre di condurli all'ala est dell'Abbazia, dove soggiorna Ezmerelda. Può anche condividere le seguenti informazioni su Cyrus mentre camminano:
 
-* Cyrus is—or was—the patriarch of the Belview clan until recently. Marzena, his grand-niece, held him in particularly high esteem.
-* All of the Belviews seek perfection, as their ancestors did. “Cyrus," the Abbot says softly, “has proceeded to the next stage in his journey. It is difficult, however, for the other Belviews to hear that they have been left behind. I prefer not to discuss it, for it upsets them deeply, and to no meaningful end." (The Abbot declines to discuss Cyrus further, noting his belief that “idle gossip" is a dull and poisonous disease.)
-## K2c. The East Wing
-The Abbot guides the players to the doorway of the foyer of the East Wing, which is as described in <span class="citation">S14. Foyer (p. 151)</span>. As he opens the door, the **flesh golem** is waiting for them. Read:
+* Cyrus è—o era—il patriarca del clan Belview fino a poco tempo fa. Marzena, la sua pronipote, lo teneva in particolare considerazione.
+* Tutti i Belview cercano la perfezione, come facevano i loro antenati. “Cyrus," dice dolcemente l'Abate, “è passato alla fase successiva del suo viaggio. È difficile, tuttavia, per gli altri Belview sentire di essere stati lasciati indietro. Preferisco non discuterne, perché li sconvolge profondamente, e senza alcun fine significativo." (L'Abate rifiuta di discutere ulteriormente di Cyrus, notando la sua convinzione che “il pettegolezzo ozioso" sia una malattia noiosa e velenosa.)
+## K2c. L'Ala Est
+L'Abate guida i giocatori alla porta dell'atrio dell'Ala Est, che è come descritto in <span class="citation">S14. Foyer (p. 151)</span>. Mentre apre la porta, il **golem di carne** li sta aspettando. Leggi:
 
 <div class="description">
-<p>Just beyond the doorframe stands a towering figure exceeding seven feet in height, its shoulders broad and hulking. A patchwork of skin—varying in color, texture, and age—covers its body, crudely sewn together with thick, dark thread that zigzags across its form like a cartographer's nightmare. Muscles bulge unnaturally, as if overstuffed, and you can see places where the stitching has pulled tight, the skin almost tearing from the tension.</p>
-<p>Its eyes are deep, empty sockets filled with a dark, glassy material that reflects no light. Arms hang by its sides, each finger elongated and tipped with a jagged nail, resembling more the claws of a beast than the hands of a man.</p>
+<p>Appena oltre la soglia si erge una figura imponente che supera i sette piedi di altezza, le spalle larghe e possenti. Un patchwork di pelle—variante in colore, consistenza ed età—copre il suo corpo, cucito grossolanamente insieme con filo spesso e scuro che zigzaga attraverso la sua forma come un incubo di un cartografo. I muscoli si gonfiano innaturalmente, come se fossero troppo pieni, e si possono vedere punti in cui la cucitura è tirata stretta, la pelle quasi strappata dalla tensione.</p>
+<p>I suoi occhi sono profonde cavità vuote riempite di un materiale scuro e vitreo che non riflette alcuna luce. Le braccia pendono ai suoi lati, ogni dito allungato e terminato con un'unghia frastagliata, somigliando più agli artigli di una bestia che alle mani di un uomo.</p>
 </div>
 
-The Abbot asks the golem to “escort our guests to Miss d’Avenir’s chambers." The golem makes no verbal response, but turns and pauses, as if waiting for the players to follow it. If the players do so, the Abbot bids them farewell and returns to the main hall.
+L'Abate chiede al golem di “scortare i nostri ospiti nelle stanze della signorina d’Avenir." Il golem non risponde verbalmente, ma si gira e si ferma, come se aspettasse che i giocatori lo seguissero. Se i giocatori lo fanno, l'Abate li saluta e torna nella sala principale.
 
-The golem leads the players past <span class="citation">S15. Madhouse (p. 151)</span> and up the stairs to <span class="citation">S20. Upstairs Office (p. 154)</span>. It then opens the door leading to <span class="citation">S18. Curtain Wall (p. 154)</span> and silently points toward <span class="citation">S19. Barracks (p. 154)</span>, though it never steps foot outside of the East Wing. (Each of these areas are otherwise as described in the original module.)
+Il golem guida i giocatori oltre <span class="citation">S15. Madhouse (p. 151)</span> e su per le scale fino a <span class="citation">S20. Upstairs Office (p. 154)</span>. Poi apre la porta che conduce a <span class="citation">S18. Curtain Wall (p. 154)</span> e indica silenziosamente verso <span class="citation">S19. Barracks (p. 154)</span>, anche se non mette mai piede fuori dall'Ala Est. (Ciascuna di queste aree è altrimenti come descritto nel modulo originale.)
 
-If a player proffers Vasilka’s garland necklace to the golem, it regards it with little comprehension. If asked to lower its neck for the player to place the necklace around it, the golem does so without protest. If the players provide the golem with the necklace to hold, it can be seen wearing the necklace when the players next return to it.
+Se un giocatore offre la collana di ghirlanda di Vasilka al golem, la considera con poca comprensione. Se chiesto di abbassare il collo per permettere al giocatore di mettere la collana intorno ad esso, il golem lo fa senza protestare. Se i giocatori forniscono al golem la collana da tenere, può essere visto indossare la collana quando i giocatori tornano da esso.
 
-The door to the barracks is slightly ajar, and the sound of scratching chalk can be heard from the other side. As the players move to knock or enter, they can hear the sound of chalk breaking, followed by a muffled curse immediately after. (If the players knock, an annoyed woman’s voice invites them to come in a moment later.)
-### Meeting Ezmerelda
-The barracks are largely described as in <span class="citation">S19. Barracks (p. 154)</span>. However, add the following to the end of this area’s description:
+La porta delle baracche è leggermente socchiusa e si sente il suono di gesso che graffia dall'altra parte. Mentre i giocatori si muovono per bussare o entrare, possono sentire il suono del gesso che si spezza, seguito immediatamente da una maledizione soffocata. (Se i giocatori bussano, una voce di donna infastidita li invita a entrare un momento dopo.)
+### Incontro con Ezmerelda
+Le baracche sono in gran parte descritte come in <span class="citation">S19. Barracks (p. 154)</span>. Tuttavia, aggiungi quanto segue alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>At the center of the chamber, a ten-foot-square section purged of mold stands in stark contrast to the surrounding rot. An unrolled bedroll rests within this small island of cleanliness, accompanied by a worn backpack and a trio of sheathed weapons lying nearby.</p>
-<p>Beside this small camp stands a half-finished chalk circle nearly ten feet across, a five-pointed star inscribed across it. An olive-skinned Vistani woman stands crouched along its edge, her long, black, frizzy hair tied back with a wide, orange-red headband.</p>
-<p>She wears a mud-stained longcoat of similar color, a well-oiled suit of studded leather armor catching the light just beneath it. She seems to be wearing boots of two different colors: one an ordinary brown, and the other colored a dull, metallic copper. She glares at a snapped piece of white chalk in her hand.</p>
+<p>Al centro della camera, una sezione di dieci piedi quadrati purgata dalla muffa si distingue in netto contrasto con il marciume circostante. Un sacco a pelo srotolato si trova all'interno di questa piccola isola di pulizia, accompagnato da uno zaino logoro e da un trio di armi guainate nelle vicinanze.</p>
+<p>Accanto a questo piccolo accampamento si trova un cerchio di gesso a metà finito di quasi dieci piedi di diametro, una stella a cinque punte inscritta al suo interno. Una donna Vistani dalla pelle olivastra è accovacciata lungo il suo bordo, i suoi lunghi capelli neri e ricci legati indietro con una larga fascia rosso-arancione.</p>
+<p>Indossa un lungo cappotto macchiato di fango di colore simile, una ben oliata armatura di cuoio borchiato che cattura la luce appena sotto di esso. Sembra indossare stivali di due colori diversi: uno marrone ordinario e l'altro di un rame opaco. Fissa con rabbia un pezzo di gesso bianco spezzato nella sua mano.</p>
 </div>
 
-This is Ezmerelda d’Avenir. Her statistics are given below.
+Questa è Ezmerelda d’Avenir. Le sue statistiche sono fornite di seguito.
 
 <div class="statblock">
     <h2>Ezmerelda d'Avenir</h2>
-    <em>Medium humanoid (human), chaotic good</em>
+    <em>Umanoide medio (umano), caotico buono</em>
     <hr>
-    <strong>Armor Class</strong> 17 (+1 studded leather armor)
+    <strong>Classe Armatura</strong> 17 (+1 armatura di cuoio borchiato)
     <br>
-    <strong>Hit Points</strong> 82 (11d8 + 33)
+    <strong>Punti Ferita</strong> 82 (11d8 + 33)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Velocità</strong> 30 ft.
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
+                <th>FOR</th>
+                <th>DES</th>
+                <th>COS</th>
                 <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
+                <th>SAG</th>
+                <th>CAR</th>
             </tr>
         </thead>
         <tbody>
@@ -578,218 +578,217 @@ This is Ezmerelda d’Avenir. Her statistics are given below.
         </tbody>
     </table>
     <hr>
-    <strong>Saving Throws</strong> Wis +2<br>
-    <strong>Skills</strong> Acrobatics +6, Arcana +5, Deception +7, Medicine +2, Perception +4, Performance +5, Stealth +6, Survival +4<br>
-    <strong>Senses</strong> passive Perception 14<br>
-    <strong>Languages</strong> Common<br>
-    <strong>Challenge Rating</strong> 4<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Tiri Salvezza</strong> Sag +2<br>
+    <strong>Abilità</strong> Acrobazia +6, Arcano +5, Inganno +7, Medicina +2, Percezione +4, Prestidigitazione +5, Furtività +6, Sopravvivenza +4<br>
+    <strong>Sensi</strong> Percezione passiva 14<br>
+    <strong>Linguaggi</strong> Comune<br>
+    <strong>Grado di Sfida</strong> 4<br>
+    <strong>Bonus di Competenza</strong> +2
     <hr>
-    <p><strong><em>Special Equipment.</em></strong> In addition to her magic armor and weapons, Ezmerelda has two <em>potions of greater healing</em>, six <em>vials of holy water</em>, three wooden stakes, twelve silvered crossbow bolts, and a <em>runeguard stone</em> (see below).</p>
-    <p><strong><em>Spellcasting.</em></strong> Ezmerelda is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 10, +2 to hit with spell attacks). Ezmerelda has the following ranger spells prepared:</p>
+    <p><strong><em>Equipaggiamento Speciale.</em></strong> Oltre alla sua armatura e armi magiche, Ezmerelda ha due <em>pozioni di guarigione superiore</em>, sei <em>fiale di acqua santa</em>, tre paletti di legno, dodici dardi d'argento per balestra e una <em>pietra di guardia runica</em> (vedi sotto).</p>
+    <p><strong><em>Incantesimi.</em></strong> Ezmerelda è un incantatore di 5° livello. La sua abilità di incantesimo è Saggezza (CD tiro salvezza incantesimo 10, +2 a colpire con attacchi con incantesimi). Ezmerelda ha i seguenti incantesimi da ranger preparati:</p>
     <ul>
-    <li>1st level (4 slots): longstrider, snare, zephyr strike</li>
-    <li>2nd level (2 slots): darkvision, cordon of arrows</li>
+    <li>1° livello (4 slot): longstrider, snare, zephyr strike</li>
+    <li>2° livello (2 slot): darkvision, cordon of arrows</li>
     </ul>
-    <p><strong><em>Runeguard Stone (1/day).</em></strong> Ezmerelda possesses a <em>runeguard stone</em>. While holding the stone, she can cast the <em>magic circle</em> spell without components. (The spell retains its usual casting time.)</p>
-    <p><strong><em>Scroll Adept.</em></strong> Ezmerelda can cast spells from spell scrolls as if they were ranger spells.
-    <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> Ezmerelda makes three melee attacks: two with her +1 rapier and one with her +1 handaxe or her silvered shortsword. She can replace two attacks with an attack made with her hand crossbow.</p>
-    <p><strong><em>Rapier +1.</em></strong> <em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d8 + 5) piercing damage.</p>
-    <p><strong><em>Handaxe +1.</em></strong><em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage.</p>
-    <p><strong><em>Silvered Shortsword.</em></strong><em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.
-    <p><strong><em>Hand Crossbow.</em></strong><em>Ranged Weapon Attack:</em> +6 to hit, range 30/120 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage. If she has a silvered crossbow bolt remaining, Ezmerelda can choose to use it instead of an ordinary crossbow bolt when firing.</p>
-    <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>longstrider</em>, <em>darkvision</em>, or <em>cordon of arrows</em>.
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>zephyr strike</em>.
+    <p><strong><em>Pietra di Guardia Runica (1/giorno).</em></strong> Ezmerelda possiede una <em>pietra di guardia runica</em>. Mentre tiene la pietra, può lanciare l'incantesimo <em>cerchio magico</em> senza componenti. (L'incantesimo mantiene il suo tempo di lancio usuale.)</p>
+    <p><strong><em>Adepta dei Rotoli.</em></strong> Ezmerelda può lanciare incantesimi dai rotoli di incantesimi come se fossero incantesimi da ranger.
+    <h3>Azioni</h3>
+    <p><strong><em>Multiattacco.</em></strong> Ezmerelda effettua tre attacchi in mischia: due con il suo +1 stocco e uno con la sua +1 ascia o la sua spada corta d'argento. Può sostituire due attacchi con un attacco effettuato con la sua balestra a mano.</p>
+    <p><strong><em>Stocco +1.</em></strong> <em>Attacco con Arma da Mischia:</em> +7 a colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 9 (1d8 + 5) danni perforanti.</p>
+    <p><strong><em>Ascia +1.</em></strong><em>Attacco con Arma da Mischia:</em> +5 a colpire, portata 5 ft. o gittata 20/60 ft., un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni da taglio.</p>
+    <p><strong><em>Spada Corta d'Argento.</em></strong><em>Attacco con Arma da Mischia:</em> +6 a colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 7 (1d6 + 4) danni perforanti.
+    <p><strong><em>Balestra a Mano.</em></strong><em>Attacco con Arma a Distanza:</em> +6 a colpire, gittata 30/120 ft., un bersaglio. <em>Colpito:</em> 7 (1d6 + 4) danni perforanti. Se ha un dardo d'argento rimanente, Ezmerelda può scegliere di usarlo invece di un dardo ordinario quando spara.</p>
+    <p><strong><em>Lancia Incantesimo.</em></strong> Ezmerelda lancia <em>longstrider</em>, <em>darkvision</em> o <em>cordon of arrows</em>.
+    <h3>Azioni Bonus</h3>
+    <p><strong><em>Lancia Incantesimo.</em></strong> Ezmerelda lancia <em>zephyr strike</em>.
 </div>
 
 ![[Ez_trans.png]]
-<span class="credit">"Ezmerelda d'Avenir" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-The weapons on the floor are recognizable as a handaxe, a shortsword, and a rapier. The uncovered blade of the handaxe glints strangely under the light. (A player who casts *detect magic* observes that the rapier and handaxe are magical, as is Ezmerelda’s leather armor.)
+<span class="credit">"Ezmerelda d'Avenir" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+Le armi sul pavimento sono riconoscibili come un'ascia, una spada corta e uno stocco. La lama scoperta dell'ascia brilla stranamente sotto la luce. (Un giocatore che lancia *rileva magia* osserva che lo stocco e l'ascia sono magici, così come l'armatura di cuoio di Ezmerelda.)
 
-A player who inspects Ezmerelda’s boots automatically notices that the copper-colored boot is not a boot at all, but an intricate metallic prosthetic that has replaced her right leg below the hem of her breeches.
+Un giocatore che ispeziona gli stivali di Ezmerelda nota automaticamente che lo stivale color rame non è affatto uno stivale, ma una protesi metallica intricata che ha sostituito la sua gamba destra sotto l'orlo dei suoi pantaloni.
 
-> [!profile]+ **Profile: Ezmerelda d'Avenir**
-> **Roleplaying Information**
-> ***Resonance.*** Ezmerelda should inspire amusement for her irreverent sense of humor, gratitude for her cool competence, endearment for her fiery spirit in the face of adversity, and sympathy for her complicated feelings regarding Dr. Rudolph van Richten.
+> [!profile]+ **Profilo: Ezmerelda d'Avenir**
+> **Informazioni di Interpretazione**
+> ***Risonanza.*** Ezmerelda dovrebbe ispirare divertimento per il suo senso dell'umorismo irriverente, gratitudine per la sua fredda competenza, affetto per il suo spirito ardente di fronte alle avversità e simpatia per i suoi sentimenti complicati riguardo al Dr. Rudolph van Richten.
 > 
-> ***Emotions.*** Ezmerelda most often feels determined, thoughtful, skeptical, proud, enthusiastic, angry, amused, wary, or cautious.
+> ***Emozioni.*** Ezmerelda si sente più spesso determinata, riflessiva, scettica, orgogliosa, entusiasta, arrabbiata, divertita, cauta o prudente.
 > 
-> ***Motivations.*** Ezmerelda wants to save innocents from things that go "bump!" in the night, escape her parents' dark legacy, and prove herself as capable a vampire hunter as Dr. Van Richten.
+> ***Motivazioni.*** Ezmerelda vuole salvare gli innocenti dalle cose che fanno "bump!" nella notte, sfuggire all'oscura eredità dei suoi genitori e dimostrare di essere una cacciatrice di vampiri capace quanto il Dr. Van Richten.
 > 
-> ***Inspirations.*** The Tenth Doctor (*Doctor Who*), Captain Jack Harkness (*Doctor Who*), Buffy Summers (*Buffy the Vampire Slayer*), Malcolm Reynolds (*Firefly*)
+> ***Ispirazioni.*** Il Decimo Dottore (*Doctor Who*), Capitano Jack Harkness (*Doctor Who*), Buffy Summers (*Buffy l'Ammazzavampiri*), Malcolm Reynolds (*Firefly*)
 > 
-> **Character Information**
-> ***Persona.*** To the world, Ezmerelda is a cool, suave, professional monster hunter. To those she trusts, Ezmerelda is a fiery, wise-cracking, and eternally loyal friend. Deep down, Ezmerelda wonders if Dr. Van Richten thought she wasn't good enough—or if her family's crimes against him are enough to stain her legacy forever.
+> **Informazioni sul Personaggio**
+> ***Persona.*** Per il mondo, Ezmerelda è una cacciatrice di mostri fredda, elegante e professionale. Per coloro di cui si fida, Ezmerelda è un'amica ardente, spiritosa e eternamente leale. In fondo, Ezmerelda si chiede se il Dr. Van Richten pensasse che non fosse abbastanza brava—o se i crimini della sua famiglia contro di lui siano sufficienti a macchiare per sempre la sua eredità.
 > 
-> ***Morale.*** In a fight, Ezmerelda would move swiftly and tactically to secure an insurmountable advantage, then strike when the moment was right.
+> ***Morale.*** In un combattimento, Ezmerelda si muoverebbe rapidamente e tatticamente per assicurarsi un vantaggio insormontabile, poi colpirebbe quando il momento fosse giusto.
 > 
-> ***Relationships.*** Ezmerelda is the former student of Dr. Rudolph van Richten, and the daughter of the d'Avenirs who kidnapped and sold his son, Erasmus, to the vampire Baron Metus.
+> ***Relazioni.*** Ezmerelda è l'ex allieva del Dr. Rudolph van Richten e la figlia dei d'Avenir che rapirono e vendettero suo figlio, Erasmus, al vampiro Barone Metus.
 
-As the players enter the room, if they didn’t use stealth when approaching, Ezmerelda glances toward them with raised eyebrows. “Given the noise you made coming up here," she observes wryly, “I assume you’ve not come to kill me?"
+Mentre i giocatori entrano nella stanza, se non hanno usato la furtività nell'avvicinarsi, Ezmerelda li guarda con le sopracciglia alzate. “Dato il rumore che avete fatto venendo qui," osserva ironicamente, “suppongo che non siate venuti per uccidermi?"
 
-If the players indicate that they’ve come to recruit her or otherwise mention Madam Eva’s name, Ezmerelda is immediately intrigued. She stands up, dusts herself off, and introduces herself with a grin. She then invites them to enter and share “what sounds like a *very* interesting tale.*
+Se i giocatori indicano che sono venuti per reclutarla o menzionano il nome di Madam Eva, Ezmerelda è immediatamente intrigata. Si alza, si spolvera e si presenta con un sorriso. Poi li invita a entrare e a condividere “quella che sembra essere una *storia molto* interessante."
 
-Ezmerelda shares the following information freely if asked:
+Ezmerelda condivide le seguenti informazioni liberamente se chiesto:
 
-* Her name is Ezmerelda d’Avenir. 
-* She is a Vistana, though she travels with no caravan.
-* Unbeknownst to the Krezkovs, she has come to the Abbey to learn the source of the Abbot's madness, and how it might be cured in order to save Anna Krezkov's life.
+* Il suo nome è Ezmerelda d’Avenir.
+* È una Vistana, anche se non viaggia con nessuna carovana.
+* All'insaputa dei Krezkov, è venuta all'Abbazia per scoprire la fonte della follia dell'Abate e come potrebbe essere curata per salvare la vita di Anna Krezkov.
 
-Ezmerelda is reluctant to share further information unless the players first prove that they can be trusted. If the players attempt to dig more deeply into her personal life or her purpose at the Abbey, she says, amusedly, “Well, that depends—who wants to know?"
+Ezmerelda è riluttante a condividere ulteriori informazioni a meno che i giocatori non dimostrino prima di essere degni di fiducia. Se i giocatori tentano di scavare più a fondo nella sua vita personale o nel suo scopo all'Abbazia, dice, divertita, “Beh, dipende—chi vuole saperlo?"
 
-Ezmerelda invites the players to explain themselves and their presence before she shares anything more personal. “I’ve only just met you," she says, laughing softly. “Knowledge is power, and I’ve not survived this long by letting any stranger put a blade to my throat."
+Ezmerelda invita i giocatori a spiegare se stessi e la loro presenza prima di condividere qualcosa di più personale. “Vi ho appena incontrati," dice, ridendo dolcemente. “La conoscenza è potere, e non sono sopravvissuta così a lungo permettendo a qualsiasi sconosciuto di mettermi una lama alla gola."
 
-If the players share that they are newcomers to Barovia (“You certainly don’t *look* like you’re from around here," Ezmerelda observes), she is willing to share the following information:
+Se i giocatori condividono che sono nuovi arrivati a Barovia (“Non sembrate *proprio* di queste parti," osserva Ezmerelda), è disposta a condividere le seguenti informazioni:
 
-* She arrived in Barovia herself just under two weeks ago via wagon. Since then, she’s remained largely in and around Krezk, though she left her wagon near the shore of Lake Baratok as a mobile base. She’s been searching the nearby woods for Ilya Krezkov, the missing son of Burgomaster Dmitri Krezkov and his wife, Anna. (“They saved me from the brink of death, once," she says, quietly. “I owe them at least that much.")
-* Since her arrival, she’s been disturbed by just how much Barovia has changed since she last visited—owing largely, it’s clear, to Strahd von Zarovich’s reawakening. (She narrows her eyes playfully, surveys the players, and notes, "With the lord of the castle up and about, I assume it's not difficult to fall under his sway. None of you have fangs or a thirst for my blood, I hope?")
+* È arrivata a Barovia poco meno di due settimane fa con un carro. Da allora, è rimasta principalmente a Krezk e dintorni, anche se ha lasciato il suo carro vicino alla riva del Lago Baratok come base mobile. Ha cercato nei boschi vicini Ilya Krezkov, il figlio scomparso del Borgomastro Dmitri Krezkov e di sua moglie, Anna. (“Mi hanno salvato dalla morte certa, una volta," dice tranquillamente. “Gli devo almeno tanto.")
+* Da quando è arrivata, è stata disturbata da quanto Barovia sia cambiata dalla sua ultima visita—dovuto in gran parte, è chiaro, al risveglio di Strahd von Zarovich. (Strizza gli occhi giocosa, osserva i giocatori e nota, "Con il signore del castello in giro, suppongo che non sia difficile cadere sotto il suo controllo. Nessuno di voi ha zanne o sete del mio sangue, spero?")
 
-If the players share that they are enemies of Strahd von Zarovich (“Ah, so that makes us either allies or competitors!" she exclaims), she is willing to share the following information:
+Se i giocatori condividono che sono nemici di Strahd von Zarovich (“Ah, quindi questo ci rende o alleati o concorrenti!" esclama), è disposta a condividere le seguenti informazioni:
 
-* Rather than traveling with a Vistani caravan, she hunts monsters—"old, dusty vampires included." (Ezmerelda shares this fact with a wry grin.)
-* She was trained by “the finest vampire hunter alive," a man whose name is so legendary that not even monsters dare go “bump" in the night upon hearing it. (Her boastful smile then fades, and she adds, quietly, “At least, if he’s still alive to speak it.")
+* Piuttosto che viaggiare con una carovana Vistani, caccia mostri—"vecchi, polverosi vampiri inclusi." (Ezmerelda condivide questo fatto con un sorriso ironico.)
+* È stata addestrata dal “miglior cacciatore di vampiri vivente," un uomo il cui nome è così leggendario che nemmeno i mostri osano fare “bump" nella notte sentendolo. (Il suo sorriso vanaglorioso poi svanisce, e aggiunge, tranquillamente, “Almeno, se è ancora vivo per dirlo.")
 
-If the players share that they’ve come to recruit her to their cause, Ezmerelda raises an eyebrow and asks, amusedly, exactly *how* they found her. If the players share the words of Madam Eva’s Tarokka reading, Ezmerelda is willing to share the following information:
+Se i giocatori condividono che sono venuti per reclutarla nella loro causa, Ezmerelda alza un sopracciglio e chiede, divertita, esattamente *come* l'hanno trovata. Se i giocatori condividono le parole della lettura di Tarokka di Madam Eva, Ezmerelda è disposta a condividere le seguenti informazioni:
 
-* Her mentor is Dr. Rudolph van Richten, the legendary vampire hunter. Three months ago, she and his other former students received a letter he’d sent announcing his intention to travel to Barovia. 
-* As the sole Vistana among his students, only she was able to trace his path through the mists and track him to the valley. Upon her arrival, however, she learned from a traveling Vistani caravan that Dr. Van Richten was rumored to be dead, having fallen in battle in a failed rebellion at Castle Ravenloft.
+* Il suo mentore è il Dr. Rudolph van Richten, il leggendario cacciatore di vampiri. Tre mesi fa, lei e gli altri ex allievi ricevettero una lettera che aveva inviato annunciando la sua intenzione di viaggiare a Barovia.
+* Come unica Vistana tra i suoi allievi, solo lei è stata in grado di tracciare il suo percorso attraverso le nebbie e seguirlo fino alla valle. Al suo arrivo, tuttavia, apprese da una carovana Vistani itinerante che si diceva che il Dr. Van Richten fosse morto, caduto in battaglia in una ribellione fallita al Castello Ravenloft.
 
-> [!abstract]+ **Ezmerelda & Van Richten**
-> If the players mention meeting Dr. Van Richten in [[Arc E - The Missing Vistana]], Ezmerelda is delighted and grateful to hear that her mentor is still alive. She asks the players, however, to refrain from telling her his location, at least for now. "Knowledge grows more dangerous the further it spreads," she says, "especially when a vampire can easily charm it out of you. If the old man wants to stay hidden, it's probably best that it stays that way."
-### What Ezmerelda Knows
-Once she’s satisfied that the players are trustworthy, Ezmerelda is willing to share the following information:
+> [!abstract]+ **Ezmerelda e Van Richten**
+> Se i giocatori menzionano di aver incontrato il Dr. Van Richten in [[Arco E - La Vistana Scomparsa]], Ezmerelda è deliziata e grata di sapere che il suo mentore è ancora vivo. Chiede ai giocatori, tuttavia, di astenersi dal dirle la sua posizione, almeno per ora. "La conoscenza diventa più pericolosa quanto più si diffonde," dice, "soprattutto quando un vampiro può facilmente incantarla fuori di te. Se il vecchio vuole rimanere nascosto, è probabilmente meglio che rimanga così."
+### Cosa Sa Ezmerelda
+Una volta soddisfatta che i giocatori siano degni di fiducia, Ezmerelda è disposta a condividere le seguenti informazioni:
 
-* She has come to the Abbey because Burgomaster Dmitri Krezkov told her that the Abbot appeared to be growing increasingly unstable, and that he feared for Krezk’s safety as a result.
-* Upon first visiting the Abbey, Ezmerelda—a weak clairvoyant—swiftly sensed that unquiet spirits lingered within its shadowed halls. She has intended to return ever since, planning to contact those spirits to further investigate the Abbot’s identity and the cause of his growing madness. (The chalk circle is meant to provide the medium for a seance, focusing the energies Ezmerelda must call upon and acting as a protective barrier against malevolent spirits.)
-* Three nights ago, she successfully found what she believes to be Ilya’s location: a cavern at the base of a spur of Mount Baratok along the northwestern shore of Lake Baratok. There’s one catch, however: Barovia’s werewolf pack uses the cave as its den, making any effort to rescue Ilya tremendously risky.
-* After capturing and interrogating a werewolf with the Barovian pack, Ezmerelda learned that the bulk of the pack will soon be departing Barovia to range beyond the Mists with Strahd's permission. The pack's expedition, Ezmerelda shares, will take place at dusk the following night. "My source didn't know how long the pack would be away," she notes. "It might be anywhere from twelve hours until twelve days, so we'll want to get in and out before dawn."
+* È venuta all'Abbazia perché il Borgomastro Dmitri Krezkov le ha detto che l'Abate sembrava diventare sempre più instabile, e che temeva per la sicurezza di Krezk di conseguenza.
+* Al suo primo visita all'Abbazia, Ezmerelda—una debole chiaroveggente—percepì rapidamente che spiriti inquieti si aggiravano nei suoi corridoi ombrosi. Ha intenzione di tornare da allora, pianificando di contattare quegli spiriti per indagare ulteriormente sull'identità dell'Abate e sulla causa della sua crescente follia. (Il cerchio di gesso è destinato a fornire il mezzo per una seduta spiritica, concentrando le energie che Ezmerelda deve evocare e agendo come una barriera protettiva contro gli spiriti malevoli.)
+* Tre notti fa, trovò con successo quello che crede essere il luogo di Ilya: una caverna alla base di uno sperone del Monte Baratok lungo la riva nord-occidentale del Lago Baratok. C'è un problema, tuttavia: il branco di licantropi di Barovia usa la caverna come tana, rendendo qualsiasi tentativo di salvare Ilya estremamente rischioso.
+* Dopo aver catturato e interrogato un licantropo del branco di Barovia, Ezmerelda apprese che la maggior parte del branco partirà presto da Barovia per vagare oltre le Nebbie con il permesso di Strahd. L'escursione del branco, condivide Ezmerelda, avrà luogo al tramonto della notte seguente. "La mia fonte non sapeva quanto tempo il branco sarebbe stato via," nota. "Potrebbe essere da dodici ore fino a dodici giorni, quindi vorremo entrare e uscire prima dell'alba."
 
-If asked how she lost her leg, Ezmerelda grins wryly, and says only that it's "a story for another day." (Ezmerelda can share the full story of her prosthetic leg in [[Arc L - The Den of Wolves]].)
+Se chiesto come ha perso la gamba, Ezmerelda sorride ironicamente e dice solo che è "una storia per un altro giorno." (Ezmerelda può condividere la storia completa della sua gamba protesica in [[Arco L - La Tana dei Lupi]].)
 
-Ezmerelda is tentatively willing to join the players in their fight against Strahd. Before she does so, however, they must first prove their worth by assisting her in the following two tasks:
+Ezmerelda è disposta a unirsi tentativamente ai giocatori nella loro lotta contro Strahd. Prima di farlo, tuttavia, devono prima dimostrare il loro valore assistendola nei seguenti due compiti:
 
-* conducting a seance immediately to contact the Abbey’s restless spirits; and
-* investigating the werewolf den **the following** **night**, while the bulk of the pack is away hunting.
+* condurre una seduta spiritica immediatamente per contattare gli spiriti inquieti dell'Abbazia; e
+* indagare sulla tana dei licantropi **la notte seguente**, mentre la maggior parte del branco è via a caccia.
 
-If the players agree to do so, Ezmerelda invites them to assist her in completing her chalk circle and conducting the seance. (See [[Arc L - The Den of Wolves]] for more information about Ezmerelda's plan to investigate the werewolf den.)
-### The Seance
-To begin the seance, Ezmerelda retrieves a deck of Tarokka cards from her coat and lays the entire deck out flat across the center of the chalk circle. She can inform the players that, like a spirit board, the cards will allow spirits to communicate with them from across the veil. 
+Se i giocatori accettano di farlo, Ezmerelda li invita ad aiutarla a completare il suo cerchio di gesso e a condurre la seduta spiritica. (Vedi [[Arco L - La Tana dei Lupi]] per ulteriori informazioni sul piano di Ezmerelda di indagare sulla tana dei licantropi.)
+### La Seduta Spiritica
+Per iniziare la seduta spiritica, Ezmerelda recupera un mazzo di carte Tarokka dal suo cappotto e dispone l'intero mazzo piatto al centro del cerchio di gesso. Può informare i giocatori che, come una tavola spiritica, le carte permetteranno agli spiriti di comunicare con loro dall'altra parte del velo.
 
-She warns the players, however, that they may ask only ten questions of the spirit that answers her call—and that once the seance has concluded, she won’t be able to conduct another one for a full three days.
+Avverte i giocatori, tuttavia, che possono fare solo dieci domande allo spirito che risponde alla sua chiamata—e che una volta conclusa la seduta spiritica, non sarà in grado di condurne un'altra per tre giorni interi.
 
-Once the players are ready, Ezmerelda invites the players to sit around the edges of the circle and join hands. Read:
+Una volta che i giocatori sono pronti, Ezmerelda invita i giocatori a sedersi intorno ai bordi del cerchio e a tenersi per mano. Leggi:
 
 <div class="description">
 <p>
-<p>Ezmerelda’s eyes meet each of yours in turn before closing. She bows her head, black curls cascading across her shoulders, and softly begins to chant.</p>
-<p>The air thickens, as if charged with static, and the hairs on your arms begin to stand on end. You hear the soft scrape of chalk against stone as, one by one, the lines of the pentagram begin to glow faintly, emanating a soft, silver light.</p>
-<p>A low, resonant hum fills the room, vibrating through the floor and into the soles of your feet, as if the very stones of the Abbey have joined in the chant. The ambient sounds beyond the walls fade away, leaving only the rhythmic cadence of Ezmerelda's whispered incantations, which rise and fall like a distant tide. The air grows colder, each breath forming wisps of mist that rise and swirl above your heads.</p>
-<p>"Spirits," Ezmerelda murmurs, swaying faintly. “We seek your wisdom and knowledge. The Abbot of this Abbey has fallen to darkness and corruption. Aid us, and tell us how the stains upon his soul may be cleansed."</p>
-<p>There is a pause — and then the temperature plunges, your skin prickling fiercely. You feel a sudden sense of being watched, as an unmistakable, yet unseeable presence settles like a shroud across the room.</p>
-<p>Ezmerelda’s eyes snap open. “We are not alone," she whispers.</p>
+<p>Gli occhi di Ezmerelda incontrano i vostri a turno prima di chiudersi. Abbassa la testa, i riccioli neri che le cadono sulle spalle, e inizia a cantilenare dolcemente.</p>
+<p>L'aria si addensa, come se fosse carica di elettricità statica, e i peli sulle vostre braccia iniziano a rizzarsi. Sentite il leggero graffio del gesso contro la pietra mentre, uno per uno, le linee del pentagramma iniziano a brillare debolmente, emanando una luce argentea.</p>
+<p>Un ronzio basso e risonante riempie la stanza, vibrando attraverso il pavimento e nelle piante dei vostri piedi, come se le stesse pietre dell'Abbazia si fossero unite al canto. I suoni ambientali oltre le pareti svaniscono, lasciando solo il ritmo cadenzato delle incantazioni sussurrate di Ezmerelda, che salgono e scendono come una marea lontana. L'aria diventa più fredda, ogni respiro formando volute di nebbia che si alzano e si avvolgono sopra le vostre teste.</p>
+<p>"Spiriti," mormora Ezmerelda, ondeggiando leggermente. “Cerchiamo la vostra saggezza e conoscenza. L'Abate di questa Abbazia è caduto nell'oscurità e nella corruzione. Aiutateci e diteci come le macchie sulla sua anima possono essere purificate."</p>
+<p>C'è una pausa—e poi la temperatura precipita, la vostra pelle che si increspa ferocemente. Sentite una sensazione improvvisa di essere osservati, come una presenza inconfondibile ma invisibile che si posa come un sudario sulla stanza.</p>
+<p>Gli occhi di Ezmerelda si spalancano. “Non siamo soli," sussurra.</p>
 </div>
 
-The presence is the spirit of Saint Markovia, which can communicate with the players by flipping individual Tarokka cards face-up from the Ethereal Plane. Each time the players ask a new question, the spirit flips all face-up cards face down and chooses a new set of cards to flip face-up.
+La presenza è lo spirito di Santa Markovia, che può comunicare con i giocatori capovolgendo singole carte Tarokka a faccia in su dal Piano Etereo. Ogni volta che i giocatori fanno una nuova domanda, lo spirito capovolge tutte le carte a faccia in su a faccia in giù e sceglie un nuovo set di carte da capovolgere a faccia in su.
 
- (A player who inspects the room using the *spirit mirror* sees Saint Markovia standing over Ezmerelda’s shoulder, wearing the clean, white robes of a priest with a golden mace in the shape of a sunburst sheathed upon her back.)
+ (Un giocatore che ispeziona la stanza usando lo *specchio degli spiriti* vede Santa Markovia in piedi sopra la spalla di Ezmerelda, indossando le pulite vesti bianche di una sacerdotessa con una mazza dorata a forma di sole guainata sulla schiena.)
 
-> [!info]+ **Seances with the Tarokka Deck**
-> When using cards of the Tarokka deck to answer player questions during a seance, each card possesses a unique meaning described in <span class="citation">Appendix E: The Tarokka Deck (p. 243-44)</span>. (For example, the <strong>Artifact</strong> card represents “The importance of some physical object that must be obtained, protected, or destroyed at all costs.")
+> [!info]+ **Sedute Spiritiche con il Mazzo di Tarokka**
+> Quando si usano le carte del mazzo di Tarokka per rispondere alle domande dei giocatori durante una seduta spiritica, ogni carta possiede un significato unico descritto in <span class="citation">Appendix E: The Tarokka Deck (p. 243-44)</span>. (Ad esempio, la carta <strong>Artefatto</strong> rappresenta “L'importanza di un oggetto fisico che deve essere ottenuto, protetto o distrutto a tutti i costi.")
 > 
-> If she is present, Ezmerelda can share each card’s meaning directly, though the players must interpret that meaning themselves in the context of their original question. A player with proficiency in the use of Tarokka cards also knows all card meanings automatically. Otherwise, a player must succeed on a DC 15 Arcana (Intelligence) check to recall the meaning of a particular card.
+> Se è presente, Ezmerelda può condividere direttamente il significato di ogni carta, anche se i giocatori devono interpretare quel significato nel contesto della loro domanda originale. Un giocatore con competenza nell'uso delle carte Tarokka conosce anche automaticamente tutti i significati delle carte. Altrimenti, un giocatore deve superare una prova di Arcano (Intelligenza) CD 15 per ricordare il significato di una particolare carta.
 > 
-> **Choosing Cards**
-> When choosing cards to answer a player question, use the following guidelines:
+> **Scegliere le Carte**
+> Quando si scelgono le carte per rispondere a una domanda dei giocatori, utilizzare le seguenti linee guida:
 > 
-> * **Unknown Answers**: For answers that St. Markovia doesn't know the answer to, flip the Mists (Unknown). (Remember that St. Markovia died shortly after Strahd became a vampire, that she doesn't know all of Strahd's secrets, and that her spirit hasn't seen anything of Barovia beyond her crypt and the Abbey since her death. For example, Markovia can't tell the players about the Amber Temple, the Mountain Folk, Strahd's brides, or the traps and layout of Castle Ravenloft.)
-> * **Simple Questions, Yes/No Answers**: For simple questions that can be answered with a simple “Yes" or “No," flip either the Diviner (Yes), the Anarchist (No), or both (Maybe).
-> * **Simple Questions, Simple Answers**: For straightforward questions that seek direct identification or yes/no answers, opt for a single card or a pair of cards that symbolize the answer most succinctly.
-> * **Complex Questions, Multiple Cards**: If the question requires a nuanced or detailed answer, don't hesitate to flip multiple cards. Each card can represent a different facet of the complex answer you wish to convey.
-> * **Contextual Interpretation**: Cards can have multiple meanings depending on the context of the question. Feel free to reuse cards for different queries, but ensure that their interpretation aligns with the context.
+> * **Risposte Sconosciute**: Per risposte che Santa Markovia non conosce, capovolgere la carta Mists (Sconosciuto). (Ricorda che Santa Markovia è morta poco dopo che Strahd è diventato un vampiro, che non conosce tutti i segreti di Strahd e che il suo spirito non ha visto nulla di Barovia oltre la sua cripta e l'Abbazia dalla sua morte. Ad esempio, Markovia non può dire ai giocatori del Tempio d'Ambra, del Popolo della Montagna, delle spose di Strahd o delle trappole e della disposizione del Castello Ravenloft.)
+> * **Domande Semplici, Risposte Sì/No**: Per domande semplici che possono essere risposte con un semplice “Sì" o “No," capovolgere la carta Diviner (Sì), la carta Anarchist (No) o entrambe (Forse).
+> * **Domande Semplici, Risposte Semplici**: Per domande dirette che cercano identificazioni dirette o risposte sì/no, optare per una singola carta o una coppia di carte che simboleggiano la risposta in modo più conciso.
+> * **Domande Complesse, Più Carte**: Se la domanda richiede una risposta sfumata o dettagliata, non esitare a capovolgere più carte. Ogni carta può rappresentare un aspetto diverso della risposta complessa che si desidera trasmettere.
+> * **Interpretazione Contestuale**: Le carte possono avere significati multipli a seconda del contesto della domanda. Sentiti libero di riutilizzare le carte per domande diverse, ma assicurati che la loro interpretazione sia in linea con il contesto.
 > 
-> **Sequencing Cards**
-> When flipping multiple cards, consider using the following guidelines for sequencing them:
+> **Sequenza delle Carte**
+> Quando si capovolgono più carte, considerare l'uso delle seguenti linee guida per sequenziarle:
 > 
-> * **Chronological Order**: When the question pertains to events that have occurred over time or a transformation, arrange the cards in a chronological sequence to depict the evolution or the series of events.
-> * **Importance**: If the question is about traits or qualities, you might choose to place the most dominant feature or most important card first, followed by cards that represent secondary or tertiary qualities.
-> * **Contrast and Transition**: When you choose cards that represent contrasting ideas or states, arrange them in an order that best illustrates the contrast or transition from one state to another.
+> * **Ordine Cronologico**: Quando la domanda riguarda eventi che si sono verificati nel tempo o una trasformazione, disporre le carte in una sequenza cronologica per rappresentare l'evoluzione o la serie di eventi.
+> * **Importanza**: Se la domanda riguarda tratti o qualità, potresti scegliere di posizionare prima la caratteristica più dominante o la carta più importante, seguita da carte che rappresentano qualità secondarie o terziarie.
+> * **Contrasto e Transizione**: Quando scegli carte che rappresentano idee o stati contrastanti, disponile in un ordine che meglio illustra il contrasto o la transizione da uno stato all'altro.
 
-If the players appear at a loss for which questions to ask, Ezmerelda suggests asking any or all of the following questions:
+Se i giocatori sembrano non sapere quali domande fare, Ezmerelda suggerisce di fare una o tutte le seguenti domande:
 
-* “Who are you?" (The spirit responds by flipping the Priest card, which it then flips face-down. It then flips the Missionary card, which it then flips face-down. It then flips the Shepherd card.)
-* “Are you Saint Markovia?" (The spirit responds by flipping the Diviner card.)
-* “Who is the Abbot?" (The spirit responds by flipping the Healer card, which it then flips face-down. It then flips the Broken One card.)
-* “What happened to the Abbot?" (The spirit responds by flipping the Marionette card and the Enchanter card.)
-* “How can we restore the Abbot?" (The spirit responds by flipping the Artifact card.)
-* “What does this artifact do?" (The spirit responds by flipping the Healer card.)
-* “Where can we find the artifact?" (The spirit responds by flipping the Darklord and Donjon cards.)
-* “How can we use the artifact once we’ve found it?" (The spirit responds by flipping the Warrior and Executioner cards.)
-* “Who do we need to kill?" (The spirit responds by flipping the Broken One card.)
+* “Chi sei?" (Lo spirito risponde capovolgendo la carta Priest, che poi capovolge a faccia in giù. Poi capovolge la carta Missionary, che poi capovolge a faccia in giù. Poi capovolge la carta Shepherd.)
+* “Sei Santa Markovia?" (Lo spirito risponde capovolgendo la carta Diviner.)
+* “Chi è l'Abate?" (Lo spirito risponde capovolgendo la carta Healer, che poi capovolge a faccia in giù. Poi capovolge la carta Broken One.)
+* “Cosa è successo all'Abate?" (Lo spirito risponde capovolgendo la carta Marionette e la carta Enchanter.)
+* “Come possiamo restaurare l'Abate?" (Lo spirito risponde capovolgendo la carta Artifact.)
+* “Cosa fa questo artefatto?" (Lo spirito risponde capovolgendo la carta Healer.)
+* “Dove possiamo trovare l'artefatto?" (Lo spirito risponde capovolgendo le carte Darklord e Donjon.)
+* “Come possiamo usare l'artefatto una volta trovato?" (Lo spirito risponde capovolgendo le carte Warrior e Executioner.)
+* “Chi dobbiamo uccidere?" (Lo spirito risponde capovolgendo la carta Broken One.)
 
-Immediately after the spirit answers the players’ tenth question, the players experience a series of visions. Read:
+Immediatamente dopo che lo spirito risponde alla decima domanda dei giocatori, i giocatori sperimentano una serie di visioni. Leggi:
 
 <div class="description">
-<p>A rush of ethereal wind sweeps through the room—and a radiant burst of light erupts from the center of the pentagram, painting the walls in shades of silver and gold.</p>
-<p>Flashes of images flicker across your mind's eyes. A white-robed woman kneeling before a man with wings as white as the purest snow, who directs a gold-robed woman to present her with a silver statuette of a cleric kneeling in supplication, its chest glowing with the same golden light that encircles that man's head. The white-robed woman, standing before a half-built structure atop a cold mountain spur, her hands calloused as she lays bricks upon a mortared wall. The same woman, raising a golden mace above her head, a prayer upon her lips as a shadowed fortress looms above her. The silver statuette, sitting alone in a dark, cold tomb beneath a dark, twisted keep. The man, alone on a mountaintop, a veil of mist shrouding his eyes.</p>
-<p>Each image is accompanied by a surge of emotion: humility, hope, defiance, and sorrow so strong it rakes at your chest with long, bitter claws. But as quickly as they appeared—the visions fade, and when you open your eyes again, you find the room returned to its former state.</p>
+<p>Un'ondata di vento etereo attraversa la stanza—e un'esplosione di luce radiante erompe dal centro del pentagramma, dipingendo le pareti in sfumature di argento e oro.</p>
+<p>Flash di immagini lampeggiano davanti ai vostri occhi mentali. Una donna in vesti bianche inginocchiata davanti a un uomo con ali bianche come la neve più pura, che dirige una donna in vesti dorate a presentarle una statuetta d'argento di un chierico inginocchiato in supplica, il suo petto che brilla con la stessa luce dorata che circonda la testa di quell'uomo. La donna in vesti bianche, in piedi davanti a una struttura a metà costruita su uno sperone di montagna freddo, le mani callose mentre posa mattoni su un muro di malta. La stessa donna, che solleva una mazza dorata sopra la testa, una preghiera sulle labbra mentre una fortezza ombreggiata si staglia sopra di lei. La statuetta d'argento, seduta da sola in una tomba buia e fredda sotto un oscuro, contorto castello. L'uomo, da solo su una cima di montagna, un velo di nebbia che gli copre gli occhi.</p>
+<p>Ogni immagine è accompagnata da un'ondata di emozione: umiltà, speranza, sfida e dolore così forte che vi graffia il petto con lunghe, amare unghie. Ma non appena sono apparse—le visioni svaniscono, e quando aprite di nuovo gli occhi, trovate la stanza tornata al suo stato precedente.</p>
 </div>
 
-> [!info]+ **Running Party NPCs**
-> Party NPCs like Ezmerelda d’Avenir and Ireena Kolyana can add depth, resonance, and additional role-playing opportunities to your campaign. However, it’s crucial to manage them in a way that doesn’t steal the spotlight from your players. As you do, keep these guidelines in mind:
+> [!info]+ **Gestire gli NPC del Gruppo**
+> Gli NPC del gruppo come Ezmerelda d’Avenir e Ireena Kolyana possono aggiungere profondità, risonanza e ulteriori opportunità di gioco di ruolo alla tua campagna. Tuttavia, è cruciale gestirli in modo che non rubino la scena ai tuoi giocatori. Mentre lo fai, tieni a mente queste linee guida:
 > 
-> * **Topics of Interest**: Party NPCs should generally remain in the background, speaking up only when spoken to, or when the conversation involves a topic directly related to them or their interests. They might also chime in with occasional banter or commentary where it is in-character to do so.
-> * **Deference to Players**: Party NPCs should generally defer decisionmaking to the players. Their role is to support the players, not to lead them. (The sole exception lies in matters of deep personal or emotional significance to a party NPC, which may lead them to argue or even disagree with the players if doing so is in line with their character.)
-> * **Multi-NPC Conversations**: If other NPCs engage party NPCs in conversation, try to redirect the interaction to include one or more players, keeping them involved and central to the current scene.
-> * **Guidance and Advice**: Avoid using party NPCs to provide direct solutions to puzzles, challenges, or strategic decisions. Although a party NPC might provide quiet commentary where a matter pertains to their expertise, they should offer clear hints or guidance only when directly asked, and the scope of their help should be relatively restricted.
+> * **Argomenti di Interesse**: Gli NPC del gruppo dovrebbero generalmente rimanere in secondo piano, intervenendo solo quando interpellati, o quando la conversazione riguarda un argomento direttamente correlato a loro o ai loro interessi. Potrebbero anche intervenire con occasionali battute o commenti dove è in carattere farlo.
+> * **Deferenza ai Giocatori**: Gli NPC del gruppo dovrebbero generalmente deferire le decisioni ai giocatori. Il loro ruolo è supportare i giocatori, non guidarli. (L'unica eccezione riguarda questioni di profondo significato personale o emotivo per un NPC del gruppo, che potrebbe portarli a discutere o addirittura a disaccordarsi con i giocatori se farlo è in linea con il loro carattere.)
+> * **Conversazioni Multi-NPC**: Se altri NPC coinvolgono gli NPC del gruppo in una conversazione, cerca di reindirizzare l'interazione per includere uno o più giocatori, mantenendoli coinvolti e centrali nella scena attuale.
+> * **Guida e Consigli**: Evita di usare gli NPC del gruppo per fornire soluzioni dirette a enigmi, sfide o decisioni strategiche. Sebbene un NPC del gruppo possa fornire commenti tranquilli dove una questione riguarda la loro competenza, dovrebbero offrire chiari suggerimenti o indicazioni solo quando direttamente richiesti, e l'ambito del loro aiuto dovrebbe essere relativamente limitato.
 
-> [!info]+ **The Artifact**
-> The statuette depicted in the séance is currently located in Saint Markovia's crypt in <span class="citation">K84. Catacombs (p. 85)</span>, and is described further in [[Arc P - Ravenloft Heist#South Crypts, Third Row|Arc P - Ravenloft Heist]]. 
+> [!info]+ **L'Artefatto**
+> La statuetta raffigurata nella seduta spiritica si trova attualmente nella cripta di Santa Markovia in <span class="citation">K84. Catacombs (p. 85)</span>, ed è descritta ulteriormente in [[Arco P - Il Colpo a Ravenloft#Cripte Sud, Terza Fila|Arco P - Il Colpo a Ravenloft]].
 
-***Milestone.*** Recruiting Ezmerelda d'Avenir as an ally completes a story milestone. When the players complete the seance, award each player 1,000 XP.
-##### The Eavesdroppers
-Shortly after the seance ends, Ezmerelda and any player with a passive Wisdom (Perception) score of 13 or higher hear a sudden noise outside the door. Read:
+***Pietra Miliare.*** Reclutare Ezmerelda d'Avenir come alleata completa una pietra miliare della storia. Quando i giocatori completano la seduta spiritica, assegna a ciascun giocatore 1.000 XP.
+##### Gli Ascoltatori
+Poco dopo la fine della seduta spiritica, Ezmerelda e qualsiasi giocatore con un punteggio di Saggezza (Percezione) passivo di 13 o superiore sentono un rumore improvviso fuori dalla porta. Leggi:
 
 <div class="description">
-<p>Suddenly, from just outside the door, you hear a loud thud. The door shudders briefly as if struck by a falling weight, followed by a trio of high-pitched yelps and groans.</p>
+<p>Improvvisamente, appena fuori dalla porta, sentite un forte tonfo. La porta trema brevemente come se fosse stata colpita da un peso caduto, seguito da un trio di alti gemiti e lamenti.</p>
 </div>
 
-A player who opens the door sees Clovin, Otto, and Zygfrek Belview lying in a tangled pile on the balcony beyond, each Belview cursing the others as they attempt to untangle themselves. When revealed, the Belviews look slightly abashed, with Clovin looking especially flushed at their discovery. (Clovin is not pleased that Otto or Zygfrek chose to join him in this eavesdropping expedition, and is further irritated that Otto’s clumsiness—while scratching an itch—caused them to get caught.)
+Un giocatore che apre la porta vede Clovin, Otto e Zygfrek Belview sdraiati in un groviglio sul balcone oltre, ciascun Belview che maledice gli altri mentre tentano di districarsi. Quando vengono rivelati, i Belview sembrano leggermente imbarazzati, con Clovin che appare particolarmente arrossato per la loro scoperta. (Clovin non è contento che Otto o Zygfrek abbiano scelto di unirsi a lui in questa spedizione di ascolto, ed è ulteriormente irritato che la goffaggine di Otto—mentre si grattava un prurito—abbia causato loro di essere scoperti.)
 
-The Belviews can share that they began eavesdropping on the players because they wanted to know more of the world beyond the Abbey’s walls. Given the players’ evident interest in Castle Ravenloft, the three Belviews have decided that the players might be able to help them learn the fate of their family patriarch, Cyrus Belview, who they believe to have been “perfected" before immediately being spirited away to Castle Ravenloft.
+I Belview possono condividere che hanno iniziato ad ascoltare i giocatori perché volevano sapere di più sul mondo oltre le mura dell'Abbazia. Dato l'evidente interesse dei giocatori per il Castello Ravenloft, i tre Belview hanno deciso che i giocatori potrebbero essere in grado di aiutarli a conoscere il destino del loro patriarca di famiglia, Cyrus Belview, che credono sia stato "perfezionato" prima di essere immediatamente portato al Castello Ravenloft.
 
-The Belviews ask the players to find and speak with Cyrus upon visiting Castle Ravenloft. They are clearly anxious to learn more of his experience with “perfection"—both the process that created it, and his life since attaining it. In exchange for news of Cyrus, Clovin promises to provide the players with a treasure hidden away somewhere in the Abbey.
+I Belview chiedono ai giocatori di trovare e parlare con Cyrus una volta visitato il Castello Ravenloft. Sono chiaramente ansiosi di sapere di più sulla sua esperienza con la "perfezione"—sia il processo che l'ha creata, sia la sua vita da quando l'ha raggiunta. In cambio di notizie su Cyrus, Clovin promette di fornire ai giocatori un tesoro nascosto da qualche parte nell'Abbazia.
 
-If the players agree to carry out their request, the three Belviews are deeply grateful, with Otto leaping and hee-hawing with joy as Clovin hurries to quiet him.
+Se i giocatori accettano di portare a termine la loro richiesta, i tre Belview sono profondamente grati, con Otto che salta e raglia di gioia mentre Clovin si affretta a zittirlo.
 
-> [!info]+ **Clovin's Treasure**
-> If the players return from Castle Ravenloft with news of Cyrus, Clovin brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
+> [!info]+ **Il Tesoro di Clovin**
+> Se i giocatori tornano dal Castello Ravenloft con notizie su Cyrus, Clovin li porta a un supporto di legno coperto da un panno nero nell'angolo sud-est del <span class="citation">S17. Loft and Belfry (p. 152)</span>. Dal supporto pendono due set di *ali volanti* con telai di ossa di animali. (L'Abate ha creato le ali come parte dei suoi esperimenti originali con i Belview, ma le ha abbandonate molto tempo fa.) Hanno le seguenti modifiche:
 > 
-> * The wings are artificial wings, rather than cloaks, and animate when activated instead of transforming.
-> * A set of wings animates for 1 minute, rather than 1 hour
-> * Once a set of wings has been used, it can't be used again until dawn.
-> * One set resembles bird wings and bears hundreds of large, downy feathers plucked from the Abbot's **giant eagle** form, while the other resembles bat wings and bears long membranes of tanned animal hide.
-> * A creature can attune itself to the wings in 1 minute.
-> 
+> * Le ali sono ali artificiali, piuttosto che mantelli, e si animano quando attivate invece di trasformarsi.
+> * Un set di ali si anima per 1 minuto, piuttosto che 1 ora
+> * Una volta che un set di ali è stato usato, non può essere usato di nuovo fino all'alba.
+> * Un set assomiglia a ali di uccello e porta centinaia di grandi piume soffici strappate dalla forma di **aquila gigante** dell'Abate, mentre l'altro assomiglia a ali di pipistrello e porta lunghe membrane di pelle di animale conciata.
+> * Una creatura può sintonizzarsi alle ali in 1 minuto.
 
-### The Abbot’s Wrath
-When the players re-enter the East Wing to descend to the courtyard once more, they are met once again by the **flesh golem**. If given Vasilka’s flower garland before, the golem is now wearing it as a necklace around its neck.
+### L'Ira dell'Abate
+Quando i giocatori rientrano nell'Ala Est per scendere di nuovo nel cortile, vengono accolti di nuovo dal **golem di carne**. Se gli è stata data la collana di fiori di Vasilka prima, il golem ora la indossa come collana intorno al collo.
 
-As the players exit the East Wing into the courtyard, they are greeted by the Abbot, who is accompanied by Vasilka. If Ezmerelda is present, the Abbot greets her warmly.
+Mentre i giocatori escono dall'Ala Est nel cortile, vengono accolti dall'Abate, che è accompagnato da Vasilka. Se Ezmerelda è presente, l'Abate la saluta calorosamente.
 
-After he has made pleasantries with the players, if the **flesh golem** is wearing Vasilka’s necklace, the Abbot’s eyes fall upon it. His gaze tightens, and he asks the players how the golem came to possess such an ornament.
+Dopo aver fatto i convenevoli con i giocatori, se il **golem di carne** indossa la collana di Vasilka, gli occhi dell'Abate cadono su di essa. Il suo sguardo si stringe e chiede ai giocatori come il golem sia venuto in possesso di un tale ornamento.
 
-A player must succeed on a DC 20 Charisma (Deception) check to successfully lie to the Abbot. Should the check fail, the Abbot recognizes the flowers as originating from the garden, notes that most of them appear to be several days old, and surmises that the players—who only recently arrived—could not have picked them. His gaze then flickers perceptibly to Vasilka, who appears mortified and crestfallen.
+Un giocatore deve superare una prova di Carisma (Inganno) CD 20 per mentire con successo all'Abate. Se la prova fallisce, l'Abate riconosce i fiori come provenienti dal giardino, nota che la maggior parte di essi sembra essere vecchia di diversi giorni e deduce che i giocatori—che sono arrivati solo di recente—non avrebbero potuto raccoglierli. Il suo sguardo poi si sposta percettibilmente su Vasilka, che appare mortificata e abbattuta.
 
-In either case, the Abbot commands the **flesh golem** to lower its neck, whereupon he removes the garland from its person. “Decoration and ornamentation are the first steps to pride and vanity," he observes serenely, adding, “Such follies are unbecoming of the gods’ creations." 
+In entrambi i casi, l'Abate comanda al **golem di carne** di abbassare il collo, dove rimuove la collana dalla sua persona. “La decorazione e l'ornamento sono i primi passi verso l'orgoglio e la vanità," osserva serenamente, aggiungendo, “Tali follie sono indegne delle creazioni degli dei."
 
-If the players failed to deceive him, the Abbot’s tone is chilled, and his eyes are tightened. Additionally, the Abbot then asks aloud for the perpetrator who crafted the necklace to come forward, and receive the Morninglord’s enlightenment and mercy. A player may subtly attempt to convince Vasilka not to reveal herself (e.g., by using body language) by succeeding on a DC 20 Dexterity (Deception) check and a DC 20 Charisma (Persuasion) check. 
+Se i giocatori non sono riusciti a ingannarlo, il tono dell'Abate è gelido e i suoi occhi sono stretti. Inoltre, l'Abate chiede ad alta voce che il colpevole che ha creato la collana si faccia avanti e riceva l'illuminazione e la misericordia del Signore del Mattino. Un giocatore può tentare di convincere sottilmente Vasilka a non rivelarsi (ad esempio, usando il linguaggio del corpo) superando una prova di Destrezza (Inganno) CD 20 e una prova di Carisma (Persuasione) CD 20.
 
-If the player fails the first check, the Abbot notices their attention to Vasilka and asks her to confess if she has given her hands to “the sins of vanity and pride." If the player fails the second check, Vasilka meekly confesses that she made the necklace. In either case, Vasilka insists that she did so only because the flesh golem looked so lonely, and she wished for it not to feel so alone. The Abbot thanks Vasilka for her honesty, noting that “the Morninglord smiles upon those who reveal the truth"—but adds, quietly, that they will speak of her penance later.
+Se il giocatore fallisce la prima prova, l'Abate nota la loro attenzione a Vasilka e le chiede di confessare se ha dato le sue mani ai “peccati di vanità e orgoglio." Se il giocatore fallisce la seconda prova, Vasilka confessa timidamente di aver fatto la collana. In entrambi i casi, Vasilka insiste che lo ha fatto solo perché il golem di carne sembrava così solo e voleva che non si sentisse così solo. L'Abate ringrazia Vasilka per la sua onestà, notando che “il Signore del Mattino sorride su coloro che rivelano la verità"—ma aggiunge, tranquillamente, che parleranno della sua penitenza più tardi.
 
-> [!abstract]+ **Vasilka's Punishment**
-> If the players gave Vasilka’s necklace to the flesh golem and failed to deceive the Abbot, he later punishes Vasilka by forcing the flesh golem to burn the necklace in the hearth of the main hall—a task that terrifies and distresses it due to its ***aversion of fire*** feature—while making her watch. When the players next return to the Abbey, Vasilka is quiet and withdrawn, and she steadfastly refuses to approach the hearth unless forced to.
+> [!abstract]+ **La Punizione di Vasilka**
+> Se i giocatori hanno dato la collana di Vasilka al golem di carne e non sono riusciti a ingannare l'Abate, punisce Vasilka costringendo il golem di carne a bruciare la collana nel focolare della sala principale—un compito che lo terrorizza e lo angoscia a causa della sua caratteristica ***avversione al fuoco***—mentre la fa guardare. Quando i giocatori tornano all'Abbazia, Vasilka è tranquilla e ritirata, e si rifiuta fermamente di avvicinarsi al focolare a meno che non sia costretta a farlo.
 
-> [!info]+ **Redeeming the Abbot**
-> The players can redeem the Abbot in [[Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]].
+> [!info]+ **Redimere l'Abate**
+> I giocatori possono redimere l'Abate in [[Arco Q - Un Faro Splendente]], che si svolge immediatamente dopo [[Arco P - Il Colpo a Ravenloft]].
