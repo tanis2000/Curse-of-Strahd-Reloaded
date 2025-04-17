@@ -304,7 +304,7 @@ Che Ludmilla riesca a rubare il simbolo o meno, si ritira poi su <span class="ci
 <hr>
 <strong>Classe Armatura</strong> 15<br>
 <strong>Punti Ferita</strong> 120 (16d8 + 48)<br>
-<strong>Velocità</strong> 30 ft., arrampicata 20 ft.
+<strong>Velocità</strong> 9 m, arrampicata 6 m
 <hr>
 <table class="ability-table">
   <thead>
@@ -365,7 +365,7 @@ Che Ludmilla riesca a rubare il simbolo o meno, si ritira poi su <span class="ci
 <hr>
 <strong>Classe Armatura</strong> 15<br>
 <strong>Punti Ferita</strong> 120 (16d8 + 48)<br>
-<strong>Velocità</strong> 30 ft., volo 50 ft. (fluttuante)
+<strong>Velocità</strong> 9 m, volo 15 m (fluttuante)
 <hr>
 <table class="ability-table">
   <thead>
@@ -435,7 +435,7 @@ Che Ludmilla riesca a rubare il simbolo o meno, si ritira poi su <span class="ci
 <br>
 <strong>Punti Ferita</strong> 37 (5d8 + 15)
 <br>
-<strong>Velocità</strong> 15 ft., volo 30 ft.
+<strong>Velocità</strong> 4.5 m, volo 9 m
 <hr>
 <table class="ability-table">
   <thead>
@@ -1163,346 +1163,347 @@ I giocatori che invocano l'ex relazione di Escher con il villaggio di Barovia e 
 >
 > Mentre se ne vanno, un giocatore con un punteggio di Saggezza (Intuizione) passiva di 14 o superiore nota che le spalle di Escher tremano per singhiozzi silenziosi.
 
-# P9. Coven’s Quarters
-This area lies at the peak of Castle Ravenloft’s South Tower, once nicknamed the “General’s Tower" for the contents of its highest floor. Before Strahd became a vampire, <span class="citation">K54. Familiar Room (p. 71)</span> was a guard post responsible for manning and supplying <span class="citation">K57. Tower Roof (p. 72)</span>, <span class="citation">K55. Element Room (p. 72)</span> was a map room and armory, and <span class="citation">K56. (p. Cauldron Room)</span> hosted the living quarters of General Kroval “Mad Dog" Grislek, whose remains now lie in <span class="citation">Crypt 38 (p. 92)</span>.
-## P9a. Familiar Room
-<span class="citation"><em>This scene takes place in Chapter 4, Area K54.</em></span>
+# P9. Quartieri del Covo
+Quest'area si trova al culmine della Torre Sud del Castello Ravenloft, un tempo soprannominata la "Torre del Generale" per il contenuto del suo piano più alto. Prima che Strahd diventasse un vampiro, <span class="citation">K54. Stanza dei Famigli (p. 71)</span> era un posto di guardia responsabile della gestione e del rifornimento di <span class="citation">K57. Tetto della Torre (p. 72)</span>, <span class="citation">K55. Stanza degli Elementi (p. 72)</span> era una sala mappe e un'armeria, e <span class="citation">K56. (p. Stanza del Calderone)</span> ospitava gli alloggi del Generale Kroval "Mad Dog" Grislek, i cui resti ora giacciono nella <span class="citation">Cripta 38 (p. 92)</span>.
+## P9a. Stanza dei Famigli
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K54.</em></span>
 
-This area is largely as described in <span class="citation">K54. Familiar Room (p. 71)</span>. However, the door to this chamber is ajar, as is the door to the chamber beyond. 
+Quest'area è per lo più come descritta in <span class="citation">K54. Stanza dei Famigli (p. 71)</span>. Tuttavia, la porta di questa camera è socchiusa, così come la porta della camera oltre.
 
-> [!abstract]+ **Watchful Familiars**
-> The witches aren’t automatically alerted to the players’ presence if the familiars see them here. However, if the players failed to prevent the **black cat** familiar in [[#P8a. Guest Landing]] from alerting its mistress, three of the witches in [[#P9c. Cauldron Room]] are watching through the eyes of the three **cats** in this chamber as described in the *find familiar* spell.
-## P9b. Element Room
-<span class="citation"><em>This scene takes place in Chapter 4, Area K55.</em></span>
+> [!abstract]+ **Famigli Vigili**
+> Le streghe non vengono automaticamente allertate della presenza dei giocatori se i famigli li vedono qui. Tuttavia, se i giocatori non sono riusciti a impedire al famiglio **gatto nero** in [[#P8a. Pianerottolo degli Ospiti]] di avvisare la sua padrona, tre delle streghe in [[#P9c. Stanza del Calderone]] stanno osservando attraverso gli occhi dei tre **gatti** in questa camera come descritto nell'incantesimo *trova famiglio*.
+## P9b. Stanza degli Elementi
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K55.</em></span>
 
-This area is largely as described in <span class="citation">K55. Element Room (p. 72)</span>. However, a **zombie** stands silently at the center of the room. (The zombie doesn’t attack except in self-defense, or except as directed by the coven.) Add the following to the end of this area’s description:
+Quest'area è per lo più come descritta in <span class="citation">K55. Stanza degli Elementi (p. 72)</span>. Tuttavia, uno **zombi** sta immobile al centro della stanza. (Lo zombi non attacca se non per autodifesa o se diretto dal covo.) Aggiungi quanto segue alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>A rotting figure stands still at the center of the room, its glassy, unblinking eyes staring straight ahead.</p>
+<p>Una figura in decomposizione sta immobile al centro della stanza, i suoi occhi vitrei e inespressivi fissano dritto davanti a sé.</p>
 </div>
 
-> [!abstract] **The Witches’ Ambush**
-> If the players failed to prevent the **black cat** familiar in [[#P8a. Guest Landing]] from alerting its mistress, the coven has used the contents of the cauldron in [[#P9c. Cauldron Room]] to transform the zombie into a weakened **zombie plague spreader** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 255</span>). Add the following to this area’s description:
+> [!abstract] **L'imboscata delle Streghe**
+> Se i giocatori non sono riusciti a impedire al famiglio **gatto nero** in [[#P8a. Pianerottolo degli Ospiti]] di avvisare la sua padrona, il covo ha usato il contenuto del calderone in [[#P9c. Stanza del Calderone]] per trasformare lo zombi in uno **zombi diffusore di piaghe** indebolito (<span class="citation">Guida di Van Richten a Ravenloft, p. 255</span>). Aggiungi quanto segue alla descrizione di quest'area:
 >
 > <hr>
-> *The zombie’s flesh is a smooth, sickly white, its skin run through with raised crimson veins. A faint cloud of reddish mist spills from its mouth and down onto the stone floor.*
+> *La carne dello zombi è liscia, di un bianco malsano, la sua pelle attraversata da vene rosse in rilievo. Una leggera nube di nebbia rossastra fuoriesce dalla sua bocca e si riversa sul pavimento di pietra.*
 > <hr>
 >
-> Increase the plague spreader's hit points to 100, decrease the necrotic damage dealt by its ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature.
+> Aumenta i punti ferita del diffusore di piaghe a 100, diminuisci i danni necrotici inflitti dal suo ***colpo*** a 5 (1d8), e diminuisci i danni inflitti dalla sua ***miasma virulenta*** a 7 (2d6) danni da veleno per creatura.
 >
-> The seven witches in [[#P9c. Cauldron Room]] have also quaffed their _potions of poison immunity_, cast _invisibility_ spells on themselves, and spread themselves around the corners of the room. The witches attack as soon as the players fully enter the room. A player with a passive Wisdom (Perception) score of 14 or greater who enters the room soon hears one of the invisible witches stifle a cough, as well as the rustling of unseen robes nearby.
+> Le sette streghe in [[#P9c. Stanza del Calderone]] hanno anche bevuto le loro _pozioni di immunità al veleno_, lanciato incantesimi di _invisibilità_ su se stesse e si sono sparse negli angoli della stanza. Le streghe attaccano non appena i giocatori entrano completamente nella stanza. Un giocatore con un punteggio passivo di Saggezza (Percezione) di 14 o superiore che entra nella stanza sente presto una delle streghe invisibili soffocare un colpo di tosse, così come il fruscio di vesti invisibili nelle vicinanze.
 
-A player who searches the room and succeeds on a DC 12 Intelligence (Investigation) check finds a *potion of fire breath* hidden amongst the bottles and jars. 
+Un giocatore che cerca nella stanza e riesce in una prova di Intelligenza (Investigazione) con CD 12 trova una *pozione di soffio di fuoco* nascosta tra le bottiglie e i barattoli.
 
-In addition, seven brooms lie in a rack just beside the south window. Six of the brooms are made of simple brown wood, while the last is made of lacquered black wood.
+Inoltre, sette scope giacciono in un supporto appena accanto alla finestra sud. Sei delle scope sono fatte di semplice legno marrone, mentre l'ultima è fatta di legno nero laccato.
 
-Two of the brown brooms are _brooms of inferior flying_, and the other four brown brooms are **brooms of animated attack**. The black broom is a _broom of flying_. If a creature other than one of the witches in [[#P9c. Cauldron Room]] attempts to take any of the brooms, the **brooms of animated attack** animate and attack.
+Due delle scope marroni sono _scope di volo inferiori_, e le altre quattro scope marroni sono **scope di attacco animato**. La scopa nera è una _scopa di volo_. Se una creatura diversa da una delle streghe in [[#P9c. Stanza del Calderone]] tenta di prendere una delle scope, le **scope di attacco animato** si animano e attaccano.
 
-The witches in [[#P9c. Cauldron Room]] emerge and join the fray if they hear the sound of fighting in this room.
+Le streghe in [[#P9c. Stanza del Calderone]] emergono e si uniscono alla lotta se sentono il suono di combattimenti in questa stanza.
 
-> [!warning]+ **Command Words**
-> A *broom of flying* cannot fly unless its command word is spoken. As noted in <span class="citation">Dungeon Master’s Guide (p. 136)</span>, a creature can learn a magic item’s command word by casting the *identify* spell, or by spending a short rest focused on that magic item while in physical contact with it.
+> [!warning]+ **Parole di Comando**
+> Una *scopa di volo* non può volare a meno che non venga pronunciata la sua parola di comando. Come indicato nel <span class="citation">Manuale del Dungeon Master (p. 136)</span>, una creatura può apprendere la parola di comando di un oggetto magico lanciando l'incantesimo *identificare*, o trascorrendo un riposo breve concentrandosi su quell'oggetto magico mentre è in contatto fisico con esso.
 
-> [!item]+ **Flying Brooms**
-> ***Brooms of Inferior Flying.*** A *broom of inferior flying* has 3 charges and regains 1 charge daily at dusk. A creature standing astride the broom can speak its command word and spend 1 charge to cause it to gain the properties of a *broom of flying* for 10 minutes. While activated in this way, the broom has a flying speed of only 30 feet (or 15 feet while carrying over 200 pounds).
+> [!item]+ **Scope Volanti**
+> ***Scope di Volo Inferiori.*** Una *scopa di volo inferiore* ha 3 cariche e recupera 1 carica giornalmente al tramonto. Una creatura in piedi sulla scopa può pronunciare la sua parola di comando e spendere 1 carica per farle acquisire le proprietà di una *scopa di volo* per 10 minuti. Mentre è attivata in questo modo, la scopa ha una velocità di volo di soli 30 piedi (o 15 piedi mentre trasporta oltre 200 libbre).
 >
-> ***Broom of Flying.*** The coven’s single *broom of flying* is enchanted with a mild form of sentience, and is loyal only to the witches of the coven. If any other creature attempts to ride it, the broom begins bucking and rolling uncontrollably once it has risen at least twenty feet above the ground. At the start of each of the rider’s turns, it must succeed on a DC 10 Strength saving throw or plummet to the ground. Once it has removed its rider, the broom then attempts to fly back to its rack in Castle Ravenloft.
+> ***Scopa di Volo.*** L'unica *scopa di volo* del covo è incantata con una lieve forma di sentienza ed è leale solo alle streghe del covo. Se qualsiasi altra creatura tenta di cavalcarla, la scopa inizia a sballottare e rotolare incontrollabilmente una volta che si è alzata almeno venti piedi da terra. All'inizio di ogni turno del cavaliere, deve riuscire in un tiro salvezza di Forza con CD 10 o precipitare a terra. Una volta che ha rimosso il suo cavaliere, la scopa tenta quindi di volare indietro al suo supporto nel Castello Ravenloft.
 >
-> The broom becomes permanently docile if its rider threatens to destroy or harm it in Common, Infernal, or Abyssal and succeeds on a DC 10 Charisma (Intimidation) check. The broom also ceases attempting to throw a particular rider if that rider successfully makes five consecutive Strength saving throws to avoid being thrown, although the broom then sullenly reduces its flying speed to 10 feet for the duration of the flight.
-## P9c. Cauldron Room
-<span class="citation"><em>This scene takes place in Chapter 4, Area K56.</em></span>
+> La scopa diventa permanentemente docile se il suo cavaliere minaccia di distruggerla o danneggiarla in Comune, Infernale o Abissale e riesce in una prova di Carisma (Intimidazione) con CD 10. La scopa cessa anche di tentare di gettare un particolare cavaliere se quel cavaliere riesce a fare cinque tiri salvezza consecutivi di Forza per evitare di essere gettato, anche se la scopa riduce poi scontrosamente la sua velocità di volo a 10 piedi per la durata del volo.
+## P9c. Stanza del Calderone
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K56.</em></span>
 
-This area is largely as described in <span class="citation">K56. Cauldron (p. 72)</span>. However, replace the reference to “green-glowing wisps of steam" in this area’s description with “red-glowing wisps of steam."
+Quest'area è per lo più come descritta in <span class="citation">K56. Calderone (p. 72)</span>. Tuttavia, sostituisci il riferimento a “volute di vapore verde brillante" nella descrizione di quest'area con “volute di vapore rosso brillante."
 
-> [!lore]+ **The Cauldron**
-> The potion in the cauldron, when imbibed by a **zombie**, transforms it into a **zombie plague spreader**. Due to the enchantments layered into the potion by the witches, a **zombie plague spreader** created in this way is loyal first to Strahd, second to Rahadin, third to Strahd’s consorts, and last to the witches who created it. Unless ordered otherwise, the plague spreader attacks any non-undead on sight.
+> [!lore]+ **Il Calderone**
+> La pozione nel calderone, se bevuta da uno **zombi**, lo trasforma in uno **zombi diffusore di piaghe**. A causa degli incantesimi stratificati nella pozione dalle streghe, uno **zombi diffusore di piaghe** creato in questo modo è leale prima a Strahd, poi a Rahadin, poi ai consorti di Strahd, e infine alle streghe che lo hanno creato. A meno che non venga ordinato diversamente, il diffusore di piaghe attacca qualsiasi non-morto a vista.
 
-In addition, replace the seven **Barovian witches** with two **Barovian hexwitches** wearing bone earrings, two **Barovian bogwitches** with brown paint smeared around their eyes, and three **Barovian stormwitches** wearing black leather gloves (see below). Each witch carries a _potion of healing_, a _potion of poison_, and a _potion of poison immunity_.
+Inoltre, sostituisci le sette **streghe baroviane** con due **streghe esagonali baroviane** che indossano orecchini d'osso, due **streghe di palude baroviane** con vernice marrone intorno agli occhi, e tre **streghe della tempesta baroviane** che indossano guanti di pelle nera (vedi sotto). Ogni strega porta una _pozione di guarigione_, una _pozione di veleno_ e una _pozione di immunità al veleno_.
 
-> [!combat]- **Balancing the Witches** 
-> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of witches to one Barovian hexwitch, one Barovian bogwitch, and two Barovian stormwitches (including Diavola). 
-> * **Four Players**. Reduce the number of witches to two Barovian hexwitches, two Barovian bogwitches, and Diavola. 
-> * **Six Players**. Increase the number of witches to two Barovian hexwitches, three Barovian bogwitches, and three Barovian stormwitches (including Diavola).
+> [!combat]- **Bilanciamento delle Streghe** 
+> Questo incontro di combattimento è un incontro di combattimento **impegnativo** contro un gruppo di cinque giocatori di 7° livello, un alleato di GS 2 (Ireena Kolyana) e un alleato di GS 4 (Ezmerelda d’Avenir), e consumerà circa il 27% dei loro punti ferita massimi totali. Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue: 
+> * **Tre Giocatori**. Riduci il numero di streghe a una strega esagonale baroviana, una strega di palude baroviana e due streghe della tempesta baroviane (inclusa Diavola). 
+> * **Quattro Giocatori**. Riduci il numero di streghe a due streghe esagonali baroviane, due streghe di palude baroviane e Diavola. 
+> * **Sei Giocatori**. Aumenta il numero di streghe a due streghe esagonali baroviane, tre streghe di palude baroviane e tre streghe della tempesta baroviane (inclusa Diavola).
 
-If the players didn’t attract her to [[#Main Foyer]], Ludmilla Vilisevic is also present alongside the witches’ coven. (See [[#Main Foyer]] for her statistics.) If combat breaks out, Ludmilla prefers to lure any enemy combatants up <span class="citation">K48. Offstair (p. 70)</span> toward <span class="citation">K57. Tower Roof (p. 72)</span>, where she can more easily use the open-air battlefield to her advantage.
+Se i giocatori non l'hanno attirata al [[#Foyer Principale]], Ludmilla Vilisevic è anche presente insieme al covo delle streghe. (Vedi [[#Foyer Principale]] per le sue statistiche.) Se scoppia un combattimento, Ludmilla preferisce attirare qualsiasi nemico combattente su per <span class="citation">K48. Scala Laterale (p. 70)</span> verso <span class="citation">K57. Tetto della Torre (p. 72)</span>, dove può più facilmente usare il campo di battaglia all'aperto a suo vantaggio.
 
-> [!item]+ **Potion of Poison Immunity**
-> A *potion of poison immunity* has the properties of a *potion of poison resistance*, but grants immunity rather than resistance.
+> [!item]+ **Pozione di Immunità al Veleno**
+> Una *pozione di immunità al veleno* ha le proprietà di una *pozione di resistenza al veleno*, ma garantisce immunità anziché resistenza.
 
-One of the Barovian stormwitches is Diavola, the leader of the coven. Diavola, who wears pewter earrings shaped like lightning bolts, has 28 hit points and an additional 2nd-level spell slot. In addition, rather than a _potion of healing_, Diavola carries a *potion of greater healing*. On her first turn in combat, Diavola cries: "We shall defeat you as Mother Lysaga taught us—for the glory of Brother Strahd!"
+Una delle streghe della tempesta baroviane è Diavola, la leader del covo. Diavola, che indossa orecchini di peltro a forma di fulmini, ha 28 punti ferita e uno slot incantesimo aggiuntivo di 2° livello. Inoltre, invece di una _pozione di guarigione_, Diavola porta una *pozione di guarigione superiore*. Al suo primo turno in combattimento, Diavola grida: "Vi sconfiggeremo come ci ha insegnato Madre Lysaga—per la gloria del Fratello Strahd!"
 
-> [!info]+ **Hexwitches, Bogwitches & Stormwitches**
+> [!info]+ **Streghe Esagonali, di Palude e della Tempesta**
 >
-> A **Barovian hexwitch** is a **Barovian witch** with the following spells prepared:
-> * Cantrips (at will): mage hand, prestidigitation, chill touch
-> * 1st level (4 slots): ray of sickness, Tasha's hideous laughter
-> * 2nd level (2 slots): blindness/deafness, invisibility, misty step
-> In combat, a Barovian hexwitch prefers to begin by casting *blindness/deafness*, followed by *ray of sickness*. If cornered, a hexwitch prefers to defend herself by casting *Tasha’s hideous laughter.*
+> Una **strega esagonale baroviana** è una **strega baroviana** con i seguenti incantesimi preparati:
+> * Trucchetti (a volontà): mano magica, prestidigitazione, tocco gelido
+> * 1° livello (4 slot): raggio di malattia, risata incontenibile di Tasha
+> * 2° livello (2 slot): cecità/sordità, invisibilità, passo velato
+> In combattimento, una strega esagonale baroviana preferisce iniziare lanciando *cecità/sordità*, seguita da *raggio di malattia*. Se messa alle strette, una strega esagonale preferisce difendersi lanciando *risata incontenibile di Tasha.*
 >
-> A **Barovian bogwitch** is a **Barovian witch** with the following spells prepared:
-> * Cantrips (at will): mage hand, prestidigitation, infestation
-> * 1st level (4 slots): ice knife, catapult
-> * 2nd level (2 slots): cloud of daggers, invisibility, misty step
-> In combat, a Barovian bogwitch prefers to begin by casting *cloud of daggers*, followed by *ice knife* if she can hit at least three targets, and *catapult* otherwise.
+> Una **strega di palude baroviana** è una **strega baroviana** con i seguenti incantesimi preparati:
+> * Trucchetti (a volontà): mano magica, prestidigitazione, infestazione
+> * 1° livello (4 slot): coltello di ghiaccio, catapulta
+> * 2° livello (2 slot): nube di pugnali, invisibilità, passo velato
+> In combattimento, una strega di palude baroviana preferisce iniziare lanciando *nube di pugnali*, seguita da *coltello di ghiaccio* se può colpire almeno tre bersagli, e *catapulta* altrimenti.
 >
-> A **Barovian stormwitch** is a **Barovian witch** with the following spells prepared:
-> * Cantrips (at will): mage hand, shocking grasp, ray of frost
-> * 1st level (4 slots): witch bolt, feather fall
-> * 2nd level (2 slots): Melf’s acid arrow, invisibility, misty step
-> In combat, a Barovian stormwitch prefers to begin by casting *Melf’s acid arrow*, followed by *witch bolt.*
-# P10. Garrison
-This area of the castle once hosted the barracks and common areas of the castle guards, providing easy access to the upper-floor archers’ posts and battlements via <span class="citation">K64. Guards’ Stair (p. 78)</span> and the North Tower Stair (<span class="citation">K20. Heart of Sorrow (p. 59)</span>). A quartet of secret doors, providing access to <span class="citation">K10. Dining Hall (p. 56)</span>, <span class="citation">K25. Audience Hall (p. 61)</span>, <span class="citation">K33. King’s Apartment Stair (p. 64)</span>, and <span class="citation">K78. Brazier Room (p. 82)</span>, also allowed for the castle’s protectors to swiftly and quietly navigate its floors or spirit away important targets to safety in the event of an attack.
-## P10a. Garrison, Basement Floor
-### Hall of Bones
-<span class="citation"><em>This scene takes place in Chapter 4, Area K67.</em></span>
+> Una **strega della tempesta baroviana** è una **strega baroviana** con i seguenti incantesimi preparati:
+> * Trucchetti (a volontà): mano magica, stretta folgorante, raggio di gelo
+> * 1° livello (4 slot): dardo stregato, caduta morbida
+> * 2° livello (2 slot): freccia acida di Melf, invisibilità, passo velato
+> In combattimento, una strega della tempesta baroviana preferisce iniziare lanciando *freccia acida di Melf*, seguita da *dardo stregato.*
 
-This area is largely as described in <span class="citation">K67. Hall of Bones (p. 78)</span>. However, if Argynvost’s skull is removed from its mount, a **skeleton** crawls from each of the four mounds of bones at the corners of the room. The skeletons attack living creatures on sight.
+# P10. Guarnigione
+Questa area del castello un tempo ospitava le caserme e le aree comuni delle guardie del castello, fornendo un facile accesso ai posti degli arcieri e ai camminamenti del piano superiore tramite <span class="citation">K64. Scala delle Guardie (p. 78)</span> e la Scala della Torre Nord (<span class="citation">K20. Cuore del Dolore (p. 59)</span>). Un quartetto di porte segrete, che consentivano l'accesso a <span class="citation">K10. Sala da Pranzo (p. 56)</span>, <span class="citation">K25. Sala del Pubblico (p. 61)</span>, <span class="citation">K33. Scala degli Appartamenti del Re (p. 64)</span> e <span class="citation">K78. Sala del Braciere (p. 82)</span>, permetteva inoltre ai protettori del castello di navigare rapidamente e silenziosamente tra i piani o di mettere in salvo obiettivi importanti in caso di attacco.
+## P10a. Guarnigione, Piano Interrato
+### Sala delle Ossa
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K67.</em></span>
 
-For the next 1 minute, an additional **skeleton** crawls from each non-destroyed bone mound at initiative count 0 of each round. Each bone mound has AC 15, 10 hit points, immunity to piercing, psychic, and poison damage, and vulnerability to bludgeoning damage.
+Quest'area è per lo più come descritta in <span class="citation">K67. Sala delle Ossa (p. 78)</span>. Tuttavia, se il teschio di Argynvost viene rimosso dal suo supporto, uno **scheletro** striscia fuori da ciascuno dei quattro cumuli di ossa agli angoli della stanza. Gli scheletri attaccano le creature viventi a vista.
 
-> [!lore]+ The Hall of Bones
+Per il minuto successivo, uno **scheletro** aggiuntivo striscia fuori da ciascun cumulo di ossa non distrutto al conteggio di iniziativa 0 di ogni round. Ogni cumulo di ossa ha CA 15, 10 punti ferita, immunità ai danni perforanti, psichici e da veleno, e vulnerabilità ai danni contundenti.
+
+> [!lore]+ La Sala delle Ossa
 > 
-> Over a century ago, Volenta transformed the mess hall into an elaborate ossuary as an art piece signifying her devotion to Strahd.
+> Più di un secolo fa, Volenta trasformò la mensa in un elaborato ossario come opera d'arte a significare la sua devozione a Strahd.
 
-> [!abstract]+ **Storing the Skull**
-> Should the players use it to do so, the extradimensional space within the _chest of holding_ obtained in [[Arc O - Dinner with the Devil#O3c. The Black Carriage|Arc O - Dinner with the Devil]] is large enough to store Argynvost's skull.
-### Guards’ Run
-<span class="citation"><em>This scene takes place in Chapter 4, Area K68.</em></span>
+> [!abstract]+ **Conservare il Teschio**
+> Se i giocatori lo usano per farlo, lo spazio extradimensionale all'interno del _baule della conservazione_ ottenuto in [[Arc O - Cena con il Diavolo#O3c. La Carrozza Nera|Arc O - Cena con il Diavolo]] è abbastanza grande da contenere il teschio di Argynvost.
+### Corsa delle Guardie
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K68.</em></span>
 
-This area is as described in <span class="citation">K68. Guards’ Run (p. 79)</span>.
-### Guards’ Quarters
-<span class="citation"><em>This scene takes place in Chapter 4, Area K69.</em></span>
+Quest'area è come descritta in <span class="citation">K68. Corsa delle Guardie (p. 79)</span>.
+### Alloggi delle Guardie
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K69.</em></span>
 
-This area is largely as described in <span class="citation">K69. Guards’ Quarters (p. 79)</span>. However, revise this area’s description as follows:
+Quest'area è per lo più come descritta in <span class="citation">K69. Alloggi delle Guardie (p. 79)</span>. Tuttavia, rivedi la descrizione di quest'area come segue:
 
 <div class="description">
-<p>Sickly, yellow lichen covers the ceiling of this cold, damp, ten-foot-wide passage running east and west. Opening off both sides of this passage are ten ten-foot-square alcoves that contain rotting debris and rags.</p>
-<p>Rows of silent figures stand unmoving within each alcove, their flesh rotted and gray. The central four alcoves are headed by additional figures, their rotted flesh a smooth, sickly white run through with crimson veins. Faint clouds of reddish mist spill from the mouths of the white-skinned undead, pooling across the stone floor before dissipating into the cold air.</p>
-<p>At the far end of the corridor, a lonely wooden spoon sits abandoned upon the stonework.</p>
+<p>Un lichene giallo malaticcio copre il soffitto di questo freddo e umido passaggio largo tre metri che corre da est a ovest. Su entrambi i lati di questo passaggio si aprono dieci nicchie quadrate di tre metri per lato che contengono detriti marci e stracci.</p>
+<p>File di figure silenziose stanno immobili in ogni nicchia, la loro carne marcia e grigia. Le quattro nicchie centrali sono guidate da figure aggiuntive, la loro carne marcia di un bianco liscio e malaticcio attraversato da vene cremisi. Nubi leggere di nebbia rossastra fuoriescono dalle bocche dei non morti dalla pelle bianca, accumulandosi sul pavimento di pietra prima di dissiparsi nell'aria fredda.</p>
+<p>All'estremità del corridoio, un solitario cucchiaio di legno giace abbandonato sulla pietra.</p>
 </div>
 
-The wooden spoon belongs to Cyrus Belview. If the players are visible to the zombies, read:
+Il cucchiaio di legno appartiene a Cyrus Belview. Se i giocatori sono visibili agli zombi, leggi:
 
 <div class="description">
-<p>The figures swivel their heads and eyes toward you, but make no move to attack.</p>
+<p>Le figure ruotano le teste e gli occhi verso di voi, ma non fanno alcun movimento per attaccare.</p>
 </div>
 
-Each alcove is occupied by four **zombies**, except for the back-left alcove. In each of the four central alcoves, one of the four zombies is a **zombie plague spreader** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 255</span>) with the following modifications:
+Ogni nicchia è occupata da quattro **zombi**, tranne per la nicchia posteriore sinistra. In ciascuna delle quattro nicchie centrali, uno dei quattro zombi è uno **zombi diffusore di piaghe** (<span class="citation">Guida di Van Richten a Ravenloft, p. 255</span>) con le seguenti modifiche:
 
-* Increase each plague spreader's hit points to 130
-* Decrease the necrotic damage dealt by a plague spreader’s ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature.
+* Aumenta i punti ferita di ogni diffusore di piaghe a 130
+* Riduci i danni necrotici inflitti da un ***colpo*** di un diffusore di piaghe a 5 (1d8), e riduci i danni inflitti dalla sua ***miasma virulento*** a 7 (2d6) danni da veleno per creatura.
 
-The zombies and zombie plague spreaders don’t move or respond to stimuli, and attack only in self-defense.
+Gli zombi e i diffusori di piaghe non si muovono né rispondono agli stimoli, e attaccano solo per autodifesa.
 
-The back-left alcove conceals a **crawling zombie** that is missing both of its legs, so that only its head, torso, and arms remain. When a living creature attempts to retrieve the wooden spoon beside its alcove, the crawling zombie uses its arms to fling itself into the air and attack. 
+La nicchia posteriore sinistra nasconde uno **zombi strisciante** a cui mancano entrambe le gambe, così che rimangono solo la testa, il torso e le braccia. Quando una creatura vivente tenta di recuperare il cucchiaio di legno accanto alla sua nicchia, lo zombi strisciante usa le braccia per lanciarsi in aria e attaccare.
 
-Treat the crawling zombie as a **zombie** with the following modifications:
+Tratta lo zombi strisciante come uno **zombi** con le seguenti modifiche:
 
-* It has 11 hit points and a speed of 5 ft.
-* On a successful hit with its ***slam***, the crawling zombie can wrap one of its arms around the target to cling to it. While clinging to a target in this way, the crawling zombie has disadvantage on attack rolls and moves with the target.
+* Ha 11 punti ferita e una velocità di 1,5 m.
+* Con un colpo riuscito con il suo ***colpo***, lo zombi strisciante può avvolgere uno dei suoi bracci attorno al bersaglio per aggrapparsi ad esso. Mentre si aggrappa a un bersaglio in questo modo, lo zombi strisciante ha svantaggio ai tiri per colpire e si muove con il bersaglio.
 
-Players who inspect the crawling zombie notice that it appears far older and more decrepit than the relatively “fresh" undead standing in the alcoves.
-### Kingsmen Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K70.</em></span>
+I giocatori che ispezionano lo zombi strisciante notano che appare molto più vecchio e decrepito rispetto ai non morti relativamente "freschi" che stanno nelle nicchie.
+### Sala dei Re
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K70.</em></span>
 
-This area is as described in <span class="citation">K70. Kingsmen Hall (p. 79)</span>.
-### Kingsmen Quarters
-<span class="citation"><em>This scene takes place in Chapter 4, Area K71.</em></span>
+Quest'area è come descritta in <span class="citation">K70. Sala dei Re (p. 79)</span>.
+### Alloggi dei Re
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K71.</em></span>
 
-This area is largely as described in <span class="citation">K71. Kingsmen Quarters (p. 79)</span>. However, the sack beneath the loose flagstone in the southeast alcove also contains a *stone of good luck*.
-### Chamberlain’s Office
-<span class="citation"><em>This scene takes place in Chapter 4, Area K72.</em></span>
+Quest'area è per lo più come descritta in <span class="citation">K71. Alloggi dei Re (p. 79)</span>. Tuttavia, il sacco sotto la lastra di pietra allentata nell'alcova sud-est contiene anche una *pietra della buona sorte*.
+### Ufficio del Ciambellano
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K72.</em></span>
 
-This area is largely as described in <span class="citation">K72. Chamberlain’s Office (p. 79)</span>. However, remove Rahadin and the **shadow demon** from this room.
+Quest'area è per lo più come descritta in <span class="citation">K72. Ufficio del Ciambellano (p. 79)</span>. Tuttavia, rimuovi Rahadin e il **demone ombra** da questa stanza.
 
-In addition, a player who investigates Rahadin’s desk finds an unsealed parchment letter sitting upon it. It reads:
+Inoltre, un giocatore che indaga sulla scrivania di Rahadin trova una lettera di pergamena non sigillata sopra di essa. Recita:
 
 <div class="description">
-<p>To my esteemed lord and master,</p>
-<p>Nearly five centuries past, I forswore my loyalty to a prince that knew only weakness, and instead swore an oath of allegiance to a king that embraced only strength—your father, the beloved King Barov. It was my highest honor to serve at his side, matched only by the honor I felt when he adopted me as his own.</p>
-<p>Though King Barov has departed us, his legacy lives on in you—a legacy that burns fiercer than his Brightblade ever did. You have become the sun to his candle; the mount to his hill. By your hand, his great work was completed and wrought anew.</p>
-<p>It has been my pride and honor to serve you, even as you undertook your journey beyond the veil of life itself. I do not regret the blood I have spilled, nor the lives I have taken, comforted in the knowledge that all has been in your name.</p>
-<p>It is my one regret that this body is not as yours, and that when my heart shall cease to beat, so too shall my spirit depart my flesh. It is for this reason, however, that I am, and shall forever be, grateful for the opportunity you have granted me to serve you one final time. Though my eyes shall not see the glory of your rise from the ashes, I have seen it in my heart, and that is enough.</p>
-<p>May your reign be great and terrible, and may your throne never end.</p>
-<p>Your eternal and obedient servant,<br>
+<p>Al mio stimato signore e padrone,</p>
+<p>Quasi cinque secoli fa, rinnegai la mia lealtà a un principe che conosceva solo debolezza, e giurai invece un giuramento di fedeltà a un re che abbracciava solo forza—tuo padre, il caro Re Barov. È stato il mio più grande onore servire al suo fianco, eguagliato solo dall'onore che ho provato quando mi ha adottato come suo figlio.</p>
+<p>Sebbene il Re Barov ci abbia lasciati, la sua eredità vive in te—un'eredità che brucia più feroce della sua Lama Splendente. Sei diventato il sole alla sua candela; il monte alla sua collina. Per mano tua, la sua grande opera è stata completata e rinnovata.</p>
+<p>È stato il mio orgoglio e onore servirti, anche mentre intraprendevi il tuo viaggio oltre il velo della vita stessa. Non rimpiango il sangue che ho versato, né le vite che ho preso, confortato dalla consapevolezza che tutto è stato in tuo nome.</p>
+<p>È il mio unico rimpianto che questo corpo non sia come il tuo, e che quando il mio cuore cesserà di battere, anche il mio spirito lascerà la mia carne. È per questo motivo, tuttavia, che sono, e sarò per sempre, grato per l'opportunità che mi hai concesso di servirti un'ultima volta. Sebbene i miei occhi non vedranno la gloria della tua ascesa dalle ceneri, l'ho vista nel mio cuore, e questo è sufficiente.</p>
+<p>Possa il tuo regno essere grande e terribile, e possa il tuo trono non finire mai.</p>
+<p>Il tuo eterno e obbediente servitore,<br>
 Rahadin von Zarovich</p>
 </div>
 
-> [!info]+ **The Secret Door**
-> Players who find and pass through the secret door here exit the Garrison and enter [[#P11. Dungeons]] via [[#P11f. Western Stair]]. A player who opens the secret door observes a humanoid silhouette appearing to observe them from the far side of the landing. Once noticed, the silhouette quickly ducks out of sight. (The silhouette is a **shadow**. See [[#P11f. Western Stair]] for more information about the shadow if the players attempt to confront or communicate with it.)
-## P10b. Garrison, First Floor
-### First Floor South Archers’ Post Access Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
+> [!info]+ **La Porta Segreta**
+> I giocatori che trovano e attraversano la porta segreta qui escono dalla Guarnigione ed entrano in [[#P11. Prigioni]] tramite [[#P11f. Scala Occidentale]]. Un giocatore che apre la porta segreta osserva una silhouette umanoide che sembra osservarli dall'altro lato del pianerottolo. Una volta notata, la silhouette si nasconde rapidamente alla vista. (La silhouette è un **ombra**. Vedi [[#P11f. Scala Occidentale]] per ulteriori informazioni sull'ombra se i giocatori tentano di affrontarla o comunicare con essa.)
+## P10b. Guarnigione, Primo Piano
+### Corridoio di Accesso al Posto degli Arcieri Sud del Primo Piano
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K13.</em></span>
 
-This area is largely as described in <span class="citation">K13. Turrets Post Access Hall (p. 57)</span>.
-### First Floor South Archers’ Post
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K11 & K12.</em></span>
+Quest'area è per lo più come descritta in <span class="citation">K13. Corridoio di Accesso ai Posti delle Torrette (p. 57)</span>.
+### Posto degli Arcieri Sud del Primo Piano
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Aree K11 & K12.</em></span>
 
-This area is as described in <span class="citation">K11. South Archers’ Post (p. 57)</span> and <span class="citation">K12. Turret Post (p. 57)</span>. However, a single **shadow** dwells here, as described in <span class="citation">Shadows (p. 51)</span>.
+Quest'area è come descritta in <span class="citation">K11. Posto degli Arcieri Sud (p. 57)</span> e <span class="citation">K12. Posto della Torretta (p. 57)</span>. Tuttavia, un singolo **ombra** dimora qui, come descritto in <span class="citation">Ombre (p. 51)</span>.
 
-This **shadow**, which understands Common but can’t speak it, is the remnant of a spirit that died in the castle long ago. If permitted to do so, it shyly attempts to follow the players throughout Castle Ravenloft, though it hides itself among nearby furniture or architecture if confronted or attacked. If this occurs, a player can coax it back from hiding with a successful DC 10 Charisma (Persuasion) check.
+Questa **ombra**, che comprende il Comune ma non può parlarlo, è il residuo di uno spirito morto nel castello molto tempo fa. Se le è permesso farlo, tenta timidamente di seguire i giocatori in tutto il Castello Ravenloft, anche se si nasconde tra i mobili o l'architettura vicina se affrontata o attaccata. Se ciò accade, un giocatore può persuaderla a uscire dal nascondiglio con una prova di Carisma (Persuasione) CD 10 riuscita.
 
-The shadow is lonely and longs for the company of others—including, particularly, its friend, another **shadow** lost elsewhere in the castle. Though it won’t fight on the players’ behalf, players who ask and succeed on a DC 15 Charisma (Persuasion) check can convince the shadow to use its ***amorphous*** feature to investigate adjacent rooms for danger while using its ***shadow stealth*** feature to remain concealed. The check succeeds automatically if the players agree to help the shadow reunite with its friend.
+L'ombra è sola e desidera la compagnia degli altri, incluso, in particolare, il suo amico, un'altra **ombra** persa altrove nel castello. Sebbene non combatta per conto dei giocatori, i giocatori che chiedono e riescono in una prova di Carisma (Persuasione) CD 15 possono convincere l'ombra a usare la sua caratteristica ***amorfa*** per indagare sulle stanze adiacenti per pericoli mentre usa la sua caratteristica ***furtività dell'ombra*** per rimanere nascosta. La prova riesce automaticamente se i giocatori accettano di aiutare l'ombra a riunirsi con il suo amico.
 
-> [!info]+ **The Shadow’s Friend**
-> The **shadow’s** friend can be found in [[#P11f. Western Stair]].
-### North Tower Vestibule
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K20 and K20a.</em></span>
+> [!info]+ **L'Amico dell'Ombra**
+> L'amico dell'**ombra** può essere trovato in [[#P11f. Scala Occidentale]].
+### Vestibolo della Torre Nord
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Aree K20 e K20a.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span> and <span class="citation">K20a. Tower Hall Stair (p. 59)</span>. Players who ascend the stairs reach [[#Servants’ Landing]].
+Quest'area è per lo più come descritta in <span class="citation">K20. Cuore del Dolore (p. 59)</span> e <span class="citation">K20a. Sala della Scala della Torre (p. 59)</span>. I giocatori che salgono le scale raggiungono [[#Piano dei Servitori]].
 
-> [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> [!info]+ **Il Cuore del Dolore**
+> Il Cuore del Dolore è per lo più come descritto in  <span class="citation">K20. Cuore del Dolore (p. 59)</span>. Tuttavia, è immune a tutti i danni, e nessun **vampiro progenie** attacca i personaggi che lo attaccano. Inoltre, invece di scuotere la torre al conteggio di iniziativa 10 di ogni round, il Cuore scuote la torre ogni volta che i giocatori tentano di salire un ulteriore piano verso il Cuore. 
 >
-> A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
-### First Floor North Archers’ Post Access Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
+> Un personaggio che fallisce il tiro salvezza di Destrezza contro la torre che si scuote e cade di conseguenza può aggrapparsi al bordo delle scale riuscendo in un tiro salvezza di Destrezza CD 20. Un personaggio adiacente a un personaggio che cade può afferrarlo riuscendo in un tiro salvezza di Destrezza CD 10.
+### Corridoio di Accesso al Posto degli Arcieri Nord del Primo Piano
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K13.</em></span>
 
-This area is as described in <span class="citation">K13. Turrets Post Access Hall (p. 57)</span>. However, the entrance to this corridor contains a giant spider cocoon suspended from the ceiling, which is as described in <span class="citation">Giant Spider Cocoon (p. 51)</span>. 
+Quest'area è come descritta in <span class="citation">K13. Corridoio di Accesso ai Posti delle Torrette (p. 57)</span>. Tuttavia, l'ingresso a questo corridoio contiene un bozzolo di ragno gigante sospeso dal soffitto, che è come descritto in <span class="citation">Bozzolo di Ragno Gigante (p. 51)</span>. 
 
-If opened, the cocoon contains Pidlwick II, who is as described in <span class="citation">Pidlwick II (p. 73)</span>. Pidlwick II is grateful to the characters for rescuing him, and attempts to assist them as described in <span class="citation">Pidlwick II (p. 73)</span>. It otherwise acts as described in <span class="citation">Pidlwick II (p. 73)</span>.
+Se aperto, il bozzolo contiene Pidlwick II, che è come descritto in <span class="citation">Pidlwick II (p. 73)</span>. Pidlwick II è grato ai personaggi per averlo salvato, e tenta di assisterli come descritto in <span class="citation">Pidlwick II (p. 73)</span>. Si comporta altrimenti come descritto in <span class="citation">Pidlwick II (p. 73)</span>.
 
-If the players are kind toward Pidlwick II and succeed on a DC 12 Charisma (Persuasion) check, they can convince it to depart the castle with them to meet the toymaker Gadof Blinsky.
+Se i giocatori sono gentili con Pidlwick II e riescono in una prova di Carisma (Persuasione) CD 12, possono convincerlo a lasciare il castello con loro per incontrare il giocattolaio Gadof Blinsky.
 
 > [!abstract]+ **Blinsky & Pidlwick II**
-> If brought to Blinsky Toys, Pidlwick II is content to be poked, prodded, and generally inspected at Blinsky’s whims. If permitted to remain in the shop for three full days, Pidlwick II agrees to be the official Blinsky Toys mascot in exchange for the freedom to wander about the town.
-### First Floor North Archers’ Post
-<span class="citation"><em>This scene takes place in Chapter 4, Area K22.</em></span>
+> Se portato a Blinsky Toys, Pidlwick II è contento di essere esaminato a piacimento da Blinsky. Se gli è permesso rimanere nel negozio per tre giorni interi, Pidlwick II accetta di essere la mascotte ufficiale di Blinsky Toys in cambio della libertà di vagare per la città.
+### Posto degli Arcieri Nord del Primo Piano
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K22.</em></span>
 
-This area is largely as described in <span class="citation">K22. North Archers’ Post (p. 59)</span>. 
-## P10c. Garrison, Second Floor
-### Second Floor South Archers’ Post Access Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
+Quest'area è per lo più come descritta in <span class="citation">K22. Posto degli Arcieri Nord (p. 59)</span>. 
+## P10c. Guarnigione, Secondo Piano
+### Corridoio di Accesso al Posto degli Arcieri Sud del Secondo Piano
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K13.</em></span>
 
-This area is largely as described in <span class="citation">K13. Turrets Post Access Hall (p. 57)</span>. However, four **crawling claws** cling to the ceiling above the secret door leading to <span class="citation">K25. Audience Hall (p. 61)</span>, and drop down to attack any creature that passes beneath them. The claws otherwise behave as described in <span class="citation">Crawling Claws (p. 50)</span>.
-### Second Floor South Archers’ Post
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K12 & K22.</em></span>
+Quest'area è per lo più come descritta in <span class="citation">K13. Corridoio di Accesso ai Posti delle Torrette (p. 57)</span>. Tuttavia, quattro **artigli striscianti** si aggrappano al soffitto sopra la porta segreta che conduce a <span class="citation">K25. Sala del Pubblico (p. 61)</span>, e si lasciano cadere per attaccare qualsiasi creatura che passi sotto di loro. Gli artigli si comportano altrimenti come descritto in <span class="citation">Artigli Striscianti (p. 50)</span>.
+### Posto degli Arcieri Sud del Secondo Piano
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Aree K12 & K22.</em></span>
 
-This area is as described in <span class="citation">K12. Turret Post (p. 57)</span> and <span class="citation">K22. North Archers’ Post (p. 59)</span>.
-### Servants’ Landing
-<span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
+Quest'area è come descritta in <span class="citation">K12. Posto della Torretta (p. 57)</span> e <span class="citation">K22. Posto degli Arcieri Nord (p. 59)</span>.
+### Piano dei Servitori
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K20.</em></span>
 
-This area is as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. Players who ascend the stairs reach [[#King’s Landing]]. Players who descend the stairs reach [[#North Tower Vestibule]].
+Quest'area è come descritta in <span class="citation">K20. Cuore del Dolore (p. 59)</span>. I giocatori che salgono le scale raggiungono [[#Sbarco del Re]]. I giocatori che scendono le scale raggiungono [[#Vestibolo della Torre Nord]].
 
-> [!info]+ **The Secret Door**
-> Players who find and pass through the secret door set in the northeastern wall exit the Garrison and enter [[#P5. Servants’ Wing]] via [[Arc P - Ravenloft Heist#Servants’ Upper Floor|Servants' Upper Floor]].
+> [!info]+ **La Porta Segreta**
+> I giocatori che trovano e attraversano la porta segreta incastonata nella parete nord-orientale escono dalla Guarnigione ed entrano in [[#P5. Ala dei Servitori]] tramite [[Arc P - Colpo a Ravenloft#Piano Superiore dei Servitori|Piano Superiore dei Servitori]].
 
-> [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> [!info]+ **Il Cuore del Dolore**
+> Il Cuore del Dolore è per lo più come descritto in  <span class="citation">K20. Cuore del Dolore (p. 59)</span>. Tuttavia, è immune a tutti i danni, e nessun **vampiro progenie** attacca i personaggi che lo attaccano. Inoltre, invece di scuotere la torre al conteggio di iniziativa 10 di ogni round, il Cuore scuote la torre ogni volta che i giocatori tentano di salire un ulteriore piano verso il Cuore. 
 >
-> A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
-### Second Floor North Archers’ Post Access Hall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K13.</em></span>
+> Un personaggio che fallisce il tiro salvezza di Destrezza contro la torre che si scuote e cade di conseguenza può aggrapparsi al bordo delle scale riuscendo in un tiro salvezza di Destrezza CD 20. Un personaggio adiacente a un personaggio che cade può afferrarlo riuscendo in un tiro salvezza di Destrezza CD 10.
+### Corridoio di Accesso al Posto degli Arcieri Nord del Secondo Piano
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K13.</em></span>
 
-This area is as described in <span class="citation">K13. Turrets Post Access Hall (p. 57)</span>. 
+Quest'area è come descritta in <span class="citation">K13. Corridoio di Accesso ai Posti delle Torrette (p. 57)</span>. 
 
-> [!info]+ **The Secret Door**
-> Players who find and pass through the secret door set in the southern wall exit the Garrison and enter [[#P6. King’s Apartments]] via [[#King’s Apartment Stair]].
-### Second Floor North Archers’ Post
-<span class="citation"><em>This scene takes place in Chapter 4, Area K22.</em></span>
+> [!info]+ **La Porta Segreta**
+> I giocatori che trovano e attraversano la porta segreta incastonata nella parete meridionale escono dalla Guarnigione ed entrano in [[#P6. Appartamenti del Re]] tramite [[#Scala degli Appartamenti del Re]].
+### Posto degli Arcieri Nord del Secondo Piano
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K22.</em></span>
 
-This area is as described in <span class="citation">K22. North Archers’ Post (p. 59)</span>.
-## P10d. Garrison, Third Floor
-### Inner South Wall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
+Quest'area è come descritta in <span class="citation">K22. Posto degli Arcieri Nord (p. 59)</span>.
+## P10d. Guarnigione, Terzo Piano
+### Muro Interno Sud
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K46.</em></span>
 
-This area is largely as described in <span class="citation">K46. Parapets (p. 68)</span>.
+Quest'area è per lo più come descritta in <span class="citation">K46. Parapetti (p. 68)</span>.
 
-> [!info]+ **Through the Windows**
-> The five-foot-wide windows along this walkway are locked from the inside and covered by heavy curtains:
+> [!info]+ **Attraverso le Finestre**
+> Le finestre larghe un metro e mezzo lungo questa passerella sono chiuse dall'interno e coperte da pesanti tende:
 >
-> * ***Eastern Window.*** The window closest to <span class="citation">K64. Guards’ Stair (p. 78)</span> looks into [[#King’s Dining Hall]].
-> * ***Western Windows.*** The two windows further from <span class="citation">K64. Guards’ Stair (p. 78)</span> look into <span class="citation">K44. Closet (p. 68)</span> in [[#Bath Chamber & Closet]].
-### Inner West Wall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
+> * ***Finestra Orientale.*** La finestra più vicina a <span class="citation">K64. Scala delle Guardie (p. 78)</span> guarda nella [[#Sala da Pranzo del Re]].
+> * ***Finestre Occidentali.*** Le due finestre più lontane da <span class="citation">K64. Scala delle Guardie (p. 78)</span> guardano in <span class="citation">K44. Armadio (p. 68)</span> in [[#Camera da Bagno & Armadio]].
+### Muro Interno Ovest
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K46.</em></span>
 
-This area is largely as described in <span class="citation">K46. Parapets (p. 68)</span>.
-### King’s Landing
-<span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
+Quest'area è per lo più come descritta in <span class="citation">K46. Parapetti (p. 68)</span>.
+### Sbarco del Re
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K20.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. Players who ascend the stairs reach [[#General’s Landing]] via [[#North Tower Stair]]. Players who descend the stairs reach [[#Servants’ Landing]].
+Quest'area è per lo più come descritta in <span class="citation">K20. Cuore del Dolore (p. 59)</span>. I giocatori che salgono le scale raggiungono [[#Sbarco del Generale]] tramite [[#Scala della Torre Nord]]. I giocatori che scendono le scale raggiungono [[#Piano dei Servitori]].
 
-Players who pass through the western archway exit the Garrison and enter [[Arc P - Ravenloft Heist#P6. King’s Apartments|King's Apartments]] via [[#Hall of Heroes]].
+I giocatori che attraversano l'arco occidentale escono dalla Guarnigione ed entrano in [[Arc P - Colpo a Ravenloft#P6. Appartamenti del Re|Appartamenti del Re]] tramite [[#Sala degli Eroi]].
 
-> [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> [!info]+ **Il Cuore del Dolore**
+> Il Cuore del Dolore è per lo più come descritto in  <span class="citation">K20. Cuore del Dolore (p. 59)</span>. Tuttavia, è immune a tutti i danni, e nessun **vampiro progenie** attacca i personaggi che lo attaccano. Inoltre, invece di scuotere la torre al conteggio di iniziativa 10 di ogni round, il Cuore scuote la torre ogni volta che i giocatori tentano di salire un ulteriore piano verso il Cuore. 
 >
-> A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
-### Inner North Wall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
+> Un personaggio che fallisce il tiro salvezza di Destrezza contro la torre che si scuote e cade di conseguenza può aggrapparsi al bordo delle scale riuscendo in un tiro salvezza di Destrezza CD 20. Un personaggio adiacente a un personaggio che cade può afferrarlo riuscendo in un tiro salvezza di Destrezza CD 10.
+### Muro Interno Nord
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K46.</em></span>
 
-This area is largely as described in <span class="citation">K46. Parapets (p. 68)</span>.
-### Inner East Wall
-<span class="citation"><em>This scene takes place in Chapter 4, Area K46.</em></span>
+Quest'area è per lo più come descritta in <span class="citation">K46. Parapetti (p. 68)</span>.
+### Muro Interno Est
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K46.</em></span>
 
-This area is largely as described in <span class="citation">K46. Parapets (p. 68)</span>.
-## P10e. Garrison, Fourth Floor
-### North Tower Stair
-<span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
+Quest'area è per lo più come descritta in <span class="citation">K46. Parapetti (p. 68)</span>.
+## P10e. Guarnigione, Quarto Piano
+### Scala della Torre Nord
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K20.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
+Quest'area è per lo più come descritta in <span class="citation">K20. Cuore del Dolore (p. 59)</span>.
 
-> [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> [!info]+ **Il Cuore del Dolore**
+> Il Cuore del Dolore è per lo più come descritto in  <span class="citation">K20. Cuore del Dolore (p. 59)</span>. Tuttavia, è immune a tutti i danni, e nessun **vampiro progenie** attacca i personaggi che lo attaccano. Inoltre, invece di scuotere la torre al conteggio di iniziativa 10 di ogni round, il Cuore scuote la torre ogni volta che i giocatori tentano di salire un ulteriore piano verso il Cuore. 
 >
-> A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
-## P10f. Garrison, Fifth Floor
-### North Tower Stair
-<span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
+> Un personaggio che fallisce il tiro salvezza di Destrezza contro la torre che si scuote e cade di conseguenza può aggrapparsi al bordo delle scale riuscendo in un tiro salvezza di Destrezza CD 20. Un personaggio adiacente a un personaggio che cade può afferrarlo riuscendo in un tiro salvezza di Destrezza CD 10.
+## P10f. Guarnigione, Quinto Piano
+### Scala della Torre Nord
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K20.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
+Quest'area è per lo più come descritta in <span class="citation">K20. Cuore del Dolore (p. 59)</span>.
 
-> [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart.
+> [!info]+ **Il Cuore del Dolore**
+> Il Cuore del Dolore è per lo più come descritto in  <span class="citation">K20. Cuore del Dolore (p. 59)</span>. Tuttavia, è immune a tutti i danni, e nessun **vampiro progenie** attacca i personaggi che lo attaccano. Inoltre, invece di scuotere la torre al conteggio di iniziativa 10 di ogni round, il Cuore scuote la torre ogni volta che i giocatori tentano di salire un ulteriore piano verso il Cuore.
 >
-> A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
-## P10g. Garrison, Sixth Floor
-### General’s Landing
-<span class="citation"><em>This scene takes place in Chapter 4, Area K20.</em></span>
+> Un personaggio che fallisce il tiro salvezza di Destrezza contro la torre che si scuote e cade di conseguenza può aggrapparsi al bordo delle scale riuscendo in un tiro salvezza di Destrezza CD 20. Un personaggio adiacente a un personaggio che cade può afferrarlo riuscendo in un tiro salvezza di Destrezza CD 10.
+## P10g. Guarnigione, Sesto Piano
+### Sbarco del Generale
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K20.</em></span>
 
-This area is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>.
+Quest'area è per lo più come descritta in <span class="citation">K20. Cuore del Dolore (p. 59)</span>.
 
-> [!info]+ **The Heart of Sorrow**
-> The Heart of Sorrow is largely as described in  <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, it is immune to all damage, and no **vampire spawn** attack characters that attack it. In addition, rather than shaking the tower on initiative count 10 each round, the Heart shakes the tower each time the players attempt to ascend an additional story toward the Heart. 
+> [!info]+ **Il Cuore del Dolore**
+> Il Cuore del Dolore è per lo più come descritto in  <span class="citation">K20. Cuore del Dolore (p. 59)</span>. Tuttavia, è immune a tutti i danni, e nessun **vampiro progenie** attacca i personaggi che lo attaccano. Inoltre, invece di scuotere la torre al conteggio di iniziativa 10 di ogni round, il Cuore scuote la torre ogni volta che i giocatori tentano di salire un ulteriore piano verso il Cuore. 
 >
-> A character who fails the Dexterity saving throw against the shaking tower and falls as a result can catch themselves on the edge of the stairs by succeeding on a DC 20 Dexterity saving throw. A character adjacent to a falling character can catch them by succeeding on a DC 10 Dexterity saving throw.
-### General’s Terrace
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K57 & K58.</em></span>
+> Un personaggio che fallisce il tiro salvezza di Destrezza contro la torre che si scuote e cade di conseguenza può aggrapparsi al bordo delle scale riuscendo in un tiro salvezza di Destrezza CD 20. Un personaggio adiacente a un personaggio che cade può afferrarlo riuscendo in un tiro salvezza di Destrezza CD 10.
+### Terrazza del Generale
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Aree K57 & K58.</em></span>
 
-This area is as described in <span class="citation">K57. Tower Roof (p. 72)</span> and<span class="citation">K58. Bridge (p. 73)</span>.
+Quest'area è come descritta in <span class="citation">K57. Tetto della Torre (p. 72)</span> e<span class="citation">K58. Ponte (p. 73)</span>.
 
-> [!info]+ **Descending the Offstair**
-> Players who descend <span class="citation">K48. Offstair (p. 70)</span> exit the Garrison and enter [[Arc P - Ravenloft Heist#P9. Coven’s Quarters|Coven's Quarters]] via the landing outside [[#P9a. Familiar Room]].
-## P10h. Garrison, Seventh Floor
-### North Tower Peak
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K60.</em></span>
+> [!info]+ **Scendere dalla Scala Laterale**
+> I giocatori che scendono da <span class="citation">K48. Scala Laterale (p. 70)</span> escono dalla Guarnigione ed entrano in [[Arc P - Colpo a Ravenloft#P9. Quartieri della Congrega|Quartieri della Congrega]] tramite il pianerottolo fuori da [[#P9a. Stanza del Familiare]].
+## P10h. Guarnigione, Settimo Piano
+### Cima della Torre Nord
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Aree K60.</em></span>
 
-This area is largely as described in <span class="citation">K60. North Tower Peak (p. 74)</span>. 
+Quest'area è per lo più come descritta in <span class="citation">K60. Cima della Torre Nord (p. 74)</span>. 
 
-A player who inspects the bed notices dark bloodstains coloring the bed and nearby floor. A DC 15 Wisdom (Medicine) check reveals that the bloodstains can’t be older than a few months old. 
+Un giocatore che ispeziona il letto nota macchie di sangue scuro che colorano il letto e il pavimento vicino. Una prova di Saggezza (Medicina) CD 15 rivela che le macchie di sangue non possono essere più vecchie di pochi mesi. 
 
-A player with a passive Wisdom (Perception) score of 14 or higher also notices a large, black, bloodstained feather fallen between the bed’s wooden frame and straw-stuffed mattress. A successful DC 12 Intelligence (Nature) check identifies the feather as a raven’s, though curiously oversized, such that the raven it belonged to would have had to have been the size of a human.
+Un giocatore con un punteggio passivo di Saggezza (Percezione) di 14 o superiore nota anche una grande piuma nera macchiata di sangue caduta tra la struttura di legno del letto e il materasso imbottito di paglia. Una prova di Intelligenza (Natura) CD 12 riuscita identifica la piuma come appartenente a un corvo, sebbene curiosamente sovradimensionata, tale che il corvo a cui apparteneva avrebbe dovuto essere grande quanto un umano.
 
-> [!lore]+ **Bloodstained Bed**
-> The bloodstains and feather belong to Elric Martikov, Muriel Vinshaw’s late fiance, who was imprisoned following Doru’s march on Castle Ravenloft and vivisected by Ludmilla Vilisevic. If Muriel is present, she immediately recognizes Elric’s feather, which he always kept “meticulously preened." Heartbroken and overcome with emotion, Muriel asks to be left briefly alone by Elric’s bed to pay her final respects to his memory.
-## P10i. Garrison, Eighth Floor
-### North Tower Rooftop
-<span class="citation"><em>This scene takes place in Chapter 4, Area K60a.</em></span>
+> [!lore]+ **Letto Macchiato di Sangue**
+> Le macchie di sangue e la piuma appartengono a Elric Martikov, il defunto fidanzato di Muriel Vinshaw, che fu imprigionato dopo la marcia di Doru sul Castello Ravenloft e vivisezionato da Ludmilla Vilisevic. Se Muriel è presente, riconosce immediatamente la piuma di Elric, che lui teneva sempre "meticolosamente curata". Con il cuore spezzato e sopraffatta dall'emozione, Muriel chiede di essere lasciata brevemente sola accanto al letto di Elric per rendere i suoi ultimi omaggi alla sua memoria.
+## P10i. Guarnigione, Ottavo Piano
+### Tetto della Torre Nord
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K60a.</em></span>
 
-This area is largely as described in <span class="citation">K60a. North Tower Rooftop (p. 74)</span>. However, revise this area’s description to read as follows:
+Quest'area è per lo più come descritta in <span class="citation">K60a. Tetto della Torre Nord (p. 74)</span>. Tuttavia, rivedi la descrizione di quest'area per leggere come segue:
 
 <div class="description">
-<p>A cold wind greets you atop the tower roof, its rain-slicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. From the thunderclouds above, thousands of bats descend upon the tower.</p>
+<p>Un vento freddo ti accoglie in cima al tetto della torre, le sue lastre di pietra bagnate dalla pioggia circondate da un anello di merli di pietra di sei metri di diametro. Dalle nuvole temporalesche sopra, migliaia di pipistrelli scendono sulla torre.</p>
 </div>
 
-The bats arrive in two rounds, rather than three.
+I pipistrelli arrivano in due round, anziché tre.
   
-> [!combat]- **Balancing the North Tower Rooftop** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of swarms of bats to 7. 
-> * **Four Players**. Reduce the number of swarms of bats to 9. 
-> * **Six Players**. Increase the number of swarms of bats to 12.
+> [!combat]- **Bilanciare il Tetto della Torre Nord** 
+> Questo incontro di combattimento è un incontro di combattimento **lieve** contro un gruppo di cinque giocatori di 7° livello, un alleato di GS 2 (Ireena Kolyana) e un alleato di GS 4 (Ezmerelda d’Avenir), e consumerà circa il 12% dei loro punti ferita massimi totali. Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue: 
+> * **Tre Giocatori**. Riduci il numero di sciami di pipistrelli a 7. 
+> * **Quattro Giocatori**. Riduci il numero di sciami di pipistrelli a 9. 
+> * **Sei Giocatori**. Aumenta il numero di sciami di pipistrelli a 12.
 # P11. Dungeons
 ## P11a. Dungeon Hall
 <span class="citation"><em>This scene takes place in Chapter 4, Area K73.</em></span>
@@ -1845,24 +1846,20 @@ Players who investigate the exits from this room can observe the following point
 
 This area is largely as described in <span class="citation">K79. Western Stair (p. 84)</span>. However, remove the *glyph of warding*. Instead, a curious, yet fearful **shadow** lurks here.
 
-If the players approach the staircase from <span class="citation">K78. Brazier Room (p. 82)</span>, the shadow flees upward, squeezing through the secret door to <span class="citation">K72. Chamberlain’s Office (p. 79)</span> and concealing itself within one of the drawers of Rahadin’s desk. (The shadow isn’t very good at hiding, allowing part of its ephemeral, shroud-like body to extrude through the drawer’s keyhole.)
+Questa **ombra**, che comprende il Comune ma non può parlarlo, è il residuo di uno spirito morto nel castello molto tempo fa. Se affrontata nell'Ufficio del Ciambellano o nella Sala del Braciere, l'ombra tenta di rassicurare i giocatori attraverso gesti non verbali che non intende far loro del male. Spaventata dalle altre creature che si aggirano nel dominio di Strahd, l'ombra non seguirà i giocatori in altre aree del castello.
 
-If the players enter the staircase via the secret door in <span class="citation">K72. Chamberlain’s Office (p. 79)</span>, the shadow flees downward, concealing itself behind the western **iron golem** in <span class="citation">K78. Brazier Room (p. 82)</span>. While the players remain in <span class="citation">K78. Brazier Room (p. 82)</span>, the shadow amuses itself by pretending to be a player’s shadow. A player with a passive Wisdom (Perception) score of 14 or greater notices that the chosen player has an extra shadow.
+> [!abstract]+ **Riunire le Ombre**
+> Se i giocatori riuniscono questa ombra con la sua amica dal [[#Posto degli Arcieri Sud del Primo Piano]], le ombre vorticano felicemente l'una intorno all'altra in segno di saluto. Come ringraziamento, le ombre tentano poi di guidare i giocatori verso la lastra di pietra allentata nell'alcova sud-est di <span class="citation">K71. Alloggi dei Reali (p. 79)</span>, per poi sparire insieme in una crepa vicina nel muro.
 
-This **shadow**, which understands Common but can’t speak it, is the remnant of a spirit that died in the castle long ago. If confronted in either the Chamberlain’s Office or Brazier Room, the shadow attempts to assure the players through nonverbal gestures that it intends them no harm. Fearful of the other creatures that lurk in Strahd’s domain, the shadow won’t follow the players elsewhere in the castle.
+> [!info]+ **Salire la Scala**
+> Un giocatore che lascia la scala occidentale attraverso la porta segreta verso <span class="citation">K72. Ufficio del Ciambellano (p. 79)</span> esce dai sotterranei ed entra in [[#P10. Guarnigione]] tramite [[#Ufficio del Ciambellano]].
+## P11g. Tunnel delle Catacombe
+<span class="citation"><em>Questa scena si svolge nel Capitolo 4, Aree K81 e K82.</em></span>
 
-> [!abstract]+ **Reuniting the Shadows**
-> If the players reunite this shadow with its friend from [[#First Floor South Archers’ Post]], the shadows swirl happily around one another in greeting. As a show of thanks, the shadows then attempt to lead the players to the loose flagstone in the southeast alcove of <span class="citation">K71. Kingsmen Quarters (p. 79)</span>, then disappear together into a nearby crack in the wall.
+Quest'area è come descritta in <span class="citation">K81. Tunnel (p. 84)</span> e <span class="citation">K82. Scivolo di Marmo (p. 85)</span>.
 
-> [!info]+ **Ascending the Stair**
-> A player who departs the western stair via the secret door to <span class="citation">K72. Chamberlain’s Office (p. 79)</span> exits the dungeons and enters [[#P10. Garrison]] via [[#Chamberlain’s Office]].
-## P11g. Catacomb Tunnel
-<span class="citation"><em>This scene takes place in Chapter 4, Areas K81 & K82.</em></span>
-
-This area is as described in <span class="citation">K81. Tunnel (p. 84)</span> and <span class="citation">K82. Marble Slide (p. 85)</span>.
-
-> [!info]+ **Exiting the Tunnel**
-> A player who exits the eastern end of the tunnel exits the dungeons and enters [[#P12. Catacombs]] via [[#North Crypts, First Row]].
+> [!info]+ **Uscire dal Tunnel**
+> Un giocatore che esce dall'estremità orientale del tunnel esce dai sotterranei ed entra in [[#P12. Catacombe]] tramite [[#Cripte Nord, Prima Fila]].
 # P12. Catacombs
 <span class="citation"><em>This scene takes place in Chapter 4, Area K84.</em></span>
 
@@ -2159,8 +2156,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 
 This area is largely as described in <span class="citation">K86. Strahd’s Tomb (p. 93)</span>. However, the teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> form a protective ring around the base of the staircase that descends into the tomb, rather than around the entrance to the tomb. In addition, replace the three vampiric brides buried in the earth near the east wall with three anonymous **vampire spawn** created from ordinary Barovians. 
   
-> [!combat]- **Balancing the Tomb of the Darklord** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of vampire spawn to 2.
+> Questo incontro di combattimento è un incontro di combattimento **leggero** contro un gruppo di cinque giocatori di 7° livello, un alleato di GS 2 (Ireena Kolyana) e un alleato di GS 4 (Ezmerelda d’Avenir), e consumerà circa il 16% dei loro punti ferita massimi totali. Per gruppi di dimensioni più piccole o più grandi, modifica l'incontro come segue: 
+> * **Tre Giocatori**. Riduci il numero di progenie vampiriche a 2.
 
-Strahd’s coffin is surrounded by a 5-foot-radius *antimagic field* effect identical to the one described in <span class="citation">Khazan’s Spell Drain (p. 167)</span>. The effect doesn’t apply to spells cast by a creature attuned to *Khazan's Staff*, which is hidden in <span class="citation">Crypt 15 (p. 88)</span> in [[#North Crypts, Third Row]].
+La bara di Strahd è circondata da un effetto di *campo antimagia* con un raggio di 1,5 metri, identico a quello descritto in <span class="citation">Drenaggio Magico di Khazan (p. 167)</span>. L'effetto non si applica agli incantesimi lanciati da una creatura sintonizzata con il *Bastone di Khazan*, che è nascosto in <span class="citation">Cripta 15 (p. 88)</span> in [[#Cripte Nord, Terza Fila]].

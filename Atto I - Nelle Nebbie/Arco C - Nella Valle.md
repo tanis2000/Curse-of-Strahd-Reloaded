@@ -4,26 +4,26 @@ In questo arco, i personaggi lasciano il villaggio di Barovia diretti verso Tser
 
 Al loro arrivo all'Incrocio del Fiume Ivlis, i personaggi incontrano Strahd von Zarovich per la prima volta, accompagnato da Escher, uno dei suoi consorti vampirici. Dopo un teso dialogo, i personaggi possono dirigersi a nord verso Tser Pool. 
 
-Durante il tragitto verso Tser Pool, i personaggi incontrano un corvo—il **corvo mannaro** Muriel Vinshaw in travestimento—che fugge da una mostruosa **strige** (secondo il Manuale dei Mostri) forgiata dalla strega paludosa Baba Lysaga. Se i personaggi difendono Muriel dall'assalto della strige, lei si unirà a loro per il resto del viaggio verso Vallaki, pur mantenendo segreta la sua vera identità.
+Durante il tragitto verso Tser Pool, i personaggi incontrano un corvo—il **corvo mannaro** Muriel Vinshaw in travestimento—che fugge da una mostruosa **strige** (vedi il Manuale dei Mostri) forgiata dalla strega delle paludi Baba Lysaga. Se i personaggi difendono Muriel dall'assalto della strige, lei si unirà a loro per il resto del viaggio verso Vallaki, pur mantenendo segreta la sua vera identità.
 
-Presto, i personaggi giungono all'accampamento vistanico di Tser Pool. Lì ricevono una lettura magica dei Tarokka da Madam Eva, che predice la posizione di tre artefatti utili nella lotta contro Strahd e la presenza di un alleato destinato ad aiutarli. 
+Presto, i personaggi giungono all'accampamento dei Vistani di Tser Pool. Lì ricevono una lettura magica dei Tarokka da Madam Eva, che predice la posizione di tre artefatti utili nella lotta contro Strahd e la presenza di un alleato destinato ad aiutarli. 
 
-Durante il soggiorno a Tser Pool, i personaggi ascoltano racconti vistanici sulla storia di Strahd e sul Santo Simbolo del Corvo, e incontrano anche Arturi Radanavich, una Vistana errante che sostiene di aver conosciuto una volta Rudolph van Richten. Al momento della partenza, i personaggi ricevono anche l’incarico, da parte di Madam Eva, di recarsi a Vallaki per acquistare un giocattolo da consegnare alla pronipote Arabelle.
+Durante il soggiorno a Tser Pool, i personaggi ascoltano racconti dei vistani sulla storia di Strahd e sul Santo Simbolo del Corvo, e incontrano anche Arturi Radanavich, una Vistana errante che sostiene di aver conosciuto una volta Rudolph van Richten. Al momento della partenza, i personaggi ricevono anche l’incarico, da parte di Madam Eva, di recarsi a Vallaki per acquistare un giocattolo da consegnare alla pronipote Arabelle.
 
-Se i personaggi devono scortare Ireena verso la Chiesa di St. Andral a Vallaki, o se hanno altre ragioni per farlo, essi tornano poi sulla Vecchia Strada di Svalich passando per l'Incrocio del Fiume Ivlis, viaggiando verso ovest attraverso montagne (le miglia sono state convertite in chilometri approssimativamente). Lungo il tragitto incontreranno un insolito cavaliere scheletrico, un paio di tombe fresche, un'oscura apparizione, la **strega notturna** Morgantha in atteggiamento da mercante, due stormi di corvi amichevoli e un **lupo mannaro** accompagnato dal suo branco di lupi famelici (utilizzando i nomi ufficiali del Manuale dei Mostri). 
+Se i personaggi devono scortare Ireena verso la Chiesa di St. Andral a Vallaki, o se hanno altre ragioni per farlo, essi tornano poi sulla Vecchia Strada di Svalich passando per l'Incrocio del Fiume Ivlis, viaggiando verso ovest attraverso montagne. Lungo il tragitto incontreranno un insolito cavaliere scheletrico, un paio di tombe fresche, un'oscura apparizione, la **strega notturna** Morgantha in atteggiamento da mercante, due stormi di corvi amichevoli e un **lupo mannaro** accompagnato dal suo branco di lupi famelici. 
 
-Giunti a Vallaki, i personaggi possono trovare alloggio presso il Blue Water Inn. Qui incontreranno una schiera di personaggi pittoreschi, tra cui il presentatore Rictavio e i figli di Lady Fiona Wachter. All'alba, i personaggi avranno anche un fatale incontro con il Barone Vargas Vallakovich e il suo spietato esecutore, Izek Strazni...
+Giunti a Vallaki, i personaggi possono trovare alloggio presso la Locanda dell’Acqua Azzurra. Qui incontreranno una schiera di personaggi pittoreschi, tra cui il presentatore Rictavio e i figli di Lady Fiona Wachter. All'alba, i personaggi avranno anche un fatale incontro con il Barone Vargas Vallakovich e il suo spietato esecutore, Izek Strazni...
 
 > [!warning]+ **La Strada da Tser Pool**
 >
-> La mappa del modulo di Barovia mostra una linea tratteggiata che sembra collegare l'Accampamento di Tser Pool alle Cascate di Tser. Nonostante l'apparenza, <span class="citation">Tser Falls (p. 37)</span> chiarisce che non si tratta di una scorciatoia. Invece, questa linea tratteggiata è un sentiero che conduce alla base delle Cascate di Tser, mille piedi sotto il ponte sovrastante. In nessun punto si ricollega effettivamente alla strada principale.
+> La mappa del modulo di Barovia mostra una linea tratteggiata che sembra collegare l'Accampamento di Tser Pool alle Cascate di Tser. Nonostante l'apparenza, <span class="citation">Cascate del Tser (p. 37)</span> chiarisce che non si tratta di una scorciatoia. Invece, questa linea tratteggiata è un sentiero che conduce alla base delle Cascate di Tser, 300 metri sotto il ponte sovrastante. In nessun punto si ricollega effettivamente alla strada principale.
 >
 > Per viaggiare dall'Accampamento di Tser Pool a Vallaki, i personaggi dovranno invece viaggiare verso sud, tornando verso l'Incrocio del Fiume Ivlis, quindi prendere la Vecchia Strada di Svalich verso ovest.
 
 > [!info]+ **Nessun Incontro Casuale**
 > Questa guida incorpora il materiale del modulo originale *La Maledizione di Strahd* solo per riferimento. Pertanto, ogni volta che i personaggi viaggiano, dovresti ignorare la sezione <span class="citation">Incontri Casuali (p. 28)</span> tranne dove un particolare incontro è menzionato e incorporato direttamente.
 # C1. I Boschi di Svalich
-Il viaggio dal villaggio di Barovia all'Incrocio del Fiume Ivlis è lungo tre miglia e dura un'ora.
+Il viaggio dal villaggio di Barovia all'Incrocio del Fiume Ivlis è lungo 5 km e dura un'ora.
 ## C1a. Le Sentinelle Baroviane
 Mentre i personaggi viaggiano, leggi:
 
