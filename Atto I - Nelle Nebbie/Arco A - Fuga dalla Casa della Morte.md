@@ -1190,7 +1190,7 @@ La casa poi collassa nella terra, lasciando una fossa oscura e senza fondo. Se i
 
 Se stanno ancora possedendo i giocatori, gli spiriti di [[Personaggi Non Giocanti#Rosavalda "Rose" Durst|Rose]] e [[Personaggi Non Giocanti#Thornboldt "Thorn" Durst|Thorn]] terminano le loro possessioni. I bambini osservano che i boschi assomigliano ai Boschi di Svalich, che un tempo circondavano la loro casa—Barovia. Tuttavia, i bambini aggiungono che questi boschi particolari sono a loro sconosciuti e che sembrano essere lontani dal villaggio originale della loro famiglia.
 
-Mentre i giocatori esplorano i dintorni, possono rapidamente vedere la cima di un'antica torre di pietra in rovina che spunta tra le cime degli alberi. L'architettura della torre è come descritta in <span class="citation">Fuoco Fatuo (p. 33)</span> ma l'interno non è terreno profanato, non c'è una cassa di legno a terra e non ci sono **zombie** o **fuochi fatui** all'interno o intorno alla torre.
+Mentre i giocatori esplorano i dintorni, possono rapidamente vedere la cima di un'antica torre di pietra in rovina che spunta tra le cime degli alberi. L'architettura della torre è come descritta in <span class="citation">Fuoco Fatuo (p. 31)</span> ma l'interno non è terreno profanato, non c'è una cassa di legno a terra e non ci sono **zombie** o **fuochi fatui** all'interno o intorno alla torre.
 
 I giocatori possono facilmente intuire che questa rovina sembra essere un luogo sicuro dove passare la notte. Rose e Thorn si offrono di fare da sentinelle mentre i giocatori riposano, sorvegliando i boschi e svegliando i giocatori in caso di minacce.
 

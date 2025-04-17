@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"86cc6ce32bd84940","type":"text","text":"INCITING INCIDENT: The players' relics draw them toward Death House.","x":-380,"y":-400,"width":250,"height":160},
-		{"id":"17624801de96d10f","type":"text","text":"INCITING INCIDENT: The players are sent to investigate mysterious disappearances at Death House.","x":-380,"y":-180,"width":250,"height":165},
-		{"id":"8278c303beadd405","type":"text","text":"GOAL: Investigate Death House.","x":120,"y":-240,"width":250,"height":80},
+		{"id":"86cc6ce32bd84940","type":"text","text":"INCIDENTE SCATENANTE: Le reliquie dei giocatori li attirano verso la Casa della Morte.","x":-380,"y":-400,"width":250,"height":160},
+		{"id":"17624801de96d10f","type":"text","text":"INCIDENTE SCATENANTE: I giocatori vengono mandati a indagare su misteriose sparizioni alla Casa della Morte.","x":-380,"y":-180,"width":250,"height":165},
+		{"id":"8278c303beadd405","type":"text","text":"OBIETTIVO: Indagare sulla Casa della Morte.","x":120,"y":-240,"width":250,"height":80},
 		{"id":"34c71edee808ca44","type":"text","text":"INCITING INCIDENT: The players are trapped in Death House","x":520,"y":-279,"width":250,"height":158},
 		{"id":"ff302b57650f726d","type":"text","text":"INCITING INCIDENT: The Death House rhyme tells the players a beast will awaken to devour them at midnight.","x":870,"y":-20,"width":250,"height":215},
 		{"id":"f56a7829979accca","type":"text","text":"INCITING INCIDENT: The players are attacked by the animated armor on the third-floor balcony.","x":1385,"y":540,"width":250,"height":180},
@@ -37,11 +37,11 @@
 		{"id":"ce0f4a5b5014f3ae","type":"text","text":"GOAL: Place the amber shard in the secret door.","x":2285,"y":1065,"width":250,"height":110},
 		{"id":"be0099ddeebaea51","type":"text","text":"INCITING INCIDENT: The players find the amber shard in the master bedroom.","x":1960,"y":1040,"width":250,"height":160},
 		{"id":"6081b3b0cdaf6218","type":"text","text":"INCITING INCIDENT: The players find the secret door in the library.","x":1710,"y":800,"width":250,"height":160},
-		{"id":"176aa2811042cb04","x":1385,"y":810,"width":250,"height":140,"type":"text","text":"CHOICE: The players investigate the library or play *Waltz for Klara* in the conservatory."}
+		{"id":"176aa2811042cb04","type":"text","text":"CHOICE: The players investigate the library or play *Waltz for Klara* in the conservatory.","x":1385,"y":810,"width":250,"height":140}
 	],
 	"edges":[
-		{"id":"817a4b14be42f48b","fromNode":"86cc6ce32bd84940","fromSide":"right","toNode":"8278c303beadd405","toSide":"left","label":"Barovian Relics"},
-		{"id":"632e9a0c6beec603","fromNode":"17624801de96d10f","fromSide":"right","toNode":"8278c303beadd405","toSide":"left","label":"Lost in the Mists"},
+		{"id":"817a4b14be42f48b","fromNode":"86cc6ce32bd84940","fromSide":"right","toNode":"8278c303beadd405","toSide":"left","label":"Reliquie Baroviane"},
+		{"id":"632e9a0c6beec603","fromNode":"17624801de96d10f","fromSide":"right","toNode":"8278c303beadd405","toSide":"left","label":"Persi nella Nebbia"},
 		{"id":"fbcb1798928765c5","fromNode":"8278c303beadd405","fromSide":"right","toNode":"34c71edee808ca44","toSide":"left"},
 		{"id":"030ccd6090c42788","fromNode":"34c71edee808ca44","fromSide":"right","toNode":"e121fb91a722db54","toSide":"left"},
 		{"id":"a8f8b935f58466a1","fromNode":"ff302b57650f726d","fromSide":"right","toNode":"859f7ba11fe27408","toSide":"left"},
