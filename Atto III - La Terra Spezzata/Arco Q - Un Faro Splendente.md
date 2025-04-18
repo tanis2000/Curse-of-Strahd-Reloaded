@@ -1,238 +1,238 @@
-_An adventure for five 7th-level characters._
+_Un'avventura per cinque personaggi di 7° livello._
 
-In this arc, upon returning from Castle Ravenloft in [[Arc P - Ravenloft Heist]], the players learn that the Abbot of the Abbey of St. Markovia plans to seize Baroness Anna Krezkova’s heart before nightfall. Meanwhile, the mutated werewolf Kiril Stoyanovich hunts the players down, even as Commander Vladimir Horngaard gathers his revenant knights to execute a warrant for their deaths. Can the players redeem the Abbot, overthrow Kiril, and light the beacon of Argynvostholt—or will their efforts to return light to the Barovian valley come to a gruesome and bloody end?
-# Q1. Flight From Ravenloft
-Depending on their means of escape, players who flee from Castle Ravenloft following [[Arc P - Ravenloft Heist]] can attempt to rest for the night in a number of different locations.
-## Q1a. The Teleportation Brazier
-Players who escape Castle Ravenloft via the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span> can teleport to the locations described in [[Arc P - Ravenloft Heist#P11e. Brazier Room|Arc P - Ravenloft Heist]]. From there, they can find shelter as follows:
+In questo arco narrativo, al ritorno dal Castello Ravenloft in [[Arco P - Il Colpo a Ravenloft]], i giocatori scoprono che l'Abate dell'Abbazia di Santa Markovia intende prendere il cuore della Baronessa Anna Krezkova prima del tramonto. Nel frattempo, il licantropo mutato Kiril Stoyanovich dà la caccia ai giocatori, mentre il Comandante Vladimir Horngaard raduna i suoi cavalieri revenant per eseguire un mandato di morte contro di loro. I giocatori riusciranno a redimere l'Abate, sconfiggere Kiril e accendere il faro di Argynvostholt—o i loro sforzi per riportare la luce nella valle di Barovia finiranno in un tragico e sanguinoso fallimento?
+# Q1. Fuga da Ravenloft
+A seconda dei mezzi di fuga, i giocatori che scappano dal Castello Ravenloft dopo [[Arco P - Il Colpo a Ravenloft]] possono tentare di riposare per la notte in diversi luoghi.
+## Q1a. Il Braciere di Teletrasporto
+I giocatori che fuggono dal Castello Ravenloft tramite il braciere di teletrasporto in <span class="citation">K78. Sala del Braciere (p. 82)</span> possono teletrasportarsi nelle località descritte in [[Arco P - Il Colpo a Ravenloft#P11e. Sala del Braciere|Arco P - Il Colpo a Ravenloft]]. Da lì, possono trovare rifugio come segue:
 
-***Village of Barovia.*** If the players teleport to the graveyard in the village of Barovia, Ismark Kolyanovich is happy to let them rest in the guest rooms of the burgomaster's mansion. Though surprised to learn that Ireena has joined the players in their quest to defeat Strahd, he is comforted by the fact that Ireena has grown in strength, confidence, and will through her time at the players' side.
+***Villaggio di Barovia.*** Se i giocatori si teletrasportano al cimitero nel villaggio di Barovia, Ismark Kolyanovich è felice di ospitarli nelle stanze per gli ospiti della magione del borgomastro. Sebbene sorpreso di apprendere che Ireena si è unita ai giocatori nella loro missione per sconfiggere Strahd, è confortato dal fatto che Ireena sia cresciuta in forza, fiducia e volontà durante il tempo trascorso al fianco dei giocatori.
 
-***Town of Vallaki.*** If the players teleport to the coffin-maker's shop in the town of Vallaki, they can find shelter at the Blue Water Inn, St. Andral's Church, or (if they are on friendly terms with Lady Fiona Wachter and do not disclose their assault on Castle Ravenloft) Wachterhaus.
+***Città di Vallaki.*** Se i giocatori si teletrasportano al negozio del fabbricante di bare nella città di Vallaki, possono trovare rifugio alla Locanda dell'Acqua Blu, alla Chiesa di Sant'Andral o (se sono in buoni rapporti con Lady Fiona Wachter e non rivelano il loro assalto al Castello Ravenloft) alla Casa Wachter.
 
-***Village of Krezk.*** If the players teleport to the Shrine of the White Sun in the village of Krezk, they can find shelter at the Krezkovs' cottage, which is as described in [[Arc K - The Fallen Abbey#K1a. The Krezkovs’ Cottage|Arc K - The Fallen Abbey]]. The Krezkovs are heartened if the players share that they have obtained the *Icon of Dawn's Grace* from St. Markovia's crypt in Castle Ravenloft and hope to use it to cleanse the Abbot's madness. If the players are joined by Emil Toranescu, Baron Dmitri Krezkov angrily recognizes him as "the wolf that stole his sister," Zuleika, and insists that Emil sleep outside unless convinced otherwise.
+***Villaggio di Krezk.*** Se i giocatori si teletrasportano al Santuario del Sole Bianco nel villaggio di Krezk, possono trovare rifugio al cottage dei Krezkov, che è descritto in [[Arco K - L'Abbazia Caduta#K1a. Il Cottage dei Krezkov|Arco K - L'Abbazia Caduta]]. I Krezkov sono rincuorati se i giocatori condividono di aver ottenuto l'*Icona della Grazia dell'Alba* dalla cripta di Santa Markovia nel Castello Ravenloft e sperano di usarla per purificare la follia dell'Abate. Se i giocatori sono accompagnati da Emil Toranescu, il Barone Dmitri Krezkov lo riconosce con rabbia come "il lupo che ha rubato sua sorella," Zuleika, e insiste che Emil dorma fuori a meno che non venga convinto altrimenti.
 
 > [!lore]+ **Dmitri & Emil**
-> Dmitri doesn't seriously believe that Emil kidnapped Zuleika or forced her to join the werewolf pack against her will. However, Dmitri resents Emil for "luring" Zuleika away from Krezk with tall tales of the "gift" of lycanthropy, which Dmitri believes is a curse. If challenged, Dmitri grits his teeth, and spits, "He convinced my sister that it was a *gift* to be a monster—a *beast*. He filled her head with lies and mad tales, and took her from me—from all of us."
+> Dmitri non crede seriamente che Emil abbia rapito Zuleika o l'abbia costretta a unirsi al branco di lupi mannari contro la sua volontà. Tuttavia, Dmitri risente di Emil per aver "attirato" Zuleika lontano da Krezk con storie fantastiche del "dono" della licantropia, che Dmitri crede essere una maledizione. Se sfidato, Dmitri digrigna i denti e sputa, "Ha convinto mia sorella che fosse un *dono* essere un mostro—una *bestia*. Le ha riempito la testa di bugie e racconti folli, e l'ha portata via da me—da tutti noi."
 
-***Van Richten's Tower.*** If the players teleport to Van Richten's Tower, they can take shelter in the tower itself, or travel to the village of Krezk. The journey from the tower to Krezk is three-and-one-half miles long and takes one hour and ten minutes.
+***Torre di Van Richten.*** Se i giocatori si teletrasportano alla Torre di Van Richten, possono trovare rifugio nella torre stessa o viaggiare fino al villaggio di Krezk. Il viaggio dalla torre a Krezk è lungo cinque chilometri e mezzo e richiede un'ora e dieci minuti.
 
-***Ruins of Berez.*** If the players teleport to Marina's Monument in Berez, they can take shelter in <span class="citation">U2. Ulrich Mansion (p. 162)</span> or <span class="citation">U4. Churchyard (p. 164)</span>, their arrival hidden by the thick fog that clings to the swamp.
+***Rovine di Berez.*** Se i giocatori si teletrasportano al Monumento di Marina a Berez, possono trovare rifugio in <span class="citation">U2. Villa di Ulrich (p. 162)</span> o <span class="citation">U4. Cimitero (p. 164)</span>, il loro arrivo nascosto dalla fitta nebbia che avvolge la palude.
 
-If the players attempt to take shelter in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, they are attacked by two **Barovian hexwitches** and two **Barovian bogwitches**, who are as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]]. The tumult attracts the attention of the seven **scarecrows** standing guard in the marsh, which arrive three rounds after combat begins.
+Se i giocatori tentano di trovare rifugio in <span class="citation">U1. Capanne Abbandonate (p. 162)</span>, vengono attaccati da due **streghe baroviane** e due **streghe della palude baroviane**, che sono descritte in [[Arco P - Il Colpo a Ravenloft#P9c. Sala del Calderone|Arco P - Il Colpo a Ravenloft]]. Il tumulto attira l'attenzione dei sette **spaventapasseri** di guardia nella palude, che arrivano tre round dopo l'inizio del combattimento.
 
-> [!combat]- **Balancing the Ruins of Berez**
- > Due to the wave mechanic, this combat encounter is a series of a consecutive **mild** combat encounter followed by a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 4% of their total maximum hit points and the second of which will consume approximately 29% of their total maximum hit points (for a total of 33% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Bilanciamento delle Rovine di Berez**
+ > A causa della meccanica delle ondate, questo incontro di combattimento è una serie di incontri consecutivi: un incontro di combattimento **leggero** seguito da un incontro di combattimento **pesante** contro un gruppo di cinque giocatori di 7° livello, un alleato di GS 2 (Ireena Kolyana) e un alleato di GS 4 (Ezmerelda d’Avenir). Il primo consumerà circa il 4% dei loro punti ferita massimi totali e il secondo consumerà circa il 29% dei loro punti ferita massimi totali (per un totale del 33% dei loro punti ferita massimi). Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue:
  > 
- > * Three Players. Reduce the number of bogwitches in the first wave to 1. Reduce the number of scarecrows in the second wave to five.
- > * Four Players. Reduce the number of hexwitches in the first wave to three. Reduce the number of scarecrows in the second wave to six.
- > * Six Players. Add one stormwitch to the first wave. Increase the number of scarecrows in the second wave to eight."
+ > * Tre Giocatori. Riduci il numero di streghe della palude nella prima ondata a 1. Riduci il numero di spaventapasseri nella seconda ondata a cinque.
+ > * Quattro Giocatori. Riduci il numero di streghe baroviane nella prima ondata a tre. Riduci il numero di spaventapasseri nella seconda ondata a sei.
+ > * Sei Giocatori. Aggiungi una strega della tempesta alla prima ondata. Aumenta il numero di spaventapasseri nella seconda ondata a otto."
 
 
-The players can also travel from Berez to the town of Vallaki, Van Richten's Tower, or the village of Krezk:
+I giocatori possono anche viaggiare da Berez alla città di Vallaki, alla Torre di Van Richten o al villaggio di Krezk:
 
-* The journey from Berez to Vallaki is four-and-one-half miles long and takes one hour and thirty minutes.
-* The journey from Berez to Lake Baratok is seven miles long and takes two hours and twenty minutes. 
-* The journey from Berez to Krezk is eight-and-three-quarter miles long and takes three hours.
+* Il viaggio da Berez a Vallaki è lungo sette chilometri e mezzo e richiede un'ora e trenta minuti.
+* Il viaggio da Berez al Lago Baratok è lungo undici chilometri e duecento metri e richiede due ore e venti minuti. 
+* Il viaggio da Berez a Krezk è lungo quattordici chilometri e cento metri e richiede tre ore.
 
-***Old Svalich Road.*** If the players teleport to Marina's Monument in Berez, they can make camp on or near the Old Svalich Road. If they do, they experience the <span class="citation">Strahd Zombies (p. 31)</span> random encounter one hour after making camp, but with eight **zombies** instead of **Strahd zombies**.
+***Strada Vecchia di Svalich.*** Se i giocatori si teletrasportano al Monumento di Marina a Berez, possono accamparsi sulla Strada Vecchia di Svalich o nelle sue vicinanze. Se lo fanno, sperimentano l'incontro casuale <span class="citation">Zombie di Strahd (p. 31)</span> un'ora dopo essersi accampati, ma con otto **zombie** invece di **zombie di Strahd**.
 
-> [!combat]- **Balancing the Old Svalich Road**
-> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 37% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Bilanciamento della Strada Vecchia di Svalich**
+> Questo incontro di combattimento è un incontro **pesante** contro un gruppo di cinque giocatori di 7° livello, un alleato di GS 2 (Ireena Kolyana) e un alleato di GS 4 (Ezmerelda d’Avenir), e consumerà circa il 37% dei loro punti ferita massimi totali. Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue:
 > 
-> * Three Players. Reduce the number of dire wolves to 5, and the number of scarecrows to one.
-> * Four Players. Reduce the number of scarecrows to one.
-> * Six Players. Increase the number of scarecrows to three.
+> * Tre Giocatori. Riduci il numero di lupi terribili a 5 e il numero di spaventapasseri a uno.
+> * Quattro Giocatori. Riduci il numero di spaventapasseri a uno.
+> * Sei Giocatori. Aumenta il numero di spaventapasseri a tre.
 
 
-***Wizard of Wines.*** If the players teleport to the Wizard of Wines, the Martikovs are glad to give them a place to sleep for the night. When the players depart the next morning, Davian sends two **swarms of ravens** to accompany them to their destination. (The ravens depart when the players next arrive at Vallaki, Krezk, or Argynvostholt, whichever comes first.)
+***Mago dei Vini.*** Se i giocatori si teletrasportano al Mago dei Vini, i Martikov sono felici di offrire loro un posto dove dormire per la notte. Quando i giocatori partono la mattina successiva, Davian invia due **sciami di corvi** ad accompagnarli fino alla loro destinazione. (I corvi partono quando i giocatori arrivano successivamente a Vallaki, Krezk o Argynvostholt, qualunque sia il primo.)
 
-***Tsolenka Pass.*** If the players teleport to Tsolenka Pass, they can sleep in the guard tower there. The petrified **vrocks** don't attack players who bypass the gatehouse from the north side of the portcullis.
+***Passo di Tsolenka.*** Se i giocatori si teletrasportano al Passo di Tsolenka, possono dormire nella torre di guardia lì. I **vrock** pietrificati non attaccano i giocatori che bypassano la portcullis dal lato nord.
 
-The players can also travel from the guard tower to the town of Vallaki, Van Richten's Tower, or the village of Krezk:
+I giocatori possono anche viaggiare dalla torre di guardia alla città di Vallaki, alla Torre di Van Richten o al villaggio di Krezk:
 
-* The journey from the tower to Krezk is eleven miles long and takes three hours and forty minutes.
-* The journey from the tower to Lake Baratok is ten-and-one-half miles long and takes three hours and thirty minutes.
-* The journey from the tower to Vallaki is thirteen and one-quarter miles long and takes four hours and thirty minutes.
-## Q1b. The Pillarstone
-Players who escape Castle Ravenloft by descending the southeastern cliff of the Pillarstone of Ravenloft land just north of the village of Barovia, a short distance from the northern edge of <span class="citation">E6. Cemetery (p. 48)</span>. They can find shelter in the village as described in [[#Q1a. The Teleportation Brazier]].
-## Q1c. The Drawbridge
-Players who escape Castle Ravenloft by crossing the western chasm can find shelter as follows:
+* Il viaggio dalla torre a Krezk è lungo diciassette chilometri e settecento metri e richiede tre ore e quaranta minuti.
+* Il viaggio dalla torre al Lago Baratok è lungo sedici chilometri e novecento metri e richiede tre ore e trenta minuti.
+* Il viaggio dalla torre a Vallaki è lungo ventuno chilometri e trecento metri e richiede quattro ore e trenta minuti.
+## Q1b. Il Pilastro di Pietra
+I giocatori che fuggono dal Castello Ravenloft scendendo dalla scogliera sud-orientale del Pilastro di Pietra di Ravenloft atterrano appena a nord del villaggio di Barovia, a breve distanza dal bordo settentrionale di <span class="citation">E6. Cimitero (p. 48)</span>. Possono trovare rifugio nel villaggio come descritto in [[#Q1a. Il Braciere di Teletrasporto]].
+## Q1c. Il Ponte Levatoio
+I giocatori che fuggono dal Castello Ravenloft attraversando il burrone occidentale possono trovare rifugio come segue:
 
-***Old Svalich Road.*** The players can make camp on or near the Old Svalich Road as described in [[#Q1a. The Teleportation Brazier]].
+***Strada Vecchia di Svalich.*** I giocatori possono accamparsi sulla Strada Vecchia di Svalich o nelle sue vicinanze come descritto in [[#Q1a. Il Braciere di Teletrasporto]].
 
-***Town of Vallaki.*** The journey from Castle Ravenloft to Vallaki is eleven and one-quarter miles long and takes three hours and forty-five minutes. Players can find shelter in Vallaki as described in [[#Q1a. The Teleportation Brazier]].
+***Città di Vallaki.*** Il viaggio dal Castello Ravenloft a Vallaki è lungo diciotto chilometri e cento metri e richiede tre ore e quarantacinque minuti. I giocatori possono trovare rifugio a Vallaki come descritto in [[#Q1a. Il Braciere di Teletrasporto]].
 
-***Village of Barovia.*** The journey from Castle Ravenloft to Barovia is thirteen-and-one-quarter miles long and takes four hours and thirty minutes. Players can find shelter in Barovia as described in [[#Q1a. The Teleportation Brazier]].
+***Villaggio di Barovia.*** Il viaggio dal Castello Ravenloft a Barovia è lungo ventuno chilometri e trecento metri e richiede quattro ore e trenta minuti. I giocatori possono trovare rifugio a Barovia come descritto in [[#Q1a. Il Braciere di Teletrasporto]].
 
-***Tser Pool Encampment.*** The journey from Castle Ravenloft to Tser Pool is twelve miles long and takes four hours. Arturi Radanavich is no longer present, having departed three days prior without forewarning.
+***Accampamento di Tser Pool.*** Il viaggio dal Castello Ravenloft a Tser Pool è lungo diciannove chilometri e trecento metri e richiede quattro ore. Arturi Radanavich non è più presente, essendo partito tre giorni prima senza preavviso.
 
-If visited, Madam Eva declines to read the players' fortunes a second time, and merely warns them that they have entered the "final threshold of the path they have chosen." If the players inform her that they have learned her true name (Katarina), Madam Eva wryly congratulates them on their perceptiveness and can share the information regarding her relationship with Varushka in [[Arc O - Dinner with the Devil]]. 
+Se visitata, Madam Eva rifiuta di leggere nuovamente le fortune dei giocatori e si limita ad avvertirli che hanno attraversato la "soglia finale del percorso che hanno scelto." Se i giocatori le informano di aver appreso il suo vero nome (Katarina), Madam Eva li congratula ironicamente per la loro perspicacia e può condividere le informazioni riguardanti la sua relazione con Varushka in [[Arco O - Cena con il Diavolo]]. 
 
-If the players suggest that she is associated with the Ladies of the Fanes, Madam Eva's gaze tightens and she stonily warns the players "not to invoke the names of the ancient, lest they rouse undesired attentions." (Madam Eva doesn't explain further.)
-# Q2. Dmitri's Plea
-## Q2a. A Dark Omen
-At dawn on the first day after the players raid Castle Ravenloft, a snow-white feather descends from the Abbey of Saint Markovia and lands on the kitchen windowsill of the Krezkovs' cottage. Anna and Dmitri recognize the feather as a promised message from the Abbot signaling that he intends to collect Anna's heart at dusk. 
+Se i giocatori suggeriscono che è associata alle Signore delle Fane, lo sguardo di Madam Eva si indurisce e avverte severamente i giocatori "di non invocare i nomi degli antichi, per non risvegliare attenzioni indesiderate." (Madam Eva non spiega ulteriormente.)
+# Q2. La Supplica di Dmitri
+## Q2a. Un Presagio Oscuro
+All'alba del primo giorno dopo l'incursione dei giocatori al Castello Ravenloft, una piuma bianca come la neve scende dall'Abbazia di Santa Markovia e atterra sul davanzale della finestra della cucina del cottage dei Krezkov. Anna e Dmitri riconoscono la piuma come un messaggio promesso dall'Abate che segnala la sua intenzione di prendere il cuore di Anna al tramonto. 
 
-If the players aren't already in Krezk, Dmitri sets out for Vallaki accompanied by two Krezkian **guards**, hoping to find the players there.
+Se i giocatori non sono già a Krezk, Dmitri si dirige verso Vallaki accompagnato da due **guardie** di Krezk, sperando di trovare i giocatori lì.
 
-* If the players are traveling to Krezk from Berez, Tsolenka Pass, Van Richten's Tower, or a section of the Old Svalich Road west of Vallaki, they encounter Dmitri and his companions at <span class="citation">R. Raven River Crossroads (p. 40)</span>. 
-* Otherwise, Dmitri and his companions arrive in Vallaki two hours after dawn, whereupon they leave a message with the guards at the western gate and travel to the Blue Water Inn, hoping to find the players there.
+* Se i giocatori stanno viaggiando verso Krezk da Berez, dal Passo di Tsolenka, dalla Torre di Van Richten o da una sezione della Strada Vecchia di Svalich a ovest di Vallaki, incontrano Dmitri e i suoi compagni a <span class="citation">R. Incrocio del Fiume Corvo (p. 40)</span>. 
+* Altrimenti, Dmitri e i suoi compagni arrivano a Vallaki due ore dopo l'alba, dopodiché lasciano un messaggio con le guardie al cancello occidentale e si dirigono alla Locanda dell'Acqua Blu, sperando di trovare i giocatori lì.
 
-If the players slept at the Krezkovs' cottage the night before, they are awoken by the sound of quiet sobs from the kitchen, where Anna attempts to reassure Dmitri that "everything will be alright," while a tearful Dmitri desperately vows that he "won't let anything happen" to her.
+Se i giocatori hanno dormito al cottage dei Krezkov la notte precedente, vengono svegliati dal suono di singhiozzi sommessi provenienti dalla cucina, dove Anna cerca di rassicurare Dmitri che "andrà tutto bene," mentre un Dmitri in lacrime promette disperatamente che "non permetterà che le accada nulla."
 
-Regardless of where he encounters the players, an anxious Dmitri informs them that the Abbot intends to collect Anna's heart at dusk, and will likely lay waste to Krezk unless Anna makes the journey to the Abbey of Saint Markovia by that time. If the players don't offer to do so, Dmitri begs them to intercede on Anna's behalf—"if not for us, then for our children."
-## Q2b. The Old Svalich Road
-### Journey to Vallaki
-#### The Raven Guard
-If the players slept east of Vallaki after escaping Castle Ravenloft, such as in the village of Barovia or at the Tser Pool encampment, they awake to find four **swarms of ravens** standing watch from nearby rooftops or trees. The ravens, which have heard of the players' heroics from the Keepers of the Feather, accompany the players as an honor guard until they reach the town of Vallaki.
-#### The Wolves' Ambush
-One hour before the players reach Vallaki, they encounter three corpses scattered across the road, as described in <span class="citation">Corpse (p. 30)</span>. Two of the corpses belong to Barovian adults killed by dire wolves, while the third resembles whichever player has displeased Strahd the most.
+Indipendentemente da dove incontra i giocatori, un ansioso Dmitri li informa che l'Abate intende prendere il cuore di Anna al tramonto e probabilmente distruggerà Krezk a meno che Anna non si rechi all'Abbazia di Santa Markovia entro quel momento. Se i giocatori non si offrono di farlo, Dmitri li supplica di intercedere a nome di Anna—"se non per noi, allora per i nostri figli."
+## Q2b. La Strada Vecchia di Svalich
+### Viaggio a Vallaki
+#### La Guardia dei Corvi
+Se i giocatori hanno dormito a est di Vallaki dopo essere fuggiti dal Castello Ravenloft, ad esempio nel villaggio di Barovia o all'accampamento di Tser Pool, si svegliano trovando quattro **sciami di corvi** che li osservano da tetti o alberi vicini. I corvi, che hanno sentito parlare delle eroiche imprese dei giocatori dai Custodi della Piuma, li accompagnano come una guardia d'onore fino a quando non raggiungono la città di Vallaki.
+#### L'imboscata dei Lupi
+Un'ora prima che i giocatori raggiungano Vallaki, incontrano tre cadaveri sparsi lungo la strada, come descritto in <span class="citation">Cadavere (p. 30)</span>. Due dei cadaveri appartengono a adulti baroviani uccisi da lupi terribili, mentre il terzo assomiglia al giocatore che ha più deluso Strahd.
 
-If the third corpse melts away, or when the players first move to depart the corpses, they are attacked by six **dire wolves**, as described in <span class="citation">Dire Wolves (p. 30)</span>, accompanied by two **scarecrows**, which are as described in <span class="citation">Scarecrows (p. 31)</span>. The wolves and scarecrows fight to the death, as do the swarms of ravens, which fight fiercely to defend the players.
-#### Arrival in Vallaki
-Upon the players' arrival at Vallaki, the guards at the gate inform them that Baron Dmitri Krezkov of Krezk is awaiting them at the Blue Water Inn. If they venture there, the players can find Baron Krezkov in the taproom, sitting anxiously at the bar with an untouched drink as Danika attempts to comfort him. The scene then unfolds as described in [[#Q2a. A Dark Omen]].
-## Journey to Krezk
-As the players journey to Krezk, they again encounter the **revenant** standing guard at the bridge over the Raven River, as described in [[Arc I - The Walls of Krezk#I1. The Road to Krezk|Arc I - The Walls of Krezk]]. The revenant greets the players warmly, but warns them, as a shadow crosses its face, that "dark tidings" are alight on the wind, and that it may be recalled from its post sooner than expected.
+Se il terzo cadavere si dissolve, o quando i giocatori si muovono per lasciare i cadaveri, vengono attaccati da sei **lupi terribili**, come descritto in <span class="citation">Lupi Terribili (p. 30)</span>, accompagnati da due **spaventapasseri**, che sono descritti in <span class="citation">Spaventapasseri (p. 31)</span>. I lupi e gli spaventapasseri combattono fino alla morte, così come gli sciami di corvi, che combattono ferocemente per difendere i giocatori.
+#### Arrivo a Vallaki
+All'arrivo dei giocatori a Vallaki, le guardie al cancello informano che il Barone Dmitri Krezkov di Krezk li sta aspettando alla Locanda dell'Acqua Blu. Se si recano lì, i giocatori possono trovare il Barone Krezkov nella sala, seduto ansiosamente al bancone con una bevanda intatta mentre Danika cerca di confortarlo. La scena si svolge quindi come descritto in [[#Q2a. Un Presagio Oscuro]].
+## Viaggio a Krezk
+Mentre i giocatori viaggiano verso Krezk, incontrano nuovamente il **revenant** di guardia al ponte sul Fiume Corvo, come descritto in [[Arco I - Le Mura di Krezk#I1. La Strada per Krezk|Arco I - Le Mura di Krezk]]. Il revenant saluta calorosamente i giocatori, ma li avverte, mentre un'ombra attraversa il suo volto, che "cattive notizie" sono nell'aria e che potrebbe essere richiamato dal suo posto prima del previsto.
 
-The revenant isn't sure what the dark tidings are, but can share that Commander Vladimir Horngaard is enraged by the players' assault on Castle Ravenloft. The revenant doesn't know how Vladimir might have learned of the players' actions, but suggests that he may have learned it from the **phantom warriors** that serve as his eyes and ears in the Ethereal Plane.
+Il revenant non è sicuro di quali siano le cattive notizie, ma può condividere che il Comandante Vladimir Horngaard è furioso per l'assalto dei giocatori al Castello Ravenloft. Il revenant non sa come Vladimir possa aver appreso delle azioni dei giocatori, ma suggerisce che potrebbe averlo appreso dai **guerrieri fantasma** che fungono da suoi occhi e orecchie nel Piano Etereo.
 
-As the players depart, the revenant wishes them well, solemnly bidding them farewell and adding, almost wistfully, "May the Morninglord shelter you in the light of His grace."
-# Q3. Return to Krezk
-Upon arriving in Krezk, the players are met at the gate by Anna Krezkova, who has been waiting anxiously for Dmitri to return. When he does, she embraces him in gratitude for his safe return and thanks the players sincerely for making the journey. 
+Mentre i giocatori si allontanano, il revenant augura loro ogni bene, salutandoli solennemente e aggiungendo, quasi con nostalgia, "Possa il Signore del Mattino proteggervi con la luce della Sua grazia."
+# Q3. Ritorno a Krezk
+All'arrivo a Krezk, i giocatori vengono accolti al cancello da Anna Krezkova, che ha aspettato ansiosamente il ritorno di Dmitri. Quando arriva, lo abbraccia con gratitudine per il suo ritorno sicuro e ringrazia sinceramente i giocatori per aver intrapreso il viaggio. 
 
-Anna and Dmitri, two **nobles** with Strength scores of 14 (+2) and wielding a ***silvered battleaxe*** and ***longsword***, respectively (+4 to hit, 1d10 + 2 slashing damage each), are glad to accompany the players to the Abbey if asked. However, they warn the players abashedly that they will likely be of little help in a fight.
+Anna e Dmitri, due **nobili** con punteggi di Forza di 14 (+2) e armati di un ***ascia da battaglia argentata*** e una ***spada lunga***, rispettivamente (+4 per colpire, 1d10 + 2 danni taglienti ciascuno), sono felici di accompagnare i giocatori all'Abbazia se richiesto. Tuttavia, avvertono i giocatori con imbarazzo che probabilmente saranno di poco aiuto in un combattimento.
 
-> [!abstract]+ **Emil Helps Out**
-> If Emil is present, the players can convince him to assist them in confronting the Abbot by referencing his obligations as the Krezkovs’ brother-in-law and succeeding on a DC 10 Charisma (Persuasion) check. (Emil, who dislikes Dmitri for his “cowardice" and “resignation" to his family’s curse, and for Dmitri’s efforts to make Zuleika avoid Emil and feel ashamed of her lycanthropy, feels no obligation to assist the Krezkovs initially.)
+> [!abstract]+ **Emil Aiuta**
+> Se Emil è presente, i giocatori possono convincerlo ad aiutarli a confrontarsi con l'Abate facendo riferimento ai suoi obblighi come cognato dei Krezkov e superando una prova di Carisma (Persuasione) a CD 10. (Emil, che non ama Dmitri per la sua "codardia" e "rassegnazione" alla maledizione della sua famiglia, e per gli sforzi di Dmitri di far evitare Emil a Zuleika e farla vergognare della sua licantropia, non sente alcun obbligo di aiutare i Krezkov inizialmente.)
 >
-> The players make the check with advantage if they argue that Zuleika would want him to help her brother. The players succeed automatically if they inform Emil that the Abbot used the appearance of his wife, Zuleika, to manipulate Ilya into killing Kala (Emil’s niece).
-## Q3a. Return to the Abbey
-As the players ascend <span class="citation">S5. Winding Road (p. 147)</span>, the shard of divinity in the *Icon of Dawn’s Grace* speaks to them, asking:
+> I giocatori effettuano la prova con vantaggio se sostengono che Zuleika vorrebbe che aiutasse suo fratello. I giocatori riescono automaticamente se informano Emil che l'Abate ha usato l'aspetto di sua moglie, Zuleika, per manipolare Ilya a uccidere Kala (la nipote di Emil).
+## Q3a. Ritorno all'Abbazia
+Mentre i giocatori salgono <span class="citation">S5. Strada Tortuosa (p. 147)</span>, il frammento di divinità nell'*Icona della Grazia dell'Alba* parla loro, chiedendo:
 
-* what became of the Abbey of St. Markovia following Markovia’s death at Castle Ravenloft
-* how the Abbot came to reside in Krezk at the Abbey
-* what became of the Abbot after he came to the Abbey, and how he descended into madness
+* cosa è successo all'Abbazia di Santa Markovia dopo la morte di Markovia al Castello Ravenloft
+* come l'Abate è arrivato a risiedere a Krezk nell'Abbazia
+* cosa è successo all'Abate dopo essere arrivato all'Abbazia e come è caduto nella follia
 
-Regardless of the players’ answers, the shard warns them that the Abbot, like all creatures of celestial creation, is likely to be zealous, inflexible, and utterly devoted to his perceived cause. “Tread carefully, and ready your steel," the shard whispers telepathically. “For the Morninglord’s rays flare only brighter when they perceive darkness before them."
-### The North Gate
-The players are met at <span class="citation">S6. North Gate (p. 147)</span> by Otto and Zygfrek Belview. If the players agreed to investigate Cyrus’s “perfection" in [[Arc K - The Fallen Abbey#The Eavesdroppers|Arc K - The Fallen Abbey]], Otto (excitedly) and Zygfrek (anxiously) ask the players whether they’ve seen Cyrus since departing the Abbey, and how the Abbot’s “perfection" has transformed him. “Is he strong?" Otto hee-haws happily. “Is he beautiful?" Zygfrek whispers, her voice trembling.
+Indipendentemente dalle risposte dei giocatori, il frammento li avverte che l'Abate, come tutte le creature di creazione celestiale, è probabilmente zelante, inflessibile e completamente devoto alla sua causa percepita. “Procedete con cautela e preparate il vostro acciaio," il frammento sussurra telepaticamente. “Perché i raggi del Signore del Mattino brillano solo più intensamente quando percepiscono l'oscurità davanti a loro."
+### Il Cancello Nord
+I giocatori vengono accolti a <span class="citation">S6. Cancello Nord (p. 147)</span> da Otto e Zygfrek Belview. Se i giocatori hanno accettato di indagare sulla "perfezione" di Cyrus in [[Arco K - L'Abbazia Caduta#Gli Ascoltatori|Arco K - L'Abbazia Caduta]], Otto (eccitato) e Zygfrek (ansioso) chiedono ai giocatori se hanno visto Cyrus da quando hanno lasciato l'Abbazia e come la "perfezione" dell'Abate lo abbia trasformato. “È forte?" Otto raglia felicemente. “È bello?" Zygfrek sussurra, la sua voce tremante.
 
-If the players share the truth of Cyrus’s situation, Otto and Zygfrek are horrified, with Zygfrek falling silent and clutching her cloak around her while Otto angrily demands the players recant their “lie." “The Abbot would never lie to us!" Otto howls, with tears beading at the corners of his eyes.
+Se i giocatori condividono la verità sulla situazione di Cyrus, Otto e Zygfrek sono inorriditi, con Zygfrek che rimane in silenzio e si stringe il mantello intorno a sé mentre Otto chiede arrabbiato ai giocatori di ritrattare la loro "bugia." “L'Abate non ci mentirebbe mai!" Otto ulula, con lacrime che si formano agli angoli degli occhi.
 
-The players can convince Otto and Zygfrek that they are telling the truth with a successful DC 10 Charisma (Persuasion) check, succeeding automatically if they describe Cyrus’s appearance, personality, or other details they could have gleaned only by encountering him. If they do, Otto and Zygfrek utterly deflate, appearing heartbroken. “We’ve been waiting for so long," Otto mumbles, snifling. “What do we wait for now?" As he speaks, Zygfrek pulls her hood down to cover her face, leaves the gate, and sits at the edge of the cliff, staring out at the village below with sorrow, shame, and self-loathing. Otto and Zygfrek are grateful for any guidance or encouragement the players can provide.
+I giocatori possono convincere Otto e Zygfrek che stanno dicendo la verità con una prova di Carisma (Persuasione) a CD 10, riuscendo automaticamente se descrivono l'aspetto, la personalità o altri dettagli di Cyrus che avrebbero potuto apprendere solo incontrandolo. Se lo fanno, Otto e Zygfrek si deprimono completamente, apparendo con il cuore spezzato. “Abbiamo aspettato così tanto," Otto mormora, singhiozzando. “Cosa aspettiamo ora?" Mentre parla, Zygfrek si tira il cappuccio sopra il viso, lascia il cancello e si siede sul bordo della scogliera, guardando il villaggio sottostante con tristezza, vergogna e disprezzo di sé. Otto e Zygfrek sono grati per qualsiasi guida o incoraggiamento che i giocatori possano fornire.
 
-Otto and Zygfrek are glad to bring the players to the Abbot if asked to do so, though Zygfrek prefers to linger by the cliffside if told of the Abbot’s duplicity. 
-### The Courtyard
-Upon entering <span class="citation">S12. Courtyard (p. 150)</span>, the players encounter Clovin Belview, who is delivering bowls of cold porridge to the Belviews in the padlocked stone shelves. Clovin greets the players and informs them that the Abbot is in the asylum, located in <span class="citation">S15. Madhouse (p. 151)</span>, tending and ministering to Clovin’s family therein.
+Otto e Zygfrek sono felici di portare i giocatori dall'Abate se richiesto, anche se Zygfrek preferisce rimanere vicino alla scogliera se informata della duplicità dell'Abate. 
+### Il Cortile
+Entrando in <span class="citation">S12. Cortile (p. 150)</span>, i giocatori incontrano Clovin Belview, che sta consegnando ciotole di porridge freddo ai Belview nelle mensole di pietra con lucchetti. Clovin saluta i giocatori e li informa che l'Abate si trova nel manicomio, situato in <span class="citation">S15. Manicomio (p. 151)</span>, a prendersi cura e a ministrare alla famiglia di Clovin lì.
 
-If the players agreed to investigate Cyrus’s “perfection" in [[Arc K - The Fallen Abbey#The Eavesdroppers|Arc K - The Fallen Abbey]], Clovin eagerly asks the players whether they’ve seen Cyrus since departing the Abbey. “Is he well?" he asks, adding, “Has he taken to his new form?" 
+Se i giocatori hanno accettato di indagare sulla "perfezione" di Cyrus in [[Arco K - L'Abbazia Caduta#Gli Ascoltatori|Arco K - L'Abbazia Caduta]], Clovin chiede con entusiasmo ai giocatori se hanno visto Cyrus da quando hanno lasciato l'Abbazia. “Sta bene?" chiede, aggiungendo, “Ha accettato la sua nuova forma?" 
 
-If the players share the truth of Cyrus’s situation, Clovin’s face briefly falls, and then becomes cold and carefully composed. “I see," he notes, even as the infant head upon his shoulder begins to wail. 
+Se i giocatori condividono la verità sulla situazione di Cyrus, il volto di Clovin si oscura brevemente, poi diventa freddo e attentamente composto. “Capisco," osserva, anche se la testa infantile sulla sua spalla inizia a piangere. 
 
-Regardless of his own disappointment, Clovin is determined to make good on his promise should the players bring news of Cyrus. If they do, before bringing them to the Abbot, he brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
+Indipendentemente dalla sua delusione, Clovin è determinato a mantenere la sua promessa se i giocatori portano notizie di Cyrus. Se lo fanno, prima di portarli dall'Abate, li conduce a un supporto di legno coperto da un panno nero nell'angolo sud-est del <span class="citation">S17. Soppalco e Campanile (p. 152)</span>. Dal supporto pendono due set di *ali volanti* con telai di ossa di animali. (L'Abate ha creato le ali come parte dei suoi esperimenti originali con i Belview, ma le ha abbandonate molto tempo fa.) Hanno le seguenti modifiche:
 
-* The wings are artificial wings, rather than cloaks, and animate when activated instead of transforming.
-* A set of wings animates for 1 minute, rather than 1 hour
-* Once a set of wings has been used, it can't be used again until the next dawn.
-* One set resembles bird wings and bears hundreds of large, downy feathers plucked from the Abbot's giant eagle form, while the other resembles bat wings and bears long membranes of tanned animal hide.
-* A creature can attune itself to the wings in 1 minute.
-## Q3b. Confronting the Abbot
-The players can find the Abbot in the Abbey’s asylum, which is largely as described in <span class="citation">S15. Madhouse (p. 151)</span>. However, the players overhear the following conversation as they approach and enter this area:
+* Le ali sono ali artificiali, piuttosto che mantelli, e si animano quando attivate invece di trasformarsi.
+* Un set di ali si anima per 1 minuto, piuttosto che 1 ora.
+* Una volta utilizzato un set di ali, non può essere utilizzato di nuovo fino all'alba successiva.
+* Un set assomiglia ad ali di uccello e porta centinaia di grandi piume soffici strappate dalla forma di aquila gigante dell'Abate, mentre l'altro assomiglia ad ali di pipistrello e porta lunghe membrane di pelle animale conciata.
+* Una creatura può sintonizzarsi con le ali in 1 minuto.
+## Q3b. Confronto con l'Abate
+I giocatori possono trovare l'Abate nel manicomio dell'Abbazia, che è in gran parte come descritto in <span class="citation">S15. Manicomio (p. 151)</span>. Tuttavia, i giocatori sentono la seguente conversazione mentre si avvicinano ed entrano in quest'area:
 
 <div class="description">
-<p>A handsome young man in monk’s robes stands halfway down the hall, a prayer book tucked beneath one arm—the Abbot. Before him stands a dainty woman wearing a tattered gown, her head bowed in silent acquiescence—Vasilka. The flesh golem stands behind them, its grotesque form towering above them in the shadows.</p>
-<p>"I’ve told you not to sully yourself with the unclean," the Abbot scolds her, his voice harsh. “Especially not today, of all days. Have you forgotten the operation you’re to undergo tonight? One iota of blight from these creatures could bring damnation to the land you’re meant to serve."</p>
-<p>"I’m sorry," Vasilka whispers, trembling. “I didn’t think—"</p>
-<p>"No," the Abbot says coldly. “You didn’t."</p>
+<p>Un giovane uomo attraente in abiti da monaco si trova a metà del corridoio, un libro di preghiere infilato sotto un braccio—l'Abate. Davanti a lui c'è una donna minuta che indossa un abito strappato, la testa china in silenziosa acquiescenza—Vasilka. Il golem di carne si erge dietro di loro, la sua forma grottesca che torreggia sopra di loro nell'ombra.</p>
+<p>"Ti ho detto di non contaminarti con gli impuri," l'Abate la rimprovera, la sua voce aspra. “Soprattutto oggi, di tutti i giorni. Hai dimenticato l'operazione che devi subire stasera? Un solo iota di corruzione da queste creature potrebbe portare alla dannazione della terra che sei destinata a servire."</p>
+<p>"Mi dispiace," Vasilka sussurra, tremando. “Non pensavo—"</p>
+<p>"No," dice freddamente l'Abate. “Non hai pensato."</p>
 </div>
 
-Unless the players interrupt, the conversation proceeds as follows:
+A meno che i giocatori non interrompano, la conversazione procede come segue:
 
-* The Abbot sighs, rubs his temples, and places a fatherly hand on Vasilka’s shoulder. “Fear not," he says softly. “The Morninglord’s forgiveness and grace are eternal, so long as we remember our proper places." 
-* The Abbot gestures to the flesh golem and the Belviews in the cells, adding: “Theirs is here. And yours is . . . ?" 
-* Vasilka’s head bows deeper as she replies, “In the hall, waiting to be wed."
-* The Abbot smiles, nods, and squeezes her shoulder. “Good. So long as you remember that, you cannot be led astray."
+* L'Abate sospira, si strofina le tempie e pone una mano paterna sulla spalla di Vasilka. “Non temere," dice dolcemente. “Il perdono e la grazia del Signore del Mattino sono eterni, purché ricordiamo i nostri giusti posti." 
+* L'Abate indica il golem di carne e i Belview nelle celle, aggiungendo: “Il loro è qui. E il tuo è . . . ?" 
+* La testa di Vasilka si china più profondamente mentre risponde, “Nella sala, in attesa di essere sposata."
+* L'Abate sorride, annuisce e le stringe la spalla. “Bene. Finché ricordi questo, non puoi essere sviata."
 
-The Abbot then turns to the players and greets them warmly, welcoming them back to the Abbey of St. Markovia and inquiring as to the reason for their presence. If the players insist that he spare Anna and forgo his mission to retrieve her heart, he laughs softly and chides them gently, noting that “the ways of the gods may seem callous, or even cruel to the unenlightened, but faith shall always guide us to salvation." 
+L'Abate si rivolge quindi ai giocatori e li saluta calorosamente, dando loro il benvenuto all'Abbazia di Santa Markovia e chiedendo il motivo della loro presenza. Se i giocatori insistono affinché risparmi Anna e rinunci alla sua missione di prendere il suo cuore, ride dolcemente e li rimprovera gentilmente, osservando che “le vie degli dèi possono sembrare insensibili, o addirittura crudeli per i non illuminati, ma la fede ci guiderà sempre alla salvezza." 
 
-> [!abstract]+ **Revealing the Truth**
-> If the players confront the Abbot for his lies to the Belviews regarding Cyrus and the promise of “perfection," the Belviews in the cells fall silent. The Abbot’s face grows stony, and he coldly asks the players how they came by such “tall tales." 
+> [!abstract]+ **Rivelare la Verità**
+> Se i giocatori affrontano l'Abate per le sue bugie ai Belview riguardo a Cyrus e alla promessa di “perfezione," i Belview nelle celle tacciono. Il volto dell'Abate si fa di pietra e chiede freddamente ai giocatori come siano venuti a conoscenza di tali “fandonie." 
 > 
-> Regardless of the players’ answer, the Abbot then turns to the Belviews in the cells and says, “Do not allow these outsiders to lead you astray. In the Morninglord, all things are possible." The Belviews in the cells then begin howling and gnashing their teeth, pounding against the metal bars as they demand for the “filthy, lying outsiders" to be “butchered, quartered, and stewed."
+> Indipendentemente dalla risposta dei giocatori, l'Abate si rivolge quindi ai Belview nelle celle e dice, “Non permettete a questi estranei di sviare la vostra mente. Nel Signore del Mattino, tutto è possibile." I Belview nelle celle iniziano quindi a ululare e digrignare i denti, battendo contro le sbarre di metallo mentre chiedono che gli “estranei sporchi e bugiardi" siano “macellati, squartati e stufati."
 > 
-> The players can calm the Belviews and convince them of the truth by succeeding on a DC 20 Charisma (Persuasion) check. The DC falls to 10 if the players first challenge the Abbot to tell the Belviews whether he can “perfect" them. (The Abbot, who cannot lie, refuses to do so, insisting only that “his flock" knows and trusts the words of its “shepherd.") If Otto, Zygfrek, or Clovin are present, the players succeed automatically as their companions confront the Abbot for his “lies," proclaiming to their family that Cyrus has not been “perfected" and the Abbot has no means of completing their transformation.
+> I giocatori possono calmare i Belview e convincerli della verità superando una prova di Carisma (Persuasione) a CD 20. La CD scende a 10 se i giocatori sfidano prima l'Abate a dire ai Belview se può “perfezionarli." (L'Abate, che non può mentire, si rifiuta di farlo, insistendo solo che “il suo gregge" conosce e si fida delle parole del suo “pastore.") Se Otto, Zygfrek o Clovin sono presenti, i giocatori riescono automaticamente mentre i loro compagni affrontano l'Abate per le sue “bugie," proclamando alla loro famiglia che Cyrus non è stato “perfezionato" e che l'Abate non ha mezzi per completare la loro trasformazione.
 
-If the players present the *Icon of Dawn’s Grace* and tell him that his spirit has been corrupted and must be restored through use of the *Icon*, the Abbot’s expression grows icy, and he warns them softly that they “speak the words of false prophets." “This artifact has lain in the vampire’s castle for centuries," he intones. “Cast it aside, and excise the poisons it has instilled in your minds."
+Se i giocatori presentano l'*Icona della Grazia dell'Alba* e gli dicono che il suo spirito è stato corrotto e deve essere restaurato attraverso l'uso dell'*Icona*, l'espressione dell'Abate si fa gelida e li avverte dolcemente che “parlano le parole di falsi profeti." “Questo artefatto è rimasto nel castello del vampiro per secoli," intona. “Gettatelo via ed estirpate i veleni che ha instillato nelle vostre menti."
 
-If the players insist on cleansing the Abbot’s spirit or otherwise continue to challenge him, the Abbot’s eyes narrow, and he demands softly that the players depart the Abbey at once, “lest they overstay their welcome." As he does, read:
-
-<div class="description">
-<p>A palpable tension fills the air as the shadows of the room darken. The floors and walls seem to hum with power, and the Abbot’s eyes glimmer briefly with golden madness.</p>
-</div>
-
-***Vasilka Intercedes.*** If the players decline to depart and previously delivered Vasilka’s garland necklace to the **flesh golem** in [[Arc K - The Fallen Abbey#Vasilka’s Lesson|Arc K - The Fallen Abbey]], she steps between the Abbot and the players and begs the Abbot not to harm them. “They are brave and kind and wise," she says, her voice trembling. “Surely it would not be folly to listen to them?"
-
-Unless the players interrupt, the following exchange then occurs:
-
-* The Abbot instructs Vasilka: “Step aside, foolish creature. Do not allow their words to cloud your mind and obscure your duties."
-* Vasilka shakes her head silently. The Abbot’s expression darkens, and he asks Vasilka whether she is defying him. She hesitates, then slowly nods her head, tears falling from the corners of her eyes.
-* A shadow crosses the Abbot’s face, and his eyes narrow. “Then you are defective—and must be disposed of." Read:
+Se i giocatori insistono nel purificare lo spirito dell'Abate o continuano a sfidarlo in altro modo, gli occhi dell'Abate si restringono e chiede dolcemente ai giocatori di lasciare immediatamente l'Abbazia, “per non oltrepassare il loro benvenuto." Mentre lo fa, leggi:
 
 <div class="description">
-<p>The Abbot’s hand lashes forward, gripping Vasilka around the throat and lifting her into the air. A shroud of radiant shadows swirls in his palm, then congeals into a platinum mace that glitters cruelly. “Perhaps I was too patient with you," he intones lifelessly, “too compassionate. I can always start again, with better parts and training."</p>
+<p>Una tensione palpabile riempie l'aria mentre le ombre della stanza si oscurano. I pavimenti e le pareti sembrano vibrare di potere, e gli occhi dell'Abate brillano brevemente di follia dorata.</p>
 </div>
 
-Unless prevented by the players, the Abbot then grapples Vasilka (who does not resist) and uses his wings to fly her out into the courtyard, where he proceeds to attack her with his ***mace***. (See below for more information regarding the Abbot’s attack.)
+***Vasilka Interviene.*** Se i giocatori rifiutano di partire e hanno precedentemente consegnato la collana di ghirlande di Vasilka al **golem di carne** in [[Arco K - L'Abbazia Caduta#La Lezione di Vasilka|Arco K - L'Abbazia Caduta]], lei si frappone tra l'Abate e i giocatori e lo supplica di non far loro del male. “Sono coraggiosi, gentili e saggi," dice, la sua voce tremante. “Sicuramente non sarebbe follia ascoltarli?"
 
-***The Players’ Defiance.*** If the players decline to depart and did not previously deliver Vasilka’s garland necklace to the **flesh golem** in [[Arc K - The Fallen Abbey#Vasilka’s Lesson|Arc K - The Fallen Abbey]], a shadow crosses the Abbot’s face, and his eyes narrow. Read:
+A meno che i giocatori non interrompano, si verifica il seguente scambio:
+
+* L'Abate istruisce Vasilka: “Fatti da parte, creatura sciocca. Non permettere che le loro parole offuschino la tua mente e oscurino i tuoi doveri."
+* Vasilka scuote la testa in silenzio. L'espressione dell'Abate si oscura e chiede a Vasilka se lo sta sfidando. Lei esita, poi annuisce lentamente, con lacrime che cadono dagli angoli degli occhi.
+* Un'ombra attraversa il volto dell'Abate e i suoi occhi si restringono. “Allora sei difettosa—e devi essere eliminata." Leggi:
 
 <div class="description">
-<p>The Abbot steps forward, his single footstep echoing like a crack of thunder through the darkened hall. A shroud of radiant shadows swirls in his palm, then congeals into a platinum mace that glitters cruelly.</p>
-<p>"If you will not obey," he intones, “then you will be made to."</p>
+<p>La mano dell'Abate si protende, afferrando Vasilka per la gola e sollevandola in aria. Un alone di ombre radianti vortica nel suo palmo, poi si coagula in una mazza di platino che brilla crudelmente. “Forse sono stato troppo paziente con te," intona senza vita, “troppo compassionevole. Posso sempre ricominciare, con parti e addestramento migliori."</p>
 </div>
 
-The Abbot then attacks.
-## Q3c. The Abbot's Rage
-When the Abbot attacks, he sheds his monk’s robes and transforms, revealing his true angelic form. Read:
+A meno che i giocatori non lo impediscano, l'Abate afferra quindi Vasilka (che non resiste) e usa le sue ali per portarla nel cortile, dove procede ad attaccarla con la sua ***mazza***. (Vedi sotto per ulteriori informazioni sull'attacco dell'Abate.)
+
+***La Sfida dei Giocatori.*** Se i giocatori rifiutano di partire e non hanno precedentemente consegnato la collana di ghirlande di Vasilka al **golem di carne** in [[Arco K - L'Abbazia Caduta#La Lezione di Vasilka|Arco K - L'Abbazia Caduta]], un'ombra attraversa il volto dell'Abate e i suoi occhi si restringono. Leggi:
 
 <div class="description">
-<p>A brilliant cascade of divine light shines from the Abbot’s form, and towering wings unfurl from his shoulders, each massive feather snow-white and perfectly formed. His mortal vestments fall away, revealing white, luminous flesh that seems chiseled from marble itself. Golden gauntlets inscribed with celestial runes encircle his forearms, and a golden sarong wraps gently around his waist, its fabric whipping in a rising, churning wind.</p>
-<p>The Abbot’s hair grows until it reaches his shoulders, shimmering like spun gold. As his shoulders and torso grow broader, he seems to stand up straighter, ascending until he stands near seven feet in height. The air seems to crackle with power, the very walls seeming to bend closer toward him as his eyes blaze with celestial wrath.</p>
+<p>L'Abate avanza, il suo singolo passo echeggiando come un colpo di tuono attraverso il corridoio oscurato. Un alone di ombre radianti vortica nel suo palmo, poi si coagula in una mazza di platino che brilla crudelmente.</p>
+<p>"Se non obbedirete," intona, “allora sarete costretti a farlo."</p>
 </div>
 
-If the Abbot initiated combat by attacking Vasilka, he continues to do so until he has reduced her to 0 hit points or a player deals him 20 points of damage in a single turn, at which point he turns his attention to the players. (Vasilka doesn’t fight back under any circumstances.)
+L'Abate attacca quindi.
+## Q3c. La Rabbia dell'Abate
+Quando l'Abate attacca, si toglie le vesti da monaco e si trasforma, rivelando la sua vera forma angelica. Leggi:
 
-In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be lured into one of the adjoining wings if a player succeeds on a DC 20 Charisma (Performance) check.
+<div class="description">
+<p>Una cascata brillante di luce divina brilla dalla forma dell'Abate, e ali torreggianti si spiegano dalle sue spalle, ogni piuma massiccia bianca come la neve e perfettamente formata. I suoi abiti mortali cadono, rivelando carne bianca e luminosa che sembra scolpita nel marmo stesso. Guanti dorati incisi con rune celestiali circondano i suoi avambracci, e un sarong dorato avvolge delicatamente la sua vita, il suo tessuto che frusta in un vento crescente e turbinante.</p>
+<p>I capelli dell'Abate crescono fino a raggiungere le spalle, scintillando come oro filato. Mentre le sue spalle e il suo torso si allargano, sembra raddrizzarsi, ascendendo fino a raggiungere quasi due metri e mezzo di altezza. L'aria sembra crepitare di potere, le stesse pareti sembrano piegarsi più vicine a lui mentre i suoi occhi brillano di ira celestiale.</p>
+</div>
 
-> [!combat]- **Balancing the Fallen Star** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **bloody** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 42% of their total maximum hit points and the second of which will consume approximately 51% of their total maximum hit points (for a total of 93% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the Abbot’s hit points in each phase to 181. Remove his Multiattack action in each phase, and reduce the damage of his Phase 1 bonus actions to 10 (3d6). Reduce the damage of his Erupt Earth bonus action in Phase 2 to 5 (2d4) and his Eclipse Beam bonus action to 7 (2d6) damage of each damage type. 
-> * **Four Players**. Reduce the Abbot’s hit points in each phase to 218. In his first phase, limit his Punish reaction to only 2/round. In his second phase, limit his Tail reaction to only 2/round. Additionally, decrease the damage of his Eclipse Beam bonus action to 2d6 damage of each damage type. 
-> * **Six Players**. Increase the Abbot’s hit points to 292 in each phase. Increase his first phase’s Multiattack to three attacks, but reduce each of its bonus actions to 10 (3d6) damage. In his second phase, increase his Multiattack to include two Claw attacks, but reduce Erupt Earth to 5 (2d4) damage.
+Se l'Abate ha iniziato il combattimento attaccando Vasilka, continua a farlo fino a quando non l'ha ridotta a 0 punti ferita o un giocatore gli infligge 20 punti di danno in un singolo turno, a quel punto rivolge la sua attenzione ai giocatori. (Vasilka non si difende in nessuna circostanza.)
 
-> [!abstract]+ **The Flesh Golem’s Loyalty**
-> If the players gave Vasilka’s flower garland to the **flesh golem** in [[Arc K - The Fallen Abbey]], it joins them in battle against the Abbot when the Abbot enters his second phase.
+In combattimento, l'Abate preferisce combattere nel cortile dell'Abbazia, ma potrebbe essere attirato in una delle ali adiacenti se un giocatore supera una prova di Carisma (Performance) a CD 20.
+
+> [!combat]- **Bilanciamento della Stella Caduta** 
+> A causa della meccanica delle fasi, questo incontro di combattimento è una serie di due incontri consecutivi **sanguinosi** contro un gruppo di cinque giocatori di 7° livello, un alleato di GS 2 (Ireena Kolyana) e un alleato di GS 4 (Ezmerelda d’Avenir), il primo dei quali consumerà circa il 42% dei loro punti ferita massimi totali e il secondo consumerà circa il 51% dei loro punti ferita massimi totali (per un totale del 93% dei loro punti ferita massimi). Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue: 
+> * **Tre Giocatori**. Riduci i punti ferita dell'Abate in ogni fase a 181. Rimuovi la sua azione Multiattacco in ogni fase e riduci i danni delle sue azioni bonus nella Fase 1 a 10 (3d6). Riduci i danni della sua azione bonus Eruzione della Terra nella Fase 2 a 5 (2d4) e i danni della sua azione bonus Raggio dell'Eclissi a 7 (2d6) danni di ogni tipo di danno. 
+> * **Quattro Giocatori**. Riduci i punti ferita dell'Abate in ogni fase a 218. Nella sua prima fase, limita la sua reazione Punizione a solo 2/round. Nella sua seconda fase, limita la sua reazione Coda a solo 2/round. Inoltre, diminuisci i danni della sua azione bonus Raggio dell'Eclissi a 2d6 danni di ogni tipo di danno. 
+> * **Sei Giocatori**. Aumenta i punti ferita dell'Abate a 292 in ogni fase. Aumenta il suo Multiattacco nella prima fase a tre attacchi, ma riduci ciascuna delle sue azioni bonus a 10 (3d6) danni. Nella sua seconda fase, aumenta il suo Multiattacco per includere due attacchi con gli Artigli, ma riduci Eruzione della Terra a 5 (2d4) danni.
+
+> [!abstract]+ **La Lealtà del Golem di Carne**
+> Se i giocatori hanno dato la ghirlanda di fiori di Vasilka al **golem di carne** in [[Arco K - L'Abbazia Caduta]], si unisce a loro nella battaglia contro l'Abate quando l'Abate entra nella sua seconda fase.
 
 <div class="statblock">
-<h2>Ithuriel, the Dawnbringer</h2>
-<em>Medium Celestial, Lawful Evil</em>
+<h2>Ithuriel, il Portatore dell'Alba</h2>
+<em>Celestiale Medio, Legale Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 17 (natural armor)
+<strong>Classe Armatura</strong> 17 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 255 (30d8 + 120)
+<strong>Punti Ferita</strong> 255 (30d8 + 120)
 <br>
-<strong>Speed</strong> 30 ft., fly 90 ft.
+<strong>Velocità</strong> 9 m, volare 27 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -247,61 +247,61 @@ In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be l
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Wis +10, Cha +10<br>
-<strong>Skills</strong> Insight +10, Perception +10<br>
-<strong>Damage Resistances</strong> necrotic, radiant<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened<br>
-<strong>Senses</strong> truesight 120 ft., passive Perception 20<br>
-<strong>Languages</strong> all, telepathy 120 ft.<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency Bonus</strong> +5<br>
+<strong>Tiri Salvezza</strong> Sag +10, Car +10<br>
+<strong>Abilità</strong> Intuizione +10, Percezione +10<br>
+<strong>Resistenze ai Danni</strong> necrotico, radiante<br>
+<strong>Immunità alle Condizioni</strong> affascinato, esausto, spaventato<br>
+<strong>Sensi</strong> vista vera 36 m, Percezione passiva 20<br>
+<strong>Lingue</strong> tutte, telepatia 36 m<br>
+<strong>Grado di Sfida</strong> 15<br>
+<strong>Bonus di Competenza</strong> +5<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Ithuriel would fail a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Innate Spellcasting.</em></strong> Ithuriel's spellcasting ability is Charisma (spell save DC 18). He can innately cast the following spells, requiring only verbal components:<br>
-At will: detect evil and good<br>
-1/day each: commune, raise dead</p>
-<p><strong><em>Magic Resistance.</em></strong> Ithuriel has advantage on saving throws against spells and other magical effects.</p>
-<p><strong><em>Magic Weapons.</em></strong> Ithuriel's weapon attacks are magical.</p>
-<p><strong><em>Fallen Grace.</em></strong> When Ithuriel is reduced to 0 hit points, his form expands and twists, becoming a massive creature with the head of a lion, the body of a ram, the wings of a bat, and the tail of a crocodile. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change, excess damage doesn't carry over to his new form, and he retains none of the conditions he had in his previous form. He then immediately uses his <strong><em>frightful presence</em></strong> reaction.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Ithuriel makes two attacks. He can replace one of those attacks with <strong><em>ray of light</em></strong>.</p>
-<p><strong><em>Mace.</em></strong> <em>Melee Weapon Attack:</em> +9 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 4 (1d8) radiant damage.</p>
-<p><strong><em>Ray of Light.</em></strong> <em>Ranged Spell Attack:</em> +10 to hit, range 30 feet, one target. <em>Hit:</em> The target takes 9 (2d8) radiant damage and is outlined in radiant light until the end of Ithuriel's next turn. Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible. Being within 5 feet of a hostile creature doesn't cause Ithuriel to make this attack with disadvantage.</p>
-<p><strong><em>Healing Touch (3/Day).</em></strong> Ithuriel touches another creature. The target magically regains 24 (4d8 + 5) hit points and is freed from any curse, disease, poison, blindness, or deafness.</p>
-<p><strong><em>Change Shape.</em></strong> Ithuriel magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than his own, or back into its true form. He reverts to his true form if he is reduced to 0 hit points. Any equipment he is wearing or carrying is absorbed or borne by the new form (Ithuriel's choice). In a new form, Ithuriel retains his game statistics and ability to speak, but his AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and he gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that he lacks.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Divine Wind.</em></strong> Ithuriel unleashes a powerful gale from his angelic wings in a 10-foot cone. Each creature in that area must make a DC 17 Constitution saving throw or take 14 (4d6) slashing damage and be pushed 10 feet away.</p>
-<p><strong><em>Sacred Radiance (1/day).</em></strong> Ithuriel's form bursts with divine light. Each creature that can see him within 20 feet must succeed on a DC 18 Constitution saving throw or take 14 (4d6) radiant damage. A creature that fails the saving throw by 5 or more is also blinded until the start of Ithuriel's next turn. A creature that fails the saving throw by 10 or more is also charmed by Ithuriel until the start of his next turn. While charmed in this way, the creature must fall prone to grovel before Ithuriel at the start of its turn, then immediately end its turn.</p>
-<h3>Reactions</h3>
-<p>Ithuriel can take up to three reactions per round, but only one per turn. If Ithuriel would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Punish.</em></strong> In response to an enemy missing him with a melee attack, Ithuriel makes the following attack against it: <strong><em>Palm.</em></strong> <em>Melee Weapon Attack</em>: +9 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage, and Ithuriel can force the target to make a DC 17 Strength saving throw. On a failure, the target is pushed up to 10 feet away or grappled (escape DC 17). If he grapples the target, Ithuriel can immediately use his <strong><em>descend</em></strong>.</p>
-<p><strong><em>Descend.</em></strong> In response to grappling an enemy, Ithuriel can immediately fly up to his speed while dragging that enemy with him. If he moves within 5 feet of the ground while moving, the grappled enemy must succeed on a DC 17 Strength saving throw or take 3 (1d6) bludgeoning damage per 10 feet descended. For each additional 5 feet Ithuriel moves along the ground, the grappled enemy takes an additional 2 (1d4) bludgeoning damage as Ithuriel grinds it along the earth. (This movement doesn't provoke opportunity attacks.) When Ithuriel's movement ends, the grappled enemy is forced prone.
-<p><strong><em>Ascend.</em></strong> In response to taking damage, Ithuriel releases any creatures he has grappled, then flies up to one third of his speed without provoking opportunity attacks.</p>
-<p><strong><em>Shift (Costs 2 Reactions).</em></strong> In response to suffering one of the following conditions, Ithuriel momentarily assumes the form of the corresponding beast, ending the condition: blinded (giant bat), grappled (octopus), paralyzed (giant poisonous snake), prone (giant spider), restrained (mouse), or stunned (jellyfish). Ithuriel then immediately returns to his true form.</p>
+<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Ithuriel fallisce un tiro salvezza, può scegliere di avere successo invece.</p>
+<p><strong><em>Incantesimi Innati.</em></strong> La capacità di incantesimi innati di Ithuriel è Carisma (CD tiro salvezza incantesimi 18). Può lanciare innatamente i seguenti incantesimi, richiedendo solo componenti verbali:<br>
+A volontà: individuazione del bene e del male<br>
+1/giorno ciascuno: comunione, resurrezione</p>
+<p><strong><em>Resistenza Magica.</em></strong> Ithuriel ha vantaggio sui tiri salvezza contro incantesimi e altri effetti magici.</p>
+<p><strong><em>Armi Magiche.</em></strong> Gli attacchi con armi di Ithuriel sono magici.</p>
+<p><strong><em>Grazia Caduta.</em></strong> Quando Ithuriel viene ridotto a 0 punti ferita, la sua forma si espande e si contorce, diventando una creatura massiccia con la testa di un leone, il corpo di un ariete, le ali di un pipistrello e la coda di un coccodrillo. Le sue statistiche vengono quindi immediatamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio di iniziativa non cambia, i danni in eccesso non si trasferiscono alla sua nuova forma e non conserva nessuna delle condizioni che aveva nella sua forma precedente. Usa quindi immediatamente la sua reazione <strong><em>presenza spaventosa</em></strong>.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Ithuriel effettua due attacchi. Può sostituire uno di quegli attacchi con <strong><em>raggio di luce</em></strong>.</p>
+<p><strong><em>Mazza.</em></strong> <em>Attacco con Arma da Mischia:</em> +9 per colpire, portata 1,5 m, un bersaglio. Colpito: 7 (1d6 + 4) danni contundenti più 4 (1d8) danni radianti.</p>
+<p><strong><em>Raggio di Luce.</em></strong> <em>Attacco con Incantesimo a Distanza:</em> +10 per colpire, portata 9 m, un bersaglio. <em>Colpito:</em> Il bersaglio subisce 9 (2d8) danni radianti ed è delineato in luce radiante fino alla fine del prossimo turno di Ithuriel. Qualsiasi tiro per colpire contro una creatura o un oggetto colpito ha vantaggio se l'attaccante può vederlo, e la creatura o l'oggetto colpito non può beneficiare dell'essere invisibile. Essere entro 1,5 m da una creatura ostile non causa a Ithuriel di effettuare questo attacco con svantaggio.</p>
+<p><strong><em>Tocco Curativo (3/giorno).</em></strong> Ithuriel tocca un'altra creatura. Il bersaglio recupera magicamente 24 (4d8 + 5) punti ferita ed è liberato da qualsiasi maledizione, malattia, veleno, cecità o sordità.</p>
+<p><strong><em>Cambio Forma.</em></strong> Ithuriel si trasforma magicamente in un umanoide o una bestia con un grado di sfida uguale o inferiore al suo, o torna alla sua forma originale. Ritorna alla sua forma originale se viene ridotto a 0 punti ferita. Qualsiasi equipaggiamento che indossa o trasporta viene assorbito o portato dalla nuova forma (a scelta di Ithuriel). In una nuova forma, Ithuriel conserva le sue statistiche di gioco e la capacità di parlare, ma la sua CA, le modalità di movimento, Forza, Destrezza e sensi speciali vengono sostituiti da quelli della nuova forma, e ottiene qualsiasi statistica e capacità (eccetto caratteristiche di classe, azioni leggendarie e azioni di tana) che la nuova forma ha ma che gli mancano.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Vento Divino.</em></strong> Ithuriel scatena un potente vento dalle sue ali angeliche in un cono di 3 m. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione a CD 17 o subire 14 (4d6) danni da taglio ed essere spinta di 3 m.</p>
+<p><strong><em>Radianza Sacra (1/giorno).</em></strong> La forma di Ithuriel esplode con luce divina. Ogni creatura che può vederlo entro 6 m deve superare un tiro salvezza su Costituzione a CD 18 o subire 14 (4d6) danni radianti. Una creatura che fallisce il tiro salvezza di 5 o più è anche accecata fino all'inizio del prossimo turno di Ithuriel. Una creatura che fallisce il tiro salvezza di 10 o più è anche affascinata da Ithuriel fino all'inizio del suo prossimo turno. Mentre è affascinata in questo modo, la creatura deve cadere prona per prostrarsi davanti a Ithuriel all'inizio del suo turno, quindi terminare immediatamente il suo turno.</p>
+<h3>Reazioni</h3>
+<p>Ithuriel può effettuare fino a tre reazioni per round, ma solo una per turno. Se Ithuriel perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p><strong><em>Punizione.</em></strong> In risposta a un nemico che lo manca con un attacco in mischia, Ithuriel effettua il seguente attacco contro di esso: <strong><em>Palmo.</em></strong> <em>Attacco con Arma da Mischia</em>: +9 per colpire, portata 1,5 m, un bersaglio. Colpito: 7 (1d6 + 4) danni contundenti, e Ithuriel può costringere il bersaglio a effettuare un tiro salvezza su Forza a CD 17. In caso di fallimento, il bersaglio viene spinto fino a 3 m di distanza o afferrato (CD fuga 17). Se afferra il bersaglio, Ithuriel può immediatamente usare il suo <strong><em>discendere</em></strong>.</p>
+<p><strong><em>Discendere.</em></strong> In risposta ad afferrare un nemico, Ithuriel può immediatamente volare fino alla sua velocità trascinando quel nemico con sé. Se si muove entro 1,5 m dal suolo mentre si muove, il nemico afferrato deve superare un tiro salvezza su Forza a CD 17 o subire 3 (1d6) danni contundenti per ogni 3 m discendenti. Per ogni ulteriore 1,5 m che Ithuriel si muove lungo il suolo, il nemico afferrato subisce ulteriori 2 (1d4) danni contundenti mentre Ithuriel lo trascina lungo la terra. (Questo movimento non provoca attacchi di opportunità.) Quando il movimento di Ithuriel termina, il nemico afferrato è costretto prono.
+<p><strong><em>Ascendere.</em></strong> In risposta a subire danni, Ithuriel rilascia qualsiasi creatura che ha afferrato, quindi vola fino a un terzo della sua velocità senza provocare attacchi di opportunità.</p>
+<p><strong><em>Shift (Costa 2 Reazioni).</em></strong> In risposta a subire una delle seguenti condizioni, Ithuriel assume momentaneamente la forma della bestia corrispondente, terminando la condizione: accecato (pipistrello gigante), afferrato (polpo), paralizzato (serpente velenoso gigante), prono (ragno gigante), trattenuto (topo) o stordito (medusa). Ithuriel quindi ritorna immediatamente alla sua forma originale.</p>
 </div>
 
-> [!warning]+ **Grappling Enemies**
-> Remember that Ithuriel's speed is halved when grappling a creature, including when using his ***descend*** reaction unless the creature is two or more sizes smaller than Ithuriel.
+> [!warning]+ **Afferrare Nemici**
+> Ricorda che la velocità di Ithuriel è dimezzata quando afferra una creatura, incluso quando usa la sua reazione ***discendere*** a meno che la creatura non sia due o più taglie più piccola di Ithuriel.
 
 <div class="statblock">
-<h2>Ithuriel, the Fallen Star</h2>
-<em>Huge Celestial, Lawful Evil</em>
+<h2>Ithuriel, la Stella Caduta</h2>
+<em>Celestiale Enorme, Legale Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 19 (natural armor)
+<strong>Classe Armatura</strong> 19 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 255 (30d8 + 120)
+<strong>Punti Ferita</strong> 255 (30d8 + 120)
 <br>
-<strong>Speed</strong> 30 ft., fly 60 ft.
+<strong>Velocità</strong> 9 m, volare 18 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -316,392 +316,375 @@ At will: detect evil and good<br>
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Wis +10, Cha +10<br>
-<strong>Skills</strong> Insight +10, Perception +10<br>
-<strong>Damage Resistances</strong> necrotic, radiant<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened<br>
-<strong>Senses</strong> truesight 120 ft., passive Perception 20<br>
-<strong>Languages</strong> all, telepathy 120 ft.<br>
-<strong>Challenge</strong> 16<br>
-<strong>Proficiency Bonus</strong> +5<br>
+<strong>Tiri Salvezza</strong> Sag +10, Car +10<br>
+<strong>Abilità</strong> Intuizione +10, Percezione +10<br>
+<strong>Resistenze ai Danni</strong> necrotico, radiante<br>
+<strong>Immunità alle Condizioni</strong> affascinato, esausto, spaventato<br>
+<strong>Sensi</strong> vista vera 36 m, Percezione passiva 20<br>
+<strong>Lingue</strong> tutte, telepatia 36 m<br>
+<strong>Grado di Sfida</strong> 16<br>
+<strong>Bonus di Competenza</strong> +5<br>
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Ithuriel would fail a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Magic Resistance.</em></strong> Ithuriel has advantage on saving throws against spells and other magical effects.</p>
-<p><strong><em>Magic Weapons.</em></strong> Ithuriel's weapon attacks are magical.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Ithuriel makes one attack with his claws and one with his bite or radiant darts</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack</em>: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 4 (1d8) radiant damage. If the target is a creature, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, and Ithuriel can't bite another target.</p>
-<p><strong><em>Claw.</em></strong> <em>Melee Weapon Attack</em>: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.</p>
-<p><strong><em>Radiant Darts.</em></strong> <em>Ranged Weapon Attack</em>: +10 to hit, reach 5 ft., three separate targets. Hit: 7 (2d4 + 2) radiant damage. Being within 5 feet of a hostile creature doesn't cause Ithuriel to make this attack with disadvantage.</p>
+<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Ithuriel fallisce un tiro salvezza, può scegliere di avere successo invece.</p>
+<p><strong><em>Resistenza Magica.</em></strong> Ithuriel ha vantaggio sui tiri salvezza contro incantesimi e altri effetti magici.</p>
+<p><strong><em>Armi Magiche.</em></strong> Gli attacchi con armi di Ithuriel sono magici.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Ithuriel effettua un attacco con i suoi artigli e uno con il suo morso o dardi radianti</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia</em>: +11 per colpire, portata 3 m, un bersaglio. Colpito: 17 (2d10 + 6) danni perforanti più 4 (1d8) danni radianti. Se il bersaglio è una creatura, è afferrato (CD fuga 19). Fino a quando questa presa non termina, il bersaglio è trattenuto e Ithuriel non può mordere un altro bersaglio.</p>
+<p><strong><em>Artiglio.</em></strong> <em>Attacco con Arma da Mischia</em>: +11 per colpire, portata 1,5 m, un bersaglio. Colpito: 13 (2d6 + 6) danni da taglio.</p>
+<p><strong><em>Dardi Radianti.</em></strong> <em>Attacco con Arma a Distanza</em>: +10 per colpire, portata 1,5 m, tre bersagli separati. Colpito: 7 (2d4 + 2) danni radianti. Essere entro 1,5 m da una creatura ostile non causa a Ithuriel di effettuare questo attacco con svantaggio.</p>
 <p></p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Erupt Earth.</em></strong> Ithuriel slams his tail against the ground, causing fountains of churned earth and stone to erupt in a 5-foot radius around him. Each creature in that area must succeed on a DC 19 Strength saving throw or take 7 (2d6) bludgeoning damage and fall prone.</p>
-<p><strong><em>Eclipse Beam (1/day).</em></strong> Ithuriel exhales a burst of brilliant radiance and shadowy mirk in a 30-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 9 (2d8) radiant damage plus 9 (2d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Reactions</h3>
-<p>Ithuriel can take up to three reactions per round, but only one per turn. If Ithuriel would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Tail.</em></strong> In response to being missed or hit by a melee attack, Ithuriel makes the following attack against the attacker: <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target. Hit: 11 (2d4 + 6) bludgeoning damage and the target must make a DC 19 Strength saving throw. On a failure, Ithuriel can either knock it prone or push it up to 5 feet away (Ithuriel's choice). </p>
-<p><strong><em>Wings (1/round).</em></strong> In response to a creature he can see completing a spell, making an attack, or moving to a space within 60 feet of him, Ithuriel beats his wings, forcing each creature within 5 feet of him to succeed on a DC 19 Strength saving throw or be pushed 5 feet away and knocked prone. Ithuriel can then fly up to his speed toward the original creature without triggering opportunity attacks.</p>
-<p><strong><em>Frightful Presence (1/day).</em></strong> In response to assuming his second form, Ithuriel forces each creature of his choice within 120 feet that is aware of him to make a DC 18 Wisdom saving throw. On a failure, a creature is frightened of Ithuriel until the end of its next turn.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Eruzione della Terra.</em></strong> Ithuriel sbatte la coda contro il suolo, causando fontane di terra e pietra smosse che eruttano in un raggio di 1,5 m intorno a lui. Ogni creatura in quell'area deve superare un tiro salvezza su Forza a CD 19 o subire 7 (2d6) danni contundenti e cadere prona.</p>
+<p><strong><em>Raggio dell'Eclissi (1/giorno).</em></strong> Ithuriel espira un'esplosione di radianza brillante e oscurità ombrosa in un cono di 9 m. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione a CD 18, subendo 9 (2d8) danni radianti più 9 (2d8) danni necrotici in caso di fallimento, o metà danni in caso di successo.</p>
+<h3>Reazioni</h3>
+<p>Ithuriel può effettuare fino a tre reazioni per round, ma solo una per turno. Se Ithuriel perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p><strong><em>Coda.</em></strong> In risposta a essere mancato o colpito da un attacco in mischia, Ithuriel effettua il seguente attacco contro l'attaccante: <em>Attacco con Arma da Mischia:</em> +11 per colpire, portata 4,5 m, un bersaglio. Colpito: 11 (2d4 + 6) danni contundenti e il bersaglio deve effettuare un tiro salvezza su Forza a CD 19. In caso di fallimento, Ithuriel può scegliere di farlo cadere prono o spingerlo fino a 1,5 m di distanza. </p>
+<p><strong><em>Ali (1/round).</em></strong> In risposta a una creatura che può vedere che completa un incantesimo, effettua un attacco o si muove in uno spazio entro 18 m da lui, Ithuriel sbatte le ali, costringendo ogni creatura entro 1,5 m da lui a superare un tiro salvezza su Forza a CD 19 o essere spinta di 1,5 m di distanza e cadere prona. Ithuriel può quindi volare fino alla sua velocità verso la creatura originale senza provocare attacchi di opportunità.</p>
+<p><strong><em>Presenza Spaventosa (1/giorno).</em></strong> In risposta ad assumere la sua seconda forma, Ithuriel costringe ogni creatura a sua scelta entro 36 m che è consapevole di lui a effettuare un tiro salvezza su Saggezza a CD 18. In caso di fallimento, una creatura è spaventata da Ithuriel fino alla fine del suo prossimo turno.</p>
 </div>
 
 ![[Ithuriel.png]]
 
-<span class="credit">"Ithuriel" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Ithuriel" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!info]+ **Defeating the Abbot**
-> ***Milestone.*** Defeating the Abbot completes a story milestone. When the players free the Abbey and Krezk from the Abbot’s control, award each player 2,000 XP, or 2,500 XP if they also redeemed the Abbot (see below).
-### The Abbot's Redemption
-When the players reduce the Abbot’s second phase to 0 hit points, read:
-
-<div class="description">
-<p>The beast roars, its terrible form twisting and writhing. Then, with a final, shrieking cry, it falls to the ground, unmoving.</p>
-</div>
-
-Shortly after the Abbot is defeated, if the *Icon of Dawn’s Grace* is present, his soul reacts to its presence of the *Icon of Dawn’s Grace*.
+> [!info]+ **Sconfiggere l'Abate**
+> ***Traguardo.*** Sconfiggere l'Abate completa un traguardo della storia. Quando i giocatori liberano l'Abbazia e Krezk dal controllo dell'Abate, assegna a ciascun giocatore 2.000 PE, o 2.500 PE se hanno anche redento l'Abate (vedi sotto).
+### La Redenzione dell'Abate
+Quando i giocatori riducono la seconda fase dell'Abate a 0 punti ferita, leggi:
 
 <div class="description">
-<p>Small motes of golden light begin to glimmer across the beast’s still form. Slowly, they come together to form an orb of golden flame that hovers above the Abbot’s chest.</p>
+<p>La bestia ruggisce, la sua forma terribile che si contorce e si agita. Poi, con un ultimo, straziante grido, cade a terra, immobile.</p>
 </div>
 
-The *Icon of Dawn’s Grace* begins to shine with golden light, and the shard of divinity within asks the players to touch the *Icon* to the orb. “He has suffered greatly, and lost himself in the mists and shadows," the shard says mournfully. “But perhaps he is not so far gone as to be lost forever."
-
-If the players touch the *Icon* to the orb, their spirits are transported to a demiplane within the Abbot’s soul. Read:
+Poco dopo che l'Abate è stato sconfitto, se l'*Icona della Grazia dell'Alba* è presente, la sua anima reagisce alla sua presenza.
 
 <div class="description">
-<p>You blink—and when your eyes open again, you find that the Abbey around you has vanished. In its place, a dark, endless void unfolds in all directions, its floor covered by a softly rolling covering of mist, and its silence disturbed only by the sound of distant sobs. Beside you, an orb of golden flame hovers quietly.</p>
+<p>Piccoli bagliori di luce dorata iniziano a brillare sulla forma immobile della bestia. Lentamente, si uniscono per formare un globo di fiamma dorata che fluttua sopra il petto dell'Abate.</p>
 </div>
 
-The orb holds the shard of divinity that dwells within the *Icon*. It follows the players as they move and can communicate with them through telepathy. As it does, it informs them that, if they can find the Abbot and persuade him to reunite with it, it can restore him to his former glory and cleanse the corruption from his soul.
+L'*Icona della Grazia dell'Alba* inizia a brillare di luce dorata, e il frammento di divinità al suo interno chiede ai giocatori di toccare l'*Icona* al globo. “Ha sofferto molto e si è perso nelle nebbie e nelle ombre," dice il frammento con tristezza. “Ma forse non è così lontano da essere perso per sempre."
 
-The players can track the sound of sobbing to the Abbot. Read:
+Se i giocatori toccano l'*Icona* al globo, i loro spiriti vengono trasportati in un semipiano all'interno dell'anima dell'Abate. Leggi:
 
 <div class="description">
-<p>The sound echoes from a gaunt, pale figure seated on the ground a short distance away—a young man. His monk’s robes are tattered and threadbare, his cheeks blotchy and red beneath the thin blindfold of mist that encircles his eyes.</p>
-<p>A pair of once-majestic wings hang limply at his sides, their feathers frayed, dulled, and discolored. Twin shackles forged of mist bind his wings to the ground, and a dark cloud of shadows clings to him like a burial shroud.</p>
+<p>Sbatti le palpebre—e quando i tuoi occhi si aprono di nuovo, scopri che l'Abbazia intorno a te è scomparsa. Al suo posto, un vuoto oscuro e infinito si estende in tutte le direzioni, il suo pavimento coperto da una copertura di nebbia che si muove dolcemente, e il suo silenzio disturbato solo dal suono di singhiozzi distanti. Accanto a te, un globo di fiamma dorata fluttua silenziosamente.</p>
 </div>
 
-The players recognize the man as the Abbot’s ordinary mortal guise. As they approach him, they can hear him muttering to himself, over and over: “I have failed you." As he does, he clutches his knees to his chest and rocks back and forth, tears falling from behind the misty blindfold across his eyes.
+Il globo contiene il frammento di divinità che dimora nell'*Icona*. Segue i giocatori mentre si muovono e può comunicare con loro attraverso la telepatia. Mentre lo fa, informa che, se possono trovare l'Abate e persuaderlo a riunirsi con esso, può ripristinarlo alla sua gloria originale e purificare la corruzione dalla sua anima.
 
-The Abbot believes that he has failed the Morninglord and fallen from grace, and that he is therefore damned. If the players greet him, he whirls in fear, demanding that they “reveal themselves," for “they walk in darkness, and he cannot see them."
-
-If the players tell the Abbot that he is blindfolded, he is briefly stunned, then shakes his head. “I see," he murmurs. “I am damned, then. Begone, then, and trouble yourselves with my wretchedness no more." 
-
-If the players ask the Abbot to reunite with the shard of divinity, he hesitates, then asks to feel its warmth. If the players direct the orb to move toward the Abbot, he cups his hands around it, then begins to weep with joy, murmuring that it is “beautiful." 
-
-As he does, if any player has a passive Wisdom (Perception) score of 13 or greater, add:
+I giocatori possono seguire il suono dei singhiozzi fino all'Abate. Leggi:
 
 <div class="description">
-<p>The shroud of shadow curls ever-closer around him, and you realize that it is not a single shadow, but an assembly of countless overlapping, amorphous, indistinct silhouettes. They whisper into his ears, their cold, hollow voices echoing into the void.</p>
+<p>Il suono echeggia da una figura magra e pallida seduta a terra a breve distanza—a un giovane uomo. I suoi abiti da monaco sono strappati e logori, le sue guance chiazzate e rosse sotto la sottile benda di nebbia che circonda i suoi occhi.</p>
+<p>Un paio di ali un tempo maestose pendono flosce ai suoi lati, le loro piume sfilacciate, opache e scolorite. Due manette forgiate di nebbia legano le sue ali al suolo, e una nube oscura di ombre lo avvolge come un sudario funebre.</p>
 </div>
 
-The Abbot pauses, then recoils, scurrying back and away from the orb with a fearful cry. As he does, any player with a passive Wisdom (Perception) score of 14 or greater sees a nearby cloud of mist briefly curl into the shape of a face—a woman’s—before the face is torn apart by swirling shadows. A player who saw the face and succeeds on a DC 15 Wisdom (Insight) check discerns that it bore an expression of grief and concern—and appeared to be calling out.
+I giocatori riconoscono l'uomo come l'ordinaria forma mortale dell'Abate. Mentre si avvicinano a lui, possono sentirlo mormorare a se stesso, più e più volte: “Ti ho deluso." Mentre lo fa, si stringe le ginocchia al petto e si dondola avanti e indietro, con lacrime che cadono dietro la benda nebbiosa sui suoi occhi.
 
-A player who asks the Abbot or succeeds in a DC 13 Wisdom (Insight) check learns that the Abbot neither perceives the whispers nor realizes that they’re there. A player who approaches the Abbot or who succeeds on a DC 15 Wisdom (Perception) check can make out a few words and phrases from the cacophony of whispers:
+L'Abate crede di aver deluso il Signore del Mattino e di essere quindi dannato. Se i giocatori lo salutano, si gira con paura, chiedendo loro di “rivelarsi," perché “camminano nell'oscurità, e lui non può vederli."
 
-* “The light has abandoned you, as you abandoned it."
-* “Their lies are comforting, but lies nonetheless."
-* “You have earned your damnation. You know that you have."
+Se i giocatori dicono all'Abate che è bendato, rimane brevemente stordito, poi scuote la testa. “Capisco," mormora. “Sono dannato, allora. Andatevene, allora, e non preoccupatevi più della mia miseria." 
 
-If confronted, the Abbot replies, his voice quavering: “It is too late. I have betrayed my purpose and discarded my grace. I cannot find my way back into the light—and the Morninglord would not have me if I could."
+Se i giocatori chiedono all'Abate di riunirsi con il frammento di divinità, esita, poi chiede di sentirne il calore. Se i giocatori dirigono il globo a muoversi verso l'Abate, lo avvolge con le mani, poi inizia a piangere di gioia, mormorando che è “bello." 
 
-> [!lore]+ **Dark Whispers**
-> The whispering shadows are a manifestation of the [[Lore of Barovia#Dark Powers|Dark Powers]], which lured the Abbot’s spirit into evil long ago to prevent him from challenging Strahd or healing the land of its corruption.
-
-As the Abbot finishes his protest, any player with a passive Wisdom (Perception) score of 10 or greater sees a nearby cloud of mist—a short distance from the first—briefly rises to form the shape of a robed female silhouette before it is torn apart by swirling shadows. A player with a passive Wisdom (Perception) score of 13 or greater discerns that it appeared to be reaching a hand toward the players, and that it appeared to be calling out. A player who saw the face and succeeds on a DC 13 Wisdom (Insight) check discerns that it bore an expression of grief and concern.
-
-As the silhouette vanishes, a single Tarokka card floats down from the void and lands before one of the players. If a player inspects the card, read:
+Mentre lo fa, se un giocatore ha un punteggio di Saggezza (Percezione) passivo di 13 o superiore, aggiungi:
 
 <div class="description">
-<p>The Tarokka card is the Four of Glyphs: the Shepherd. It depicts a middle-aged woman in a plain, white robe standing amidst a flock of sheep on a hilltop before a rising sun.</p>
+<p>Il sudario di ombra si avvolge sempre più vicino a lui, e ti rendi conto che non è un'unica ombra, ma un'assemblea di innumerevoli sagome amorfe e indistinte sovrapposte. Sussurrano nelle sue orecchie, le loro voci fredde e vuote che echeggiano nel vuoto.</p>
 </div>
 
-If Ezmerelda is shown the card, she shares that it is “odd" for the Shepherd to be depicted with a rising sun in the background. “That kind of iconography would be more appropriate for the Priest card," she muses. “And the Shepherd is usually young—in the suit of Glyphs, only the Missionary or the Bishop are traditionally portrayed as old."
+L'Abate si ferma, poi si ritrae, scappando indietro e lontano dal globo con un grido spaventato. Mentre lo fa, qualsiasi giocatore con un punteggio di Saggezza (Percezione) passivo di 14 o superiore vede una vicina nube di nebbia arricciarsi brevemente nella forma di un volto—di una donna—prima che il volto venga strappato dalle ombre turbinanti. Un giocatore che ha visto il volto e supera una prova di Saggezza (Intuizione) a CD 15 discerne che portava un'espressione di dolore e preoccupazione—e sembrava chiamare.
 
-> [!lore]+ **The Shepherd**
-> The Tarokka card is a message sent by the spirit of Saint Markovia. While she cannot enter the Abbot’s soul herself, she hopes that the players will conjure her so that she may speak with the Abbot on their behalf.
+Un giocatore che chiede all'Abate o che supera una prova di Saggezza (Intuizione) a CD 13 apprende che l'Abate non percepisce i sussurri né si rende conto che sono lì. Un giocatore che si avvicina all'Abate o che supera una prova di Saggezza (Percezione) a CD 15 può distinguere alcune parole e frasi dal caos dei sussurri:
 
-The players can again attempt to persuade the Abbot to reunite with the shard of divinity by making any reasonable argument and succeeding on a DC 15 Charisma (Persuasion) check, made with advantage if their arguments directly rebut the Dark Powers’ whispers or if they mention St. Markovia’s seance.
+* “La luce ti ha abbandonato, come tu l'hai abbandonata."
+* “Le loro bugie sono confortanti, ma bugie comunque."
+* “Hai guadagnato la tua dannazione. Sai di averlo fatto."
 
-> [!abstract]+ **Redemption Failed**
-> If the players attempt to persuade the Abbot here without first summoning St. Markovia and fail, the darkness grows deeper and more oppressive, while the Abbot curls further into himself, his wings seeming to wither and crack. “Do you not see?" he whispers, his voice barely audible. “Even you cannot deny my damnation. It is ended."
+Se affrontato, l'Abate risponde, la sua voce tremante: “È troppo tardi. Ho tradito il mio scopo e scartato la mia grazia. Non posso trovare la mia strada per tornare nella luce—e il Signore del Mattino non mi accetterebbe se potessi."
+
+> [!lore]+ **Sussurri Oscuri**
+> Le ombre sussurranti sono una manifestazione dei [[Lore di Barovia#Poteri Oscuri|Poteri Oscuri]], che hanno attirato lo spirito dell'Abate nel male molto tempo fa per impedirgli di sfidare Strahd o di guarire la terra dalla sua corruzione.
+
+Mentre l'Abate termina la sua protesta, qualsiasi giocatore con un punteggio di Saggezza (Percezione) passivo di 10 o superiore vede una vicina nube di nebbia—una breve distanza dalla prima—che si alza brevemente per formare la forma di una silhouette femminile in abiti prima di essere strappata dalle ombre turbinanti. Un giocatore con un punteggio di Saggezza (Percezione) passivo di 13 o superiore discerne che sembrava tendere una mano verso i giocatori e che sembrava chiamare. Un giocatore che ha visto il volto e supera una prova di Saggezza (Intuizione) a CD 13 discerne che portava un'espressione di dolore e preoccupazione.
+
+Mentre la silhouette svanisce, una singola carta Tarokka fluttua giù dal vuoto e atterra davanti a uno dei giocatori. Se un giocatore ispeziona la carta, leggi:
+
+<div class="description">
+<p>La carta Tarokka è il Quattro di Glifi: il Pastore. Raffigura una donna di mezza età in una semplice tunica bianca in piedi in mezzo a un gregge di pecore su una collina davanti a un sole nascente.</p>
+</div>
+
+Se Ezmerelda vede la carta, condivide che è “strano" che il Pastore sia raffigurato con un sole nascente sullo sfondo. “Quel tipo di iconografia sarebbe più appropriato per la carta del Sacerdote," riflette. “E il Pastore è di solito giovane—nel seme dei Glifi, solo il Missionario o il Vescovo sono tradizionalmente rappresentati come anziani."
+
+> [!lore]+ **Il Pastore**
+> La carta Tarokka è un messaggio inviato dallo spirito di Santa Markovia. Sebbene non possa entrare nell'anima dell'Abate, spera che i giocatori la evochino in modo che possa parlare con l'Abate a loro nome.
+
+I giocatori possono tentare nuovamente di persuadere l'Abate a riunirsi con il frammento di divinità facendo qualsiasi argomento ragionevole e superando una prova di Carisma (Persuasione) a CD 15, effettuata con vantaggio se i loro argomenti confutano direttamente i sussurri dei Poteri Oscuri o se menzionano la seduta spiritica di Santa Markovia.
+
+> [!abstract]+ **Redenzione Fallita**
+> Se i giocatori tentano di persuadere l'Abate qui senza prima evocare Santa Markovia e falliscono, l'oscurità diventa più profonda e opprimente, mentre l'Abate si rannicchia ulteriormente in se stesso, le sue ali sembrano appassire e incrinarsi. “Non vedete?" sussurra, la sua voce appena udibile. “Anche voi non potete negare la mia dannazione. È finita."
 >
-> As the whispering shadows grow stronger, the golden orb begins to flicker and dim, and the mist begins to encircle the Abbot’s body, consuming him entirely in two rounds. While the mist is rising, the DC for any further Charisma (Persuasion) checks made to convince the Abbot increases to 25. 
+> Mentre le ombre sussurranti si rafforzano, il globo dorato inizia a tremolare e a oscurarsi, e la nebbia inizia a circondare il corpo dell'Abate, consumandolo completamente in due round. Mentre la nebbia si alza, la CD per qualsiasi ulteriore prova di Carisma (Persuasione) effettuata per convincere l'Abate aumenta a 25. 
 >
->The players can cause the mist to recede by convincing the Abbot to reunite with the shard or by using the Shepherd card to call forth the spirit of St. Markovia (see below). If they fail to do so before the Abbot’s body is consumed, they vanish from the void and reappear in the Abbey of St. Markovia, where the Abbot’s corpse swiftly dissipates into mist.
+>I giocatori possono far recedere la nebbia convincendo l'Abate a riunirsi con il frammento o usando la carta del Pastore per evocare lo spirito di Santa Markovia (vedi sotto). Se non riescono a farlo prima che il corpo dell'Abate venga consumato, svaniscono dal vuoto e riappaiono nell'Abbazia di Santa Markovia, dove il corpo dell'Abate si dissolve rapidamente in nebbia.
 
-Alternatively, the players can also use the card to call forth the spirit of St. Markovia. (No particular ceremony or incantation is required—merely a summons and an invocation of St. Markovia’s name while holding the card.) If they do, read:
-
-<div class="description">
-<p>The darkness roils in fury, the void twisting at the sudden intrusion—and then stills, falling silent once more.</p>
-<p>A woman appears behind you. She wears a simple white robe tied with a plain, rope cord. Though her face has begun to wrinkle and her brown hair has begun to grey, her eyes are kind and strong.</p>
-<p>"You called for me?" she says.</p>
-</div>
-
-Markovia greets the players warmly, thanking them for their summons. She can share the following information if asked:
-
-* The angel the players call “Abbot" was once among the greatest servants of the Morninglord. It was he who chose her as the Morninglord’s prophet.
-* It breaks her heart to see the Abbot reduced to such a state, but she is grateful for the players’ efforts to rescue him. “He has sinned," she murmurs, “but only because he was lost in the mists. The dark powers that rule this land have clouded his mind and led him astray from his true path. It is thanks to you that he has an opportunity to be otherwise again." (Markovia doesn’t know anything more about the “dark powers" that rule Barovia, except that they aren’t Strahd, and either control the Mists or are the Mists themselves.)
-
-If the players permit her to, Markovia approaches the Abbot. Read:
+In alternativa, i giocatori possono anche usare la carta per evocare lo spirito di Santa Markovia. (Non è richiesto alcun particolare cerimoniale o incantesimo—basta un'invocazione e un'invocazione del nome di Santa Markovia mentre si tiene la carta.) Se lo fanno, leggi:
 
 <div class="description">
-<p>"Ithuriel," she says, and the name is like a bell that sings amidst the darkness, the shadows cowering with each step she takes toward him. “I am here."</p>
+<p>L'oscurità si agita con furia, il vuoto si contorce all'improvvisa intrusione—e poi si calma, tornando silenzioso una volta di più.</p>
+<p>Una donna appare dietro di voi. Indossa una semplice tunica bianca legata con una corda semplice. Sebbene il suo volto abbia iniziato a rugarsi e i suoi capelli castani abbiano iniziato a ingrigire, i suoi occhi sono gentili e forti.</p>
+<p>"Mi avete chiamata?" dice.</p>
 </div>
 
-Unless the players interrupt, the following exchange then occurs:
+Markovia saluta calorosamente i giocatori, ringraziandoli per la loro invocazione. Può condividere le seguenti informazioni se richiesto:
 
-* The Abbot whirls at the sound of Markovia’s voice. “Markovia?" he says weakly, his voice cracking. “Please—do not look upon me. I am sullied and broken."
-* Markovia then approaches him and kneels on one knee beside him. “Was I not the same when you first found me?" she replies gently. “Lost and broken and despairing?"
-* “It was my duty to guide you," the Abbot murmurs. “A duty I have forsaken."
-* “Hush, old friend," Markovia says. She places a hand on the Abbot’s shoulder, and he stiffens. “Was it not you who once told me that we were never meant to be less than equals before the divine?^[Inspired by *High Wizardry*, by Diane Duane] You showed me the path once before. Now, let my friends do the same for you."
-* The Abbot’s shoulders tremble, and he hesitates—and then slowly nods. Markovia then turns toward the players and gestures for them to bring the orb of flame forward.
+* L'angelo che i giocatori chiamano “Abate" era una volta tra i più grandi servitori del Signore del Mattino. Fu lui a sceglierla come profeta del Signore del Mattino.
+* Le spezza il cuore vedere l'Abate ridotto a tale stato, ma è grata per gli sforzi dei giocatori per salvarlo. “Ha peccato," mormora, “ma solo perché si è perso nelle nebbie. I poteri oscuri che governano questa terra hanno offuscato la sua mente e lo hanno sviato dal suo vero cammino. È grazie a voi che ha un'opportunità di essere altrimenti di nuovo." (Markovia non sa nulla di più sui “poteri oscuri" che governano Barovia, tranne che non sono Strahd e controllano le Nebbie o sono le Nebbie stesse.)
 
-Whether the players summon St. Marokia or not, before accepting the orb, the Abbot hesitates, then asks the players: “I threatened your friends. I sought to bring harm upon you. I separated parents from their children and abused the faith of those who trusted me. How can you offer me this second chance, knowing what I have done?"
-
-If the players offer the Abbot forgiveness, or otherwise indicate a belief that he deserves such a chance, the Abbot once more takes the orb of flame in his hands. Read:
+Se i giocatori glielo permettono, Markovia si avvicina all'Abate. Leggi:
 
 <div class="description">
-<p>The flickering flame casts a warm, cheerful glow across the Abbot’s face. In an instant, the mist burns away from his eyes, revealing a visage that appears youthful once more, with every crease of worry or fear banished. A golden light dances in his eyes—but rather than madness or cruelty, it is full of hope and wonder.</p>
-<p>"I see," he whispers reverently. Joyous tears began to fall down his cheeks as the light grows stronger—fiercer—<em>purer</em>. “I can see!"</p>
+<p>"Ithuriel," dice, e il nome è come una campana che canta nell'oscurità, le ombre che si rannicchiano con ogni passo che fa verso di lui. “Sono qui."</p>
 </div>
 
-The void then evaporates in a flash of white light, and the players find themselves once more in the Abbey of St. Markovia.
-### The Abbot’s Penance
-When the players return to the Abbey, read:
+A meno che i giocatori non interrompano, si verifica il seguente scambio:
+
+* L'Abate si gira al suono della voce di Markovia. “Markovia?" dice debolmente, la sua voce che si spezza. “Per favore—non guardarmi. Sono contaminato e spezzato."
+* Markovia si avvicina quindi a lui e si inginocchia su un ginocchio accanto a lui. “Non ero forse lo stesso quando mi hai trovato per la prima volta?" risponde dolcemente. “Persa e spezzata e disperata?"
+* “Era mio dovere guidarti," mormora l'Abate. “Un dovere che ho abbandonato."
+* “Zitto, vecchio amico," dice Markovia. Pone una mano sulla spalla dell'Abate, e lui si irrigidisce. “Non era forse te che una volta mi hai detto che non eravamo mai destinati a essere meno che uguali davanti al divino?^[Ispirato da *High Wizardry*, di Diane Duane] Mi hai mostrato il cammino una volta prima. Ora, lascia che i miei amici facciano lo stesso per te."
+* Le spalle dell'Abate tremano, ed esita—e poi annuisce lentamente. Markovia si gira quindi verso i giocatori e fa cenno loro di portare avanti il globo di fiamma.
+
+Che i giocatori evochino Santa Marokia o meno, prima di accettare il globo, l'Abate esita, poi chiede ai giocatori: “Ho minacciato i vostri amici. Ho cercato di farvi del male. Ho separato genitori dai loro figli e abusato della fede di coloro che si fidavano di me. Come potete offrirmi questa seconda possibilità, sapendo ciò che ho fatto?"
+
+Se i giocatori offrono il perdono all'Abate, o indicano altrimenti una convinzione che meriti tale possibilità, l'Abate prende ancora una volta il globo di fiamma tra le mani. Leggi:
 
 <div class="description">
-<p>The twisted beast that once lay upon the ground has vanished. In its place, a white-winged youth clad in plain, white robes lies still across the earth.</p>
+<p>La fiamma tremolante proietta un bagliore caldo e allegro sul volto dell'Abate. In un istante, la nebbia brucia via dai suoi occhi, rivelando un viso che appare di nuovo giovane, con ogni piega di preoccupazione o paura bandita. Una luce dorata danza nei suoi occhi—ma piuttosto che follia o crudeltà, è piena di speranza e meraviglia.</p>
+<p>"Capisco," sussurra con reverenza. Lacrime gioiose iniziano a cadere lungo le sue guance mentre la luce cresce più forte—più feroce—<em>più pura</em>. “Posso vedere!"</p>
 </div>
 
-The youth, who appears to be no more than nineteen or twenty years of age and resembles a younger version of the Abbot’s ordinary mortal guise, is the restored Abbot. He awakens if touched, or naturally shortly after the players return.
+Il vuoto quindi evapora in un lampo di luce bianca, e i giocatori si trovano ancora una volta nell'Abbazia di Santa Markovia.
+### La Penitenza dell'Abate
+Quando i giocatori tornano all'Abbazia, leggi:
 
-Once awoken, the youth—who asks the players to call him Ithuriel, rather than the Abbot—expresses momentary disorientation as the shard of divinity gradually integrates his memories and sense of self.
+<div class="description">
+<p>La bestia contorta che una volta giaceva a terra è scomparsa. Al suo posto, un giovane dalle ali bianche vestito con una semplice tunica bianca giace immobile sulla terra.</p>
+</div>
 
-> [!info]+ **Ithuriel, Restored**
-> Ithuriel uses the statistics of a **pegasus**, but with the **healing touch** feature of a **unicorn** and the size, creature type, languages, and ***change shape*** feature of a **deva**. Replace the pegasus’s ***hooves*** attack with the following: ***Mace.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit*: 1d6 + 4 bludgeoning damage plus 4 (1d8) radiant damage. In addition, Ithuriel can cast *raise dead* once per day, but no more than three times per year.
+Il giovane, che sembra non avere più di diciannove o vent'anni e assomiglia a una versione più giovane della forma mortale ordinaria dell'Abate, è l'Abate restaurato. Si sveglia se toccato, o naturalmente poco dopo che i giocatori tornano.
+
+Una volta sveglio, il giovane—che chiede ai giocatori di chiamarlo Ithuriel, piuttosto che l'Abate—esprime un momentaneo disorientamento mentre il frammento di divinità integra gradualmente i suoi ricordi e il senso di sé.
+
+> [!info]+ **Ithuriel, Restaurato**
+> Ithuriel utilizza le statistiche di un **pegaso**, ma con la caratteristica **tocco curativo** di un **unicorno** e la taglia, il tipo di creatura, le lingue e la caratteristica ***cambio forma*** di un **deva**. Sostituisci l'attacco ***zoccoli*** del pegaso con il seguente: ***Mazza.*** *Attacco con Arma da Mischia:* +6 per colpire, portata 1,5 m, un bersaglio. *Colpito*: 1d6 + 4 danni contundenti più 4 (1d8) danni radianti. Inoltre, Ithuriel può lanciare *resurrezione* una volta al giorno, ma non più di tre volte all'anno.
 >
-> When first restored, Ithuriel awakens with 1 hit point and four levels of exhaustion.
+> Quando viene restaurato per la prima volta, Ithuriel si sveglia con 1 punto ferita e quattro livelli di esaurimento.
 
-Ithuriel is deeply grateful to the players, and bows deeply before them in gratitude for their kindness and mercy. 
+Ithuriel è profondamente grato ai giocatori e si inchina profondamente davanti a loro in segno di gratitudine per la loro gentilezza e misericordia. 
 
-If permitted, Ithuriel heals and apologizes profusely to Vasilka (“For seeking to control you, for inflicting terror upon you, and for forcing you into a role you never wished for"), the Krezkovs (“For the terrible evils I have wrought upon your family, for which I can never atone"), to the Belviews (“For the curse I brought upon your family, for my manipulations and deceit, and for my cruelty and callousness"), and to the players (“For the shadows I cast upon your lives, and the lives of those you cared for").
+Se gli è permesso, Ithuriel guarisce e si scusa profusamente con Vasilka (“Per aver cercato di controllarti, per aver inflitto terrore su di te e per averti costretto in un ruolo che non hai mai desiderato"), i Krezkov (“Per i terribili mali che ho inflitto alla tua famiglia, per i quali non potrò mai espiare"), ai Belview (“Per la maledizione che ho portato sulla tua famiglia, per le mie manipolazioni e inganni, e per la mia crudeltà e insensibilità"), e ai giocatori (“Per le ombre che ho gettato sulle vostre vite e sulle vite di coloro a cui tenevate").
 
-Ithuriel can also share the following information if asked:
+Ithuriel può anche condividere le seguenti informazioni se richiesto:
 
-* He is not quite the Abbot, nor is he entirely the shard that dwelled in the *Icon*. “I am both, and yet neither," he muses. “The same sun rising, but upon a new dawn."
-* He intends to free Vasilka from his orders. “She shall be free to find her own path," he says wistfully, “as all creatures must be." 
-* He similarly has no intention of taking Anna Krezkova’s heart. “I cannot see the way by which this land shall be freed," he says, bowing his head. “But I know that darkness cannot drive out darkness—only light."
-* He is unsure how to heal the Belviews’ condition. “However, I shall do what I can to heal the minds of those I can, and allow their family to be whole again," he says. “In time, and by the Morninglord’s grace, I shall find the wisdom and strength to remove the affliction I once placed upon them."
-* He intends to remain at the Abbey and in Krezk. “I have an obligation to these people that I might never repay," he says solemnly. “My place is here—and I sense that, perhaps soon, I shall be called upon to defend those I once tormented."
+* Non è proprio l'Abate, né è interamente il frammento che dimorava nell'*Icona*. “Sono entrambi, eppure nessuno dei due," riflette. “Lo stesso sole che sorge, ma su una nuova alba."
+* Intende liberare Vasilka dai suoi ordini. “Sarà libera di trovare il suo cammino," dice con nostalgia, “come tutte le creature devono essere." 
+* Allo stesso modo, non ha intenzione di prendere il cuore di Anna Krezkova. “Non riesco a vedere il modo in cui questa terra sarà liberata," dice, chinando la testa. “Ma so che l'oscurità non può scacciare l'oscurità—solo la luce."
+* Non è sicuro di come guarire la condizione dei Belview. “Tuttavia, farò ciò che posso per guarire le menti di coloro che posso, e permettere alla loro famiglia di essere di nuovo intera," dice. “Col tempo, e per grazia del Signore del Mattino, troverò la saggezza e la forza per rimuovere l'afflizione che una volta ho posto su di loro."
+* Intende rimanere all'Abbazia e a Krezk. “Ho un obbligo verso queste persone che potrei non ripagare mai," dice solennemente. “Il mio posto è qui—e sento che, forse presto, sarò chiamato a difendere coloro che una volta tormentavo."
 
-Before the players depart, Ithuriel freely offers them healing through the use of his ***healing touch***, and offers them the use of his *raise dead* feature should they require it. “My abilities are sorely limited following my rebirth," he says, plucking three snow-white feathers from his wings, “but should you require rebirth of your own, you need merely speak my name while you hold this feather aloft, and I shall be there."
+Prima che i giocatori partano, Ithuriel offre liberamente loro guarigione attraverso l'uso della sua caratteristica ***tocco curativo*** e offre loro l'uso della sua caratteristica *resurrezione* se necessario. “Le mie capacità sono gravemente limitate dopo la mia rinascita," dice, strappando tre piume bianche come la neve dalle sue ali, “ma se avrete bisogno di rinascita voi stessi, dovrete solo pronunciare il mio nome mentre tenete questa piuma in alto, e io sarò lì."
 
-> [!info]+ **Ithuriel’s Feathers**
-> If a player speak’s Ithuriel’s name while holding one of his feathers aloft, the feather burns up into radiant embers. Ithuriel then flies to the players’ location, arriving within five minutes if the players are in the western portion of the valley (e.g., the Wizard of Wines, Yester Hill, or Lake Baratok), fifteen minutes if the players are in the central portion of the valley (e.g., Vallaki, Berez, or Mt. Ghakis), and thirty minutes if the players are in the eastern portion of the valley (e.g., the village of Barovia, Castle Ravenloft, or Tser Pool).
+> [!info]+ **Piume di Ithuriel**
+> Se un giocatore pronuncia il nome di Ithuriel mentre tiene una delle sue piume in alto, la piuma brucia in tizzoni radianti. Ithuriel vola quindi alla posizione dei giocatori, arrivando entro cinque minuti se i giocatori si trovano nella parte occidentale della valle (ad esempio, il Mago dei Vini, Collina di Yester o Lago Baratok), quindici minuti se i giocatori si trovano nella parte centrale della valle (ad esempio, Vallaki, Berez o Monte Ghakis), e trenta minuti se i giocatori si trovano nella parte orientale della valle (ad esempio, il villaggio di Barovia, Castello Ravenloft o Tser Pool).
 >
-> Once summoned, Ithuriel lingers only long enough to cast *raise dead* and provide the players with words of faith and encouragement for the trials they face ahead. If requested, he is also glad to provide one or more uses of his ***healing touch*** feature. 
+> Una volta evocato, Ithuriel rimane solo il tempo necessario per lanciare *resurrezione* e fornire ai giocatori parole di fede e incoraggiamento per le prove che devono affrontare. Se richiesto, è anche felice di fornire uno o più usi della sua caratteristica ***tocco curativo***. 
 >
-> If asked to linger or fight alongside the players, Ithuriel politely declines, insisting that his place is at the Abbey, and he cannot leave his wards or neighbors without his protection. “Do not fear," he reassures the players before departing. “The Morninglord is with you."
+> Se gli viene chiesto di rimanere o combattere al fianco dei giocatori, Ithuriel rifiuta educatamente, insistendo che il suo posto è all'Abbazia e che non può lasciare i suoi protetti o vicini senza la sua protezione. “Non temete," rassicura i giocatori prima di partire. “Il Signore del Mattino è con voi."
 
-> [!profile]+ **Profile: Ithuriel**
-> **Roleplaying Information**
-> ***Resonance.*** Ithuriel should inspire endearment for his determination to repair the harm he has done, comfort for his deep compassion and care, and gratitude for his earnest efforts to aid the players.
+> [!profile]+ **Profilo: Ithuriel**
+> **Informazioni di Ruolo**
+> ***Risonanza.*** Ithuriel dovrebbe ispirare affetto per la sua determinazione a riparare il danno che ha fatto, conforto per la sua profonda compassione e cura, e gratitudine per i suoi sforzi sinceri per aiutare i giocatori.
 >
-> ***Emotions.*** Ithuriel most often feels thoughtful, sorrowful, cheerful, guilty, ashamed, apprehensive, defiant, bold, or serene.
+> ***Emozioni.*** Ithuriel si sente più spesso riflessivo, triste, allegro, colpevole, vergognoso, apprensivo, sfidante, audace o sereno.
 >
-> ***Motivations.*** Ithuriel wants to repair the harm he has done to Vasilka, the Belviews, the Krezkovs, and the players, and to defend the Abbey and the village of Krezk from those who might wish them harm.
+> ***Motivazioni.*** Ithuriel vuole riparare il danno che ha fatto a Vasilka, ai Belview, ai Krezkov e ai giocatori, e difendere l'Abbazia e il villaggio di Krezk da coloro che potrebbero voler loro del male.
 >
-> ***Inspirations.*** When roleplaying Ithuriel, channel Zuko (*Avatar: The Last Airbender*), Neji Hyuuga (*Naruto*), and Father Forthill (*The Dresden Files*).
+> ***Ispirazioni.*** Quando interpreti Ithuriel, canalizza Zuko (*Avatar: The Last Airbender*), Neji Hyuuga (*Naruto*), e Padre Forthill (*The Dresden Files*).
 >
-> **Character Information**
-> ***Persona.*** To the world, Ithuriel is a mature, contemplative youth with a strong sense of humility and a deep compassion for others. To those he trusts, Ithuriel is a young angel persevering to reassemble his purpose and identity following his corruption, defeat, and restoration.
+> **Informazioni sul Personaggio**
+> ***Persona.*** Per il mondo, Ithuriel è un giovane maturo e contemplativo con un forte senso di umiltà e una profonda compassione per gli altri. Per coloro di cui si fida, Ithuriel è un giovane angelo che persevera per riassemblare il suo scopo e la sua identità dopo la sua corruzione, sconfitta e restaurazione.
 >
-> ***Morale.*** In a fight, Ithuriel would seek to calm his foe, but would not hesitate to forcefully defend an innocent threatened by enemies of ill intent.
-## Q3d. St. Markovia’s Gratitude
-When the players first descend the switchback road and enter the village of Krezk after defeating the Abbot, whether they redeem the Abbot or not, St. Markovia calls them to the Shrine of the White Sun. Read:
+> ***Morale.*** In un combattimento, Ithuriel cercherebbe di calmare il suo nemico, ma non esiterebbe a difendere con forza un innocente minacciato da nemici con cattive intenzioni.
+## Q3d. La Gratitudine di Santa Markovia
+Quando i giocatori scendono per la prima volta la strada a tornanti ed entrano nel villaggio di Krezk dopo aver sconfitto l'Abate, che redimano o meno l'Abate, Santa Markovia li chiama al Santuario del Sole Bianco. Leggi:
 
 <div class="description">
-<p>A warm, pleasant breeze rustles through the pines as a woman’s voice, gentle and kind, whispers into your ears: “Find me at the Shrine of the White Sun, by the water’s edge. As you have healed this place, allow me to bring you healing in turn."</p>
+<p>Una brezza calda e piacevole scompiglia i pini mentre una voce di donna, gentile e cortese, sussurra nelle vostre orecchie: “Trovatevi al Santuario del Sole Bianco, vicino al bordo dell'acqua. Come avete guarito questo luogo, permettetemi di portarvi guarigione a mia volta."</p>
 </div>
 
-Players who spoke with St. Markovia in [[Arc Q - A Shining Beacon#The Abbot's Redemption|The Abbot's Redemption]] recognize her voice.
-### Markovia’s Gift
-If the players follow St. Markovia’s invitation to <span class="citation">S4. Pool and Shrine (p. 146)</span>, read:
+I giocatori che hanno parlato con Santa Markovia in [[Arco Q - Un Faro Splendente#La Redenzione dell'Abate|La Redenzione dell'Abate]] riconoscono la sua voce.
+### Il Dono di Markovia
+Se i giocatori seguono l'invito di Santa Markovia a <span class="citation">S4. Piscina e Santuario (p. 146)</span>, leggi:
 
 <div class="description">
-<p>As you reach the pool’s edge, an image appears in its sparkling blue waters: an older woman clad in a plain white robe, her wavy brown hair beginning to gray. Creases line the edges of her eyes, but age does not mar the kindness and compassion that dwells there.</p>
+<p>Quando raggiungete il bordo della piscina, un'immagine appare nelle sue scintillanti acque blu: una donna anziana vestita con una semplice tunica bianca, i suoi capelli castani ondulati che iniziano a ingrigire. Le rughe segnano i bordi dei suoi occhi, ma l'età non rovina la gentilezza e la compassione che vi dimorano.</p>
 </div>
 
-Any players who received visions of St. Markovia in Ezmerelda’s seance in [[Arc K - The Fallen Abbey]] recognize her visage.
+Qualsiasi giocatore che ha ricevuto visioni di Santa Markovia nella seduta spiritica di Ezmerelda in [[Arco K - L'Abbazia Caduta]] riconosce il suo volto.
 
-If she did not speak with the players in [[Arc Q - A Shining Beacon#The Abbot's Redemption|The Abbot's Redemption]], St. Markovia introduces herself to the players and thanks them for freeing the Abbey and Krezk of the “shadow that lay upon it." If the Abbot was defeated, but not redeemed, she expresses sorrow for “Ithuriel’s passing," but notes that she finds comfort in the fact that “his memory will live on in the stones of the Abbey."
+Se non ha parlato con i giocatori in [[Arco Q - Un Faro Splendente#La Redenzione dell'Abate|La Redenzione dell'Abate]], Santa Markovia si presenta ai giocatori e li ringrazia per aver liberato l'Abbazia e Krezk dall'“ombra che vi giaceva sopra." Se l'Abate è stato sconfitto, ma non redento, esprime dolore per la “dipartita di Ithuriel," ma nota che trova conforto nel fatto che “la sua memoria vivrà nelle pietre dell'Abbazia."
 
-Markovia invites each player to fill a single waterskin from the waters of the pool. “These waters once carried far greater magic. While that magic faded long ago, your victory has allowed me to remind them of the blessing they once carried—if only for a time."
+Markovia invita ogni giocatore a riempire una singola borraccia con l'acqua della piscina. “Queste acque una volta portavano una magia molto più grande. Sebbene quella magia sia svanita molto tempo fa, la vostra vittoria mi ha permesso di ricordare loro la benedizione che una volta portavano—anche se solo per un po'."
 
-> [!item]+ **Water of the White Sun**
-> As an action, a player can drink the full contents of a waterskin containing water from the blessed pool. When they do, they immediately gain the benefits of a long rest, as well as the benefit of a *lesser restoration* spell. 
-### Cleansing of the White Sun
-Once the players have filled their waterskins from the pool, if the players redeemed the Abbot and any player has received a vestige’s boon and condition after reaching Stage Three of an amber shard’s corruption, St. Markovia addresses that player personally. Read:
+> [!item]+ **Acqua del Sole Bianco**
+> Come azione, un giocatore può bere il contenuto completo di una borraccia contenente acqua dalla piscina benedetta. Quando lo fa, ottiene immediatamente i benefici di un riposo lungo, così come il beneficio di un incantesimo *restaurazione minore*. 
+### Purificazione del Sole Bianco
+Una volta che i giocatori hanno riempito le loro borracce dalla piscina, se i giocatori hanno redento l'Abate e qualsiasi giocatore ha ricevuto il dono e la condizione di un vestigio dopo aver raggiunto il Terzo Stadio della corruzione di un frammento d'ambra, Santa Markovia si rivolge a quel giocatore personalmente. Leggi:
 
 <div class="description">
-<p>"You carry a great weight upon your shoulders," she says, her eyes sorrowful as they seek to meet yours. “That you have chosen to bear it makes it no less heavy. If you would discard the yoke of the power you have chained yourself to, I can aid you in doing so while the water’s magic lingers."</p>
+<p>"Porti un grande peso sulle tue spalle," dice, i suoi occhi tristi mentre cercano di incontrare i tuoi. “Che tu abbia scelto di portarlo non lo rende meno pesante. Se desideri scartare il giogo del potere a cui ti sei incatenato, posso aiutarti a farlo mentre la magia dell'acqua persiste."</p>
 </div>
 
-If the player expresses interest in doing so, Markovia directs them to stand in the pool’s waters, speak a prayer to the Morninglord, and submerge themselves. “When you arise from the water," she says, “your affliction shall be healed—so long as you speak truly and have faith that, as you once were, you can be again." 
+Se il giocatore esprime interesse a farlo, Santa Markovia lo indirizza a stare nelle acque della piscina, recitare una preghiera al Signore del Mattino e immergersi. “Quando ti alzerai dall'acqua," dice, “la tua afflizione sarà guarita—purché tu parli sinceramente e abbia fede che, come eri una volta, puoi esserlo di nuovo." 
 
-If the player isn’t sure what prayer to use, Markovia suggests: “As the sun banishes the darkness of night, banish the shadow from my soul, and let the light embrace me once again."
+Se il giocatore non è sicuro di quale preghiera usare, Santa Markovia suggerisce: “Come il sole scaccia l'oscurità della notte, scaccia l'ombra dalla mia anima e lascia che la luce mi abbracci ancora una volta."
 
-As the player submerges themselves after speaking a prayer, read:^[Inspired by *Critical Role*]
+Mentre il giocatore si immerge dopo aver recitato una preghiera, leggi:^[Ispirato da *Critical Role*]
 
 <div class="description">
-<p>The water ripples around you, the sounds of the world above muffled and muted. You hear the distant wash of gentle waves against the shores, and the pounding of the blood in your ears. Then—a whisper, quiet and gentle, echoes through the water.</p>
-<p><em>"You have been lost, ensnared in a shadow of ancient evil. Its tendrils have seeded your mind with chaos, desperation, and fear, and left your soul in darkness."</em></p>
-<p>Your own heartbeat echoes in your ears, and amidst the darkness, you see a faint and flickering light in the void, its surface choked with the tendrils of a thick and oily shadow.</p>
+<p>L'acqua si increspa intorno a te, i suoni del mondo sopra attutiti e smorzati. Senti il lontano sciabordio delle onde gentili contro le rive e il battito del sangue nelle tue orecchie. Poi—un sussurro, quieto e gentile, echeggia attraverso l'acqua.</p>
+<p><em>"Sei stato perso, intrappolato in un'ombra di antica malvagità. I suoi tentacoli hanno seminato la tua mente con caos, disperazione e paura, e hanno lasciato la tua anima nell'oscurità."</em></p>
+<p>Il tuo stesso battito cardiaco echeggia nelle tue orecchie, e nell'oscurità, vedi una luce debole e tremolante nel vuoto, la sua superficie soffocata dai tentacoli di un'ombra spessa e oleosa.</p>
 </div>
 
-Allow the player a brief moment to respond. Whether they do or not, continue:
+Concedi al giocatore un breve momento per rispondere. Che lo faccia o meno, continua:
 
 <div class="description">
-<p><em>"This darkness I cannot heal—but I can allow the light within you to drive it out, if you would but embrace it."</em></p>
-<p><em>"Will you seek hope over despair, claim courage before fear, and forsake this darkness for light?"</em></p>
+<p><em>"Questa oscurità non posso guarire—ma posso permettere alla luce dentro di te di scacciarla, se solo la abbraccerai."</em></p>
+<p><em>"Cercherai speranza invece di disperazione, rivendicherai coraggio prima della paura e abbandonerai questa oscurità per la luce?"</em></p>
 </div>
 
-If the player truthfully agrees to do so, the whisper replies:
+Se il giocatore accetta sinceramente di farlo, il sussurro risponde:
 
 <div class="description">
-<p><em>"Then my blessing is yours—for as long as you wish to keep it."</em></p>
-<p>The light in the void flickers brighter, its surface glimmering, and then <em>flares</em> with a pure, piercing light. The shadow shrieks, its tendrils writhing as the light burns them away—until nothing remains but the light, shining and pulsating to the beat of your heart.</p>
+<p><em>"Allora la mia benedizione è tua—per tutto il tempo che desideri mantenerla."</em></p>
+<p>La luce nel vuoto tremola più luminosa, la sua superficie scintillante, e poi <em>brilla</em> con una luce pura e penetrante. L'ombra urla, i suoi tentacoli che si contorcono mentre la luce li brucia via—fino a quando non rimane nulla tranne la luce, che brilla e pulsa al ritmo del tuo cuore.</p>
 </div>
 
-The player then loses all stages of amber corruption, including any conditions or boons gained from that corruption.
+Il giocatore perde quindi tutti gli stadi della corruzione dell'ambra, comprese eventuali condizioni o doni ottenuti da quella corruzione.
 
-Before the players depart, as St. Markovia’s visage begins to fade from the surface of the pool, she warns any cleansed player that the shadow has been cleansed from their soul, but can return if reinvited. “Just as night follows day," she warns, “so too does darkness pursue our hearts. You must be stalwart, vigilant, and brave, for darkness is not so easily removed a second time. Do you understand?"
+Prima che i giocatori partano, mentre il volto di Santa Markovia inizia a svanire dalla superficie della piscina, avverte qualsiasi giocatore purificato che l'ombra è stata purificata dalla loro anima, ma può tornare se reinvitata. “Proprio come la notte segue il giorno," avverte, “così anche l'oscurità insegue i nostri cuori. Devi essere saldo, vigile e coraggioso, perché l'oscurità non è così facilmente rimossa una seconda volta. Capisci?"
 
-Regardless of the player’s answer, Markovia wishes them luck and bids them farewell before vanishing from the surface of the pool.
-# Q4. The Revenant's Warning
-Shortly after the players defeat the Abbot, the **revenant** from the Raven River Crossroads travels to Krezk and requests an audience with them. A **guard** named Harkus Grejenko is dispatched to locate the players and summon them to speak with the revenant.
+Indipendentemente dalla risposta del giocatore, Santa Markovia augura loro buona fortuna e li saluta prima di svanire dalla superficie della piscina.
+# Q4. L'Avvertimento del Revenant
+Poco dopo che i giocatori sconfiggono l'Abate, il **revenant** dell'Incrocio del Fiume Corvo viaggia a Krezk e richiede un'udienza con loro. Una **guardia** di nome Harkus Grejenko viene inviata a localizzare i giocatori e convocarli per parlare con il revenant.
 
-If the players do so, the revenant gravely informs them that it has received a message from a **phantom warrior** of Argynvostholt, and shares the following information:
+Se i giocatori lo fanno, il revenant li informa gravemente che ha ricevuto un messaggio da un **guerriero fantasma** di Argynvostholt e condivide le seguenti informazioni:
 
-* Commander Vladimir Horngaard has commanded all knights of the Order of the Silver Dragon to return to Argynvostholt no later than tomorrow noon.
-* Commander Horngaard is enraged following the players’ recent incursion into Castle Ravenloft, and seeks their deaths, so that they shall meddle with Strahd von Zarovich no further.
-* Commander Horngaard is expected to issue his knights a new command: to seek out the players’ destruction, at any cost.
+* Il Comandante Vladimir Horngaard ha comandato a tutti i cavalieri dell'Ordine del Drago d'Argento di tornare ad Argynvostholt entro domani a mezzogiorno.
+* Il Comandante Horngaard è furioso dopo l'incursione recente dei giocatori al Castello Ravenloft e cerca la loro morte, in modo che non interferiscano ulteriormente con Strahd von Zarovich.
+* Si prevede che il Comandante Horngaard emetta un nuovo comando ai suoi cavalieri: cercare la distruzione dei giocatori, a qualsiasi costo.
 
-The revenant apologizes sincerely to the players “for the harm it may be forced to visit upon them if they meet again." If the players share or indicate that they have been to Argynvostholt, it asks whether they have spoken with Sir Godfrey Gwilym and learned of the mission he sought to fulfill. If told that the players have recovered the skull of Argynvost in accordance with the dragon’s wishes, the revenant urges the players to fulfill the dragon’s prophecy before Commander Horngaard “releases his full wrath upon them."
+Il revenant si scusa sinceramente con i giocatori “per il danno che potrebbe essere costretto a infliggere loro se si incontreranno di nuovo." Se i giocatori condividono o indicano di essere stati ad Argynvostholt, chiede se hanno parlato con Sir Godfrey Gwilym e appreso della missione che cercava di compiere. Se viene detto che i giocatori hanno recuperato il teschio di Argynvost secondo i desideri del drago, il revenant esorta i giocatori a compiere la profezia del drago prima che il Comandante Horngaard “liberi tutta la sua ira su di loro."
 
-The revenant, bound to obey Vladimir’s orders, can’t be convinced to remain in Krezk, and departs once it has conveyed its message.
-# Q5. Pack Attack
+Il revenant, vincolato a obbedire agli ordini di Vladimir, non può essere convinto a rimanere a Krezk e parte una volta che ha trasmesso il suo messaggio.
+# Q5. Attacco del Branco
 
-> [!abstract]+ **Does the Pack Attack?**
-> This scene only occurs if (1) the players took the *Holy Symbol* from the werewolf den, therefore indicating that someone had stolen from Mother Night’s shrine, or (2) the players failed to disguise their scents (e.g., using *pass without trace*) while infiltrating the werewolf den in [[Arc L - The Den of Wolves]], thereby allowing Kiril to detect that outsiders had entered the den.
-## Q5a. The Pack Arrives
-At nightfall on the day the players confront the Abbot, if the players have not yet defeated him, Kiril Stoyanovich rouses the werewolf pack—including eighteen **wolves** and eight **werewolves**—and leads them to the ruins of Berez. There, he consults with Baba Lysaga, who uses her magic to discern the players’ current location. Kiril then leads his pack to that location, hoping to kill and eat the intruders that infiltrated the den previously.
+> [!abstract]+ **Il Branco Attacca?**
+> Questa scena si verifica solo se (1) i giocatori hanno preso il *Simbolo Sacro* dalla tana dei lupi mannari, indicando quindi che qualcuno aveva rubato dal santuario di Madre Notte, o (2) i giocatori non sono riusciti a mascherare i loro odori (ad esempio, usando *passare senza tracce*) mentre infiltravano la tana dei lupi mannari in [[Arco L - La Tana dei Lupi]], permettendo così a Kiril di rilevare che estranei erano entrati nella tana.
+## Q5a. Il Branco Arriva
+Al calar della notte del giorno in cui i giocatori affrontano l'Abate, se i giocatori non lo hanno ancora sconfitto, Kiril Stoyanovich risveglia il branco di lupi mannari—composto da diciotto **lupi** e otto **lupi mannari**—e li guida alle rovine di Berez. Lì, consulta Baba Lysaga, che usa la sua magia per discernere la posizione attuale dei giocatori. Kiril guida quindi il suo branco in quella posizione, sperando di uccidere e mangiare gli intrusi che si erano infiltrati nella tana in precedenza.
 
-***Outside the Walls.*** If the players have made camp at Van Richten’s Tower or Argynvostholt, they are awoken by a chorus of howls led by a deep, terrible roar.
+***Fuori dalle Mura.*** Se i giocatori si sono accampati alla Torre di Van Richten o ad Argynvostholt, vengono svegliati da un coro di ululati guidato da un ruggito profondo e terribile.
 
-When the players first approach the pack, read:
+Quando i giocatori si avvicinano per la prima volta al branco, leggi:
 
 <div class="description">
-<p>More than two dozen wolves emerge from the thick, souplike fog that clings to the earth outside, their golden eyes glinting in the faint moonlight. A monstrous, two-legged silhouette stands at their head, its shaggy head nearly a full story high.</p>
+<p>Più di due dozzine di lupi emergono dalla fitta nebbia che si aggrappa alla terra fuori, i loro occhi dorati che brillano nella debole luce della luna. Una silhouette mostruosa e bipede si erge alla loro testa, la sua testa pelosa alta quasi un intero piano.</p>
 </div>
 
-If Emil Toranescu is accompanying the players, his hand tightens into a fist at his side, his fingernails lengthening into claws. “Kiril," he whispers.
+Se Emil Toranescu accompagna i giocatori, la sua mano si stringe in un pugno al suo fianco, le sue unghie che si allungano in artigli. “Kiril," sussurra.
 
-***Within the Walls.*** If the players are resting in Krezk or Vallaki, Kiril arrives outside the gates with the pack, then demands that the guards bring him “the outsiders—the vermin that trampled through his den." A terrified guard then delivers the message to the Krezkovs’ cottage (if in Krezk) or the Blue Water Inn (if in Vallaki), hoping to find the players there. (If the players aren’t there, Baron Krezkov or Urwin Martikov delivers the message themselves.) 
+***Dentro le Mura.*** Se i giocatori stanno riposando a Krezk o Vallaki, Kiril arriva fuori dai cancelli con il branco, poi chiede alle guardie di portargli “gli estranei—i parassiti che hanno calpestato la sua tana." Una guardia terrorizzata consegna quindi il messaggio al cottage dei Krezkov (se a Krezk) o alla Locanda dell'Acqua Blu (se a Vallaki), sperando di trovare i giocatori lì. (Se i giocatori non sono lì, il Barone Krezkov o Urwin Martikov consegnano il messaggio personalmente.) 
 
-When the players first approach the pack, read:
+Quando i giocatori si avvicinano per la prima volta al branco, leggi:
 
 <div class="description">
-<p>More than two dozen wolves emerge from the thick, souplike fog that clings to the earth outside, their golden eyes glinting in the faint moonlight.</p>
+<p>Più di due dozzine di lupi emergono dalla fitta nebbia che si aggrappa alla terra fuori, i loro occhi dorati che brillano nella debole luce della luna.</p>
 </div>
 
-The wolves bare their teeth at the players, but don’t immediately attack. A player with a passive Wisdom (Perception) score of 12 or greater notices that the wolves appear surprisingly ill-fed, with some wolves’ ribs showing through their hides. If Emil Toranescu is with them, a player with a passive DC 13 Wisdom (Insight) score notices that the wolves seem to regard him with apprehension and surprise. If Bianca Stoyanovich is still alive, she is standing stiffly to the side of the pack, pale-faced and silent.
+I lupi mostrano i denti ai giocatori, ma non attaccano immediatamente. Un giocatore con un punteggio di Saggezza (Percezione) passivo di 12 o superiore nota che i lupi sembrano sorprendentemente malnutriti, con alcune costole dei lupi che sporgono attraverso le loro pelli. Se Emil Toranescu è con loro, un giocatore con un punteggio di Saggezza (Intuizione) passivo di 13 nota che i lupi sembrano guardarlo con apprensione e sorpresa. Se Bianca Stoyanovich è ancora viva, è in piedi rigidamente a lato del branco, pallida e silenziosa.
 
-> [!info]+ **The Starving Wolves**
-> Due to his gluttony and pride, Kiril has claimed the first—and, by far, the largest—share of each meal the pack has hunted since Emil’s disappearance. As a result, the other members of the pack, other than Bianca, have suffered from ill nutrition and deprivation for the past several weeks, forcing them to survive off rabbits, rats, and other small game while losing notable amounts of weight.
+> [!info]+ **I Lupi Affamati**
+> A causa della sua golosità e orgoglio, Kiril ha rivendicato la prima—e, di gran lunga, la più grande—parte di ogni pasto che il branco ha cacciato dalla scomparsa di Emil. Di conseguenza, gli altri membri del branco, ad eccezione di Bianca, hanno sofferto di malnutrizione e privazione nelle ultime settimane, costringendoli a sopravvivere con conigli, ratti e altri piccoli animali mentre perdono notevoli quantità di peso.
 
-Shortly after the players approach the wolves, or when they first call out for Kiril, read:
+Poco dopo che i giocatori si avvicinano ai lupi, o quando chiamano per la prima volta Kiril, leggi:
 
 <div class="description">
-<p>A monstrous, two-legged silhouette lumbers out of the mist, its shaggy head nearly a full story high.</p>
+<p>Una silhouette mostruosa e bipede si fa avanti, un frammento di luce lunare argentata che illumina la pelliccia nera come il carbone che copre il suo manto.</p>
+<p>È alta poco più di due metri e settanta, le sue braccia, gambe e torso ricoperti di muscoli spessi e nodosi. I suoi denti a forma di scimitarra sporgono oltre il suo muso, scendendo così lontano sotto la sua mascella che sembrano quasi come zanne. I suoi artigli, lunghi, scuri e macchiati di strati di sangue, si contraggono e si flettono con impazienza, come se fossero pronti a tagliare di nuovo la carne.</p>
+<p>Le iridi scarlatte della bestia perforano la nebbia che vortica intorno e sotto di essa, e il suo muso lupino si arriccia in un ghigno bestiale. Quando parla, la sua voce è un basso, ringhiante ruggito che echeggia attraverso la notte cupa.</p>
+<p>"Quindi siete i piccoli topi che hanno sgattaiolato nella mia tana," ruggisce la bestia. Si lecca le labbra con evidente anticipazione, una linea di saliva che gocciola dai suoi denti frastagliati. “Sembra che non possiate correre per sempre."</p>
 </div>
 
-If Emil Toranescu is accompanying the players, his hand tightens into a fist at his side, his fingernails lengthening into claws. “Kiril," he whispers.
-## Q5b. Kiril’s Challenge
+> [!info]+ **Le Chiavi di Kiril**
+> I giocatori che scrutano il collo di Kiril notano due chiavi appese a una catena intorno al suo collo. La catena si spezza quando Kiril entra nella sua seconda fase (vedi sotto), permettendo ai giocatori di recuperarle. Se recuperate, le chiavi possono sbloccare i *collari di spine d'argento* che imprigionano Ilya e Zuleika nella tana dei lupi mannari.
 
-> [!abstract]+ **Impatient Players**
-> Kiril doesn’t feel threatened by the players. As such, if any individual player attacks him for the first time using a non-silvered weapon, a spell below 3rd-level, or any attack or spell that doesn’t deal necrotic damage, Kiril laughs as his natural regeneration heals his wounds, rather than responding in kind. “Your flailing tickles me, little morsel," he rumbles. He licks his chops, fixing them with a steady look of anticipation. “Perhaps I’ll let you tickle my teeth next—I’ve got a scrap or two of meat in there that I could use some help in getting out."
->
-> The second time a player attacks, or if a player attacks him with a silvered weapon, an attack or spell that deals necrotic damage, or a spell of 3rd-level or above, Kiril snarls, his nostrils flaring as his eyes snap wide open. “Impatient to die, little morsel? Then I won’t keep you waiting." Kiril then attacks.
+La bestia è Kiril nella sua prima fase (vedi sotto). Se Ezmerelda è presente, i suoi occhi si spalancano e sussurra ai giocatori che riconosce il suo motivo di pelliccia. “Il bastardo è più grande di quanto fosse due anni fa," sussurra tra i denti serrati, “ma quello è il Terrore Nero." (Ezmerelda può ricordare silenziosamente ai giocatori, se richiesto, che il Terrore Nero era il soprannome del lupo mannaro che le ha morso la gamba.)
 
-> [!info]+ **Moonbeam**
-> Due to Kiril’s corruption, his hybrid form—not his human form—has become his “true form." As such, while he takes damage from *moonbeam* normally, the spell cannot cause him to revert to his human form.
-
-When the players first approach Kiril, or vice-versa, read:
+Come un gatto che gioca con la sua preda, Kiril non ha fretta immediata di uccidere i giocatori e spera di provocarli, umiliarli e demoralizzarli prima di attaccare. Mentre la conversazione si svolge, se Emil Toranescu è presente, leggi:
 
 <div class="description">
-<p>The monstrous silhouette steps forward, a sliver of silvery moonlight illuminating the charcoal-black fur that covers its hide.</p>
-<p>It stands just over nine feet tall, its arms, legs, and torso layered with thick, ropy muscle. Its scimitar-shaped fangs jut out beyond its muzzle, descending so far beneath its jaw that they seem almost like tusks. Its claws, long, dark, and stained with layers of blood, twitch and flex eagerly, as if ready to slice through flesh once more.</p>
-<p>The beast’s scarlet irises pierce through the mist that swirls around and below it, and its lupine muzzle curls into a bestial grin. When it speaks, its voice is a low, snarling rumble that echoes through the gloomy night.</p>
-<p>"So you’re the little mice that scampered through my den," the beast rumbles. It licks its lips in obvious anticipation, a line of saliva drooling from its jagged teeth. “Seems you couldn’t run forever."</p>
+<p>Gli occhi di Kiril scivolano verso l'uomo al vostro fianco, e il suo labbro nero si arriccia. Fissa per un momento, poi getta la testa all'indietro in una risata fragorosa.</p>
+<p>"Avete riportato indietro il cucciolo con voi!" tuona. “Congratulazioni, debole. Come ci si sente a sapere che avevi bisogno di questi <em>topi</em> per salvarti? Anche se sono impressionato—come <em>hanno</em> fatto?"</p>
 </div>
 
-> [!info]+ **Kiril’s Keys**
-> Players who scrutinize Kiril’s neck notice two keys hanging from a chain around his neck. The chain snaps when Kiril enters his second phase (see below), allowing the players to retrieve them. If retrieved, the keys can unlock the *silverthorn collars* imprisoning Ilya and Zuleika in the werewolf den.
+> [!abstract]+ **Emil Imprigionato**
+> Se i giocatori non sono riusciti a salvare Emil dal Castello Ravenloft, quando Kiril sente che è giunto il momento di terminare la conversazione, comanda ai lupi che lo affiancano di uccidere i giocatori. I giocatori che sottolineano la fame evidente dei lupi e superano una prova di Carisma (Persuasione) a CD 18 possono convincere il branco a rimanere indietro mentre i giocatori affrontano direttamente Kiril. Altrimenti, i lupi e i lupi mannari (escluso Kiril) attaccano. Kiril attacca i giocatori non appena il resto del branco è stato sconfitto o ucciso.
 
-The beast is Kiril in his first phase (see below). If Ezmerelda is present, her eyes widen, and she hisses to the players that she recognizes his fur pattern. “The bastard’s bigger than he was two years ago," she whispers through gritted teeth, “but that’s the Black Terror." (Ezmerelda can quietly remind the players, if asked, that the Black Terror was the moniker of the werewolf that bit off her leg.)
+A un punto adatto della conversazione, se è presente, Emil sfida Kiril per la leadership del branco. A meno che i giocatori non interrompano, si verifica il seguente scambio:
 
-Like a cat playing with its prey, Kiril is in no immediate hurry to kill the players, and hopes to taunt, demean, and demoralize them before he attacks. As the conversation unfolds, if Emil Toranescu is present, read:
+* Emil si fa avanti, i suoi occhi che brillano d'oro nella luce fioca. “Kiril," intona. “Non posso stare a guardare ciò che hai fatto al nostro branco—alla nostra famiglia. Li hai traditi per il tuo orgoglio, la tua fame e il tuo ego."
+* Il muso di Kiril si arriccia in un ghigno lupino e dentato. “Orgoglio? Fame? Questi sono *forza*, debole. Ho portato al branco nient'altro che gloria."
+* Gli occhi di Emil si restringono. “Hai cercato di portare *te stesso* gloria."
+* Kiril ringhia. “Io sono l'alpha! Nella mia gloria, il branco è esaltato."
+* “Un leader *si prende cura* del suo branco," risponde Emil con calma. “Caccia per loro, non per se stesso."
+* “Mi sfidi, allora, cucciolo?" risponde Kiril. “Tu e i tuoi piccoli topi?"
+* Emil si gira quindi verso i giocatori per cercare il loro consenso. Se esprimono interesse a combattere Kiril al suo fianco e non rispondono a Kiril da soli, Emil si gira verso Kiril e dice, “Lo facciamo."
+* Kiril ride e risponde, “Un lupo non si preoccupa della sfida delle pecore." Si gira verso i lupi che lo affiancano, poi indica i giocatori. “Uccideteli."
+* Mentre gli altri membri del branco esitano a fare un passo avanti, Emil guarda negli occhi il lupo più grande e dice, “Kellen—questa è *la tua* scelta, non la sua." Il lupo vacilla, ed Emil si gira per affrontare il resto del branco, aggiungendo, “Vi ho deluso una volta prima. Non ho diritto di chiedere la vostra lealtà. Chiedo solo che rimaniate leali a voi stessi e l'uno all'altro—e non a un uomo che richiederebbe la vostra sottomissione." Si gira per affrontare Kiril con calma, la sua mano artigliata che si stringe in un pugno. “Perché siamo lupi, non cani—e l'obbedienza è una cosa degli uomini."
+* Uno per uno, ogni lupo si ferma, si gira e torna al suo posto originale, dove si siede a terra—aspettando.
+* Gli occhi di Kiril lampeggiano di scarlatto, e i suoi artigli e zanne crescono leggermente più lunghi, il suo corpo massiccio che trema di rabbia. “Codardi e traditori!" ringhia. Si gira per affrontare Emil e i giocatori. “È un peccato che il vampiro non reclamerà mai il suo prigioniero," ruggisce—"perché quando avrò finito con voi, non rimarrà un solo osso!"
 
-<div class="description">
-<p>Kiril’s eyes slide toward the man at your side, and his black lip curls. He stares for a moment, then throws his head back in uproarious laughter.</p>
-<p>"You brought the whelp back with you!" he booms. “Congratulations, weakling. How does it feel to know that you needed these <em>mice</em> to rescue you? Though I’m impressed—how <em>did</em> they do it?</p>
-</div>
-
-> [!abstract]+ **Imprisoned Emil**
-> If the players failed to rescue Emil from Castle Ravenloft, when Kiril feels that the time has come for the conversation to end, he commands the wolves flanking him to kill the players. Players who point out the wolves’ obvious hunger and succeed on a DC 18 Charisma (Persuasion) check can convince the pack to stand back while the players deal with Kiril directly. Otherwise, the wolves and werewolves (excepting Kiril) then attack. Kiril attacks the players as soon as the rest of the pack has been defeated or slain.
-
-At a suitable point in the conversation, if he is present, Emil challenges Kiril for the leadership of the pack. Unless the players interrupt, the following exchange then occurs:
-
-* Emil steps forward, his eyes glinting gold in the dim light. “Kiril," he intones. “I cannot stand by and watch what you have done to our pack—our family. You have betrayed them for your own pride, hunger, and ego."
-* Kiril’s muzzle curls into a wolfish, toothy grin. “Pride? Hunger? Those are *strength*, weakling. I have brought the pack nothing but glory."
-* Emil’s eyes narrow. “You have sought to bring *yourself* glory."
-* Kiril snarls. “I am alpha! In my glory, the pack is exalted."
-* “A leader *cares* for his pack," Emil replies cooly. “He hunts for them, not himself."
-* “Do you challenge me, then, whelp?" Kiril responds. “You and your little mice?"
-* Emil then looks to the players to seek their assent. If they express an interest in fighting Kiril alongside him and don’t reply to Kiril themselves, Emil turns to Kiril and says, “We do."
-* Kiril laughs, and replies, “A wolf does not concern himself with the defiance of sheep." He glances toward the wolves flanking him, then gestures toward the players. “Kill them."
-* As the other members of the pack hesitantly step forward, Emil meets the largest wolf’s eyes and says, “Kellen—this is *your* choice, not his." The wolf falters, and Emil turns to face the rest of the pack, adding, “I failed you once before. I have no right to ask your loyalty. I ask only that you remain loyal to yourselves, and to each other—and not to any man who would demand your submission." He turns to face Kiril evenly, his clawed hand curling into a fist. “For we are wolves, not dogs—and obedience is a thing of men."
-* One by one, each wolf stops, turns, and returns to its original place, where it sits upon the ground—waiting.
-* Kiril’s eyes flash crimson, and his claws and fangs grow slightly longer, his massive body trembling with rage. “Cowards and traitors!" he snarls. He turns to face Emil and the players. “It’s a shame the vampire will never reclaim his prisoner," he rumbles—"because when I’m through with you, there won’t be a single bone left!"
-
-Kiril then attacks.
+Kiril attacca quindi.
   
-> [!combat]- **Balancing the Mutant Lycan** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **bloody** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), a CR 3 ally (Emil), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 58% of their total maximum hit points and the second of which will consume approximately 52% of their total maximum hit points (for a total of 110% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce Kiril’s hit points to 227 in each phase. Reduce his **Multiattack** action in P1 to one attack and a use of **Alpha’s Howl**, but increase the damage of the attacks granted by **Alpha’s Howl** to 2d6 plus Strength mod for the claw and 1d10 plus Strength mod for the bite. Decrease his **Savage Frenzy** bonus action to 10 (3d6) damage. In his P2, remove the ability to make a **Claw** attack as part of his **Leap** reaction. Make sure he uses his **Leap** reaction once every round. 
-> * **Four Players**. Reduce Kiril’s hit points to 267 in each phase. In his first phase, reduce his **Multiattack** to a total of 2 attacks and one use of **Alpha’s Howl**. In his second phase, remove his **Multiattack** action. 
-> * **Six Players**. Increase Kiril’s hitpoints in each phase to 345. Increase his **Savage Frenzy** in P1 to 21 (6d6) slashing damage. Increase his **Multiattack** in P2 to two **Claw** attacks and one **Bite/Swallow** attack.
+> [!combat]- **Bilanciamento del Licantropo Mutante** 
+> A causa della meccanica delle fasi, questo incontro di combattimento è una serie di due incontri consecutivi **sanguinosi** contro un gruppo di cinque giocatori di 7° livello, un alleato di GS 2 (Ireena Kolyana), un alleato di GS 3 (Emil) e un alleato di GS 4 (Ezmerelda d’Avenir), il primo dei quali consumerà circa il 58% dei loro punti ferita massimi totali e il secondo consumerà circa il 52% dei loro punti ferita massimi totali (per un totale del 110% dei loro punti ferita massimi). Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue: 
+> * **Tre Giocatori**. Riduci i punti ferita di Kiril a 227 in ogni fase. Riduci la sua azione **Multiattacco** in P1 a un attacco e un uso di **Ululato dell'Alpha**, ma aumenta i danni degli attacchi concessi da **Ululato dell'Alpha** a 2d6 più il modificatore di Forza per l'artiglio e 1d10 più il modificatore di Forza per il morso. Diminuisci la sua azione bonus **Frenesia Selvaggia** a 10 (3d6) danni. Nella sua P2, rimuovi la capacità di effettuare un attacco con **Artiglio** come parte della sua reazione **Balzo**. Assicurati che usi la sua reazione **Balzo** una volta ogni round. 
+> * **Quattro Giocatori**. Riduci i punti ferita di Kiril a 267 in ogni fase. Nella sua prima fase, riduci la sua **Multiattacco** a un totale di 2 attacchi e un uso di **Ululato dell'Alpha**. Nella sua seconda fase, rimuovi la sua azione **Multiattacco**. 
+> * **Sei Giocatori**. Aumenta i punti ferita di Kiril in ogni fase a 345. Aumenta la sua **Frenesia Selvaggia** in P1 a 21 (6d6) danni da taglio. Aumenta la sua **Multiattacco** in P2 a due attacchi con **Artiglio** e un attacco con **Morso/Inghiottire**.
 
 <div class="statblock">
-<h2>Kiril, Werewolf Alpha</h2>
-<em>Large Monstrosity (Shapechanger), Chaotic Evil</em>
+<h2>Kiril, Alpha dei Lupi Mannari</h2>
+<em>Mostruosità Grande (Mutante), Caotico Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 16 (Natural Armor)
+<strong>Classe Armatura</strong> 16 (Armatura Naturale)
 <br>
-<strong>Hit Points</strong> 306 (36d12 + 144)
+<strong>Punti Ferita</strong> 306 (36d12 + 144)
 <br>
-<strong>Speed</strong> 50 ft. in hybrid or dire wolf form (30 ft. in humanoid form)
+<strong>Velocità</strong> 15 m in forma ibrida o di lupo terribile (9 m in forma umanoide)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -716,57 +699,57 @@ Kiril then attacks.
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Strength +10, Constitution +10<br>
-<strong>Skills</strong> Perception +9, Stealth +9<br>
-<strong>Senses</strong> passive Perception 19<br>
-<strong>Languages</strong> Common (can’t speak in dire wolf form)<br>
-<strong>Challenge</strong> 19, or 18 without his regeneration<br>
-<strong>Proficiency Bonus</strong> +6<br>
+<strong>Tiri Salvezza</strong> For +10, Cos +10<br>
+<strong>Abilità</strong> Percezione +9, Furtività +9<br>
+<strong>Sensi</strong> Percezione passiva 19<br>
+<strong>Lingue</strong> Comune (non può parlare in forma di lupo terribile)<br>
+<strong>Grado di Sfida</strong> 19, o 18 senza la sua rigenerazione<br>
+<strong>Bonus di Competenza</strong> +6<br>
 <hr>
-<p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of its turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Kiril fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Kiril would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)</p>
-<p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Second Phase.</em></strong> When Kiril is reduced to 0 hit points, he digs his claws into his chest, pulls out his own heart, and devours it. He then doubles in height and breadth, gaining a hunched back, bony protrusions along his arms and shoulders, and a grotesque, bloated head with oversized fangs and teeth, as well as a pair of toothy jaws for eyes. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage and conditions don’t carry over to his new form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Kiril makes three melee attacks, up to one of which can be a Bite. He can then immediately use <strong><em>alpha's howl</em></strong></p>
-<p><strong><em>Claw.</em></strong> <em>Melee Weapon Attack</em>, +10 to hit, range 5 ft., 1 target. <em>Hit:</em> 13 (2d8 + 4) slashing damage, and the target must succeed on a DC 17 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack</em>, +10 to hit, range 5 ft., 1 target. <em>Hit:</em> 11 (2d6 + 4) piercing damage. If the target is a Humanoid, it must succeed on a DC 17 Constitution saving throw or be cursed with werewolf lycanthropy until Kiril dies. If the target was already cursed with werewolf lycanthropy and has gained a werewolf's regeneration feature, it can't regenerate until it completes a long rest.</p>
-<p><strong><em>Alpha's Howl.</em></strong> Any number of targets within 60 feet that can hear Kiril and which Kiril or his infected victims have cursed with werewolf lycanthropy must make a DC 18 Wisdom saving throw, losing one level of bloodlust on a success (minimum 0). On a failure, a target gains one level of bloodlust (maximum 2) and must immediately use its reaction, if available, to move up to its speed toward a random creature other than Kiril. If it has at least one level of bloodlust, it must make an attack against the other creature with its claws (see below). If it has two levels of bloodlust, it must also make an attack against the other creature with its bite (see below).</p>
-<p>A target with one level of bloodlust gains wolflike claws and can use its claws to make an attack using its Strength modifier (minimum 2), dealing 2d4 slashing damage plus its Strength modifier (minimum 2) on a hit. A target with two levels of bloodlust also gains a wolflike muzzle and can use its bite to make an attack using its Strength modifier (minimum 2), dealing 1d8 piercing damage plus its Strength modifier (minimum 2) on a hit. A target with bloodlust is proficient with its claws and bite. A Humanoid bitten in this way must succeed on a DC 18 Constitution saving throw or be cursed with werewolf lycanthropy until Kiril dies.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Savage Frenzy.</em></strong> Kiril leaps up to his speed without triggering opportunity attacks. Each creature within 5 feet of him must then make a DC 18 Dexterity saving throw, taking 14 (4d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Shapechange.</em></strong> Kiril polymorphs into his human form or into a dire wolf, or back into his true form (a wolf-humanoid hybrid). His statistics, other than his AC, are the same in each form. Any equipment he is wearing or carrying isn't transformed. He reverts to his human form if he dies.</p>
-<h3>Reactions</h3>
-<p>Kiril can take up to three reactions per round, but only one per turn. If Kiril would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Pounce.</em></strong>  In response to a creature moving within 30 feet, Kiril moves up to his speed toward it without triggering opportunity attacks.</p>
-<p><strong><em>Lash Out.</em></strong> In response to being missed by an attack made by a creature he can see, hear, or smell, Kiril moves up to his speed toward that creature without triggering opportunity attacks. He can then attack that creature with his claws if it's within reach.</p>
-<p><strong><em>Maul.</em></strong> In response to being hit by an attack made by a creature within 5 feet, Kiril attacks that creature with his bite.</p>
+<p><strong><em>Rigenerazione.</em></strong> Kiril recupera 20 punti ferita all'inizio del suo turno. Se subisce danni necrotici o danni contundenti, perforanti o da taglio da un'arma argentata, questa caratteristica non funziona all'inizio del suo prossimo turno.</p>
+<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Kiril fallisce un tiro salvezza, può scegliere di avere successo invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se Kiril sarebbe paralizzato o stordito, è rallentato invece. (La sua velocità è dimezzata, ha svantaggio sui tiri salvezza su Destrezza e le creature hanno vantaggio sugli attacchi effettuati contro di lui.)</p>
+<p><strong><em>Udito e Olfatto Acuti.</em></strong> Kiril ha vantaggio sulle prove di Saggezza (Percezione) che si basano sull'udito o sull'olfatto.</p>
+<p><strong><em>Seconda Fase.</em></strong> Quando Kiril viene ridotto a 0 punti ferita, si scava gli artigli nel petto, estrae il proprio cuore e lo divora. Raddoppia quindi in altezza e larghezza, guadagnando una schiena curva, sporgenze ossee lungo le braccia e le spalle, e una testa grottesca e gonfia con zanne e denti sovradimensionati, così come una coppia di mascelle dentate per occhi. Le sue statistiche vengono quindi immediatamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio di iniziativa non cambia. I danni in eccesso e le condizioni non si trasferiscono alla sua nuova forma.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Kiril effettua tre attacchi in mischia, fino a uno dei quali può essere un Morso. Può quindi immediatamente usare <strong><em>ululato dell'alpha</em></strong></p>
+<p><strong><em>Artiglio.</em></strong> <em>Attacco con Arma da Mischia</em>, +10 per colpire, portata 1,5 m, 1 bersaglio. <em>Colpito:</em> 13 (2d8 + 4) danni da taglio, e il bersaglio deve superare un tiro salvezza su Forza a CD 17 o essere spinto prono.</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia</em>, +10 per colpire, portata 1,5 m, 1 bersaglio. <em>Colpito:</em> 11 (2d6 + 4) danni perforanti. Se il bersaglio è un Umanoide, deve superare un tiro salvezza su Costituzione a CD 17 o essere maledetto con la licantropia del lupo mannaro fino alla morte di Kiril. Se il bersaglio era già maledetto con la licantropia del lupo mannaro e ha guadagnato la caratteristica di rigenerazione del lupo mannaro, non può rigenerarsi fino a quando non completa un riposo lungo.</p>
+<p><strong><em>Ululato dell'Alpha.</em></strong> Un qualsiasi numero di bersagli entro 18 m che possono sentire Kiril e che Kiril o le sue vittime infette hanno maledetto con la licantropia del lupo mannaro devono effettuare un tiro salvezza su Saggezza a CD 18, perdendo un livello di sete di sangue in caso di successo (minimo 0). In caso di fallimento, un bersaglio guadagna un livello di sete di sangue (massimo 2) e deve immediatamente usare la sua reazione, se disponibile, per muoversi fino alla sua velocità verso una creatura casuale diversa da Kiril. Se ha almeno un livello di sete di sangue, deve effettuare un attacco contro l'altra creatura con i suoi artigli (vedi sotto). Se ha due livelli di sete di sangue, deve anche effettuare un attacco contro l'altra creatura con il suo morso (vedi sotto).</p>
+<p>Un bersaglio con un livello di sete di sangue guadagna artigli simili a quelli di un lupo e può usare i suoi artigli per effettuare un attacco usando il suo modificatore di Forza (minimo 2), infliggendo 2d4 danni da taglio più il suo modificatore di Forza (minimo 2) in caso di colpo. Un bersaglio con due livelli di sete di sangue guadagna anche un muso simile a quello di un lupo e può usare il suo morso per effettuare un attacco usando il suo modificatore di Forza (minimo 2), infliggendo 1d8 danni perforanti più il suo modificatore di Forza (minimo 2) in caso di colpo. Un bersaglio con sete di sangue è competente con i suoi artigli e il suo morso. Un Umanoide morso in questo modo deve superare un tiro salvezza su Costituzione a CD 18 o essere maledetto con la licantropia del lupo mannaro fino alla morte di Kiril.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Frenesia Selvaggia.</em></strong> Kiril salta fino alla sua velocità senza provocare attacchi di opportunità. Ogni creatura entro 1,5 m da lui deve quindi effettuare un tiro salvezza su Destrezza a CD 18, subendo 14 (4d6) danni da taglio in caso di fallimento, o metà danni in caso di successo.</p>
+<p><strong><em>Cambio Forma.</em></strong> Kiril si trasforma nella sua forma umana o in un lupo terribile, o torna alla sua forma originale (un ibrido lupo-umanoide). Le sue statistiche, a parte la sua CA, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato. Torna alla sua forma umana se muore.</p>
+<h3>Reazioni</h3>
+<p>Kiril può effettuare fino a tre reazioni per round, ma solo una per turno. Se Kiril perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p><strong><em>Balzo.</em></strong>  In risposta a una creatura che si muove entro 9 m, Kiril si muove fino alla sua velocità verso di essa senza provocare attacchi di opportunità.</p>
+<p><strong><em>Scatto.</em></strong> In risposta a essere mancato da un attacco effettuato da una creatura che può vedere, sentire o annusare, Kiril si muove fino alla sua velocità verso quella creatura senza provocare attacchi di opportunità. Può quindi attaccare quella creatura con i suoi artigli se è a portata.</p>
+<p><strong><em>Azzannare.</em></strong> In risposta a essere colpito da un attacco effettuato da una creatura entro 1,5 m, Kiril attacca quella creatura con il suo morso.</p>
 </div>
 <br>
 
-![[The Black Terror.png]]
-<span class="credit">"Kiril, Mutant Lycan" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+![[Il Terrore Nero.png]]
+<span class="credit">"Kiril, Licantropo Mutante" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 <div class="statblock">
-<h2>Kiril, Mutant Lycan</h2>
-<em>Huge Monstrosity, Chaotic Evil</em>
+<h2>Kiril, Licantropo Mutante</h2>
+<em>Mostruosità Enorme, Caotico Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 17 (Natural Armor)
+<strong>Classe Armatura</strong> 17 (Armatura Naturale)
 <br>
-<strong>Hit Points</strong> 306 (36d12 + 144)
+<strong>Punti Ferita</strong> 306 (36d12 + 144)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -781,137 +764,137 @@ Kiril then attacks.
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Strength +11, Constitution +10<br>
-<strong>Skills</strong> Perception +5<br>
-<strong>Condition Immunities</strong> frightened<br>
-<strong>Senses</strong> passive Perception 14<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 18, or 17 without his regeneration<br>
-<strong>Proficiency Bonus.</strong> +6<br>
+<strong>Tiri Salvezza</strong> For +11, Cos +10<br>
+<strong>Abilità</strong> Percezione +5<br>
+<strong>Immunità alle Condizioni</strong> spaventato<br>
+<strong>Sensi</strong> Percezione passiva 14<br>
+<strong>Lingue</strong> Comune<br>
+<strong>Grado di Sfida</strong> 18, o 17 senza la sua rigenerazione<br>
+<strong>Bonus di Competenza.</strong> +6<br>
 <hr>
-<p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of his turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Kiril fails a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Kiril would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)</p>
-<p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Kiril makes one attack with his claws and one attack with his bite. He can replace the bite with a swallow if he already has a target restrained with his bite.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, range 10 ft., 1 target. <em>Hit:</em> 15 (4d4 + 5) slashing damage, and the target must succeed on a DC 18 Dexterity saving throw or be pushed 10 feet away or grappled (Kiril's choice).</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, range 10 ft., 1 target. Hit: 18 (4d10 + 5) piercing damage. If the target is Large or smaller, it is grappled (escape DC 18). Until this grapple ends, the target is restrained, and Kiril can't bite another target.</p>
-<p><strong><em>Swallow.</em></strong> Kiril makes one bite attack against a Medium or smaller creature he has restrained with his bite. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside Kiril, and it takes 7 (2d6) acid damage at the start of each of Kiril's turns. If Kiril takes 20 damage or more on a single turn, he must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of him. Kiril must also immediately regurgitate all swallowed creatures if he dies.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Corrupted Miasma.</em></strong> Kiril exhales a cloud of necrotic mist. Each creature within 20 feet of him must succeed on a DC 18 Wisdom saving throw, taking 9 (2d8) necrotic damage on a failed save, or half as much damage on a success.</p>
-<p><strong><em>Shadow Beam.</em></strong> A 5-foot-wide, 100-foot-long beam of swirling shadows bursts from Kiril’s maw. Each creature in that area must make a DC 18 Dexterity saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a success. A target grappled by Kiril’s bite automatically fails the saving throw.</p>
-<h3>Reactions</h3>
-<p>Kiril can take up to three reactions per round, but only one per turn. If Kiril would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Leap.</em></strong> In response to a creature moving within 30 feet of him, making a ranged attack against him, or casting a spell, Kiril leaps toward it without provoking opportunity attacks. Each creature within a 5-foot radius of him must then immediately make a DC 19 Strength saving throw or fall prone. Kiril can then attack the creature that moved, attacked, or cast a spell with his claws.</p>
-<p><strong><em>Devour.</em></strong> In response to a creature moving within his reach for the first time on a turn, Kiril attacks it with his bite if he isn't currently biting another creature. If the attack misses, that creature has advantage on its next attack against Kiril before the start of its next turn.</p>
-<p><strong><em>Pin.</em></strong> In response to being missed by an attack made by a creature within reach or a creature leaving his reach, Kiril attacks it with his claws. If he grapples the creature, it must succeed on an additional DC 19 Strength saving throw or fall prone.</p>
+<p><strong><em>Rigenerazione.</em></strong> Kiril recupera 20 punti ferita all'inizio del suo turno. Se subisce danni necrotici o danni contundenti, perforanti o da taglio da un'arma argentata, questa caratteristica non funziona all'inizio del suo prossimo turno.</p>
+<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Kiril fallisce un tiro salvezza, può scegliere di avere successo invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se Kiril sarebbe paralizzato o stordito, è rallentato invece. (La sua velocità è dimezzata, ha svantaggio sui tiri salvezza su Destrezza e le creature hanno vantaggio sugli attacchi effettuati contro di lui.)</p>
+<p><strong><em>Udito e Olfatto Acuti.</em></strong> Kiril ha vantaggio sulle prove di Saggezza (Percezione) che si basano sull'udito o sull'olfatto.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Kiril effettua un attacco con i suoi artigli e uno con il suo morso. Può sostituire il morso con un inghiottire se ha già un bersaglio trattenuto con il suo morso.</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +11 per colpire, portata 3 m, 1 bersaglio. <em>Colpito:</em> 15 (4d4 + 5) danni da taglio, e il bersaglio deve superare un tiro salvezza su Destrezza a CD 18 o essere spinto di 3 m di distanza o afferrato (a scelta di Kiril).</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +11 per colpire, portata 3 m, 1 bersaglio. Colpito: 18 (4d10 + 5) danni perforanti. Se il bersaglio è Grande o più piccolo, è afferrato (CD fuga 18). Fino a quando questa presa non termina, il bersaglio è trattenuto e Kiril non può mordere un altro bersaglio.</p>
+<p><strong><em>Inghiottire.</em></strong> Kiril effettua un attacco con il morso contro una creatura Media o più piccola che ha trattenuto con il suo morso. Se l'attacco colpisce, il bersaglio subisce i danni del morso, il bersaglio viene inghiottito e la presa termina. Mentre è inghiottita, la creatura è accecata e trattenuta, ha copertura totale contro attacchi e altri effetti esterni a Kiril, e subisce 7 (2d6) danni da acido all'inizio di ogni turno di Kiril. Se Kiril subisce 20 danni o più in un singolo turno, deve superare un tiro salvezza su Costituzione a CD 20 alla fine di quel turno o rigurgitare tutte le creature inghiottite, che cadono prone in uno spazio entro 3 m da lui. Kiril deve anche rigurgitare immediatamente tutte le creature inghiottite se muore.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Miasma Corrotto.</em></strong> Kiril espira una nube di nebbia necrotica. Ogni creatura entro 6 m da lui deve superare un tiro salvezza su Saggezza a CD 18, subendo 9 (2d8) danni necrotici in caso di fallimento, o metà danni in caso di successo.</p>
+<p><strong><em>Raggio d'Ombra.</em></strong> Un raggio di ombre turbinanti largo 1,5 m e lungo 30 m esplode dalla bocca di Kiril. Ogni creatura in quell'area deve effettuare un tiro salvezza su Destrezza a CD 18, subendo 14 (4d6) danni necrotici in caso di fallimento, o metà danni in caso di successo. Un bersaglio afferrato dal morso di Kiril fallisce automaticamente il tiro salvezza.</p>
+<h3>Reazioni</h3>
+<p>Kiril può effettuare fino a tre reazioni per round, ma solo una per turno. Se Kiril perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p><strong><em>Balzo.</em></strong> In risposta a una creatura che si muove entro 9 m da lui, effettua un attacco a distanza contro di lui o lancia un incantesimo, Kiril salta verso di essa senza provocare attacchi di opportunità. Ogni creatura entro un raggio di 1,5 m da lui deve quindi immediatamente effettuare un tiro salvezza su Forza a CD 19 o cadere prona. Kiril può quindi attaccare la creatura che si è mossa, ha attaccato o ha lanciato un incantesimo con i suoi artigli.</p>
+<p><strong><em>Divorare.</em></strong> In risposta a una creatura che si muove entro la sua portata per la prima volta in un turno, Kiril la attacca con il suo morso se non sta attualmente mordendo un'altra creatura. Se l'attacco manca, quella creatura ha vantaggio sul suo prossimo attacco contro Kiril prima dell'inizio del suo prossimo turno.</p>
+<p><strong><em>Bloccare.</em></strong> In risposta a essere mancato da un attacco effettuato da una creatura entro la portata o una creatura che lascia la sua portata, Kiril la attacca con i suoi artigli. Se afferra la creatura, deve superare un ulteriore tiro salvezza su Forza a CD 19 o cadere prona.</p>
 </div>
 
-> [!warning]+ **Leaping While Grappling**
+> [!warning]+ **Saltare Mentre si Afferra**
 > 
-> As a Huge creature, Kiril is able to land on Medium or smaller creatures, and can leap while grappling creatures with his claws or bite attacks
+> Come creatura Enorme, Kiril è in grado di atterrare su creature Medie o più piccole e può saltare mentre afferra creature con i suoi attacchi con artigli o morso
 
-> [!warning] **Dragging Grappled Creatures**
-> Remember that Kiril's second phase, as a Huge creature, isn't slowed while grappling and dragging a Medium or smaller creature, as noted in <span class="citation">Moving a Grappled Target (Player's Handbook, p. 195)</span>.
+> [!warning] **Trascinare Creature Afferrare**
+> Ricorda che la seconda fase di Kiril, come creatura Enorme, non è rallentata mentre afferra e trascina una creatura Media o più piccola, come indicato in <span class="citation">Muovere un Bersaglio Afferrare (Manuale del Giocatore, p. 195)</span>.
 
-## Q5c. Kiril Vanquished
+## Q5c. Kiril Sconfitto
 
-Shortly after Kiril is defeated, if Emil is present, the **werewolves** amongst the pack assume their human forms to greet him. Read:
-
-<div class="description">
-<p>Eight of the wolves stand higher—and then higher, rising upon their hind legs as fur falls away, muzzles compress into faces, and forelegs twist into arms.</p>
-<p>Where eight wolves once sat, eight men and women now stand, clad in animal skins and furs. They hesitate, briefly, regarding you with wariness and caution—until one of them, a broad-shouldered man with thick, shaggy sideburns steps forward and embraces Emil.</p>
-<p>"We thought you were dead," he says gruffly. “I’m sorry we didn’t—"</p>
-<p>"You have nothing to apologize for," Emil interrupts fiercly, embracing him in return. “It was I who failed you." He then gestures toward the players, adding, “And it was they who saved us both."
-</div>
-
-The broad-shouldered man, Kellen, leads the other werewolves in thanking the players for their efforts. As they do, he asks the players: “I don’t understand. Did the vampire allow you to return Emil from the castle? And if he didn’t—what will become of us, now that Kiril is dead?"
-
-If the players fail to do so, Emil claps a hand on Kellen’s shoulder and reassures him that the pack has nothing to fear, for the players are “great warriors" whose courage “will see to the vampire’s undoing." Although Kellen initially looks doubtful, he is grateful for any reassurances the players can provide.
-
-Emil is glad to allow the players to accompany him and the remainder of the pack back to the werewolf den. (See [[#Q7. Return to the Werewolf Den]] for more information if they do.) Otherwise, he thanks them again for their help before bidding them farewell. If the players give him the keys from the chain around Kiril’s neck, Emil promises to free both Zuleika and Ilya as soon as he returns to the den, and to personally see that Ilya is escorted back to his family in Krezk. 
-
-Emil is also happy to ask Zuleika to release the players from the *Oath of the New Moon*, if they took the oath before departing the werewolf den. If asked, Emil reassures the players that the pack will no longer hunt for human flesh. “We were never meant to prey upon our own kind," he promises. “Though we stand apart from you, we are your brethren—not your enemies."
-
-***Milestone.*** Defeating Kiril completes a story milestone. When the players do so, award each player 2,000 XP.
-# Q6. Return to Argynvostholt
-
-> [!lore]+ **Vladimir’s Command**
-> When the players retrieve Argynvost’s skull from Castle Ravenloft, Vladimir Horngaard learns of it through his **phantom warrior** spies, who have heard of the players’ exploits through contacts in the Ethereal Plane. After interrogating Sir Godfrey Gwilym and learning of the players’ intent to place the skull in Argynvost’s mausoleum, Vladimir relocates to <span class="citation">Q15. Cemetery (p. 134)</span>, where he waits for the players to return to Argynvostholt.
-## Q6a. Return to the Foyer
-When the players first return to Argynvostholt after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], if they approach Argynvostholt’s cemetery by passing through <span class="citation">Q3. Dragon’s Foyer (p. 132)</span>, they encounter a number of **revenants** depending on the time of their return. After the players escape Castle Ravenloft:
-
-* If they return to Argynvostholt before noon, no revenants are present in the foyer.
-* If they return to Argynvostholt before dusk, one revenant is present in the foyer.
-* If they return to Argynvostholt before midnight, two revenants are present in the foyer.
-* Otherwise, three revenants are present in the foyer.
-
-Read the following, modifying the text as needed depending on the number of revenants present:
+Poco dopo che Kiril è stato sconfitto, se Emil è presente, i **lupi mannari** tra il branco assumono le loro forme umane per salutarlo. Leggi:
 
 <div class="description">
-<p>A thick fog covers the floor of the chamber. Through the fog, you see three armored figures standing at the northern end of the chamber—one before the western doors, one before the eastern doors, and one at the foot of the once-grand staircase.</p>
-<p>Each gaunt, ashen figure is clad in tattered chain mail and bears an ancient, rusted longsword. Red eyes glint solemnly behind beaten helms, each figure’s head downcast in sorrow and shame.</p>
-<p>As each revenant lifts a head in greeting, you notice strands of black, spiked wire encircling their limbs and torsos in a web, looping around armor and gauntlets before wrapping around the hilts of their swords. As you watch, the wire seems to crawl along their flesh, flexing and writhing like a puppet’s strings.</p>
-<p>"May you greet your deaths with honor and courage," one revenant rasps, “as our general has commanded."</p>
+<p>Otto dei lupi si alzano—e poi più in alto, alzandosi sulle zampe posteriori mentre la pelliccia cade, i musi si comprimono in volti e le zampe anteriori si trasformano in braccia.</p>
+<p>Dove una volta sedevano otto lupi, ora stanno otto uomini e donne, vestiti di pelli e pellicce di animali. Esitano, brevemente, guardandovi con diffidenza e cautela—fino a quando uno di loro, un uomo dalle spalle larghe con folte basette pelose, si fa avanti e abbraccia Emil.</p>
+<p>"Pensavamo fossi morto," dice con voce roca. “Mi dispiace che non—"</p>
+<p>"Non hai nulla di cui scusarti," interrompe Emil con forza, abbracciandolo a sua volta. “Sono io che vi ho deluso." Indica quindi i giocatori, aggiungendo, “E sono stati loro a salvarci entrambi."
 </div>
 
-> [!combat]- **Balancing the Return to the Foyer** 
-> This combat encounter is a **bloody** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 44% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of revenants in the foyer by one, to a minimum of one. 
-> * **Four Players**. Reduce the number of revenants in the foyer by one, to a minimum of one.
+L'uomo dalle spalle larghe, Kellen, guida gli altri lupi mannari nel ringraziare i giocatori per i loro sforzi. Mentre lo fanno, chiede ai giocatori: “Non capisco. Il vampiro vi ha permesso di riportare Emil dal castello? E se non l'ha fatto—cosa ne sarà di noi, ora che Kiril è morto?"
 
-The revenants then attack.
+Se i giocatori non riescono a farlo, Emil batte una mano sulla spalla di Kellen e lo rassicura che il branco non ha nulla da temere, perché i giocatori sono “grandi guerrieri" il cui coraggio “vedrà la rovina del vampiro." Sebbene Kellen inizialmente sembri dubbioso, è grato per qualsiasi rassicurazione che i giocatori possano fornire.
 
-In combat, the revenants attack with their longswords as described in <span class="citation">Q13. Chapel of Morning (p. 134)</span>. A player with a passive Wisdom (Perception) score of 13 or greater notices that, each time a revenant attacks, its cheeks are streaked with tears. In addition, a player who succeeds on a DC 13 Wisdom (Insight) check notices that the revenants don’t appear to be moving of their own volition, but move jerkily, as though the black wires are controlling their movements directly.
+Emil è felice di permettere ai giocatori di accompagnarlo e al resto del branco di tornare alla tana dei lupi mannari. (Vedi [[#Q7. Ritorno alla Tana dei Lupi Mannari]] per ulteriori informazioni se lo fanno.) Altrimenti, li ringrazia ancora per il loro aiuto prima di salutarli. Se i giocatori gli danno le chiavi dalla catena intorno al collo di Kiril, Emil promette di liberare sia Zuleika che Ilya non appena torna alla tana e di vedere personalmente che Ilya venga scortato indietro alla sua famiglia a Krezk. 
 
-A player can attempt a DC 15 Charisma (Persuasion) check to convince the revenants to fight back against the wires’ control. The check is made with advantage if the players share that they’ve recovered Argynvost’s skull from Castle Ravenloft and intend to restore it to his mausoleum. If the check succeeds, the revenants make attacks and Dexterity saving throws with disadvantage, and grant advantage on any attacks made against them.
+Emil è anche felice di chiedere a Zuleika di liberare i giocatori dal *Giuramento della Nuova Luna*, se hanno fatto il giuramento prima di lasciare la tana dei lupi mannari. Se richiesto, Emil rassicura i giocatori che il branco non caccerà più carne umana. “Non siamo mai stati destinati a predare i nostri simili," promette. “Anche se siamo separati da voi, siamo vostri fratelli—non vostri nemici."
 
-When the players defeat the last revenant, it warns them that Commander Horngaard is waiting for them in the cemetery. “May the Morninglord protect you," it rasps before collapsing.
+***Traguardo.*** Sconfiggere Kiril completa un traguardo della storia. Quando i giocatori lo fanno, assegna a ciascun giocatore 2.000 PE.
+# Q6. Ritorno ad Argynvostholt
 
-> [!abstract]+ **Vladimir's Command**
-> Vladimir Horngaard has forbidden Godfrey from speaking with the players. If he attempts to do so while bound in the chapel, black wires manifest to bind his tongue and jaw.
+> [!lore]+ **Il Comando di Vladimir**
+> Quando i giocatori recuperano il teschio di Argynvost dal Castello Ravenloft, Vladimir Horngaard lo apprende attraverso le sue spie **guerrieri fantasma**, che hanno sentito parlare delle imprese dei giocatori attraverso contatti nel Piano Etereo. Dopo aver interrogato Sir Godfrey Gwilym e appreso dell'intento dei giocatori di posizionare il teschio nel mausoleo di Argynvost, Vladimir si trasferisce a <span class="citation">Q15. Cimitero (p. 134)</span>, dove aspetta che i giocatori tornino ad Argynvostholt.
+## Q6a. Ritorno all'Atrio
+Quando i giocatori tornano per la prima volta ad Argynvostholt dopo aver recuperato il teschio di Argynvost in [[Arco P - Il Colpo a Ravenloft]], se si avvicinano al cimitero di Argynvostholt passando attraverso <span class="citation">Q3. Atrio del Drago (p. 132)</span>, incontrano un certo numero di **revenant** a seconda dell'ora del loro ritorno. Dopo che i giocatori fuggono dal Castello Ravenloft:
 
+* Se tornano ad Argynvostholt prima di mezzogiorno, nessun revenant è presente nell'atrio.
+* Se tornano ad Argynvostholt prima del tramonto, un revenant è presente nell'atrio.
+* Se tornano ad Argynvostholt prima di mezzanotte, due revenant sono presenti nell'atrio.
+* Altrimenti, tre revenant sono presenti nell'atrio.
 
-## Q6b. Return to the Cemetery
-When the players first return to <span class="citation">Q15. Cemetery (p. 134)</span> after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], they find the cemetery apparently empty, with the stone door to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span> hanging open. 
-
-> [!abstract]+ **Teleporting Players**
-> When the players first return to the cemetery, Vladimir is waiting for them inside of Argynvost’s mausoleum. If a player teleports into the mausoleum without first entering the cemetery, Vladimir attacks them on sight, throwing them out of the mausoleum using his ***greatsword*** attack if possible.
-
-The first time the players enter the cemetery, if they’re not using stealth or fail a group DC 19 Dexterity (Stealth) check, Vladimir hears their approach and exits the mausoleum to address them. Read:
+Leggi quanto segue, modificando il testo secondo necessità a seconda del numero di revenant presenti:
 
 <div class="description">
-<p>The sound of shrieking, rusted metal cuts through the silent graveyard as a tall, broad-shouldered knight clad in once-fine armor steps forth from the open mausoleum.</p>
-<p>"I did not expect you to be fool enough to return," Vladimir rasps, his red eyes flashing. His ancient iron gauntlets wrap tightly around the hilt of the gleaming greatsword he holds at his side, black flames dancing briefly along its edges. “If you wish your lives to end, I shall gladly grant that wish."
+<p>Una fitta nebbia copre il pavimento della camera. Attraverso la nebbia, vedi tre figure corazzate in piedi all'estremità settentrionale della camera—una davanti alle porte occidentali, una davanti alle porte orientali e una ai piedi della scala un tempo grandiosa.</p>
+<p>Ogni figura pallida e spettrale è vestita con una cotta di maglia logora e porta una spada lunga antica e arrugginita. Occhi rossi brillano solennemente dietro elmi battuti, la testa di ciascuna figura china in segno di dolore e vergogna.</p>
+<p>Mentre ogni revenant alza la testa in segno di saluto, noti fili di filo nero e spinoso che avvolgono i loro arti e toraci in una rete, avvolgendosi intorno all'armatura e ai guanti prima di avvolgersi intorno agli elsi delle loro spade. Mentre osservi, il filo sembra strisciare lungo la loro carne, flettendosi e contorcendosi come i fili di un burattino.</p>
+<p>"Possa tu affrontare la tua morte con onore e coraggio," uno dei revenant sussurra, “come ha comandato il nostro generale."</p>
 </div>
 
-> [!abstract]+ **Zorya’s Return**
-> If the players befriended her in [[Arc M - The Dragon's Manor]], the spirit of the pseudodragon Zorya dives from one of the mansion’s upper windows on the first round of combat to assist them. In combat, Zorya uses simple gestures and squeaks to attempt to communicate that the players should place Argynvost’s skull in the mausoleum before fighting Vladimir. If the players attempt to place Argynvost’s skull there, Zorya attempts to defend them by attacking Vladimir as they do so.
+> [!combat]- **Bilanciamento del Ritorno all'Atrio** 
+> Questo incontro di combattimento è un incontro **sanguinoso** contro un gruppo di cinque giocatori di 7° livello, un alleato di GS 2 (Ireena Kolyana) e un alleato di GS 4 (Ezmerelda d’Avenir), e consumerà circa il 44% dei loro punti ferita massimi totali. Per gruppi di dimensioni minori, modifica l'incontro come segue: 
+> * **Tre Giocatori**. Riduci il numero di revenant nell'atrio di uno, fino a un minimo di uno. 
+> * **Quattro Giocatori**. Riduci il numero di revenant nell'atrio di uno, fino a un minimo di uno.
 
-> [!combat]- **Balancing the Fallen Knight** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive combat encounters, the first **bloody** and the second **crushing**, against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 42% of their total maximum hit points and the second of which will consume approximately 139% of their total maximum hit points (for a total of 181% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Remove the phantom warriors in Vladimir’s second phase 
-> * **Four Players**. Reduce the number of phantom warriors in Vladimir’s second phase to two. 
-> * **Six Players**. Increase the number of phantom warriors in Vladimir’s second phase to six.
+I revenant attaccano quindi.
+
+In combattimento, i revenant attaccano con le loro spade lunghe come descritto in <span class="citation">Q13. Cappella del Mattino (p. 134)</span>. Un giocatore con un punteggio di Saggezza (Percezione) passivo di 13 o superiore nota che, ogni volta che un revenant attacca, le sue guance sono rigate di lacrime. Inoltre, un giocatore che supera una prova di Saggezza (Intuizione) a CD 13 nota che i revenant non sembrano muoversi di propria volontà, ma si muovono in modo scattoso, come se i fili neri stessero controllando direttamente i loro movimenti.
+
+Un giocatore può tentare una prova di Carisma (Persuasione) a CD 15 per convincere i revenant a combattere contro il controllo dei fili. La prova viene effettuata con vantaggio se i giocatori condividono di aver recuperato il teschio di Argynvost dal Castello Ravenloft e intendono riporlo nel suo mausoleo. Se la prova ha successo, i revenant effettuano attacchi e tiri salvezza su Destrezza con svantaggio e concedono vantaggio su qualsiasi attacco effettuato contro di loro.
+
+Quando i giocatori sconfiggono l'ultimo revenant, li avverte che il Comandante Horngaard li sta aspettando nel cimitero. “Possa il Signore del Mattino proteggervi," sussurra prima di crollare.
+
+> [!abstract]+ **Il Comando di Vladimir**
+> Vladimir Horngaard ha proibito a Godfrey di parlare con i giocatori. Se tenta di farlo mentre è vincolato nella cappella, fili neri si manifestano per legare la sua lingua e la sua mascella.
+
+
+## Q6b. Ritorno al Cimitero
+Quando i giocatori tornano per la prima volta a <span class="citation">Q15. Cimitero (p. 134)</span> dopo aver recuperato il teschio di Argynvost in [[Arco P - Il Colpo a Ravenloft]], trovano il cimitero apparentemente vuoto, con la porta di pietra di <span class="citation">Q16. Mausoleo del Drago (p. 134)</span> aperta.
+
+> [!abstract]+ **Giocatori che si Teletrasportano**
+> Quando i giocatori tornano per la prima volta al cimitero, Vladimir li sta aspettando all'interno del mausoleo di Argynvost. Se un giocatore si teletrasporta nel mausoleo senza prima entrare nel cimitero, Vladimir li attacca a vista, gettandoli fuori dal mausoleo usando il suo attacco ***spadone*** se possibile.
+
+La prima volta che i giocatori entrano nel cimitero, se non stanno usando furtività o falliscono una prova di gruppo di Destrezza (Furtività) a CD 19, Vladimir sente il loro avvicinarsi ed esce dal mausoleo per rivolgersi a loro. Leggi:
+
+<div class="description">
+<p>Il suono di metallo arrugginito che stride taglia il silenzio del cimitero mentre un alto cavaliere dalle spalle larghe vestito con un'armatura un tempo raffinata esce dal mausoleo aperto.</p>
+<p>"Non mi aspettavo che foste così sciocchi da tornare," Vladimir sussurra, i suoi occhi rossi che lampeggiano. I suoi antichi guanti di ferro avvolgono strettamente l'elsa dello spadone scintillante che tiene al suo fianco, fiamme nere che danzano brevemente lungo i suoi bordi. “Se desiderate che le vostre vite finiscano, sarò felice di esaudire quel desiderio."
+</div>
+
+> [!abstract]+ **Il Ritorno di Zorya**
+> Se i giocatori si sono fatti amici di lei in [[Arco M - Il Maniero del Drago]], lo spirito del pseudodrago Zorya si tuffa da una delle finestre superiori del maniero nel primo round di combattimento per assisterli. In combattimento, Zorya usa gesti semplici e squittii per tentare di comunicare che i giocatori dovrebbero posizionare il teschio di Argynvost nel mausoleo prima di combattere Vladimir. Se i giocatori tentano di posizionare il teschio di Argynvost lì, Zorya tenta di difenderli attaccando Vladimir mentre lo fanno.
+
+> [!combat]- **Bilanciamento del Cavaliere Caduto** 
+> A causa della meccanica delle fasi, questo incontro di combattimento è una serie di due incontri consecutivi, il primo **sanguinoso** e il secondo **schiacciante**, contro un gruppo di cinque giocatori di 7° livello, un alleato di GS 2 (Ireena Kolyana) e un alleato di GS 4 (Ezmerelda d’Avenir), il primo dei quali consumerà circa il 42% dei loro punti ferita massimi totali e il secondo consumerà circa il 139% dei loro punti ferita massimi totali (per un totale del 181% dei loro punti ferita massimi). Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue: 
+> * **Tre Giocatori**. Rimuovi i guerrieri fantasma nella seconda fase di Vladimir 
+> * **Quattro Giocatori**. Riduci il numero di guerrieri fantasma nella seconda fase di Vladimir a due. 
+> * **Sei Giocatori**. Aumenta il numero di guerrieri fantasma nella seconda fase di Vladimir a sei.
 
 <div class="statblock">
-<h2>Vladimir Horngaard, Vengeful Revenant</h2>
-<em>Medium undead, lawful evil</em>
+<h2>Vladimir Horngaard, Revenant Vendicativo</h2>
+<em>Non Morto Medio, Legale Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 17 (half plate armor)<br>
-<strong>Hit Points</strong> 228 (24d8 + 120)<br>
-<strong>Speed</strong> 30 ft.<br>
+<strong>Classe Armatura</strong> 17 (armatura a piastre)<br>
+<strong>Punti Ferita</strong> 228 (24d8 + 120)<br>
+<strong>Velocità</strong> 9 m<br>
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -926,53 +909,53 @@ The first time the players enter the cemetery, if they’re not using stealth or
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +10, Con +10, Wis +8, Cha +9<br>
-<strong>Skills</strong> Athletics +10, History +6, Intimidation +9, Perception +8<br>
-<strong>Damage Resistances</strong> necrotic, psychic<br>
-<strong>Damage Immunities</strong> poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 18<br>
-<strong>Languages</strong> Common, Draconic<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency</strong> +5
+<strong>Tiri Salvezza</strong> For +10, Cos +10, Sag +8, Car +9<br>
+<strong>Abilità</strong> Atletica +10, Storia +6, Intimidazione +9, Percezione +8<br>
+<strong>Resistenze ai Danni</strong> necrotico, psichico<br>
+<strong>Immunità ai Danni</strong> veleno<br>
+<strong>Immunità alle Condizioni</strong> affascinato, esausto, spaventato, paralizzato, avvelenato, stordito<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 18<br>
+<strong>Lingue</strong> Comune, Draconico<br>
+<strong>Grado di Sfida</strong> 15<br>
+<strong>Competenza</strong> +5
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Vladimir would fail a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
-<p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
-<p><strong><em>Oathbind.</em></strong> If Vladimir would deal damage to a dying creature with his <strong><em>+2 greatsword</em></strong>, he can instead choose to stabilize that creature and subject it to the effects of a <em>geas</em> spell. This geas lasts until dispelled and can damage its bearer any number of times each day. A creature that takes damage in this way is also restrained until the start of its next turn. In addition, the geas can’t be ended or dispelled except through the effects of a <em>greater restoration</em> or <em>wish</em> spell, or if Vladimir uses an action to dismiss it.</p>
-<p><strong><em>Burning Hatred.</em></strong> When Vladimir is reduced to 0 hit points, black flames erupt along the hilt of his greatsword and the shadows encircling its blade become spiked black wires. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change, excess damage doesn't carry over to his new form, and he retains none of the conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Vladimir makes two attacks with his <strong><em>+2 greatsword</em></strong>. He can replace one of those attacks with one use of his <strong><em>conjure phantoms</em></strong> action.</p>
-<p><strong><em>Greatsword +2.</em></strong> Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage, and Vladimir can push the target up to 5 ft. away. Instead of pushing the target, Vladimir can force the target to make a DC 18 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Conjure Phantoms.</em></strong> Vladimir summons a pair of <strong>phantom warriors</strong>, which appear next to a hostile creature that Vladimir can see. Each warrior makes a <strong><em>spectral longsword</em></strong> attack against that creature, then disappears. A creature that takes damage in this way can’t regain hit points until the start of Vladimir’s next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Reaving Sweep.</em></strong> Vladimir sweeps his greatsword in an arc with thunderous force, creating a shockwave that rips through a 15-foot cone in front of him. Each creature in that area must succeed on a DC 18 Constitution saving throw or take 21 (6d6) slashing damage and be pushed back 5 feet. A creature that succeeds on the saving throw takes half damage and isn’t pushed.</p>
-<p><strong><em>Umbral Snare.</em></strong> Black-spiked wires extrude from the earth around Vladimir in a 5-foot radius. Each creature in that area must succeed on a DC 18 Dexterity saving throw or take 14 (4d6) piercing damage and be grappled by the wires (escape DC 19) until the start of Vladimir’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t grappled. A creature that attempts to escape the grapple immediately takes an additional 7 (2d6) piercing damage, whether it succeeds or fails.</p>
-<h3>Reactions</h3>
-<p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Sworn Retribution (1/round).</em></strong> In response to taking damage from a creature he can see, Vladimir marks that creature until the end of his next turn. While that creature is marked, Vladimir doesn’t provoke opportunity attacks when moving directly toward it, he has advantage on the first melee attack he makes against that creature each turn and his weapon attacks against that creature score a critical hit on a roll of 19-20.</p>
-<p><strong><em>Ghostly Command.</em></strong> In response to taking damage from an attack or spell, Vladimir conjures a phantom soldier to shield him, reducing the damage taken by half (rounded up). This ability can’t reduce Vladimir’s damage taken by more than 10.</p>
-<p><strong><em>Martial Reprisal.</em></strong> In response to taking damage from an attack or spell, Vladimir moves up to half his speed toward the attacker or caster and makes an attack against it with his <strong><em>+2 greatsword</em></strong> if it's within reach.</p>
+<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Vladimir fallisce un tiro salvezza, può scegliere di avere successo invece.</p>
+<p><strong><em>Rigenerazione.</em></strong> Vladimir recupera 10 punti ferita all'inizio del suo turno. Se subisce danni da fuoco o radianti, questa caratteristica non funziona all'inizio del suo prossimo turno. Il corpo di Vladimir viene distrutto solo se inizia il suo turno con 0 punti ferita e non si rigenera.</p>
+<p><strong><em>Immunità al Volgersi.</em></strong> Vladimir è immune agli effetti che volgono i non morti.</p>
+<p><strong><em>Vincolo del Giuramento.</em></strong> Se Vladimir infliggerebbe danni a una creatura morente con il suo <strong><em>spadone +2</em></strong>, può invece scegliere di stabilizzare quella creatura e sottoporla agli effetti di un incantesimo <em>geas</em>. Questo geas dura fino a quando non viene dissolto e può danneggiare il suo portatore un numero qualsiasi di volte ogni giorno. Una creatura che subisce danni in questo modo è anche trattenuta fino all'inizio del suo prossimo turno. Inoltre, il geas non può essere terminato o dissolto se non attraverso gli effetti di un incantesimo <em>restaurazione superiore</em> o <em>desiderio</em>, o se Vladimir usa un'azione per dissolverlo.</p>
+<p><strong><em>Odio Ardente.</em></strong> Quando Vladimir viene ridotto a 0 punti ferita, fiamme nere eruttano lungo l'elsa del suo spadone e le ombre che circondano la sua lama diventano fili neri spinosi. Le sue statistiche vengono quindi immediatamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio di iniziativa non cambia, i danni in eccesso non si trasferiscono alla sua nuova forma e non conserva nessuna delle condizioni che aveva nella sua forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Vladimir effettua due attacchi con il suo <strong><em>spadone +2</em></strong>. Può sostituire uno di quegli attacchi con un uso della sua azione <strong><em>evocare fantasmi</em></strong>.</p>
+<p><strong><em>Spadone +2.</em></strong> Attacco con Arma da Mischia: +12 per colpire, portata 1,5 m, un bersaglio. Colpito: 14 (2d6 + 7) danni da taglio, e Vladimir può spingere il bersaglio fino a 1,5 m di distanza. Invece di spingere il bersaglio, Vladimir può costringere il bersaglio a effettuare un tiro salvezza su Forza a CD 18 o essere spinto prono.</p>
+<p><strong><em>Evocare Fantasmi.</em></strong> Vladimir evoca una coppia di <strong>guerrieri fantasma</strong>, che appaiono accanto a una creatura ostile che Vladimir può vedere. Ogni guerriero effettua un attacco con <strong><em>spada lunga spettrale</em></strong> contro quella creatura, poi scompare. Una creatura che subisce danni in questo modo non può recuperare punti ferita fino all'inizio del prossimo turno di Vladimir.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Colpo Devastante.</em></strong> Vladimir spazza il suo spadone in un arco con forza tonante, creando un'onda d'urto che si diffonde in un cono di 4,5 m davanti a lui. Ogni creatura in quell'area deve superare un tiro salvezza su Costituzione a CD 18 o subire 21 (6d6) danni da taglio ed essere spinta indietro di 1,5 m. Una creatura che supera il tiro salvezza subisce metà danni e non viene spinta.</p>
+<p><strong><em>Laccio Ombroso.</em></strong> Fili neri spinosi estrudono dalla terra intorno a Vladimir in un raggio di 1,5 m. Ogni creatura in quell'area deve superare un tiro salvezza su Destrezza a CD 18 o subire 14 (4d6) danni perforanti ed essere afferrata dai fili (CD fuga 19) fino all'inizio del prossimo turno di Vladimir. Una creatura che supera il tiro salvezza subisce metà danni e non viene afferrata. Una creatura che tenta di sfuggire all'afferramento subisce immediatamente 7 (2d6) danni perforanti aggiuntivi, che riesca o meno.</p>
+<h3>Reazioni</h3>
+<p>Vladimir può effettuare fino a tre reazioni per round, ma solo una per turno. Se Vladimir perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p><strong><em>Retribuzione Giurata (1/round).</em></strong> In risposta a subire danni da una creatura che può vedere, Vladimir marchia quella creatura fino alla fine del suo prossimo turno. Mentre quella creatura è marchiata, Vladimir non provoca attacchi di opportunità quando si muove direttamente verso di essa, ha vantaggio sul primo attacco in mischia che effettua contro quella creatura ogni turno e i suoi attacchi con armi contro quella creatura infliggono un colpo critico con un tiro di 19-20.</p>
+<p><strong><em>Comando Spettrale.</em></strong> In risposta a subire danni da un attacco o incantesimo, Vladimir evoca un soldato fantasma per proteggerlo, riducendo i danni subiti della metà (arrotondati per eccesso). Questa abilità non può ridurre i danni subiti da Vladimir di più di 10.</p>
+<p><strong><em>Rappresaglia Marziale.</em></strong> In risposta a subire danni da un attacco o incantesimo, Vladimir si muove fino a metà della sua velocità verso l'attaccante o l'incantatore ed effettua un attacco contro di esso con il suo <strong><em>spadone +2</em></strong> se è a portata.</p>
 </div>
 <br>
 
 <div class="statblock">
-<h2>Vladimir Horngaard, Knight of Death</h2>
-<em>Medium undead, lawful evil</em>
+<h2>Vladimir Horngaard, Cavaliere della Morte</h2>
+<em>Non Morto Medio, Legale Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 17 (half plate armor)<br>
-<strong>Hit Points</strong> 228 (24d8 + 120)<br>
-<strong>Speed</strong> 30 ft.<br>
+<strong>Classe Armatura</strong> 17 (armatura a piastre)<br>
+<strong>Punti Ferita</strong> 228 (24d8 + 120)<br>
+<strong>Velocità</strong> 9 m<br>
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -987,178 +970,178 @@ The first time the players enter the cemetery, if they’re not using stealth or
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +10, Con +10, Wis +8, Cha +9<br>
-<strong>Skills</strong> Athletics +10, History +6, Intimidation +9, Perception +8<br>
-<strong>Damage Resistances</strong> necrotic, psychic<br>
-<strong>Damage Immunities</strong> Poison<br>
-<strong>Condition Immunities</strong> Charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
-<strong>Languages</strong> Common, Draconic<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency</strong> +5
+<strong>Tiri Salvezza</strong> For +10, Cos +10, Sag +8, Car +9<br>
+<strong>Abilità</strong> Atletica +10, Storia +6, Intimidazione +9, Percezione +8<br>
+<strong>Resistenze ai Danni</strong> necrotico, psichico<br>
+<strong>Immunità ai Danni</strong> Veleno<br>
+<strong>Immunità alle Condizioni</strong> Affascinato, esausto, spaventato, paralizzato, avvelenato, stordito<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 13<br>
+<strong>Lingue</strong> Comune, Draconico<br>
+<strong>Grado di Sfida</strong> 15<br>
+<strong>Competenza</strong> +5
 <hr>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Vladimir would fail a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
-<p><strong><em>Rejuvenation.</em></strong> When Vladimir's body is destroyed, his soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a wish spell can be used to force the soul to go to the afterlife and not return.</p>
-<p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
-<p><strong><em>Oathbind.</em></strong> If Vladimir would kill a creature with his <strong><em>+2 greatsword</em></strong>, he can instead choose to stabilize that creature and subject it to the effects of a <em>geas</em> spell. This geas lasts until dispelled and can damage its bearer any number of times each day. A creature that takes damage in this way is also restrained until the start of its next turn. In addition, the geas can’t be ended or dispelled except through the effects of a <em>greater restoration</em> or <em>wish</em> spell, or if Vladimir uses an action to dismiss it.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Vladimir makes two melee attacks. He can replace one of those attacks with a <strong><em>black flames</em></strong> attack.</p>
-<p><strong><em>Greatsword +2.</em></strong> Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage plus 3 (1d6) piercing damage, and the target must make a DC 18 Wisdom saving throw. On a failure, it has disadvantage on the first attack roll or ability check it makes before the end of its next turn.</p>
-<p><strong><em>Black Flames.</em></strong> Ranged Spell Attack: +10 to hit, range 30 ft., one target. Hit: 7 (2d6) fire damage plus 3 (1d6) necrotic damage, and the target ignites in black flames. At the start of its next turn, the target and each creature within 5 feet of it must make a DC 17 Constitution saving throw or take an additional 7 (2d6) cold damage. (The flames can’t be doused by nonmagical means.)</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Gravepyre.</em></strong> Vladimir hurls a magical ball of black flames that explodes at a point he can see within 120 feet of him. Each creature in a 10-foot radius sphere centered on that point must make a DC 17 Dexterity saving throw. The sphere spreads around corners. A creature takes 10 (3d6) fire damage plus 10 (3d6) necrotic damage on a failed save, or half as much damage on a successful one. On a failure, a creature also has disadvantage on the next attack it makes before the start of Vladimir’s next turn.</p>
-<p><strong><em>Destructive Wave.</em></strong> Vladimir strikes the ground with his greatsword, creating a burst of destructive energy that ripples outward from him. Each creature within 10 feet of him must succeed on a DC 18 Constitution saving throw or take 10 (3d6) thunder damage plus 10 (3d6) necrotic damage and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn’t knocked prone.</p>
-<h3>Reactions</h3>
-<p>Vladimir can take up to three reactions per round, but only one per turn. If Vladimir would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
-<p><strong><em>Vengeful Rush.</em></strong> In response to an enemy hitting or missing him with an attack, Vladimir charges toward it, moving up to 15 feet straight toward it without triggering opportunity attacks. If Vladimir ends his movement within 5 feet of that enemy, he can force it to make a DC 18 Strength saving throw. On a failure, the target takes 2d6 bludgeoning damage and Vladimir and the target move up to an additional 10 feet in the same direction without triggering opportunity attacks. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved.</p>
-<p><strong><em>Vengeful Glare.</em></strong> In response to taking damage from an enemy within 30 feet, Vladimir forces that creature to make a DC 17 Wisdom saving throw. On a failure, the creature is frightened of Vladimir until Vladimir deals damage to it or until the end of Vladimir’s next turn. If the creature fails the saving throw by 5 or more, it is paralyzed instead.</p>
-<p><strong><em>Sentinel’s Strike.</em></strong> In response to a creature attempting to move out of his reach without first taking the Disengage action, Vladimir makes an attack against it with his <strong><em>+2 greatsword</em></strong>. On a hit, the creature takes no damage from the attack, but it falls prone and its speed becomes 0 for the rest of the turn.</p>
+<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Vladimir fallisce un tiro salvezza, può scegliere di avere successo invece.</p>
+<p><strong><em>Rigenerazione.</em></strong> Vladimir recupera 10 punti ferita all'inizio del suo turno. Se subisce danni da fuoco o radianti, questa caratteristica non funziona all'inizio del suo prossimo turno. Il corpo di Vladimir viene distrutto solo se inizia il suo turno con 0 punti ferita e non si rigenera.</p>
+<p><strong><em>Ringiovanimento.</em></strong> Quando il corpo di Vladimir viene distrutto, la sua anima persiste. Dopo 24 ore, l'anima abita e anima un altro cadavere sullo stesso piano di esistenza e recupera tutti i suoi punti ferita. Mentre l'anima è senza corpo, un incantesimo desiderio può essere usato per costringere l'anima ad andare nell'aldilà e non tornare.</p>
+<p><strong><em>Immunità al Volgersi.</em></strong> Vladimir è immune agli effetti che volgono i non morti.</p>
+<p><strong><em>Vincolo del Giuramento.</em></strong> Se Vladimir ucciderebbe una creatura con il suo <strong><em>spadone +2</em></strong>, può invece scegliere di stabilizzare quella creatura e sottoporla agli effetti di un incantesimo <em>geas</em>. Questo geas dura fino a quando non viene dissolto e può danneggiare il suo portatore un numero qualsiasi di volte ogni giorno. Una creatura che subisce danni in questo modo è anche trattenuta fino all'inizio del suo prossimo turno. Inoltre, il geas non può essere terminato o dissolto se non attraverso gli effetti di un incantesimo <em>restaurazione superiore</em> o <em>desiderio</em>, o se Vladimir usa un'azione per dissolverlo.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Vladimir effettua due attacchi in mischia. Può sostituire uno di quegli attacchi con un attacco <strong><em>fiamme nere</em></strong>.</p>
+<p><strong><em>Spadone +2.</em></strong> Attacco con Arma da Mischia: +12 per colpire, portata 1,5 m, un bersaglio. Colpito: 14 (2d6 + 7) danni da taglio più 3 (1d6) danni perforanti, e il bersaglio deve effettuare un tiro salvezza su Saggezza a CD 18. In caso di fallimento, ha svantaggio sul primo tiro per colpire o prova di abilità che effettua prima della fine del suo prossimo turno.</p>
+<p><strong><em>Fiamme Nere.</em></strong> Attacco con Incantesimo a Distanza: +10 per colpire, portata 9 m, un bersaglio. Colpito: 7 (2d6) danni da fuoco più 3 (1d6) danni necrotici, e il bersaglio si accende in fiamme nere. All'inizio del suo prossimo turno, il bersaglio e ogni creatura entro 1,5 m da esso devono effettuare un tiro salvezza su Costituzione a CD 17 o subire 7 (2d6) danni da freddo aggiuntivi. (Le fiamme non possono essere spente con mezzi non magici.)</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Ondata Distruttiva.</em></strong> Vladimir lancia una palla magica di fiamme nere che esplode in un punto che può vedere entro 36 m da lui. Ogni creatura in una sfera di raggio 3 m centrata su quel punto deve effettuare un tiro salvezza su Destrezza a CD 17. La sfera si diffonde intorno agli angoli. Una creatura subisce 10 (3d6) danni da fuoco più 10 (3d6) danni necrotici in caso di fallimento, o metà danni in caso di successo. In caso di fallimento, una creatura ha anche svantaggio sul prossimo attacco che effettua prima dell'inizio del prossimo turno di Vladimir.</p>
+<p><strong><em>Ondata Distruttiva.</em></strong> Vladimir colpisce il suolo con il suo spadone, creando un'esplosione di energia distruttiva che si propaga da lui. Ogni creatura entro 3 m da lui deve superare un tiro salvezza su Costituzione a CD 18 o subire 10 (3d6) danni da tuono più 10 (3d6) danni necrotici e cadere prona. Una creatura che supera il tiro salvezza subisce metà danni e non cade prona.</p>
+<h3>Reazioni</h3>
+<p>Vladimir può effettuare fino a tre reazioni per round, ma solo una per turno. Se Vladimir perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p><strong><em>Carica Vendicativa.</em></strong> In risposta a un nemico che lo colpisce o lo manca con un attacco, Vladimir si lancia verso di esso, muovendosi fino a 4,5 m direttamente verso di esso senza provocare attacchi di opportunità. Se Vladimir termina il suo movimento entro 1,5 m da quel nemico, può costringerlo a effettuare un tiro salvezza su Forza a CD 18. In caso di fallimento, il bersaglio subisce 2d6 danni contundenti e Vladimir e il bersaglio si muovono fino a 3 m aggiuntivi nella stessa direzione senza provocare attacchi di opportunità. Se il bersaglio non può muoversi per l'intera distanza, subisce 1d6 danni contundenti aggiuntivi per ogni 1,5 m non mosso.</p>
+<p><strong><em>Sguardo Vendicativo.</em></strong> In risposta a subire danni da un nemico entro 9 m, Vladimir costringe quella creatura a effettuare un tiro salvezza su Saggezza a CD 17. In caso di fallimento, la creatura è spaventata da Vladimir fino a quando Vladimir non le infligge danni o fino alla fine del prossimo turno di Vladimir. Se la creatura fallisce il tiro salvezza di 5 o più, è paralizzata invece.</p>
+<p><strong><em>Colpo del Sentinella.</em></strong> In risposta a una creatura che tenta di muoversi fuori dalla sua portata senza prima effettuare l'azione Disimpegno, Vladimir effettua un attacco contro di essa con il suo <strong><em>spadone +2</em></strong>. In caso di colpo, la creatura non subisce danni dall'attacco, ma cade prona e la sua velocità diventa 0 per il resto del turno.</p>
 </div>
 
-Vladimir attacks if the players attack him first, or if he deems further conversation unnecessary. If the players ask to restore Argynvost’s skull to the mausoleum, he falters briefly, then shakes his head. “You are too dangerous to be left alive," he rumbles. “Your antagonism to von Zarovich is a threat I shall not tolerate. When you lie in the ground, perhaps then I shall complete the task you have set yourselves upon—but not until the last breath has left your bodies."
+Vladimir attacca se i giocatori lo attaccano per primi o se ritiene che ulteriori conversazioni siano inutili. Se i giocatori chiedono di riporre il teschio di Argynvost nel mausoleo, esita brevemente, poi scuote la testa. “Siete troppo pericolosi per essere lasciati in vita," ruggisce. “La vostra antagonismo verso von Zarovich è una minaccia che non tollererò. Quando giacerete nella terra, forse allora completerò il compito che vi siete prefissati—ma non fino a quando l'ultimo respiro non avrà lasciato i vostri corpi."
 
-When Vladimir enters his second phase, four **phantom warriors** materialize to aid him. The phantom warriors fight to the death.
+Quando Vladimir entra nella sua seconda fase, quattro **guerrieri fantasma** si materializzano per aiutarlo. I guerrieri fantasma combattono fino alla morte.
 
-In addition, the first time a player enters the mausoleum, Vladimir uses one of his reactions to summon a ring of black fire encircling the cemetery. Read:
+Inoltre, la prima volta che un giocatore entra nel mausoleo, Vladimir usa una delle sue reazioni per evocare un anello di fuoco nero che circonda il cimitero. Leggi:
 
 <div class="description">
-<p>Jet-black shadows swirl from the torches either side of the mausoleum’s yawning door. Dark flames erupt from the crypt’s stone floor, then spread hungrily across the dying grass that fills the cemetery, forming a ring of black flames that clings to the wrought-iron fencing.</p>
+<p>Ombre nere a getto vorticano dalle torce ai lati della porta spalancata del mausoleo. Fiamme oscure eruttano dal pavimento di pietra della cripta, poi si diffondono avidamente attraverso l'erba morente che riempie il cimitero, formando un anello di fiamme nere che si aggrappa alla recinzione di ferro battuto.</p>
 </div>
 
-Each player within 5 feet of the mausoleum’s entrance must also succeed on a DC 18 Strength saving throw as a shockwave of force erupts from the flames’ origin. On a failure, a player is thrown 10 feet away from the mausoleum and lands prone.
+Ogni giocatore entro 1,5 m dall'ingresso del mausoleo deve anche superare un tiro salvezza su Forza a CD 18 mentre un'onda d'urto di forza erutta dall'origine delle fiamme. In caso di fallimento, un giocatore viene lanciato a 3 m di distanza dal mausoleo e cade prono.
 
-The flames form a sheet of black fire eight feet high. A creature takes 10 (3d6) fire damage plus 10 (3d6) necrotic damage when it enters the flames for the first time on a turn or ends its turn there. A player can vault over the flames if they can make a high jump of eight feet (see <span class="citation">High Jump, <em>Player’s Handbook</em> (p. 182)</span>) or by succeeding on a DC 18 Strength (Athletics) check. (If a player is carrying the full weight of Argynvost’s skull, their high jump distance is reduced by 3 feet, and they make the Strength (Athletics) check with disadvantage). On a failure, the player lands prone in the flames.
-## Q6c. Argynvost’s Return
-When a player first places Argynvost’s skull on an alcove in the mausoleum, read:
+Le fiamme formano un foglio di fuoco nero alto 2,4 m. Una creatura subisce 10 (3d6) danni da fuoco più 10 (3d6) danni necrotici quando entra nelle fiamme per la prima volta in un turno o termina il suo turno lì. Un giocatore può scavalcare le fiamme se può effettuare un salto in alto di 2,4 m (vedi <span class="citation">Salto in Alto, <em>Manuale del Giocatore</em> (p. 182)</span>) o superando una prova di Forza (Atletica) a CD 18. (Se un giocatore sta trasportando il peso completo del teschio di Argynvost, la sua distanza di salto in alto è ridotta di 0,9 m e effettua la prova di Forza (Atletica) con svantaggio). In caso di fallimento, il giocatore cade prono nelle fiamme.
+## Q6c. Il Ritorno di Argynvost
+Quando un giocatore posiziona per la prima volta il teschio di Argynvost in un'alcova nel mausoleo, leggi:
 
 <div class="description">
-<p>A silver light thrums within the mist that crawls across the floor below, as tendrils of perlescent fog rise toward the massive skull. The stone of the crypt trembles, the temperature plummeting, as two silver pinpricks of light flare to life within the skull’s great eyes.</p>
-<p>With a roar as fierce as rolling thunder, a bank of roiling silver mist bursts from the mausoleum’s depths, flooding forth into the cemetery beyond. The thick fog churns, flashing with silver light as an enormous form slowly coalesces in the air above.</p>
-<p>Claws emerge first, then a serpentine torso half as long as the manor is tall, curving into a long, elegant neck crowned by a noble, horned head. Mighty wings extend from strong, stalwart shoulders, their ghostly scales shimmering with an ethereal silver light as they fill the sky above.</p>
+<p>Una luce argentata pulsa nella nebbia che striscia sul pavimento sottostante, mentre tentacoli di nebbia perlescente si alzano verso il grande teschio. La pietra della cripta trema, la temperatura precipita, mentre due puntini argentati di luce si accendono negli occhi grandi del teschio.</p>
+<p>Con un ruggito feroce come un tuono, una banca di nebbia argentata vorticosa esplode dalle profondità del mausoleo, inondando il cimitero oltre. La fitta nebbia ribolle, lampeggiando con luce argentata mentre una forma enorme si coagula lentamente nell'aria sopra.</p>
+<p>Gli artigli emergono per primi, poi un torso serpentino lungo la metà dell'altezza del maniero, curvandosi in un lungo collo elegante coronato da una testa nobile e cornuta. Ali possenti si estendono da spalle forti e robuste, le loro scaglie spettrali che scintillano con una luce argentata eterea mentre riempiono il cielo sopra.</p>
 </div>
 
-As Argynvost’s spirit appears, any phantom warriors fall to their knees and bow their heads before him. If still alive, Vladimir ceases his assault, dropping his greatsword to the ground as he stares upward in disbelief. Read:
+Mentre lo spirito di Argynvost appare, eventuali guerrieri fantasma cadono in ginocchio e chinano la testa davanti a lui. Se ancora vivo, Vladimir cessa il suo assalto, lasciando cadere il suo spadone a terra mentre fissa verso l'alto con incredulità. Leggi:
 
 <div class="description">
-<p>The ghostly dragon bows its great neck, its eyes glinting with sorrow. “My knights," it rumbles. “What has this land done to you?"</p>
-<p>Vladimir’s rusted gauntlet curls into a fist. “We have fought," he swears hoarsely, his voice trembling with exhaustion and pain. “We have endured."</p>
-<p>"Have you fallen so far into shadow," the dragon responds, “that you cannot see what you have become?" A deep and sorrowful rumbling emanates from its great chest. “You have forsaken courage for fear, and faith for despair, and so forgotten me."</p>
-<p>"Never," Vladimir swears. Tears fall from his eyes, staining the damp earth below. “We would never—<em>I</em> would never give up the faith."</p>
-<p>The dragon studies him for a moment. “No," it rumbles, finally. “Your faith is strong indeed, to have borne you for so long." Its great, clawed hand descends from the air above, its talons extended toward Vladimir in clear invitation.</p>
-<p>“But the time to fight has ended," the dragon says. “You have endured long enough, my brave knight. Now is the time to rest."</p>
-<p>Vladimir stares at the hand before him, his body trembling. Slowly, he raises a gauntlet toward it—then stops. “What have I left," he bites out, “if not the suffering of the one who took all I once loved?"</p>
-<p>The dragon’s gaze lingers somberly upon him for a moment—then, slowly, shifts to rest upon you, as if inviting you to speak.</p>
+<p>Il drago spettrale china il suo grande collo, i suoi occhi che brillano di dolore. “I miei cavalieri," ruggisce. “Cosa vi ha fatto questa terra?"</p>
+<p>Il guanto arrugginito di Vladimir si stringe in un pugno. “Abbiamo combattuto," giura rauco, la sua voce che trema di stanchezza e dolore. “Abbiamo resistito."</p>
+<p>"Siete caduti così lontano nell'ombra," risponde il drago, “che non potete vedere cosa siete diventati?" Un profondo e doloroso ruggito emana dal suo grande petto. “Avete abbandonato il coraggio per la paura e la fede per la disperazione, e così mi avete dimenticato."</p>
+<p>"Mai," giura Vladimir. Lacrime cadono dai suoi occhi, macchiando la terra umida sottostante. “Non avremmo mai—<em>io</em> non avrei mai rinunciato alla fede."</p>
+<p>Il drago lo studia per un momento. “No," ruggisce, infine. “La tua fede è davvero forte, per averti portato così a lungo." La sua grande mano artigliata discende dall'aria sopra, i suoi artigli estesi in chiara invito.</p>
+<p>“Ma il tempo di combattere è finito," dice il drago. “Hai resistito abbastanza, mio coraggioso cavaliere. Ora è il momento di riposare."</p>
+<p>Vladimir fissa la mano davanti a lui, il suo corpo che trema. Lentamente, alza un guanto verso di essa—poi si ferma. “Cosa mi resta," mormora, “se non la sofferenza di colui che ha preso tutto ciò che una volta amavo?"</p>
+<p>Lo sguardo del drago indugia tristemente su di lui per un momento—poi, lentamente, si sposta per posarsi su di voi, come se vi invitasse a parlare.</p>
 </div>
 
-The players may then provide Vladimir with any good reason to accept Argynvost’s offer of rest, including (but not limited to) promises that they will return peace to the valley through Strahd’s destruction. When they have finished doing so and Vladimir has replied (if appropriate), read:
+I giocatori possono quindi fornire a Vladimir qualsiasi buona ragione per accettare l'offerta di riposo di Argynvost, inclusi (ma non limitati a) promesse che restituiranno pace alla valle attraverso la distruzione di Strahd. Quando hanno finito di farlo e Vladimir ha risposto (se appropriato), leggi:
 
 <div class="description">
-<p>Vladimir’s jaw trembles—then halts. He considers the dragon’s hand for a moment more. Finally, he murmurs, “From this until the end of days."</p>
-<p>He places his hand in the dragon’s palm.</p>
-<p>"From this until the end of days," the dragon rumbles. Its other hand descends, and a single, enormous claw brushes tenderly against the side of his cheek. “Your watch is ended."</p>
-<p>Vladimir’s eyes fall shut, and he exhales, releasing a breath that aches with longing, grief, and—at long-last—relief. His fingertips begin to crumble away like fine ash, then his palms and forearms. His weathered skin flakes away, swirling into the cool, quiet air, as the dissolution takes his torso, then his legs, and—at long last, his ancient, tired face.</p>
-<p>His clothes and rusted armor, now empty, fall peacefully to the earth beside his fallen sword.</p>
+<p>La mascella di Vladimir trema—poi si ferma. Considera la mano del drago per un momento in più. Infine, mormora, “Da questo fino alla fine dei giorni."</p>
+<p>Pone la sua mano nel palmo del drago.</p>
+<p>"Da questo fino alla fine dei giorni," ruggisce il drago. La sua altra mano discende, e un singolo, enorme artiglio sfiora teneramente il lato della sua guancia. “La tua guardia è finita."</p>
+<p>Gli occhi di Vladimir si chiudono, ed espira, rilasciando un respiro che fa male di desiderio, dolore e—finalmente—sollievo. Le sue dita iniziano a sgretolarsi come cenere fine, poi i suoi palmi e avambracci. La sua pelle invecchiata si sfalda, vorticosa nell'aria fresca e tranquilla, mentre la dissoluzione prende il suo torso, poi le sue gambe, e—infine, il suo volto antico e stanco.</p>
+<p>I suoi vestiti e l'armatura arrugginita, ora vuoti, cadono pacificamente sulla terra accanto alla sua spada caduta.</p>
 </div>
 
-> [!info]+ **Vladimir’s Greatsword**
-> Players who later investigate Vladimir’s remains can recover his greatsword and holy symbol, which are as described in <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+> [!info]+ **Lo Spadone di Vladimir**
+> I giocatori che successivamente indagano sui resti di Vladimir possono recuperare il suo spadone e simbolo sacro, che sono descritti in <span class="citation">Q36. Sala del Pubblico del Drago (p. 138)</span>.
 
-As Vladimir dies, any remaining **phantom warriors** haunting Argynvostholt or its cemetery dissolve into mist, and any character cursed by Vladimir’s ***oathbind*** feature is freed from its constraints. In addition, the spirits of any **revenants** of the Order of the Silver Dragon are freed from the corpses they inhabit, including Sir Godfrey Gwilym. Read:
+Mentre Vladimir muore, eventuali **guerrieri fantasma** che infestano Argynvostholt o il suo cimitero si dissolvono nella nebbia, e qualsiasi personaggio maledetto dalla caratteristica ***vincolo del giuramento*** di Vladimir viene liberato dai suoi vincoli. Inoltre, gli spiriti di eventuali **revenant** dell'Ordine del Drago d'Argento vengono liberati dai cadaveri che abitano, incluso Sir Godfrey Gwilym. Leggi:
 
 <div class="description">
-<p>From the chapel, you hear the clattering of chains and feel the brush of a whispering wind. Slowly, a new ghostly silhouette takes form in the fog below the dragon’s shadow—humanoid, this time, tall, and clad in gleaming armor.</p>
-<p>Once-white hair now shimmers with an ethereal golden hue, cascading down his shoulders in thick waves, as once-haunted scarlet eyes are replaced by piercing blue. His face, no longer gaunt and skeletal, is now noble and full, with strong cheekbones, a squared jaw, and warm crinkles around his eyes. His skin, once ashen and corpse-like, now glows with the warmth of the life it once bore, and the ornate collar that once weighed so heavily upon his shoulders now sits proudly beneath his neck.</p>
-<p>As he sees you, the spirit raises a solemn fist to his chest and descends to one knee, bowing his head in deep respect. “Hail, friends," he says, his deep, yet gentle voice trembling with gratitude and awe. He thumps his fist against his chest, tears of pride and joy streaking across his ghostly face. “Hail, Lord Argynvost."</p>
+<p>Dalla cappella, senti il rumore di catene che sbattono e senti il tocco di un vento sussurrante. Lentamente, una nuova silhouette spettrale prende forma nella nebbia sotto l'ombra del drago—umana, questa volta, alta e vestita con un'armatura scintillante.</p>
+<p>Capelli un tempo bianchi ora scintillano con una tonalità dorata eterea, che scendono sulle sue spalle in spesse onde, mentre occhi un tempo infestati di scarlatto vengono sostituiti da un blu penetrante. Il suo volto, non più scarno e scheletrico, è ora nobile e pieno, con zigomi forti, una mascella squadrata e calde rughe intorno agli occhi. La sua pelle, un tempo cenere e cadaverica, ora brilla con il calore della vita che una volta portava, e il colletto ornato che una volta pesava così pesantemente sulle sue spalle ora si trova orgogliosamente sotto il suo collo.</p>
+<p>Quando ti vede, lo spirito alza un pugno solenne al petto e scende su un ginocchio, chinando la testa in profondo rispetto. “Salve, amici," dice, la sua voce profonda ma gentile che trema di gratitudine e stupore. Batte il pugno contro il petto, lacrime di orgoglio e gioia che rigano il suo volto spettrale. “Salve, Signore Argynvost."</p>
 </div>
 
-The players recognize the spirit of Sir Godfrey, now restored to the appearance he bore before he died.
+I giocatori riconoscono lo spirito di Sir Godfrey, ora restaurato all'aspetto che aveva prima di morire.
 
-Argynvost’s spirit greets Sir Godfrey with warmth and deep affection, then greets the players with great gratitude. “Though my knights fell into darkness, you have saved them, and shown them the light they have lost," he booms, bowing his head deeply before them. “For this, I am forever in your debt."
+Lo spirito di Argynvost saluta Sir Godfrey con calore e profondo affetto, poi saluta i giocatori con grande gratitudine. “Sebbene i miei cavalieri siano caduti nell'oscurità, li avete salvati e mostrato loro la luce che hanno perso," ruggisce, chinando profondamente la testa davanti a loro. “Per questo, sono per sempre in debito con voi."
 
-Argynvost’s spirit can share the following information if asked, or as appropriate:
+Lo spirito di Argynvost può condividere le seguenti informazioni se richiesto o se appropriato:
 
-* He has long waited for one who might restore his remains to their rightful place, so that his spirit might be empowered to speak with his knights once again. “I am grateful that my patience was not in vain," he rumbles. “Even my hope had waned to a flicker—but you rekindled it to a roaring flame."
-* Although his spirit lay dormant for centuries, he was awoken several weeks ago by the sound of distant dragonsong—a harmony from the planes beyond—that Barovia had not heard since the descent of the Mists. “A grand alignment approaches us," he murmurs. “I know not what it portends, but the great veils are shifting."
+* Ha atteso a lungo qualcuno che potesse restaurare i suoi resti al loro posto legittimo, in modo che il suo spirito potesse essere potenziato per parlare ancora una volta con i suoi cavalieri. “Sono grato che la mia pazienza non sia stata vana," ruggisce. “Anche la mia speranza era svanita in un barlume—ma voi l'avete riaccesa in una fiamma ruggente."
+* Sebbene il suo spirito sia rimasto dormiente per secoli, è stato risvegliato diverse settimane fa dal suono di un canto di draghi distante—un'armonia dai piani oltre—che Barovia non aveva sentito dall'arrivo delle Nebbie. “Un grande allineamento si avvicina a noi," mormora. “Non so cosa porti, ma i grandi veli si stanno spostando."
 
-If asked, Argynvost can also share any and all of the information regarding events that occurred in [[History of Barovia#The Founding Era (1 BC–345 BC)|The Founding Era]] or during the [[History of Barovia#Birth of Barovia|Birth of Barovia]], excepting any information regarding the origins of King Barov’s *Brightblade*, Baba Lysaga’s history with the Von Zarovich clan, the birth of Sergei, and the origins of the Wizard of Wines (though Argynvost can share his strong suspicions that the winery’s founders had strong ties to—or were descended from—the indigenous people of the valley itself).
+Se richiesto, Argynvost può anche condividere tutte le informazioni riguardanti gli eventi che si sono verificati in [[Storia di Barovia#L'Era della Fondazione (1 BC–345 BC)|L'Era della Fondazione]] o durante la [[Storia di Barovia#Nascita di Barovia|Nascita di Barovia]], ad eccezione di qualsiasi informazione riguardante le origini della *Lama Splendente* del Re Barov, la storia di Baba Lysaga con il clan Von Zarovich, la nascita di Sergei e le origini del Mago dei Vini (sebbene Argynvost possa condividere i suoi forti sospetti che i fondatori della cantina avessero forti legami con—o discendessero da—le persone indigene della valle stessa).
 
-If any player still possesses an amber shard, Godfrey warns them to "beware how fiercely you gaze into the abyss," adding: "Each moment you linger draws you closer to its edge."
+Se un giocatore possiede ancora un frammento d'ambra, Godfrey lo avverte di "fare attenzione a quanto intensamente guardi nell'abisso," aggiungendo: "Ogni momento che indugi ti avvicina al suo bordo."
 
-If he has reason to believe the players hold an interest in journeying to the Amber Temple, Godfrey can also share the following information:
+Se ha motivo di credere che i giocatori abbiano interesse a recarsi al Tempio d'Ambra, Godfrey può anche condividere le seguenti informazioni:
 
-* Several weeks ago, a dusk elf named Kasimir Velikov visited the manor and spoke with Godfrey, seeking information regarding the history, location, and contents of the Amber Temple. 
-* Godfrey warned him to avoid the darkness that lay within the temple, but believes that Kasimir may have gleaned some information nonetheless by canvassing the ruins of Argynvostholt.
-* Godfrey did not ask Kasimir’s purpose in seeking out the Temple, but does not believe that he bore any ill intent. “Even so, I knew all too well of the allure the Temple poses," he says. “I could sense the magic, intelligence, and desperation within him. Such individuals are the Temple’s most vulnerable prey."
-* The Amber Temple is located near the peak of Mt. Ghakis, at the end of a trail now long-lost to the ages. “I sense the elf has rediscovered it, however," Godfrey says solemnly. “Seek him out, and he may guide you to the place you seek."
+* Diverse settimane fa, un elfo del crepuscolo di nome Kasimir Velikov ha visitato il maniero e ha parlato con Godfrey, cercando informazioni sulla storia, posizione e contenuti del Tempio d'Ambra. 
+* Godfrey lo ha avvertito di evitare l'oscurità che giaceva all'interno del tempio, ma crede che Kasimir possa aver comunque raccolto alcune informazioni esplorando le rovine di Argynvostholt.
+* Godfrey non ha chiesto lo scopo di Kasimir nel cercare il Tempio, ma non crede che avesse cattive intenzioni. “Anche così, conoscevo fin troppo bene l'attrazione che il Tempio esercita," dice. “Potevo percepire la magia, l'intelligenza e la disperazione dentro di lui. Tali individui sono le prede più vulnerabili del Tempio."
+* Il Tempio d'Ambra si trova vicino alla cima del Monte Ghakis, alla fine di un sentiero ormai perduto nei secoli. “Sento che l'elfo lo ha riscoperto, tuttavia," dice Godfrey solennemente. “Cercatelo, e potrebbe guidarvi al luogo che cercate."
 
-As the conversation draws to a close, or if the players request a boon for restoring his skull to his crypt, Argynvost offers to instill one of their nonmagical weapons with “the flame of a silver dragon." A weapon blessed in this way gains the following additional features:
+Mentre la conversazione volge al termine, o se i giocatori richiedono un dono per aver restaurato il suo teschio nella sua cripta, Argynvost si offre di infondere una delle loro armi non magiche con “la fiamma di un drago d'argento." Un'arma benedetta in questo modo guadagna le seguenti caratteristiche aggiuntive:
 
-* The weapon becomes a +1 magical weapon of its kind, and has 3 charges. It regains all expended charges at dawn.
-* The weapon’s wielder can use 1 charge as a bonus action to imbue the weapon with silver flames for the next 1 minute. While the flames remain, each of the creature’s attacks deals an additional 1d4 cold damage. In addition, if the weapon’s wielder rolls a critical hit while the flames remain, the target must succeed on a DC 20 Constitution saving throw or be paralyzed until the start of the wielder’s next turn.
-* The weapon’s wielder can use 2 charges as a bonus action to cast the *beacon of hope* spell.
-* The weapon’s wielder can use 3 charges as an action to create a blast of silver flame, which takes the shape of a 15-foot cone for a melee weapon and a 30-foot line for a ranged weapon. Each hostile creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one. Once this feature is used, it can't be used again for one year.
+* L'arma diventa un'arma magica +1 del suo tipo e ha 3 cariche. Recupera tutte le cariche spese all'alba.
+* Il portatore dell'arma può usare 1 carica come azione bonus per infondere l'arma con fiamme d'argento per il prossimo minuto. Mentre le fiamme rimangono, ciascuno degli attacchi della creatura infligge 1d4 danni da freddo aggiuntivi. Inoltre, se il portatore dell'arma ottiene un colpo critico mentre le fiamme rimangono, il bersaglio deve superare un tiro salvezza su Costituzione a CD 20 o essere paralizzato fino all'inizio del prossimo turno del portatore.
+* Il portatore dell'arma può usare 2 cariche come azione bonus per lanciare l'incantesimo *faro di speranza*.
+* Il portatore dell'arma può usare 3 cariche come azione per creare un'esplosione di fiamme d'argento, che assume la forma di un cono di 4,5 m per un'arma da mischia e una linea di 9 m per un'arma a distanza. Ogni creatura ostile in quell'area deve effettuare un tiro salvezza su Costituzione a CD 20, subendo 58 (13d8) danni da freddo in caso di fallimento, o metà danni in caso di successo. Una volta utilizzata questa caratteristica, non può essere utilizzata di nuovo per un anno.
 
-Once Argynvost has blessed a player’s weapon, he notes that they have “a long and difficult path ahead of them," and asks if they truly understand the evil they now face. “You will face trials unbeknownst to most mortals," he rumbles, “and endure things that should never be endured. Are you prepared to do so?"
+Una volta che Argynvost ha benedetto l'arma di un giocatore, nota che hanno “un lungo e difficile cammino davanti a loro," e chiede se comprendono veramente il male che ora affrontano. “Affronterete prove sconosciute alla maggior parte dei mortali," ruggisce, “e sopporterete cose che non dovrebbero mai essere sopportate. Siete pronti a farlo?"
 
-If the players assent, or if they request his aid in doing so, Argynvost looks up toward the shadowed beacon of Argynvostholt. “I cannot accompany you on your journey," he says solemnly, “but perhaps I can light the way." Read:
+Se i giocatori acconsentono, o se richiedono il suo aiuto per farlo, Argynvost guarda verso il faro di Argynvostholt. “Non posso accompagnarvi nel vostro viaggio," dice solennemente, “ma forse posso illuminare la strada." Leggi:
 
 <div class="description">
-<p>Motes of silver light begin to emanate from Argynvost’s ghostly scales. “My knights have earned their rest," he says, “but I have not fulfilled my debt, nor atoned for my failure." His wings flex wider as silver flames wisp across their span. “As that flame burns within you, so too shall my spirit burn atop the beacon of Argynvostholt, bringing light and hope to this dark land."</p>
-<p>His gaze, steady and solemn, returns to yours. “Will you bear the legacy of the Order of the Silver Dragon in my stead?" he asks quietly.</p>
+<p>Bagliori di luce argentata iniziano a emanare dalle scaglie spettrali di Argynvost. “I miei cavalieri hanno guadagnato il loro riposo," dice, “ma non ho adempiuto al mio debito, né espiato il mio fallimento." Le sue ali si flettono più ampiamente mentre fiamme d'argento sibilano attraverso la loro estensione. “Come quella fiamma brucia dentro di voi, così anche il mio spirito brucerà in cima al faro di Argynvostholt, portando luce e speranza a questa terra oscura."</p>
+<p>Il suo sguardo, fermo e solenne, ritorna al vostro. “Porterete l'eredità dell'Ordine del Drago d'Argento al mio posto?" chiede tranquillamente.</p>
 </div>
 
-If one or more players agrees to do so, Argynvost then asks if they will take the oath of the Order of the Silver Dragon. If they do so, he recites the oath in full, pausing after each phrase as appropriate to allow them to repeat after him:
+Se uno o più giocatori accettano di farlo, Argynvost chiede quindi se prenderanno il giuramento dell'Ordine del Drago d'Argento. Se lo fanno, recita il giuramento per intero, facendo una pausa dopo ogni frase come appropriato per permettere loro di ripetere dopo di lui:
 
 <div class="description">
-<p>I solemnly vow to uphold the virtues of the Order of the Silver Dragon, with honor as my shield and truth as my guide.</p>
-<p>In the shadow of evil, I shall be the light; in the face of despair, the beacon of hope. No challenge shall shake my resolve; no defeat shall quell my heart. With sword and spirit, I shall stand against darkness and forge a brighter dawn.</p>
-<p>So do I swear in the name of the Silver Dragon, from this to the end of days.</p>
+<p>Giuro solennemente di sostenere le virtù dell'Ordine del Drago d'Argento, con l'onore come mio scudo e la verità come mia guida.</p>
+<p>Nell'ombra del male, sarò la luce; di fronte alla disperazione, il faro di speranza. Nessuna sfida scuoterà la mia determinazione; nessuna sconfitta spegnerà il mio cuore. Con spada e spirito, starò contro l'oscurità e forgerò un'alba più luminosa.</p>
+<p>Così giuro nel nome del Drago d'Argento, da questo fino alla fine dei giorni.</p>
 </div>
 
-When the oath is completed, Argynvost’s wings sag in evident relief. “Thank you," he whispers. “You have done more for me than you know."
+Quando il giuramento è completato, le ali di Argynvost si abbassano in evidente sollievo. “Grazie," sussurra. “Avete fatto più per me di quanto sappiate."
 
-Whether the players take the oath or not, Argynvost says, “My spirit shall act as a beacon unto the valley, so that all shall know the final conflict is at hand. Yet that flame shall not last long—you must make haste, lest my soul burn away before your task is complete. Do you understand?" 
+Che i giocatori prendano il giuramento o meno, Argynvost dice, “Il mio spirito agirà come un faro per la valle, in modo che tutti sappiano che il conflitto finale è imminente. Eppure quella fiamma non durerà a lungo—dovete affrettarvi, altrimenti la mia anima brucerà prima che il vostro compito sia completato. Capite?" 
 
-If asked, Argynvost confirms that his soul will be destroyed by lighting the beacon, and that it may last for “a half-cycle of the moon"—i.e., seven days—"or perhaps more, if I have the strength in me," before it is utterly consumed. Argynvost freely shares that he does not fear the annihilation of his soul, and that he will consider the sacrifice well-worth it if it leads to the liberation of the valley.
+Se richiesto, Argynvost conferma che la sua anima sarà distrutta accendendo il faro e che potrebbe durare per “mezzo ciclo della luna"—cioè, sette giorni—"o forse di più, se ho la forza in me," prima che venga completamente consumata. Argynvost condivide liberamente che non teme l'annientamento della sua anima e che considererà il sacrificio ben valso se porta alla liberazione della valle.
 
-When the players have answered his final question, Argynvost then looks toward the beacon of Argynvostholt once more and says, “It is time." Read:
+Quando i giocatori hanno risposto alla sua domanda finale, Argynvost guarda quindi verso il faro di Argynvostholt ancora una volta e dice, “È ora." Leggi:
 
 <div class="description">
-<p>As Argynvost’s spirit closes its eyes, a distant sound echoes through the air: a chorus of low, rumbling tones that resonate through the ground, mixed with sharp, clear high notes that pierce the air like chiming crystal. As the harmony grows stronger, however, you realize that they are not simple tones at all, but voices—thousands of them, ancient and resonant and <em>true</em>, reaching across unfathomable distances in wordless song.</p>
-<p>Argynvost’s spirit blurs, his edges growing ill-defined as silver flames wisp across every inch of his form. The flames swell with each passing second, growing from perlescent embers to a roaring inferno that devours his claws, his tail, his wings—and, finally, his head.</p>
-<p>As the distant chorus grows to a proud and fierce crescendo, the silver blaze that was once Argynvost <em>thrums</em> with power. It hangs in the air, just for a moment—then surges upward, burning through the sky like a comet before alighting in the mansion’s tallest tower.</p>
-<p>The flame <em>bursts</em>, into radiant light, a brilliant explosion of silver that drowns out the light of the sky above. For a brief instant, the landscape for miles around is painted in hues of silvers, greys, and whites, casting away the shadows that flee from the burning light.</p>
+<p>Mentre lo spirito di Argynvost chiude gli occhi, un suono distante echeggia nell'aria: un coro di toni bassi e rimbombanti che risuonano attraverso il terreno, mescolati con note alte e chiare che perforano l'aria come cristalli che tintinnano. Mentre l'armonia cresce più forte, tuttavia, ti rendi conto che non sono affatto semplici toni, ma voci—migliaia di esse, antiche e risonanti e <em>vere</em>, che raggiungono distanze insondabili in un canto senza parole.</p>
+<p>Lo spirito di Argynvost si sfoca, i suoi bordi che diventano indefiniti mentre fiamme argentate sibilano su ogni centimetro della sua forma. Le fiamme si gonfiano con ogni secondo che passa, crescendo da braci perlescenti a un inferno ruggente che divora i suoi artigli, la sua coda, le sue ali—e, infine, la sua testa.</p>
+<p>Mentre il coro distante cresce in un crescendo orgoglioso e feroce, la fiamma argentata che una volta era Argynvost <em>pulsava</em> di potere. Rimane sospesa nell'aria, solo per un momento—poi si slancia verso l'alto, bruciando attraverso il cielo come una cometa prima di posarsi nella torre più alta del maniero.</p>
+<p>La fiamma <em>esplode</em>, in una luce radiante, un'esplosione brillante di argento che oscura la luce del cielo sopra. Per un breve istante, il paesaggio per miglia intorno è dipinto in tonalità di argento, grigio e bianco, scacciando le ombre che fuggono dalla luce ardente.</p>
 </div>
 
-Continue with the following, modifying the text as necessary to reflect each non-player character’s current status:
+Continua con quanto segue, modificando il testo come necessario per riflettere lo stato attuale di ciascun personaggio non giocante:
 
 <div class="description">
-<p>Time itself seems to hold its breath as countless reflections shimmer in the depths of that radiance, each one illuminated by the silver light above.</p>
-<p>In those reflections, you see the light fall first upon a walled and lonely town—Vallaki—its glimmers dancing across the surface of the once-dark Lake Zarovich nearby. The light finds its way into the taproom of the Blue Water Inn, where Brom and Bray Martikov press their faces against the windowglass as Urwin and Danika gaze into the distance with awe. Shadows of silver and white fall upon Muriel Vinshaw, her eyes rekindling with a brilliant spark as she leans forward from her seat upon the taproom counter, while Nikolai and Karl Wachter gape at the windows from their barstools. At a table not far away, Victor Vallakovich’s hand twitches hesitantly toward Stella Wachter’s—who takes his hand in hers and squeezes it tight.</p>
-<p>The light twists through Vallaki’s narrow alleyways, finding its way to a muddy street before an old, run-down hovel where Milivoj and his siblings, who cling joyfully to his legs and arms, look up into the sky as if seeing it for the first time. Nearby, more of Milivoj’s siblings, playing in the mud with the altar boy Yeska, fall still in wonderment while a watchful Father Lucian clutches the sunburst around his neck with a fierce and reverent joy.</p>
-<p>The light falls upon a hilltop beyond Vallaki’s walls, piercing through the smoke that drifts lazily from the campfires below until it finds a wide-eyed Arrigal, a half-whittled statuette dropping from his hands as Arabelle, curled up against Luvash’s chest, watches the light with quiet satisfaction. She reaches out to Van Richten beside her, lifting his chin with her small, gentle hand, until his eyes behold the light and well with unshed tears.</p>
-<p>The light travels east, until it finds the village of Barovia beyond the mountains, where the shadow of Castle Ravenloft has, if only for a heartbeat, withdrawn in loathing and fear. Ismark, wielding a hammer instead of a sword, looks up from a half-built wall and pounds a proud fist against his chest. Parriwimple, carrying a pile of lumber with Bildrath in the street nearby, points into the sky with rapt fascination, and a small, fragile smile touches the corners of his uncle’s lips. In a candlelit kitchen not far away, Father Donavich and Mary look up from a table with eyes wide and hopeful while, just upstairs, Doru’s arms wrap tenderly around Gertruda’s waist, her slender hand clasping his clawed one against her heart.</p>
-<p>The light travels west, too, illuminating the village of Krezk, and the snow-capped abbey that stands far above. It finds Kala and Ilya Krezkov, who throw themselves, ruddy-cheeked and laughing, into the fresh-fallen snow that dusts the shores of Krezk’s sacred pool, while Dmitri and Anna watch the skies from the old gazebo nearby, two familiar wolves curled quietly in the snow beside them. On the high mountain spur that overlooks the village, amidst a quiet, snowy garden, Otto, Zygfrek, and Clovin Belview watch the light from their perch atop an old stone wall. Behind them, Ithuriel, Vasilka, and a silent golem look up from the flourishing vegetation, the flowers in Vasilka’s hands painted a perlescent and joyful silver.</p>
-<p>The light travels south, touching rows of wooden posts laden with green-growing vines, each one groaning with the weight of the grapes that peek forth from their leaves. It finds Davian Martikov, whose hand wraps tightly around the locket in his pocket; Claudiu, who looks up into the sky from the shadows of the vineyard and stares; and Elvir, who clutches the hilt of his shortsword as solemn understanding blooms across his face.</p>
-<p>The light finds the dark and twisted rooftops of Castle Ravenloft, where Sasha Ivliskova stands alone, her face twisted with the pain of sudden hope. It finds a lonely cairn amidst the Svalich Woods, where Kavan’s spirit lifts his head in remembrance and sorrow. And it finds, at long last, the sagging doorstep of an old and tired manor, where Lady Fiona Wachter holds a trembling hand to her face as tears spill across her cheeks.</p>
-<p>And then—the instant passes, the reflections vanish, and the day slowly returns. The distant song, too, fades, leaving tones of lingering sorrow, remembrance, and defiance that soon vanish into silence. The beacon of Argynvostholt, however, still shines bright, bathing the woods and valleys below with a lustrous silver radiance.</p>
+<p>Il tempo stesso sembra trattenere il respiro mentre innumerevoli riflessi scintillano nelle profondità di quella radianza, ciascuno illuminato dalla luce argentata sopra.</p>
+<p>In quei riflessi, vedi la luce cadere per prima su una città murata e solitaria—Vallaki—i suoi bagliori che danzano sulla superficie del Lago Zarovich un tempo oscuro nelle vicinanze. La luce trova la sua strada nella sala della Locanda dell'Acqua Blu, dove Brom e Bray Martikov premono i loro volti contro il vetro della finestra mentre Urwin e Danika guardano in lontananza con stupore. Ombre di argento e bianco cadono su Muriel Vinshaw, i suoi occhi che si riaccendono con una scintilla brillante mentre si sporge in avanti dal suo posto sul bancone della sala, mentre Nikolai e Karl Wachter fissano le finestre dai loro sgabelli al bar. A un tavolo non lontano, la mano di Victor Vallakovich si tende esitante verso quella di Stella Wachter—che prende la sua mano nella sua e la stringe forte.</p>
+<p>La luce si snoda attraverso i vicoli stretti di Vallaki, trovando la sua strada in una strada fangosa davanti a una vecchia baracca fatiscente dove Milivoj e i suoi fratelli, che si aggrappano gioiosamente alle sue gambe e braccia, guardano verso il cielo come se lo vedessero per la prima volta. Nelle vicinanze, altri fratelli di Milivoj, che giocano nel fango con il chierichetto Yeska, rimangono immobili per la meraviglia mentre un attento Padre Lucian stringe il sole intorno al collo con una gioia feroce e riverente.</p>
+<p>La luce cade su una collina oltre le mura di Vallaki, perforando il fumo che si alza pigramente dai falò sottostanti fino a trovare un Arrigal dagli occhi spalancati, una statuetta mezza scolpita che cade dalle sue mani mentre Arabelle, rannicchiata contro il petto di Luvash, osserva la luce con soddisfazione silenziosa. Si avvicina a Van Richten accanto a lei, sollevando il suo mento con la sua piccola mano gentile, fino a quando i suoi occhi vedono la luce e si riempiono di lacrime non versate.</p>
+<p>La luce viaggia verso est, fino a trovare il villaggio di Barovia oltre le montagne, dove l'ombra del Castello Ravenloft si è, anche se solo per un battito di cuore, ritirata con disgusto e paura. Ismark, che brandisce un martello invece di una spada, guarda in alto da un muro mezzo costruito e batte un pugno orgoglioso contro il petto. Parriwimple, che trasporta una pila di legname con Bildrath nella strada vicina, indica il cielo con rapita fascinazione, e un piccolo, fragile sorriso tocca gli angoli delle labbra di suo zio. In una cucina illuminata da candele non lontano, Padre Donavich e Mary guardano in alto da un tavolo con occhi spalancati e speranzosi mentre, proprio al piano di sopra, le braccia di Doru si avvolgono teneramente intorno alla vita di Gertruda, la sua mano sottile che stringe quella artigliata contro il suo cuore.</p>
+<p>La luce viaggia verso ovest, illuminando il villaggio di Krezk e l'abbazia innevata che si erge molto sopra. Trova Kala e Ilya Krezkov, che si gettano, con le guance arrossate e ridendo, nella neve fresca caduta che spolvera le rive della piscina sacra di Krezk, mentre Dmitri e Anna osservano i cieli dal vecchio gazebo nelle vicinanze, due lupi familiari rannicchiati tranquillamente nella neve accanto a loro. Sulla sporgenza montuosa che domina il villaggio, in un tranquillo giardino innevato, Otto, Zygfrek e Clovin Belview osservano la luce dal loro posto in cima a un vecchio muro di pietra. Dietro di loro, Ithuriel, Vasilka e un golem silenzioso guardano in alto dalla vegetazione rigogliosa, i fiori nelle mani di Vasilka dipinti di un argento perlescente e gioioso.</p>
+<p>La luce viaggia verso sud, toccando file di pali di legno carichi di viti verdi in crescita, ciascuno che geme sotto il peso dell'uva che spunta dalle loro foglie. Trova Davian Martikov, la cui mano stringe strettamente il medaglione nella sua tasca; Claudiu, che guarda verso il cielo dalle ombre del vigneto e fissa; ed Elvir, che stringe l'elsa della sua spada corta mentre una comprensione solenne fiorisce sul suo volto.</p>
+<p>La luce trova i tetti scuri e contorti del Castello Ravenloft, dove Sasha Ivliskova sta da sola, il suo volto contorto dal dolore di una speranza improvvisa. Trova un tumulo solitario tra i Boschi di Svalich, dove lo spirito di Kavan solleva la testa in ricordo e dolore. E trova, infine, la soglia cadente di un vecchio maniero stanco, dove Lady Fiona Wachter tiene una mano tremante sul viso mentre lacrime scorrono sulle sue guance.</p>
+<p>E poi—l'istante passa, i riflessi svaniscono e il giorno ritorna lentamente. Anche il canto distante svanisce, lasciando toni di dolore persistente, ricordo e sfida che presto svaniscono nel silenzio. Il faro di Argynvostholt, tuttavia, brilla ancora luminoso, bagnando i boschi e le valli sottostanti con una radianza argentea lucente.</p>
 <p>
 </div>
 
-All creatures that oppose Strahd, including the players, then gain the effects of the ***Beacon of Protection*** described in <span class="citation">Lighting the Beacon (p. 142)</span>.
+Tutte le creature che si oppongono a Strahd, inclusi i giocatori, ottengono quindi gli effetti del ***Faro di Protezione*** descritto in <span class="citation">Accendere il Faro (p. 142)</span>.
 
-***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 3,000 XP.
-# Q7. Return to the Werewolf Den
+***Traguardo.*** Restituire il teschio di Argynvost alla sua cripta completa un traguardo della storia. Quando i giocatori accendono il faro di Argynvost, assegna a ciascun giocatore 3.000 PE.
+# Q7. Ritorno alla Tana dei Lupi Mannari
 
-> [!abstract]+ **Fighting Kiril**
-> Players who aren’t hunted by Kiril in [[#Q5. Pack Attack]] can encounter him again in one of two ways:
+> [!abstract]+ **Combattere Kiril**
+> I giocatori che non sono cacciati da Kiril in [[#Q5. Attacco del Branco]] possono incontrarlo di nuovo in uno dei due modi:
 >
-> * If they arrive at the werewolf den during daylight hours, Kiril is asleep in <span class="citation">Z6. Kiril’s Cave (p. 204)</span> in his dire wolf form.
-> * If they arrive at the werewolf den during nighttime hours, Kiril and the pack are out hunting, but eventually return as described in <span class="citation">Leader of the Pack (p. 205)</span>.
+> * Se arrivano alla tana dei lupi mannari durante le ore diurne, Kiril sta dormendo in <span class="citation">Z6. Grotta di Kiril (p. 204)</span> nella sua forma di lupo terribile.
+> * Se arrivano alla tana dei lupi mannari durante le ore notturne, Kiril e il branco sono fuori a caccia, ma alla fine tornano come descritto in <span class="citation">Leader del Branco (p. 205)</span>.
 >
-> If a fight occurs in the den, Kiril prefers to lead it outside. The scene otherwise unfolds largely as described in [[#Q5. Pack Attack]].
+> Se si verifica un combattimento nella tana, Kiril preferisce guidarlo all'esterno. La scena si svolge altrimenti come descritto in [[#Q5. Attacco del Branco]].
 
-Once Kiril is defeated, the players can easily free Ilya and Zuleika from their *silverthorn collars* using the keys from the chain around Kiril’s neck.
+Una volta che Kiril è stato sconfitto, i giocatori possono facilmente liberare Ilya e Zuleika dai loro *collari di spine d'argento* usando le chiavi dalla catena intorno al collo di Kiril.
 
-If the players rescued Emil from Castle Ravenloft, Emil and Zuleika are glad to allow them to take any treasure from Mother Night's shrine without incurring the goddess's curse. ("Most of what you see was seized by Kiril," Emil says sadly, "stolen from its rightful owners beyond the mists in his many bloody raids. We have no more right to it than you do.") In addition to the treasure described in <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>, the hoard also contains one diamond worth 300 gp.
+Se i giocatori hanno salvato Emil dal Castello Ravenloft, Emil e Zuleika sono felici di permettere loro di prendere qualsiasi tesoro dal santuario di Madre Notte senza incorrere nella maledizione della dea. ("La maggior parte di ciò che vedi è stato preso da Kiril," dice Emil tristemente, "rubato ai suoi legittimi proprietari oltre le nebbie nelle sue molte incursioni sanguinose. Non abbiamo più diritto a esso di quanto ne abbiate voi.") Oltre al tesoro descritto in <span class="citation">Z7. Santuario di Madre Notte (p. 204)</span>, il tesoro contiene anche un diamante del valore di 300 mo.
