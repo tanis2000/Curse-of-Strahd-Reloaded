@@ -1,24 +1,24 @@
 *Avventura per cinque personaggi di terzo livello.*
 
-In questo arco, i personaggi lasciano il villaggio di Barovia diretti verso Tser Pool e la città di Vallaki. Durante il viaggio attraverso i boschi, possono incontrare una coppia di sentinelle baroviane alla ricerca di una famiglia scomparsa, distrarre o affrontare un’orda di zombi e recuperare un deposito d’armi lasciato dal Dott. Rudolph van Richten.
+In questo arco, i personaggi lasciano il villaggio di Barovia diretti verso lo Stagno di Tser e la città di Vallaki. Durante il viaggio attraverso i boschi, possono incontrare una coppia di sentinelle baroviane alla ricerca di una famiglia scomparsa, distrarre o affrontare un’orda di zombi e recuperare un deposito d’armi lasciato dal Dott. Rudolph van Richten.
 
-Al loro arrivo all'Incrocio del Fiume Ivlis, i personaggi incontrano Strahd von Zarovich per la prima volta, accompagnato da Escher, uno dei suoi consorti vampirici. Dopo un teso dialogo, i personaggi possono dirigersi a nord verso Tser Pool. 
+Al loro arrivo all'Incrocio del Fiume Ivlis, i personaggi incontrano Strahd von Zarovich per la prima volta, accompagnato da Escher, uno dei suoi consorti vampirici. Dopo un teso dialogo, i personaggi possono dirigersi a nord verso lo Stagno di Tser. 
 
-Durante il tragitto verso Tser Pool, i personaggi incontrano un corvo—il **corvo mannaro** Muriel Vinshaw in travestimento—che fugge da una mostruosa **strige** (vedi il Manuale dei Mostri) forgiata dalla strega delle paludi Baba Lysaga. Se i personaggi difendono Muriel dall'assalto della strige, lei si unirà a loro per il resto del viaggio verso Vallaki, pur mantenendo segreta la sua vera identità.
+Durante il tragitto verso lo Stagno di Tser, i personaggi incontrano un corvo—il **corvo mannaro** Muriel Vinshaw in travestimento—che fugge da una mostruosa **strige** (vedi il Manuale dei Mostri) forgiata dalla strega delle paludi Baba Lysaga. Se i personaggi difendono Muriel dall'assalto della strige, lei si unirà a loro per il resto del viaggio verso Vallaki, pur mantenendo segreta la sua vera identità.
 
-Presto, i personaggi giungono all'accampamento dei Vistani di Tser Pool. Lì ricevono una lettura magica dei Tarokka da Madam Eva, che predice la posizione di tre artefatti utili nella lotta contro Strahd e la presenza di un alleato destinato ad aiutarli. 
+Presto, i personaggi giungono all'accampamento dei Vistani dello Stagno di Tser. Lì ricevono una lettura magica dei Tarokka da Madam Eva, che predice la posizione di tre artefatti utili nella lotta contro Strahd e la presenza di un alleato destinato ad aiutarli. 
 
-Durante il soggiorno a Tser Pool, i personaggi ascoltano racconti dei vistani sulla storia di Strahd e sul Santo Simbolo del Corvo, e incontrano anche Arturi Radanavich, una Vistana errante che sostiene di aver conosciuto una volta Rudolph van Richten. Al momento della partenza, i personaggi ricevono anche l’incarico, da parte di Madam Eva, di recarsi a Vallaki per acquistare un giocattolo da consegnare alla pronipote Arabelle.
+Durante il soggiorno allo Stagno di Tser, i personaggi ascoltano racconti dei vistani sulla storia di Strahd e sul Santo Simbolo del Corvo, e incontrano anche Arturi Radanavich, una Vistana errante che sostiene di aver conosciuto una volta Rudolph van Richten. Al momento della partenza, i personaggi ricevono anche l’incarico, da parte di Madam Eva, di recarsi a Vallaki per acquistare un giocattolo da consegnare alla pronipote Arabelle.
 
 Se i personaggi devono scortare Ireena verso la Chiesa di St. Andral a Vallaki, o se hanno altre ragioni per farlo, essi tornano poi sulla Vecchia Strada di Svalich passando per l'Incrocio del Fiume Ivlis, viaggiando verso ovest attraverso montagne. Lungo il tragitto incontreranno un insolito cavaliere scheletrico, un paio di tombe fresche, un'oscura apparizione, la **strega notturna** Morgantha in atteggiamento da mercante, due stormi di corvi amichevoli e un **lupo mannaro** accompagnato dal suo branco di lupi famelici. 
 
 Giunti a Vallaki, i personaggi possono trovare alloggio presso la Locanda dell’Acqua Azzurra. Qui incontreranno una schiera di personaggi pittoreschi, tra cui il presentatore Rictavio e i figli di Lady Fiona Wachter. All'alba, i personaggi avranno anche un fatale incontro con il Barone Vargas Vallakovich e il suo spietato esecutore, Izek Strazni...
 
-> [!warning]+ **La Strada da Tser Pool**
+> [!warning]+ **La Strada dallo Stagno di Tser**
 >
-> La mappa del modulo di Barovia mostra una linea tratteggiata che sembra collegare l'Accampamento di Tser Pool alle Cascate di Tser. Nonostante l'apparenza, <span class="citation">Cascate del Tser (p. 37)</span> chiarisce che non si tratta di una scorciatoia. Invece, questa linea tratteggiata è un sentiero che conduce alla base delle Cascate di Tser, 300 metri sotto il ponte sovrastante. In nessun punto si ricollega effettivamente alla strada principale.
+> La mappa del modulo di Barovia mostra una linea tratteggiata che sembra collegare l'Accampamento dello Stagno di Tser alle Cascate di Tser. Nonostante l'apparenza, <span class="citation">Cascate del Tser (p. 37)</span> chiarisce che non si tratta di una scorciatoia. Invece, questa linea tratteggiata è un sentiero che conduce alla base delle Cascate di Tser, 300 metri sotto il ponte sovrastante. In nessun punto si ricollega effettivamente alla strada principale.
 >
-> Per viaggiare dall'Accampamento di Tser Pool a Vallaki, i personaggi dovranno invece viaggiare verso sud, tornando verso l'Incrocio del Fiume Ivlis, quindi prendere la Vecchia Strada di Svalich verso ovest.
+> Per viaggiare dall'Accampamento dello Stagno di Tser a Vallaki, i personaggi dovranno invece viaggiare verso sud, tornando verso l'Incrocio del Fiume Ivlis, quindi prendere la Vecchia Strada di Svalich verso ovest.
 
 > [!info]+ **Nessun Incontro Casuale**
 > Questa guida incorpora il materiale del modulo originale *La Maledizione di Strahd* solo per riferimento. Pertanto, ogni volta che i personaggi viaggiano, dovresti ignorare la sezione <span class="citation">Incontri Casuali (p. 28)</span> tranne dove un particolare incontro è menzionato e incorporato direttamente.
@@ -70,7 +70,7 @@ Mentre i personaggi si avvicinano a questa area, la pioggerella si ferma. Leggi:
 
 I personaggi sono arrivati all'Incrocio del Fiume Ivlis, che è in gran parte come descritto in <span class="citation">Incrocio del Fiume Ivlis (p. 35)</span>. Non controllare per un incontro casuale quando i personaggi arrivano.
 
-Questa scena inizia in modo simile a <span class="citation">Incrocio del Fiume Ivlis (p. 35)</span>. Tuttavia, la prima volta che i personaggi si muovono per partire verso Tser Pool, invece di vedere **L'Impiccato**, possono sentire il suono di una carrozza trainata da cavalli o di un carro che si avvicina attraverso la nebbia. Quasi subito dopo il suono, appare la carrozza nera di Strahd, come descritto in <span class="citation">Carrozza Nera (p. 37)</span> e <span class="citation">Casa della Carrozza (p. 54)</span>.
+Questa scena inizia in modo simile a <span class="citation">Incrocio del Fiume Ivlis (p. 35)</span>. Tuttavia, la prima volta che i personaggi si muovono per partire verso lo Stagno di Tser, invece di vedere **L'Impiccato**, possono sentire il suono di una carrozza trainata da cavalli o di un carro che si avvicina attraverso la nebbia. Quasi subito dopo il suono, appare la carrozza nera di Strahd, come descritto in <span class="citation">Carrozza Nera (p. 37)</span> e <span class="citation">Casa della Carrozza (p. 54)</span>.
 ## C2a. L'Arrivo di Strahd
 I personaggi possono vedere un conducente seduto sul sedile della carrozza: la **progenie vampirica** Escher, come descritto in <span class="citation">K49. Salotto (p. 70)</span>. Se presente, Ireena sussulta alla sua vista, sussurrando che pensava fosse morto.
 
@@ -95,7 +95,7 @@ Che Ireena sia con il gruppo o meno, aggiungi:
 
 > [!lore]+ **La Predizione di Strahd**
 >
-> Al momento dell'incontro con i personaggi, Strahd sta tornando da una visita alla tenda di Madam Eva all'Accampamento di Tser Pool. Trovando il potere del Fano della Foresta difficile da controllare a causa dell'interferenza di Baba Zelenna durante il suo sonno, ha cercato il consiglio di Madam Eva nei suoi preparativi per la Grande Congiunzione. Ha ricevuto la seguente predizione:
+> Al momento dell'incontro con i personaggi, Strahd sta tornando da una visita alla tenda di Madam Eva all'Accampamento dello Stagno di Tser. Trovando il potere del Fano della Foresta difficile da controllare a causa dell'interferenza di Baba Zelenna durante il suo sonno, ha cercato il consiglio di Madam Eva nei suoi preparativi per la Grande Congiunzione. Ha ricevuto la seguente predizione:
 >
 > - "Il Signore Oscuro—il padrone delle ombre, la bestia nel labirinto che strappa le sue catene."
 > - "Il Sei di Stelle, l'Evocatore—il potere che brami, una forza non domata dalle mani mortali, cruda e selvaggia con furia ardente."
@@ -178,13 +178,14 @@ Se non distratto, [[Strahd von Zarovich#Il Gentiluomo|Strahd]] saluta ciascuno d
 
 Se [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] è presente, Strahd chiede poi se "Lady Kolyana" li ha presentati adeguatamente al suo dominio, e si scusa per eventuali "racconti popolari" che i suoi sudditi potrebbero aver condiviso su di lui. 
 
-(Tuttavia, non nega il suo attacco al villaggio di Barovia, notando solo che gli abitanti del villaggio lo hanno sfidato in un atto di estrema tradimento. "Sono sicuro che potete concordare che la mia risposta è stata misurata," dice. "Dopotutto, nessun signore potrebbe tollerare un insediamento che favorisce tale sedizione. Le brave persone di Barovia avevano bisogno di una lezione. La loro disciplina è stata una gentilezza che pochi altri avrebbero intrattenuto.")
+(Tuttavia, non nega il suo attacco al villaggio di Barovia, notando solo che gli abitanti del villaggio lo hanno sfidato in un atto di estremo tradimento. "Sono certo che possiate capire che la mia reazione è stata del tutto equilibrata," afferma.
+"In fondo, nessun signore potrebbe tollerare un villaggio che incoraggia la ribellione. La gente di Barovia aveva bisogno di una lezione. Imporre loro la disciplina è stato, in realtà, un atto di clemenza che pochi altri avrebbero concesso.")
 
 Man mano che la conversazione progredisce, Strahd nota di aver sentito "cose meravigliose" delle imprese dei personaggi in "una certa vecchia casa ai margini del mio dominio." Strahd fa poi un breve riferimento alle azioni dei personaggi nella Casa della Morte, lodando sarcasticamente il loro "valore feroce e ardente."
 
 Se i personaggi chiedono della natura della Casa della Morte, o del suo scopo nel portarli a Barovia, Strahd sorride freddamente e dice solo, "Le anime dei dannati sono cose tragicamente contorte. Non indugiate sulla loro follia."
 
-Se i personaggi chiedono del conducente di Strahd, Strahd lo presenta come Escher, "il mio cocchiere e coppiere." Escher non risponde alle domande o affermazioni dei personaggi e si limita a stare demuremente al fianco di Strahd.
+Se i personaggi chiedono del conducente di Strahd, Strahd lo presenta come Escher, "il mio cocchiere e coppiere." Escher non risponde alle domande o affermazioni dei personaggi e si limita a stare stoicamente al fianco di Strahd.
 
 > [!abstract]+ **Richiesta di Libertà**
 > Se i personaggi chiedono se Strahd li ha intenzionalmente intrappolati a Barovia, lui nega sinceramente di averlo fatto. Se gli viene chiesto di liberarli, tuttavia, rifiuta di farlo. "Perché dovrei liberarvi," dice, con un sorriso ironico, "quando mi diverte fare altrimenti?"
@@ -199,7 +200,7 @@ Se i personaggi hanno seppellito le ossa di Walter e hanno messo a riposo gli sp
 
 * "Immediatamente prima del vostro ingresso nelle mie terre, avete causato grandi danni a un gruppo dei miei servitori—gli occupanti di una particolare casa ai confini del mio dominio. Mi ero affidato a quei servitori per portarmi esemplari di interesse, ma le vostre attività li hanno lasciati indisposti a tempo indeterminato. Perché non dovrei punirvi per i vostri crimini contro di loro?"
 
-Strahd incornicia ciascuna di queste domande come un'ipotesi. Nel porle, il suo tono è inquisitivo, curioso e almeno in parte divertito. Se i personaggi disperano alla prospettiva di rispondere a queste domande, Strahd nota, "Non sono un uomo irragionevole. Se c'è qualche motivo o razionale che potrei aver perso, allora per favore illuminatemi."
+Strahd incornicia ciascuna di queste domande come un'ipotesi. Nel porle, il suo tono è inquisitivo, curioso e almeno in parte divertito. Se i personaggi disperano alla prospettiva di rispondere a queste domande, Strahd nota, "Non sono un uomo irragionevole. Se c'è qualche motivo o ragionamento che potrei aver perso, allora per favore illuminatemi."
 ## C2d. Le Concessioni di Strahd
 Mentre i personaggi tentano di rispondere alle sue domande, [[Strahd von Zarovich#Il Gentiluomo|Strahd]] si diverte a fare l'avvocato del diavolo, spingendo contro le loro risposte e sondando i buchi nel loro ragionamento. Alla fine, però, se i punti dei personaggi sono almeno ragionevolmente ben argomentati, Strahd è disposto ad accettarli. (Dovrebbe essere abbastanza chiaro ai personaggi, tuttavia, che li sta semplicemente assecondando accettando le loro risposte.)
 
@@ -224,7 +225,7 @@ Mentre lo fa, i **lupi terribili** di Strahd—compresi uno per ogni personaggio
 ## C2e. Partenza dall'Incrocio
 Mentre i personaggi si muovono per partire dall'Incrocio del Fiume Ivlis dopo che Strahd se n'è andato, incontrano <span class="citation">L'Impiccato (p. 35)</span>. Il personaggio impiccato dovrebbe essere quello che è stato più scortese con Strahd o il meno collaborativo con le sue domande.
 # C3. La Strige
-A metà strada dal sentiero dall'Incrocio del Fiume Ivlis all'Accampamento di Tser Pool, i personaggi sentono il suono di un uccello in difficoltà che gracchia dall'alto. Un corvo con le ali blu—riconoscibile come lo stesso corvo che li ha incontrati nel villaggio di Barovia—si schianta sulla strada ai piedi dei personaggi, visibilmente ferito. Questo è, ancora una volta, il **corvo mannaro** Muriel, in travestimento con 1 punto ferita. Le sue ali e il suo torso sono stati penetrati da diverse dozzine di spine d'argento, lasciandola incapace di volare, rigenerarsi o trasformarsi fino a quando non vengono rimosse.
+A metà strada dal sentiero dall'Incrocio del Fiume Ivlis all'Accampamento dello Stagno di Tser, i personaggi sentono il suono di un uccello in difficoltà che gracchia dall'alto. Un corvo con le ali blu—riconoscibile come lo stesso corvo che li ha incontrati nel villaggio di Barovia—si schianta sulla strada ai piedi dei personaggi, visibilmente ferito. Questo è, ancora una volta, il **corvo mannaro** Muriel, in travestimento con 1 punto ferita. Le sue ali e il suo torso sono stati penetrati da diverse dozzine di spine d'argento, lasciandola incapace di volare, rigenerarsi o trasformarsi fino a quando non vengono rimosse.
 
 > [!info]+ **NPG moribondi**
 >
@@ -299,12 +300,12 @@ Se salvata, Muriel rimane con i personaggi fino a quando non riesce a discernere
 <hr> 
 <p><strong><em>Rigenerazione.</em></strong>  Muriel recupera 10 punti ferita all'inizio del suo turno se non ha subito danni necrotici o danni contundenti, perforanti o taglienti da un'arma d'argento dall'ultimo turno.</p> 
 <p><strong><em>Imitazione.</em></strong> Muriel può imitare suoni semplici che ha sentito, come una persona che sussurra, un bambino che piange o un animale che cinguetta. Una creatura che sente i suoni può capire che sono imitazioni con una prova di Saggezza (Intuizione) CD 10.</p> 
-<p><strong><em>Caduta.</em></strong> Se Muriel vola per almeno 20 piedi dritta verso un bersaglio mentre scende di almeno cinque piedi verso il suolo, e poi colpisce quel bersaglio con un attacco con spada corta nello stesso turno, il bersaglio subisce un danno perforante extra di 7 (2d6). Se il bersaglio è una creatura, deve superare un tiro salvezza di Forza CD 12 o essere atterrato prono.</p> 
+<p><strong><em>Caduta.</em></strong> Se Muriel vola per almeno 6 metri dritta verso un bersaglio mentre scende di almeno 1,5 metri verso il suolo, e poi colpisce quel bersaglio con un attacco con spada corta nello stesso turno, il bersaglio subisce un danno perforante extra di 7 (2d6). Se il bersaglio è una creatura, deve superare un tiro salvezza di Forza CD 12 o essere atterrato prono.</p>
 <h3>Azioni</h3> 
 <p><strong><em>Multiattacco.</em></strong> Muriel effettua due attacchi con armi, uno dei quali può essere con la sua balestra a mano.</p> 
-<p><strong><em>Spada corta.</em></strong> (Solo in forma umanoide o ibrida) <em>Attacco con Arma da Mischia</em>: +5 a colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti.</p> 
+<p><strong><em>Spada corta.</em></strong> (Solo in forma umanoide o ibrida) <em>Attacco con Arma da Mischia</em>: +5 a colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti.</p>
 <p><strong><em>Balestra a mano.</em></strong> (Solo in forma umanoide o ibrida) <em>Attacco con Arma a Distanza</em>: +5 a colpire, portata 30/120 ft., un bersaglio. <em>Colpito:</em> 5 (1d6 + 3) danni perforanti.</p>
-<p><strong><em>Becco.</em></strong> (Solo in forma di corvo o ibrida) <em>Attacco con Arma da Mischia</em>: +5 a colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 1 danno perforante in forma di corvo, o 5 (1d4 + 3) danni perforanti in forma ibrida. Se il bersaglio è un umanoide, deve superare un tiro salvezza di Costituzione CD 10 o essere maledetto con la licantropia del corvo mannaro.</p> 
+<p><strong><em>Becco.</em></strong> (Solo in forma di corvo o ibrida) <em>Attacco con Arma da Mischia</em>: +5 a colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 1 danno perforante in forma di corvo, o 5 (1d4 + 3) danni perforanti in forma ibrida. Se il bersaglio è un umanoide, deve superare un tiro salvezza di Costituzione CD 10 o essere maledetto con la licantropia del corvo mannaro.</p>
 <h3>Azioni Bonus</h3> 
 <p><strong><em>Cambiamento di Forma.</em></strong> Muriel si trasforma in un ibrido corvo-umanoide o in un corvo, o torna alla sua forma umana. Le sue statistiche, a parte la sua taglia, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato. Torna alla sua forma umana se muore.</p> 
 <h3>Reazioni</h3> 
@@ -313,8 +314,8 @@ Se salvata, Muriel rimane con i personaggi fino a quando non riesce a discernere
 
 Se scopre che i personaggi intendono viaggiare verso Vallaki, Muriel viaggia con loro mantenendo il suo travestimento da corvo, sperando di fare affidamento sulla sicurezza del numero fino a quando non può riferire le sue scoperte a Urwin Martikov alla Locanda dell’Acqua Azzurra. In nessun caso Muriel rivela volontariamente la sua vera natura ai personaggi in questo momento.
 
-> [!info]+ **Muriel Incognito**
-> Mentre viaggia con i personaggi, Muriel cerca di mantenere un basso profilo mentre si ingrata con il gruppo. Mentre è in forma di corvo, i personaggi possono comunicare con lei solo usando l'incantesimo *parlare con gli animali*, anche se nega ogni conoscenza di Strahd o delle origini della strige e finge di essere un corvo ordinario e semplice, preoccupato solo di cibo e di evitare i predatori. Se le viene chiesto il suo nome, insiste eccitata, poi (se interrogata) ostinatamente, che il suo nome è "Blu."
+> [!info]+ **Muriel in Incognito**
+> Mentre viaggia con i personaggi, Muriel cerca di non dare nell'occhio, pur cercando di ingraziarsi il gruppo. Mentre è in forma di corvo, i personaggi possono comunicare con lei solo usando l'incantesimo *parlare con gli animali*, anche se nega qualsiasi conoscenza di Strahd o delle origini della strige, fingendosi un comune corvo dalla mente semplice, interessato solo al cibo e ad evitare i predatori. Se le viene chiesto il suo nome, si presenta con entusiasmo come  "Blu", e diventa sempre più ostinata se incalzata con ulteriori domande.
 > 
 > Mentre accompagna il gruppo, Muriel può usare la sua caratteristica ***imitazione*** per produrre uno qualsiasi dei seguenti suoni per suggerire o reagire ai personaggi:
 > 
@@ -325,21 +326,21 @@ Se scopre che i personaggi intendono viaggiare verso Vallaki, Muriel viaggia con
 > * **Clic (come una chiave che gira).** Per applaudire una soluzione a un problema.
 > * **Tromba.** Per celebrare una vittoria o un risultato.
 
-# C4. Tser Pool
+# C4. Lo Stagno di Tser
 <span class="citation"><em>Questa scena si svolge nel Capitolo 2: Area G.</em></span>
 
-Il viaggio dall'Incrocio del Fiume Ivlis all'Accampamento di Tser Pool è lungo un miglio e mezzo e dura trenta minuti.
+Il viaggio dall'Incrocio del Fiume Ivlis all'Accampamento di Stagno di Tser è lungo 2,5 km e dura trenta minuti.
 
 > [!warning]+ **Avviso di Nuovo Contenuto**
-> Nell'aggiornamento v2.0.8, aggiunto il **18 luglio 2024**, l'invito di Madam Eva in [[Atto I - Nelle Nebbie/Arco B - Benvenuti a Barovia]] è stato rimosso. Al suo posto, Ismark Kolyanovich ora chiede ai personaggi di recarsi a Tser Pool e cercare la guida di Madam Eva su come sconfiggere Strahd. I Dungeon Master che hanno utilizzato la vecchia versione dell'Arco B dovrebbero invece utilizzare la [[Materiale Deprecato/Arco C - Nella Valle#C4. Tser Pool|versione deprecata di questa scena]]. (Tutte le altre scene in questo arco, a partire da [[#C5. Il Cavaliere Scheletrico]], rimangono invariate.)
-## C4a. Arrivo a Tser Pool
-Quest'area è in gran parte come descritto in <span class="citation">G. Accampamento di Tser Pool (p. 36)</span>. Tuttavia, nessuno dei Vistani nel campo è ubriaco, e solo uno—una donna Vistana di nome Eliza—serve come spia per Strahd.
+> Nell'aggiornamento v2.0.8, aggiunto il **18 luglio 2024**, l'invito di Madam Eva in [[Atto I - Nelle Nebbie/Arco B - Benvenuti a Barovia]] è stato rimosso. Al suo posto, Ismark Kolyanovich ora chiede ai personaggi di recarsi allo Stagno di Tser e cercare la guida di Madam Eva su come sconfiggere Strahd. I Dungeon Master che hanno utilizzato la vecchia versione dell'Arco B dovrebbero invece utilizzare la [[Materiale Deprecato/Arco C - Nella Valle#C4. Stagno di Tser|versione deprecata di questa scena]]. (Tutte le altre scene in questo arco, a partire da [[#C5. Il Cavaliere Scheletrico]], rimangono invariate.)
+## C4a. Arrivo allo Stagno di Tser
+Quest'area è in gran parte come descritto in <span class="citation">G. Accampamento di Stagno di Tser (p. 36)</span>. Tuttavia, nessuno dei Vistani nel campo è ubriaco, e solo uno—una donna Vistana di nome Eliza—serve come spia per Strahd.
 
 Quando i personaggi entrano nel campo, vengono accolti da Stanimir, un vecchio Vistano che li informa che il leader del loro accampamento, Madam Eva, li sta aspettando e li indirizza verso la tenda di Eva. Stanimir, un vecchio gioviale e colorato con un luccichio negli occhi, è in gran parte come descritto in <span class="citation">Visitatori Misteriosi (p. 19)</span>. Tuttavia, ha preparato l'incantesimo *immagine maggiore* piuttosto che *tocco vampirico*.
 
-Stanimir è felice di rispondere a qualsiasi domanda che i personaggi possano avere sui Vistani o su Barovia, come descritto in <span class="citation">Lore dei Vistani (p. 27)</span>. Le uniche eccezioni sono le informazioni sui Baroviani senza anima, che non esistono, e Old Bonegrinder, che Stanimir non menziona. Inoltre, Stanimir e gli altri Vistani non sanno che una congrega di **streghe notturne** ha recentemente preso dimora nel vecchio mulino a vento, che conoscono solo come il Vecchio Mulino Durst. I Vistani non menzionano nemmeno le maledizioni vistaniche, che sono solo superstizioni, e descrivono l'interesse di Strahd per Tatyana come "vero desiderio," piuttosto che "vero amore."
+Stanimir è felice di rispondere a qualsiasi domanda che i personaggi possano avere sui Vistani o su Barovia, come descritto in <span class="citation">Lore dei Vistani (p. 27)</span>. Le uniche eccezioni sono le informazioni sui Baroviani senza anima, che non esistono, e il Vecchio Macinaossa, che Stanimir non menziona. Inoltre, Stanimir e gli altri Vistani non sanno che una congrega di **streghe notturne** ha recentemente preso dimora nel vecchio mulino a vento, che conoscono solo come il Vecchio Mulino Durst. I Vistani non menzionano nemmeno le maledizioni vistane, che sono solo superstizioni, e descrivono l'interesse di Strahd per Tatyana come "vero desiderio," piuttosto che "vero amore."
 
-Tuttavia, Stanimir non discuterà degli affari di Strahd a Tser Pool. Invece, condivide la sua convinzione che Strahd non tornerà presto e rassicura i personaggi che qualsiasi cosa discussa durante il loro incontro con Madam Eva non raggiungerà le orecchie del vampiro. 
+Tuttavia, Stanimir non discuterà degli affari di Strahd allo Stagno di Tser. Invece, condivide la sua convinzione che Strahd non tornerà presto e rassicura i personaggi che qualsiasi cosa discussa durante il loro incontro con Madam Eva non raggiungerà le orecchie del vampiro. 
 
 Se i personaggi chiedono se Strahd ha ottenuto una predizione da Madam Eva, Stanimir dice loro che Madam Eva condivide i suoi doni liberamente con tutti—ma che il futuro di ciascuno è diverso e spesso difficile da discernere.
 ## C4b. La Tenda di Madam Eva
@@ -364,36 +365,36 @@ Questa scena si svolge in gran parte come descritto in <span class="citation">La
 >
 > ***Relazioni.*** Solo Madam Eva sa di essere un avatar del Cercatore.
 
-Ringrazia i personaggi per aver fatto il viaggio a Tser Pool. Se le viene chiesto della visita di Strahd, dice solo che il futuro di ciascuno è proprio da conoscere e che, mentre il suo dovere la obbliga a cercare i sussurri del Destino per chiunque invochi il suo nome, è vincolata a non rivelare ciò che vede a nessun altro.
+Ringrazia i personaggi per aver fatto il viaggio allo Stagno di Tser. Se le viene chiesto della visita di Strahd, dice solo che il futuro di ciascuno è proprio da conoscere e che, mentre il suo dovere la obbliga a cercare i sussurri del Destino per chiunque invochi il suo nome, è vincolata a non rivelare ciò che vede a nessun altro.
 
 Se Muriel è con i personaggi in forma di corvo, Madam Eva la guarda con un'emozione quasi simile all'affetto e chiede di ispezionarla. Accarezza le ali di Muriel e nota che una volta aveva un corvo domestico amato di nome Turul molto tempo fa.  
 
 "Non l'ho visto che una volta negli ultimi dieci anni, tuttavia," aggiunge Eva, con un po' di tristezza. "Senza dubbio, è diventato selvaggio senza di me." (Madam Eva si riferisce al **Roc di Monte Ghakis**, che la serviva quando manteneva il manto del Cercatore delle Tre Signore.)
 
-Se i personaggi chiedono a Eva di leggere le loro fortune, o chiedono la sua guida su come sconfiggere Strahd, il suo volto si oscura e dice: "State su un precipizio di una scogliera la cui base non potete ancora vedere. Capite cosa mi chiedete?"
+Se i personaggi le chiedono di leggere il loro destino o di guidarli nella lotta contro Strahd, il volto di Madam Eva si vela d'ombra, i suoi occhi sembrano scrutare oltre il velo del presente, e con voce grave sussurra: "Siete in bilico sull’orlo di un abisso, la cui profondità vi è ancora ignota. Capite davvero cosa state chiedendo?"
 
-Indipendentemente dalla risposta dei personaggi, Madam Eva risponde, scuotendo la testa: "Non farò questa cosa per voi—non ancora. Se desiderate perseguire questo percorso, tuttavia, venite all'incrocio del Fiume Ivlis a mezzanotte di stasera. Vi aspetterò lì, vicino alla forca. Venite da soli—e non permettetevi di essere seguiti." Madam Eva rifiuta di elaborare ulteriormente e congeda i personaggi dalla sua tenda se tentano di protestare.
+Indipendentemente dalla risposta dei personaggi, Madam Eva risponde, scuotendo la testa: "Non farò questa cosa per voi—non ancora. Se desiderate perseguire questo percorso, tuttavia, venite all'incrocio del Fiume Ivlis a mezzanotte di stasera. Vi aspetterò lì, vicino alla biforcazione. Venite da soli—e non permettetevi di essere seguiti." Madam Eva rifiuta di elaborare ulteriormente e congeda i personaggi dalla sua tenda se tentano di protestare.
 
 Mentre i personaggi si preparano a partire, Madam Eva si ferma e chiude gli occhi, anche se si spalancano di nuovo poco dopo. Leggi:
 
 <div class="description"><p>La voce di Madam Eva è un sibilo basso mentre parla, la sua silhouette che danza nella luce tremolante delle candele. "Un'ombra si avvicina alla mia tenda: un servo solitario dell'Oscurità. Cercano la conoscenza del vostro futuro—segreti che sono giurata a non rivelare a nessuno tranne che ai loro custodi. </p>
 <p>“Non guardare, bambino, né correre a salutarli; se scoprono le vostre vere aspirazioni, tutto potrebbe essere perduto. Non rivelate, nemmeno, che conoscete la loro vera natura, poiché il loro padrone saprà che ve l'ho detto, e la sua ira scenderà su tutti noi. </p></div>
 
-## C4c. Ospitalità Vistanica
-Uscendo dalla tenda di Madam Eva, i personaggi trovano due altri Vistani in attesa fuori dalla tenda: una donna di nome Eliza e un uomo di nome Arturi Radanavich. Stanimir si unisce al gruppo pochi istanti dopo.
+## C4c. Ospitalità Vistana
+Uscendo dalla tenda di Madam Eva, i personaggi trovano altri due Vistani in attesa fuori dalla tenda: una donna di nome Eliza e un uomo di nome Arturi Radanavich. Stanimir si unisce al gruppo pochi istanti dopo.
 
 A meno che i personaggi non intervengano, la conversazione si svolge come segue:
 
-* Eliza saluta immediatamente i personaggi, dando loro un caloroso benvenuto all'Accampamento di Tser Pool. 
+* Eliza saluta immediatamente i personaggi, dando loro un caloroso benvenuto all'Accampamento dello Stagno di Tser. 
 * Mentre Stanimir si avvicina, Eliza schiocca la lingua e lo rimprovera per la sua mancanza di ospitalità, notando che i personaggi sembrano aver viaggiato a lungo. 
 * Stanimir ricorda divertito a Eliza che il destino non aspetta nessuno, ma invita comunque i personaggi a riposare i loro piedi stanchi al fuoco centrale del campo, offrendo vino, cibo e canzoni se i personaggi si uniscono.
 * Se i personaggi accettano e si muovono per accompagnare Stanimir, Arturi esita, poi chiede se i personaggi avrebbero qualcosa in contrario se li accompagnasse. Nota che ha sentito che sono appena arrivati da Barovia e che è curioso di sentire notizie dal villaggio. (Aggiunge, un po' imbarazzato, che è passato un po' di tempo dall'ultima volta che ha condiviso un fuoco vistanico e si scusa per l'intrusione.)
 
 > [!profile]+ **Arturi ed Eliza**
 >
-> **Arturi Radanavich**, un Vistano maledetto, è arrivato all'accampamento di Tser Pool due settimane dopo il risveglio di Strahd. (Vedi **La Maledizione di Arturi Radanavich** di seguito per ulteriori informazioni sulla presenza di Arturi a Barovia e sulla sua connessione con il Dott. Rudolph van Richten.) Arturi è un uomo tranquillo e di poche parole sulla trentina, con un contegno distante, quasi assente, e una sincerità quasi dolorosa.
+> **Arturi Radanavich**, un Vistano maledetto, è arrivato all'accampamento dello Stagno di Tser due settimane dopo il risveglio di Strahd. (Vedi **La Maledizione di Arturi Radanavich** di seguito per ulteriori informazioni sulla presenza di Arturi a Barovia e sulla sua connessione con il Dott. Rudolph van Richten.) Arturi è un uomo tranquillo e di poche parole sulla trentina, con un contegno distante, quasi assente, e una sincerità quasi dolorosa.
 >
-> Nel frattempo, **Eliza**, una delle spie di Strahd, ha sentito che estranei sono entrati nella piscina da oltre le Nebbie e spera di ottenere informazioni sui loro obiettivi, capacità e debolezze. (Eliza sperava anche di origliare la lettura dei Tarokka dei personaggi, ma è stata sventata dalla preveggenza di Madam Eva.)
+> Nel frattempo, **Eliza**, una delle spie di Strahd, ha sentito che degli estranei sono arrivati allo Stagno di Tser da oltre le Nebbie e spera di ottenere informazioni sui loro obiettivi, capacità e debolezze. (Eliza sperava anche di origliare la lettura dei Tarokka dei personaggi, ma è stata sventata dalla preveggenza di Madam Eva.)
 >
 > In netto contrasto con Arturi, Eliza è una donna allegra ed eccitabile sulla trentina, sempre felice di inserirsi in una conversazione con un commento sfacciato o spiritoso.
 
@@ -407,7 +408,7 @@ A meno che i personaggi non intervengano, la conversazione si svolge come segue:
 >
 > Non passò molto tempo dopo che Erasmus fu venduto che Van Richten rintracciò la carovana dei Vistani, tendendo un'imboscata ai d'Avenir—un marito e una moglie Vistani che allora viaggiavano con i Radanavich e avevano aiutato Madame Radanavich nella sua vendetta—e chiedendo di sapere dove fosse stato portato suo figlio. Arturi apprese in seguito che Van Richten aveva risparmiato la vita dei d'Avenir—una misericordia che non sarebbe durata per sempre.
 >
-> Tre anni dopo, Van Richten tornò, con il volto cupo e circondato da uno sciame di non morti affamati. Suo figlio Erasmus era morto—trasformato in uno spawn vampirico e ucciso dalla mano di Van Richten stesso. Dilaniato dalla furia e dal dolore, Van Richten liberò l'orda di non morti sulla carovana dei Radanavich, urlando, "I non morti vi prendano come avete preso mio figlio!"
+> Tre anni dopo, Van Richten tornò, con il volto cupo e circondato da uno sciame di non morti affamati. Suo figlio Erasmus era morto—trasformato in una progenie vampirica e ucciso dalla mano di Van Richten stesso. Dilaniato dalla furia e dal dolore, Van Richten liberò l'orda di non morti sulla carovana dei Radanavich, urlando, "I non morti vi prendano come avete preso mio figlio!"
 >
 > Solo Arturi sopravvisse, nascondendosi nel baule magico di sua nonna. Quando finalmente emerse, ore dopo, trovò l'accampamento distrutto, la sua famiglia massacrata—e Van Richten scomparso.
 >
@@ -417,22 +418,22 @@ A meno che i personaggi non intervengano, la conversazione si svolge come segue:
 > 
 > Arturi ha attraversato Barovia diverse volte da allora alla ricerca di Van Richten. In un'occasione, ha persino recuperato un deposito di armi, contenente un manoscritto a metà e un piccolo assortimento di armi. Tuttavia, non è riuscito a trovare il medico stesso.
 > 
-> Arturi è spesso tornato all'accampamento di Madam Eva per godere della sua ospitalità—ma non rimane mai più a lungo del tramonto ogni volta. Perché i morti che camminano non riposano mai, e Arturi non osa condurli a Tser Pool . . . 
+> Arturi è spesso tornato all'accampamento di Madam Eva per godere della sua ospitalità—ma non rimane mai più a lungo del tramonto ogni volta. Perché i morti che camminano non riposano mai, e Arturi non osa condurli allo Stagno di Tser . . . 
 >
 > **Fonte:** Wise, David. _Van Richten's Guide to the Vistani._ Wizards of the Coast, 1995.
 
-Se i personaggi si dirigono verso il fuoco vistanico, Eliza—e Arturi, se è presente—si presentano. Eliza chiede anche i nomi dei personaggi in cambio. (Se gli viene chiesto perché non ha condiviso un fuoco vistanico fino a poco tempo fa, Arturi si ritrae e ammette solo che la situazione è complicata.)
+Se i personaggi si dirigono verso il fuoco vistano, Eliza—e Arturi, se è presente—si presentano. Eliza chiede anche i nomi dei personaggi in cambio. (Se gli viene chiesto perché non ha condiviso un fuoco vistano fino a poco tempo fa, Arturi si ritrae e ammette solo che la situazione è complicata.)
 ## C4d. Il Fuoco Danzante
 Mentre il crepuscolo scende intorno al fuoco del campo, i Vistani servono ai personaggi una cena di uno stufato sostanzioso di coniglio, patate, rape, lenticchie e pastinache insieme a pezzi di pane piatto. Mentre mangiano, Eliza chiede ai personaggi della loro prossima destinazione. Se i personaggi notano che si stanno dirigendo verso Vallaki o indicano un interesse a rimanere la notte, Stanimir li invita a riposare al campo durante la notte, notando che le strade possono essere lunghe e pericolose oltre i carri di Madam Eva.
 
-Se non l'ha già fatto, Arturi chiede ai personaggi notizie da Barovia, chiedendo specificamente se hanno incontrato un uomo di nome Rudolph van Richten. Se gli viene chiesto del suo interesse, Arturi nota tranquillamente che Van Richten è un suo conoscente e che ha recentemente sentito una voce che lo ha visto viaggiare verso Barovia. (Questa è una bugia. Una prova di Saggezza (Intuizione) CD 10 rivela che Arturi parla un po' troppo velocemente. Arturi non rivela la verità se sfidato e si limita a scrollare le spalle e dire, "Credete a ciò che scegliete di credere.") Arturi non è sicuro se crede che Van Richten sia morto, ma sospetta che sia ancora vivo—se non altro perché ha sentito dire che l'uomo anziano è impressionantemente difficile da uccidere.
+Se non l'ha già fatto, Arturi chiede ai personaggi notizie da Barovia, chiedendo specificamente se hanno incontrato un uomo di nome Rudolph van Richten. Se gli viene chiesto del suo interesse, Arturi nota tranquillamente che Van Richten è un suo conoscente e che ha recentemente sentito una voce che lo ha visto viaggiare verso Barovia. (Questa è una bugia. Una prova di Saggezza (Intuizione) CD 10 rivela che Arturi parla un po' troppo velocemente. Arturi non rivela la verità se sfidato e si limita a scrollare le spalle e dire, "Credete a ciò che scegliete di credere.") Arturi crede che Van Richten sia morto ma non ne è sicuro; sospetta che sia ancora vivo—se non altro perché ha sentito dire che l'uomo anziano è incredibilmente difficile da uccidere.
 
 > [!info]+ **Prove di Intuizione**
 > Non invitare i giocatori a fare prove di Intuizione senza essere sollecitati. Invece, permetti ai giocatori di chiedere informazioni riguardo al linguaggio del corpo o alla veridicità di un PNG prima di invitarli a fare una prova.
 
-Dopo cena, Stanimir informa allegramente i personaggi che, come ospiti di un fuoco vistanico, ora sono tenuti a giocare al Gioco delle Storie, e chiede se i personaggi accetteranno. Per giocare, ogni partecipante deve mettere in palio una scommessa, che può essere un oggetto di piccolo valore monetario, intellettuale o sentimentale. Ogni partecipante deve poi condividere una storia per far ridere o piangere un uomo. Ogni volta che viene raccontata una storia, gli altri partecipanti al gioco devono indovinare se la storia è vera, falsa o entrambe. Alla fine del gioco, il partecipante con il maggior numero di indovinelli corretti vince il piatto.
+Dopo cena, Stanimir informa allegramente i personaggi che, come ospiti di un fuoco vistano, ora sono tenuti a giocare al Gioco delle Storie, e chiede se i personaggi accetteranno. Per giocare, ogni partecipante deve mettere in palio una scommessa, che può essere un oggetto di piccolo valore monetario, intellettuale o sentimentale. Ogni partecipante deve poi condividere una storia per far ridere o piangere un uomo. Ogni volta che viene raccontata una storia, gli altri partecipanti al gioco devono indovinare se la storia è vera, falsa o entrambe. Alla fine del gioco, il partecipante con il maggior numero di indovinelli corretti vince il piatto.
 
-Se i personaggi accettano la sfida, Eliza, Arturi e [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] offrono anche di unirsi al gioco. Le scommesse dei partecipanti sono le seguenti:
+Se i personaggi accettano la sfida, Eliza, Arturi e [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] offrono di unirsi al gioco. Le scommesse dei partecipanti sono le seguenti:
 
 * **Stanimir** scommette un mazzo di carte Tarokka consumato che apparteneva alla sua defunta moglie. ("Sono rimaste inutilizzate e polverose nel mio carro per abbastanza tempo," dice con un sorriso triste. "Penso che le piacerebbe se fossero di nuovo nel mondo.")
 * **Eliza** scommette un cannocchiale di ottone pieghevole con un piccolo specchio manovrabile, che permette all'utente di sbirciare dietro gli angoli.
@@ -474,52 +475,70 @@ Dai ai giocatori qualche minuto lontano dal tavolo per pianificare le loro stori
 ### Il Racconto di Stanimir
 Stanimir va per primo, raccontando la stessa storia descritta in <span class="citation">Il Fuoco Danzante (p. 20)</span>. Tuttavia, escludi l'ultimo paragrafo e termina invece con la frase, "La figura nel fuoco danzante sconfigge il suo ultimo nemico, poi si disperde in una nuvola di fumo e cenere." Durante il suo racconto, i personaggi possono notare Stanimir usare l'incantesimo *immagine maggiore* per creare le forme nelle fiamme.
 
-Quando la sua storia è finita e tutti i partecipanti hanno fatto le loro ipotesi—Eliza e Arturi per ultimi, con Eliza che vota "Vero" e Arturi che vota "Mezzo-Vero"—Stanimir rivela che la sua storia era davvero un racconto vero del popolo vistanico e che il principe ferito visse come amico dei Vistani, anche quando il suo cuore fu condotto fuori strada dalle ombre e dalla nebbia. (Se gli viene chiesto, Stanimir ammette che il principe era Strahd von Zarovich nei giorni prima che venisse a Barovia e che la sua promessa ai Vistani è il motivo per cui rimangono nella valle fino ad oggi, "senza paura né favore.")
+Quando la sua storia è finita e tutti i partecipanti hanno fatto le loro ipotesi—Eliza e Arturi per ultimi, con Eliza che vota "Vero" e Arturi che vota "Mezzo-Vero"—Stanimir rivela che la sua storia era davvero un racconto vero del popolo vistano e che il principe ferito visse come amico dei Vistani, anche quando il suo cuore fu condotto fuori strada dalle ombre e dalla nebbia. (Se gli viene chiesto, Stanimir ammette che il principe era Strahd von Zarovich nei giorni prima che venisse a Barovia e che la sua promessa ai Vistani è il motivo per cui rimangono nella valle fino ad oggi, "senza paura né favore.")
 ### Il Racconto di Eliza
 Dopo che uno dei personaggi ha raccontato la sua storia, Eliza condivide la seguente storia:
 
-<div class="description"><p>“Si dice che dentro ogni corvo svolazzi un'anima perduta e che ogni canto del corvo racconti una storia di epoche passate. Sussurrano, quindi ascoltate attentamente.”</p>
-<p>Prende un respiro profondo; quando parla di nuovo, la sua voce è quieta, con una qualità melodica e inquietante.</p>
-<p>“Cantate, corvi, di Barovia, nata dalle nebbie e bagnata nel crepuscolo. Cantate di Lugdana, la fiera del Signore del Mattino, nemica del buio profondo. Il Santo Simbolo del Corvo, il suo testamento radioso, il faro del guerriero di risoluta fede.</p>
-<p>“Cantate, corvi, dell'ascesa di Chernovog, chiamato Dio Verde e Signore Demone su Yester Hill. Lugdana, dai capelli grigi, stanca di battaglie, la sua spada lunga e lo scudo ancora lucidi e pronti. Guidata attraverso le ombre, verso il terreno sacro, si scontrò con il demone, la loro danza tempestosa.</p>
-<p>“Cantate, corvi, dell'ultima furia di Lugdana, del simbolo del Corvo ora splendente di luce. La marea della battaglia che cambia, il grido coraggioso di un eroe, un ultimo assalto con la grazia divina. Il Signore Demone bandito, il guerriero ora caduto, la ferita al suo fianco troppo profonda da sopportare.</p>
-<p>“Cantate, corvi, degli ultimi momenti di luce, un'ombra che scende dalla radianza in alto. Cantate dell'angelo, dalle piume nere e dal becco, l'angelo del Signore del Mattino che reclama il suo dono. Il Simbolo ripreso, tenuto tra gli artigli dei corvi.</p>
-<p>“Cantate, corvi; siete i custodi, gli osservatori, i narratori di storie non raccontate. Cantate, corvi, della memoria di Lugdana, delle ombre che si nascondono e degli eroi che verranno.”</p></div> 
+<div class="description"><p>“Si dice che dentro ogni corvo risieda un'anima perduta e che ogni canto del corvo narri una storia di epoche dimenticate. Sussurrano, perciò ascoltate bene.”</p>
+<p>Prende un respiro profondo; quando parla di nuovo, la sua voce è sommessa, con una qualità melodica e inquietante.</p>
+<p>“Cantate, corvi, di Barovia, nata dalle nebbie e immersa nel crepuscolo. Cantate di Lugdana, la devota del Signore del Mattino, toccata dall'aurora, nemica della tenebra che striscia nel profondo. Il Simbolo Sacro del Corvo, sua luminosa eredità, guida splendente del guerriero animato da fede incrollabile.</p>
+<p>“Cantate, corvi, dell'ascesa di Chernovog, chiamato Dio Verde e Signore Demone del Colle di Yester. Lugdana, dai capelli d'argento, lo spirito stanco per le battaglie, la sua spada lunga e lo scudo ancora lucidi e pronti. Guidata attraverso le ombre fino alla terra consacrata, si scontrò con il demone in una danza tempestosa.</p>
+<p>“Cantate, corvi, dell'ultima furia di Lugdana, del Simbolo Sacro del Corvo ora ardente di luce. L’andamento della battaglia mutato, il grido coraggioso dell’eroina, un assalto finale con la grazia della divinità.
+Il Signore dei Demoni fu bandito, la guerriera cadde, la ferita al fianco troppo profonda da sopportare.</p>
+<p>“Cantate, corvi, degli ultimi bagliori della luce, dell’ombra che scende da un fulgore celeste.
+Cantate dell’angelo, dalle piume nere e becco ricurvo, l’angelo del Signore del Mattino che reclamò il suo dono.
+Il Simbolo fu ripreso, artigliato dai corvi..</p>
+<p>“Cantate, corvi; siete i custodi, gli osservatori, i narratori di storie non raccontate. Cantate, corvi, della memoria di Lugdana, delle ombre che attendono e degli eroi che verranno.”</p></div> 
 
 Quando la sua storia è finita e tutti i partecipanti hanno fatto le loro ipotesi—Stanimir e Arturi per ultimi, con Stanimir che vota "Vero" e Arturi che vota "Falso"—Eliza rivela che la sua storia era mezza-vera. 
 
-Lugdana era davvero una paladina del Signore del Mattino che portava il leggendario *Santo Simbolo del Corvo*, che era un amuleto di platino a forma di sole, con un enorme rubino incastonato al centro. Secondo la leggenda, il simbolo fu dato a Lugdana da un angelo sotto le spoglie di un corvo. Eliza nota con una risata, tuttavia, che nessuno sa cosa sia successo al Simbolo dopo la caduta di Lugdana a Yester Hill, né dove si trovi oggi.
+Lugdana era davvero una paladina del Signore del Mattino che portava il leggendario *Simbolo Sacro del Corvo*, che era un amuleto di platino a forma di sole, con un enorme rubino incastonato al centro. Secondo la leggenda, il simbolo fu dato a Lugdana da un angelo sotto le spoglie di un corvo. Eliza nota con una risata, tuttavia, che nessuno sa cosa sia successo al Simbolo dopo la caduta di Lugdana al Colle di Yester, né dove si trovi oggi.
 ### Il Racconto di Arturi
 Dopo che tre dei personaggi hanno raccontato la loro storia, Arturi condivide la seguente storia:
 
 <div class="description">
-<p>C'era una volta una Volpe, rinomata per la sua saggezza e abilità, che dimorava con il suo cucciolo nei boschi nebbiosi. In una fredda notte di luna, una coppia di Passeri portò il loro figlio, i tentacoli della Morte che stringevano il suo corpo tremante. La Volpe prese il pulcino nella sua tana, ma per tutta la sua conoscenza, non riuscì a curare il suo male, e spirò tra le sue zampe.</p>
-<p>Impazziti dal dolore, i vendicativi Passeri, aiutati da quattro dei loro simili, rapirono il cucciolo della Volpe nella notte. Lo consegnarono al Lupo, che da tempo bramava il sapore della carne di volpe. Il Lupo divorò il cucciolo, e i Passeri partirono per tornare al loro stormo.</p>
-<p>Quando la Volpe scoprì cosa avevano fatto i Passeri, la rabbia afferrò il suo stesso cuore. Nella sua astuzia, sapeva che i Ratti, nelle loro tane sotto terra, avevano sempre disprezzato i canti dei Passeri in alto. La Volpe scese nel regno dei Ratti e promise loro una foresta libera dai canti dei Passeri. Intrigati, i Ratti accettarono.</p>
-<p>I Ratti non riuscirono a trovare il nido dei Passeri da soli. Ma la Volpe astuta poteva, e mentre i Passeri dormivano nel cavo di una grande quercia, i Ratti si abbatterono su di loro per banchettare con denti e artigli. Per i crimini di sei, lo stormo perì, senza risparmiare nemmeno un uovo.</p>
-<p>Il bosco nebbioso è ora oscurato, e gli alberi non cantano più con i canti dei Passeri. Ma alcuni dicono che i Ratti cacciano ancora—che un solo pulcino è sfuggito alle loro grinfie, e che un giorno, lo troveranno e lo divoreranno come gli altri.</p>
+<p>C'era una volta una Volpe, rinomata per la sua saggezza e abilità, che dimorava con il suo cucciolo nei boschi nebbiosi. In una fredda notte di luna, una coppia di Passeri portò il loro figlio, i tentacoli della Morte che stringevano il suo corpo tremante. La Volpe prese il pulcino nella sua tana, ma pur con tutta la sua conoscenza, non riuscì a curare il suo male, e il pulcino spirò tra le sue zampe.</p>
+<p>Impazziti dal dolore, i vendicativi Passeri, aiutati da quattro dei loro simili, rapirono il cucciolo della Volpe quella notte stessa. Lo consegnarono al Lupo, che da tempo bramava il sapore della carne di volpe. Il Lupo divorò il cucciolo, e i Passeri partirono per tornare al loro stormo.</p>
+<p>Quando la Volpe scoprì cosa avevano fatto i Passeri, la rabbia fu incontenibile. Nella sua astuzia, sapeva che i Ratti, nelle loro tane sotto terra, avevano sempre disprezzato i canti dei Passeri in alto. La Volpe scese nel regno dei Ratti e promise loro una foresta libera dai canti dei Passeri. Intrigati, i Ratti accettarono.</p>
+<p>I Ratti non riuscirono a trovare il nido dei Passeri da soli. Ma la Volpe astuta poteva, e mentre i Passeri dormivano nel cavo di una grande quercia, i Ratti si abbatterono su di loro per banchettare con denti e artigli. Per i crimini di sei, lo stormo perì, senza che neppure un uovo venisse risparmiato.</p>
+<p>La foresta avvolta nella nebbia ora è più cupa, e gli alberi non cantano più con le voci dei Passeri.
+Ma si dice che i Ratti caccino ancora—che un pulcino sia riuscito a sfuggire alle loro grinfie, e che un giorno lo troveranno…
+e lo divoreranno come fecero con gli altri.</p>
 </div>
 
 Quando la sua storia è finita e tutti i partecipanti hanno fatto le loro ipotesi—Stanimir e Eliza per ultimi, con Stanimir che vota "Vero" e Eliza che vota "Falso"—Arturi rivela che la sua storia era vera. Tuttavia, rifiuta educatamente di rivelare altro, notando solo con un sorriso triste che "Una storia non può essere veramente raccontata fino a quando non è finita."
 ### Il Racconto di Ireena
 Dopo che tutti i personaggi hanno raccontato la loro storia, [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] (se presente) condivide la seguente storia:
 
-<div class="description"><p>"Quando ero bambina, mio padre mi portò con mio fratello a un vasto lago tranquillo. Ricordo la sabbia sotto i miei piedi nudi e il fruscio delle onde contro la riva. </p>
+<div class="description"><p>"Quando ero bambina, mio padre portò me e mio fratello presso un lago vasto e tranquillo.
+Ricordo ancora la sabbia sotto i piedi nudi, e il lieve sciabordio delle onde sulla riva. </p>
 <p>"Ma poi, qualcosa ruppe il silenzio—un ringhio basso che echeggiava nel vento. Quando mi girai, vidi una bestia emergere dalla nebbia: un lupo, molto più grande di qualsiasi altro avessi mai visto. Ricordo ancora i suoi occhi—gialli, freddi e affamati.</p>
-<p>"Mio padre urlò di correre. Mi lanciai verso i boschi, e il lupo mi seguì, i suoi ringhi echeggiando tra i cespugli. Ricordo i rami che mi frustavano il viso, le spine che mi tagliavano i piedi mentre le mie gambe bruciavano e il mio respiro diventava affannoso, ma la paura mi spingeva avanti.</p>
-<p>"Solo molto più tardi, quando il mio cuore si era calmato nel petto e i passi del lupo erano svaniti nel silenzio, mi permisi finalmente di fermarmi. A quel punto, però, i boschi mi erano estranei e le urla di mio padre erano svanite. </p>
-<p>"Una nebbia pesante era scesa intorno a me e ombre scure si nascondevano in ogni angolo. Feci un passo avanti, una mano che si allungava timorosamente nella nebbia—e un lupo fatto di nebbia saltò fuori, le sue fauci spalancate per divorarmi. E poi—tutto diventò nero.</p>
-<p>"La prossima cosa che ricordo, mi svegliai nel mio letto, il canto di mio padre che echeggiava dalla cucina. Non so come ci arrivai, né cosa accadde al lupo, ma posso ancora ricordare i suoi denti chiaramente come sempre."</p></div>
+<p>"Mio padre urlò di correre. Mi lanciai verso i boschi, e il lupo mi seguì, i suoi ringhi che rimbalzavano tra i cespugli. Ricordo i rami che mi frustavano il viso, le spine che mi tagliavano i piedi mentre le mie gambe bruciavano e il mio respiro diventava affannoso, ma la paura mi spingeva avanti.</p>
+<p>"Solo molto dopo, quando il cuore si placò nel petto e i passi del lupo svanirono nel silenzio,
+mi concessi finalmente di fermarmi. A quel punto, però, i boschi mi erano estranei e le urla di mio padre erano svanite. </p>
+<p>"Una fitta nebbia era calata tutt’intorno, e sagome d’ombra si nascondevano in ogni angolo.
+Feci un passo avanti, la mano tremante che si allungava nella foschia—
+e un lupo fatto di nebbia balzò fuori, le fauci spalancate per divorarmi.
+Poi—tutto divenne nero.</p>
+<p>"La cosa successiva che ricordo è il risveglio nel mio letto,
+con il canto sommesso di mio padre che proveniva dalla cucina.
+Non so come ci sia arrivata, né che fine abbia fatto il lupo…
+ma ricordo ancora perfettamente i suoi denti."</p></div>
 
 Quando la sua storia è finita e tutti i partecipanti hanno fatto le loro ipotesi—Stanimir che vota "Vero" e Eliza e Arturi che votano "Falso"—Ireena rivela che la sua storia era falsa. Con una risata tranquilla, condivide che la storia è un sogno che ha avuto fin dall'infanzia, notando che non ci sono laghi vicino al villaggio di Barovia e che non aveva mai visto un **lupo terribile** fino a poco tempo fa.
 
 Se sfidato sul suo voto, Stanimir dice semplicemente, con un sorriso misterioso, che molti sogni hanno un nocciolo di verità. Ringrazia poi Ireena per aver condiviso la sua storia.
 ### La Partenza di Arturi
-Quando il gioco finisce, Arturi saluta i personaggi e lascia il campo. Se gli viene chiesto perché, condivide, con un sorriso triste, che il campo è in pericolo ogni momento che si trattiene lì dopo il tramonto. "Sono stato egoista stasera," mormora, "e ho spinto la mia fortuna quanto osavo. Ma non oso rimanere più a lungo, per paura del terrore che potrebbe seguire." 
+Quando il gioco giunge al termine, Arturi saluta i personaggi e si allontana dal campo.
+Se gli viene chiesto il motivo, risponde con un sorriso triste che il campo è in pericolo ogni momento in cui lui vi si trattiene dopo il calar del sole.
 
-Un personaggio che riesce in una prova di Carisma (Persuasione) CD 12 può convincere Arturi a condividere che i non morti lo inseguono ovunque vada e che lo hanno perseguitato ogni notte negli ultimi diciotto anni. "Un uomo una volta giurò che i non morti mi avrebbero preso," dice. "E sebbene non ci siano ancora riusciti, non hanno mai mancato di provarci." Rifiuta di spiegare ulteriormente, affermando tristemente: "Alcune storie feriscono il narratore. Per favore, non chiedete altro."
+“Stanotte sono stato egoista,” mormora.
+“Ho sfidato la sorte più di quanto dovrei.
+Ma non oso restare oltre… per timore dell’orrore che potrebbe seguirmi.”
 
-Arturi rifiuta qualsiasi offerta di difenderlo e si allontana nella notte, stabilendosi infine tra i rami di un albero alto a due miglia dall'accampamento. I non morti emergono poi come segue:
+Un personaggio che riesce in una prova di Carisma (Persuasione) CD 12 può convincere Arturi a condividere che i non morti lo inseguono ovunque vada e che lo hanno perseguitato ogni notte negli ultimi diciotto anni. "Un uomo una volta giurò che i non morti mi avrebbero preso," dice. "E sebbene non ci siano ancora riusciti, non hanno mai mancato di provarci." Rifiuta di spiegare ulteriormente, affermando tristemente: "Alcune storie feriscono chi le racconta. Per favore, non chiedete altro."
+
+Arturi rifiuta qualsiasi offerta di difenderlo e si allontana nella notte, stabilendosi infine tra i rami di un albero alto a 3 km dall'accampamento. I non morti emergono poi come segue:
 
 * Trenta minuti dopo l'arrivo di Arturi, dodici **zombi** arrivano per aggirarsi alla base dell'albero. 
 * Due ore dopo, cinque **ghoul** arrivano per graffiare e ululare al tronco dell'albero. 
@@ -528,7 +547,7 @@ Arturi rifiuta qualsiasi offerta di difenderlo e si allontana nella notte, stabi
 
 I non morti svaniscono nei boschi poco prima dell'alba.
 ## C4e. Ritorno all'Incrocio del Fiume Ivlis
-Il viaggio dall'Accampamento di Tser Pool all'Incrocio del Fiume Ivlis è lungo un miglio e mezzo e dura trenta minuti. I personaggi che tentano di nascondere i loro movimenti da Eliza, la spia di Strahd nel campo, devono riuscire in una prova di Destrezza (Furtività) CD 11 o prendere altre azioni segrete per farlo.
+Il viaggio dall'Accampamento dello Stagno di Tser all'Incrocio del Fiume Ivlis è lungo 2,5 km e dura trenta minuti. I personaggi che tentano di nascondere i loro movimenti a Eliza, la spia di Strahd nel campo, devono riuscire in una prova di Destrezza (Furtività) CD 11 o prendere altre azioni segrete per farlo.
 ### Viaggio verso l'Incrocio
 Mentre i personaggi fanno il viaggio verso l'incrocio, leggi:
 
@@ -540,123 +559,124 @@ Mentre i personaggi fanno il viaggio verso l'incrocio, leggi:
 Se i personaggi non sono riusciti a nascondere la loro partenza, qualsiasi personaggio con un punteggio di Saggezza (Percezione) passivo di 11 o superiore si rende conto che sono seguiti. Leggi:
 
 <div class="description">
-<p>Il suono di un ramoscello che si spezza taglia il silenzio come vetro che si frantuma. Un cespuglio dietro di voi fruscia—poi cade improvvisamente silenzioso.</p>
+<p>Il suono di un ramoscello che si spezza taglia il silenzio come vetro che si frantuma. Un cespuglio dietro di voi fruscia—poi improvvisamente ritorna immobile e silenzioso.</p>
 </div>
 
 Il cespuglio frusciante nasconde la **bandita** Vistana Eliza. Se i personaggi la ignorano, continua a seguire i personaggi mentre si avvicinano all'incrocio. Altrimenti, se i personaggi la affrontano, reagisce come segue:
 
 **Se i personaggi chiamano Eliza**, rimane nascosta e non risponde.
 
-**Se i personaggi trovano il nascondiglio di Eliza**, esce dalla boscaglia con le mani alzate in segno di pace. Rassicura i personaggi che non intendeva far loro del male e insiste che li ha seguiti per curiosità riguardo ai loro viaggi notturni. "Fuori e in giro a mezzanotte—quando tutti tranne i mostri temono di camminare?" sussurra, i suoi occhi che brillano. "Si potrebbe pensare che stiate *combinando* qualcosa—e un narratore può sempre usare più storie." 
+**Se i personaggi trovano il nascondiglio di Eliza**, esce dalla boscaglia con le mani alzate in segno di pace. Rassicura i personaggi che non intendeva far loro del male e insiste che li ha seguiti per curiosità riguardo ai loro viaggi notturni. "Fuori e in giro a mezzanotte—quando tutti tranne i mostri temono di camminare?" sussurra, i suoi occhi che brillano. "Si potrebbe pensare che stiate *combinando* qualcosa—e a un cantastorie fanno comodo un po' di storie nuove." 
 
-Eliza spera di viaggiare con i personaggi apertamente fino alla loro destinazione. Se rifiutata, "accetta" di tornare a Tser Pool, ma segretamente torna indietro per seguire le tracce dei personaggi. Se i personaggi tentano di convincerla che qualsiasi tale impresa sarebbe inutile e riescono in una prova di Carisma (Intimidazione) CD 15, tuttavia, Eliza torna a Tser Pool e rimane lì per la notte.
+Eliza spera di viaggiare con i personaggi apertamente fino alla loro destinazione. Se rifiutata, "accetta" di tornare allo Stagno di Tser, ma segretamente torna indietro per seguire le tracce dei personaggi. Se i personaggi tentano di convincerla che qualsiasi tale impresa sarebbe inutile e riescono in una prova di Carisma (Intimidazione) CD 15, tuttavia, Eliza torna allo Stagno di Tser e rimane lì per la notte.
 
 **Se i personaggi minacciano Eliza**, si arrende immediatamente, gettandosi alla loro mercé. Se riescono in una prova di Carisma (Intimidazione) CD 15, rivela che "riporta al signore del castello." Se le viene chiesto perché serve Strahd, i suoi occhi brillano con un accenno di fanatismo mentre afferma con fervore che Strahd è—o dovrebbe essere—il "re" dei Vistani. "È colui che ci ha riportato a casa," sussurra con riverenza. "Lo abbiamo liberato dalla morte, e, in gratitudine, ci ha liberato dall'esilio."
 
 > [!lore]+ **Il Fanatismo di Eliza**
-> Eliza ammette liberamente che pochi Vistani concordano con le sue convinzioni o la sua lealtà a Strahd—un fatto che la spinge a maledire i "ingrati" e i "senza fede" tra loro. Sebbene non creda che Barovia sia la casa ancestrale dei Vistani, Eliza crede che sia una nuova casa che Strahd ha trovato per loro.
+> Eliza ammette liberamente che pochi Vistani concordano con le sue convinzioni o la sua lealtà a Strahd—un fatto che la spinge a maledire gli "ingrati" e i "senza fede" tra loro. Sebbene non creda che Barovia sia la casa ancestrale dei Vistani, Eliza crede che sia una nuova casa che Strahd ha trovato per loro.
 
-**Se i personaggi attaccano Eliza**, tenta di fuggire nei boschi. Se le viene permesso di farlo, Eliza si dirige immediatamente verso il Castello Ravenloft e non torna a Tser Pool quella notte. Se i personaggi la inseguono, gestisci l'inseguimento come descritto in <span class="citation">Inseguimenti (<em>Guida del Dungeon Master</em>, p. 252)</span>, utilizzando la tabella **Complicazioni dell'Inseguimento in Natura** come segue:
+**Se i personaggi attaccano Eliza**, ella tenta di fuggire nei boschi. Se le viene permesso di farlo, Eliza si dirige immediatamente verso il Castello Ravenloft e non torna allo Stagno di Tser quella notte. Se i personaggi la inseguono, gestisci l'inseguimento come descritto in <span class="citation">Inseguimenti (<em>Guida del Dungeon Master</em>, p. 252)</span>, utilizzando la tabella **Complicazioni dell'Inseguimento in Natura** come segue:
 
 * Usa uno **sciame di moscerini pungenti** (usando le statistiche di uno **sciame di vespe**) per lo **sciame di insetti**
 * Usa una mandria di **alci** spaventate per la mandria di animali spaventati
 * Usa un **ragno gigante** per la creatura indigena dell'area
 
-Mentre fugge attraverso i boschi, Eliza ha mezza copertura da qualsiasi personaggio a almeno 30 piedi di distanza e tre quarti di copertura da qualsiasi personaggio a almeno 60 piedi di distanza.
+Mentre fugge attraverso i boschi, Eliza ha mezza copertura da qualsiasi personaggio che si trovi a almeno 9 metri di distanza e tre quarti di copertura da qualsiasi personaggio che si trovi a almeno 18 metri di distanza.
 
 **Se i personaggi tentano di nascondere le loro tracce da Eliza**, possono farlo viaggiando fuori strada e riuscendo in una prova di Destrezza (Furtività) CD 11, seguita da una prova di Saggezza (Sopravvivenza) CD 11. I personaggi che si allontanano dalla strada in questo modo incontrano un **fuoco fatuo** come descritto in <span class="citation">Fuoco Fatuo (p. 33)</span>.
 ### La Marcia dei Morti
 Quando i personaggi arrivano all'Incrocio del Fiume Ivlis, leggi:
 
 <div class="description">
-<p>Il sentiero ben battuto ritorna all'incrocio, ora illuminato sotto la luce pallida e malata della luna. Dall'altra parte della strada, le lapidi avvolte nella nebbia sembrano rannicchiarsi nell'oscurità accanto alla vecchia forca di legno, la cui corda sfilacciata pende senza vita nell'aria immobile.</p>
-<p>Una sagoma tozza e incappucciata si trova accanto alla forca—aspettando.</p>
+<p>Il sentiero ben battuto ritorna al bivio, ora illuminato dalla pallida e malata luce della luna. Dall’altra parte della strada, le tombe avvolte nella nebbia sembrano accovacciarsi nell’oscurità accanto ai vecchi patiboli di legno, la cui corda logora pende senza vita nell’aria immobile.
+</p>
+<p>Una figura tozza e incappucciata sta accanto al patibolo—ad aspettare.</p>
 </div>
 
 La sagoma è Madam Eva. Non risponde se chiamata e aspetta che i personaggi si avvicinino a lei. Quando lo fanno, sussurra loro, la sua voce che raschia come un vento freddo: "*Cosa vi ho detto prima di lasciare la mia tenda?*" Se i personaggi rispondono accuratamente, Madam Eva annuisce, assicurandosi delle loro identità. 
 
 > [!abstract]+ **La Fuga di Eliza**
-> Se i personaggi non sono riusciti a fermare Eliza dal seguirli, Eliza si nasconde dietro un cespuglio a nord dell'incrocio, osservandoli silenziosamente. Se lo è, gli occhi di Madam Eva si spalancano e lei esala bruscamente. "Sciocchi!" sussurra. "Siete stati seguiti—eliminatela, o tutto è perduto!" Poi indica il nascondiglio di Eliza. 
+> Se i personaggi non sono riusciti a fermare Eliza dal seguirli, Eliza si nasconde dietro un cespuglio a nord dell'incrocio, osservandoli silenziosamente. Se è così, gli occhi di Madam Eva si spalancano e lei emette un respiro forte. "Sciocchi!" sussurra. "Siete stati seguiti—eliminatela, o tutto è perduto!" Poi indica il nascondiglio di Eliza. 
 > 
-> Una volta notata, Eliza tenta immediatamente di fuggire nei boschi, iniziando con un vantaggio di 30 piedi. Se le viene permesso di farlo, Eliza si dirige immediatamente verso il Castello Ravenloft e non torna a Tser Pool quella notte. Se i personaggi la inseguono, gestisci l'inseguimento come descritto in <span class="citation">Inseguimenti (<em>Guida del Dungeon Master</em>, p. 252)</span>, utilizzando la tabella **Complicazioni dell'Inseguimento in Natura** come segue:
+> Una volta notata, Eliza tenta immediatamente di fuggire nei boschi, iniziando con un vantaggio di 9 metri. Se le viene permesso di farlo, Eliza si dirige immediatamente verso il Castello Ravenloft e non torna allo Stagno di Tser quella notte. Se i personaggi la inseguono, gestisci l'inseguimento come descritto in <span class="citation">Inseguimenti (<em>Guida del Dungeon Master</em>, p. 252)</span>, utilizzando la tabella **Complicazioni dell'Inseguimento in Natura** come segue:
 > * Usa uno **sciame di moscerini pungenti** (usando le statistiche di uno **sciame di vespe**) per lo **sciame di insetti**
 > * Usa una mandria di **alci** spaventate per la mandria di animali spaventati
 > * Usa un **ragno gigante** per la creatura indigena dell'area
 > 
-> Mentre fugge attraverso i boschi, Eliza ha mezza copertura da qualsiasi personaggio a almeno 30 piedi di distanza e tre quarti di copertura da qualsiasi personaggio a almeno 60 piedi di distanza.
+> Mentre fugge attraverso i boschi, Eliza ha mezza copertura da qualsiasi personaggio a almeno 9 metri di distanza e tre quarti di copertura da qualsiasi personaggio a almeno 18 metri di distanza.
 > 
-> Se Eliza viene catturata, Madam Eva insiste che venga uccisa e gettata nel Fiume Ivlis, "perché altrimenti riferirà ciò che ha visto e sentito al suo padrone." Se sfidata, Madam Eva risponde freddamente che "non può esserci equivoco quando il Destino stesso è in bilico."
+> Se Eliza viene catturata, Madam Eva insiste che venga uccisa e gettata nel Fiume Ivlis, "perché altrimenti riferirà ciò che ha visto e sentito al suo padrone." Se sfidata, Madam Eva risponde freddamente che "non può esserci alcuna ambiguità quando il Destino stesso è in bilico su un precipizio."
 
 Se ulteriormente interrogata, Madam Eva alza una mano, poi si gira silenziosamente per affrontare il cimitero senza nome vicino alla forca. La Marcia dei Morti, come descritto in <span class="citation">Marcia dei Morti (p. 48)</span>, inizia poco dopo.
 
-Una volta iniziata la Marcia, Madam Eva informa i personaggi: "Ogni spirito in questa marcia condivide un tratto comune. Potete supporre quale potrebbe essere?" Se i personaggi rispondono correttamente, chiede poi, "Dove supponete che potrebbero essere diretti?"
+Una volta iniziata la Marcia, Madam Eva informa i personaggi: "Ogni spirito in questa marcia condivide un tratto comune. Potete indovinare quale potrebbe essere?" Se i personaggi rispondono correttamente, chiede poi, "Dove supponete che potrebbero essere diretti?"
 
 Indipendentemente dalla risposta dei personaggi, Madam Eva condivide poi le informazioni sulla Marcia fornite in <span class="citation">Marcia dei Morti (p. 48)</span>, sia in risposta alle domande dei personaggi sia di propria iniziativa una volta che la Marcia ha lasciato completamente il cimitero.
 
-"Questo è il precipizio su cui camminate," li avverte una volta che la Marcia è partita. "Ci sono molti percorsi tra le tele del Destino, ma posso vedere solo ciò che può essere—non ciò che sarà. Posso dirvi cosa *dovete* fare, ma non posso garantire che avrete successo. Perché se fallite, questo sarà il vostro luogo di riposo—un luogo senza eredità, gloria o amore. Capite?"
+"Questo è il precipizio su cui camminate," li avverte una volta che la Marcia è partita. "Ci sono molti sentieri tra le trame del Destino, ma io posso vedere solo ciò che potrebbe essere—non ciò che sarà. Posso dirvi cosa *dovete* fare, ma non posso garantire che avrete successo. Perché se fallite, questo sarà il vostro luogo di riposo—un luogo senza eredità, gloria o amore. Capite?"
 
-Indipendentemente dalla risposta dei personaggi, Madam Eva li fissa con uno sguardo fermo. "Se desiderate abbandonare questa missione, nessuno potrebbe biasimarvi. Non c'è vergogna nel fuggire da un nemico che nessun altro ha sconfitto. Se desiderate che legga il vostro futuro, posso leggere i vostri palmi o guardare nella mia sfera di cristallo. Posso dirvi il volto del vostro vero amore, il percorso verso una buona salute negli anni della vecchiaia o il successo che potreste trovare in un mestiere o professione." Si ferma, poi aggiunge, la sua voce quasi un sussurro: "Oppure posso leggere le carte—e mettervi su un percorso che finisce solo quando il vostro nemico è sconfitto—o voi lo siete. La scelta è vostra."
+Indipendentemente dalla risposta dei personaggi, Madam Eva li fissa con uno sguardo fermo. "Se desiderate abbandonare questa missione, nessuna anima vi biasimerebbe. Non c'è vergogna nel fuggire da un nemico che nessun altro ha mai sconfitto. Se desiderate che legga il vostro futuro, posso leggere le vostre mani o guardare nella mia sfera di cristallo. Posso dirvi il volto del vostro vero amore, il percorso verso una buona salute negli anni della vecchiaia o il successo che potreste trovare in un mestiere o una professione." Fa una pausa, poi aggiunge, la sua voce che diventa quasi un sussurro: "Oppure posso leggere le carte—e mettervi su un percorso che finirà solo quando il vostro nemico sarà sconfitto—o lo sarete voi. La scelta è vostra."
 
 Se i personaggi insistono nel desiderio di sconfiggere Strahd, Madam Eva annuisce. "Molto bene," dice. "Allora iniziamo." 
 ## C4f. La Lettura dei Tarokka
 Madam Eva inizia la lettura dei Tarokka sedendosi sulla terra del cimitero, infilando una mano nel mantello e rimuovendo tre vecchie candele, che pianta nel terreno e accende con un gesto della mano. Poi rimuove un mazzo di carte Tarokka, che posa a terra tra le candele. Leggi:
 
 <div class="description">
-<p>Le sue vecchie mani che lavorano abilmente, l'antica veggente rimuove quattordici carte dalla cima del mazzo, mettendole da parte. Le restanti carte, le mescola abilmente due volte, tre volte, quattro.</p>
+<p>Le sue vecchie mani che lavorano abilmente, l'antica veggente rimuove quattordici carte dalla cima del mazzo, mettendole da parte. Le restanti carte, le mescola abilmente due volte, tre volte, quattro volte.</p>
 </div>
 
-Mentre mescola il mazzo, i personaggi notano una borsa di velluto a terra accanto a lei che non era presente un momento prima. Madam Eva incontra i loro occhi, poi ride piano. "Il compito che mi chiedete non è un piccolo favore," mormora. "In cambio, chiederei un favore a mia volta."
+Mentre mescola il mazzo, i personaggi notano una borsa di velluto a terra accanto a lei che non c'era un momento prima. Madam Eva incontra il loro sguardo, poi ride piano. "Il compito che mi chiedete non è un piccolo favore," mormora. "In cambio, chiederei un favore a mia volta."
 
 Se i personaggi accettano la richiesta di Madam Eva o chiedono ulteriori informazioni, lei informa loro che la borsa contiene dieci monete d'oro. "La mia pronipote, Arabelle, festeggerà il suo decimo compleanno tra due giorni," dice. "Per questa occasione importante, desidero farle un regalo—ma nella mia vecchiaia, non sono in grado di fare il viaggio da sola."
 
-Madam Eva chiede ai personaggi di usare i fondi nella borsa per acquistare un giocattolo per Arabelle da Blinsky Toys a Vallaki—Blinsky, nota con affetto, sono i preferiti di Arabelle—e consegnare il giocattolo all'accampamento vistanico a sud-ovest di Vallaki entro mezzogiorno del compleanno di Arabelle. Aggiunge che i personaggi sono liberi di tenere qualsiasi resto come pagamento per i loro sforzi.
+Madam Eva chiede ai personaggi di usare i fondi nella borsa per acquistare un giocattolo per Arabelle da Giocattoli di Blinsky a Vallaki—Blinsky, nota con affetto, sono i preferiti di Arabelle—e consegnare il giocattolo all'accampamento vistano a sud-ovest di Vallaki entro mezzogiorno del compleanno di Arabelle. Aggiunge che i personaggi sono liberi di tenere qualsiasi resto come pagamento per i loro sforzi.
 
-Eva aggiunge, con un sorriso criptico, che i personaggi potrebbero godere di parlare con Arabelle, poiché è "una bambina molto interessante"—e che i personaggi potrebbero trovare l'amicizia della sua famiglia un dono in sé. (Se i personaggi chiedono, Eva condivide solo che il padre di Arabelle, Luvash, è il leader dell'accampamento vistanico di Vallaki, e suo fratello Arrigal è un "uomo perspicace e intelligente.")
+Eva aggiunge, con un sorriso criptico, che i personaggi potrebbero divertirsi a parlare con Arabelle, poiché è "una bambina molto interessante"—e che i personaggi potrebbero scoprire che fare amicizia con la sua famiglia è un dono in sé. (Se i personaggi chiedono, Eva condivide solo che il padre di Arabelle, Luvash, è il leader dell'accampamento vistano di Vallaki, e suo fratello Arrigal è un "uomo perspicace e intelligente.")
 
 Se i personaggi accettano il compito di Madam Eva, lei annuisce con approvazione. Inizia poi la lettura dei Tarokka. Leggi:
 
 <div class="description">
-<p>Madam Eva posa entrambi i mazzi a terra davanti a sé. Chiudendo gli occhi, posa la mano destra sulla superficie del mazzo più grande. Le fiamme cremisi si affievoliscono e vorticano in schemi arcani mentre le sue labbra si muovono silenziosamente, una tensione distante che si diffonde nell'aria. I suoni delle foglie fruscianti e del fiume Ivlis che scorre oltre le pareti della tenda iniziano a diminuire, il mondo esterno diventando muto e insostanziale mentre lo spazio interno diventa più solido—più reale.</p>
-<p>Lentamente, con riverenza, la veggente estrae tre carte dalla cima del mazzo, posandole a faccia in giù separatamente a terra, con la seconda posata tra e sopra i suoi partner. Si sposta poi al mazzo più piccolo, estraendo altre due carte. La prima, la posa sotto le prime tre, formando una croce. La seconda, la posa al centro.</p>
-<p>Le ombre delle lapidi intorno a lei ondeggiano come silhouette, inclinandosi verso le carte come osservatori ansiosi—eppure l'aria nel cimitero è perfettamente immobile. Nessuna luce intrude oltre la luce delle tre candele; nessuna voce risuona nel silenzio. Ombre e nebbia vorticano oltre le tombe, dove dimora l'oscurità della notte più profonda—ma qui, al suo centro, la luce regna ancora.</p>
-<p>La veggente poi muove la sua mano rugosa verso la carta più a sinistra—la prima. Chiude gli occhi e inclina la testa, come se ascoltasse una parola non detta. Le luci arcane vorticano e poi cambiano, i loro colori che diventano di un blu profondo e penetrante.</p>
+<p>Madam Eva posa entrambi i mazzi a terra davanti a sé. Chiudendo gli occhi, posa la mano destra sulla superficie del mazzo più grande. Le fiamme cremisi si affievoliscono e vorticano in schemi arcani mentre le sue labbra si muovono silenziosamente, una tensione distante che si diffonde nell'aria. I suoni delle foglie fruscianti e del fiume Ivlis che scorre oltre le pareti della tenda iniziano a diminuire, il mondo esterno diventa muto e inconsistente mentre lo spazio interno diventa più solido—più reale.</p>
+<p>Lentamente, con riverenza, la veggente estrae tre carte dalla cima del mazzo, posandole a faccia in giù separatamente a terra, con la seconda posata tra le prime due, ma leggermente più in alto. Poi passa al mazzo più piccolo, dal quale estrae altre due carte. La prima, la posa sotto le prime tre, formando una croce. La seconda, la posa al centro.</p>
+<p>Le ombre delle lapidi attorno a lei ondeggiano come sagome ansiose, piegate verso le carte come se volessero osservarle da vicino—ma l’aria nel cimitero è perfettamente immobile. Nessuna luce penetra, se non quella delle tre candele; nessuna voce rompe il silenzio. Ombre e nebbia vorticano oltre le tombe, dove regna l’oscurità della notte più profonda—ma qui, nel cuore del rituale, la luce ancora domina.</p>
+<p>La veggente sposta quindi la sua mano rugosa verso la carta più a sinistra—la prima. Chiude gli occhi e inclina la testa, come se ascoltasse una parola non detta. Le luci arcane vorticano e poi cambiano, i loro colori che diventano di un blu profondo e penetrante.</p>
 <p>"Questa carta parla di storia. La conoscenza dell'antico vi aiuterà a comprendere meglio il vostro nemico."</p>
 <p>Gira la carta.</p>
-<p>La luce cerulea danza sulla sua superficie, rivelando un'illustrazione di una guardia sorridente che guarda in alto verso un sacerdote altezzoso, le dita puntate del sacerdote a pochi centimetri dal naso della guardia mentre la guardia prepara un pugnale ricurvo dietro la schiena. “Il Nove di Glifi—Il Traditore.” Le sue pupille scure si spostano da un lato all'altro, come se leggessero da un testo invisibile. "Vedo l'antico nemico di una vecchia e nobile casa. L'anima perduta vi condurrà a lui."</p>
-<p>Muove la mano verso la seconda carta, questa in cima alla croce. Mentre chiude gli occhi e ascolta ancora una volta, la luce delle candele si accende, il suo colore esplodendo in un giallo vivace e allegro.</p>
-<p>"Questa carta parla di una potente forza di bene e protezione, un simbolo sacro di grande speranza." Gira la carta.</p>
-<p>Questa volta, la luce rivela una nuova illustrazione: un guerriero corazzato che stringe una spada di ferro incrinata e uno scudo di legno legato in pelle, il suo volto nascosto da un pesante elmo di ferro. “Il Cinque di Spade—Il Mirmidone.” I suoi occhi fissano profondamente l'oscurità che si nasconde oltre la luce delle candele. (Vedi <span class="citation">Spade (Picche), p. 12</span>, per la predizione di questa carta.)</p>
-<p>Muove la mano verso la terza carta, al braccio destro della croce, chiudendo le palpebre come in trance, le labbra serrate in una contemplazione silenziosa. La luce delle candele svanisce, per un battito di cuore—e poi ritorna in una nova di bianco ardente, così puro e forte e pulito che fa male guardarlo, brucia vederlo—</p>
-<p>Gli occhi di Madam Eva si spalancano, bruciando di una determinazione feroce.</p>
+<p>La luce cerulea danza sulla sua superficie, rivelando l’illustrazione di una guardia sogghignante che guarda un sacerdote altezzoso, con le dita puntate a pochi centimetri dal volto del soldato, il quale stringe dietro la schiena un pugnale ricurvo. “Il Nove di Glifi—il Traditore.” Le pupille scure di Eva si muovono da un lato all’altro, come se stesse leggendo da un testo invisibile. “Vedo l’antico nemico di una casata nobile. L’anima perduta vi condurrà a lui.”</p>
+<p>Sposta la mano verso la seconda carta, quella in cima alla croce. Chiude di nuovo gli occhi e ascolta. La luce delle candele si intensifica, il colore esplode in un giallo acceso e solare.</p>
+<p>"Questa carta parla di una forza potente, di bene e protezione, un simbolo sacro di grande speranza." Gira la carta.</p>
+<p>Questa volta, la luce rivela l’immagine di un guerriero in armatura che stringe una spada di ferro spezzata e uno scudo di legno rivestito in cuoio; il volto nascosto da un pesante elmo di ferro. “Il Cinque di Spade—il Mirmidone.” Gli occhi di Eva scrutano nell’oscurità oltre la luce delle candele. (Vedi <span class="citation">Spade (Picche), p. 12</span>, per la predizione di questa carta.)</p>
+<p>Passa alla terza carta, il braccio destro della croce. Le sue palpebre si chiudono in una sorta di trance, le labbra serrate in contemplazione. La luce delle candele svanisce per un battito di ciglia—e poi ritorna in una nova di bianco puro, tanto intenso da bruciare lo sguardo—</p>
+<p>Madam Eva spalanca gli occhi, infiammati da una determinazione ardente.</p>
 <p>"Questa è una carta di potere e forza. Parla di un'arma di vendetta: una spada di luce solare." Gira la carta.</p>
-<p>La luce rivela una terza illustrazione: un uomo dal volto solenne vestito con paramenti sacri, una mano che stringe la catena di un turibolo di bronzo che emette fumo ardente. “L'Otto di Glifi—Il Vescovo.” La voce della veggente è forte di determinazione. "Ciò che cerchi si trova in una prigione di oscurità, oltre un paio di porte d'ambra," intona lei, socchiudendo gli occhi. "Quest'arma è nascosta da lungo tempo. La casa del drago caduto può condurti lì."</p>
-<p>Si sposta alla quarta carta, alla base della croce, e ascolta ancora una volta, tracciando piccoli cerchi sulla sua schiena mentre canticchia una nota contemplativa. Le fiamme magiche saltano e danzano sui loro stoppini, ora proiettando vortici di braci viola nell'aria mentre le tombe oltre brillano di un bagliore crepuscolare.</p>
-<p>"Questa carta fa luce su qualcuno che vi aiuterà grandemente nella battaglia contro l'oscurità."</p>
+<p>La luce rivela una terza illustrazione: un uomo dal volto solenne vestito con paramenti sacri, una mano che stringe la catena di un turibolo di bronzo che emette un fumo ardente. “L'Otto di Glifi—Il Vescovo.” La voce della veggente è forte di determinazione. "Ciò che cercate si trova in una prigione di oscurità, oltre un portale d'ambra," intona, socchiudendo gli occhi. "Quest'arma è nascosta da lungo tempo. La casa del drago caduto potrà condurvi ad essa."</p>
+<p>Sposta poi la mano sulla quarta carta, alla base della croce, tracciando piccoli cerchi sulla sul dorso mentre canticchia con fare riflessivo. Le fiamme magiche saltano e danzano sugli stoppini, lanciando nell'aria scintille violette, mentre le tombe brillano di un bagliore crepuscolare.</p>
+<p>"Questa carta fa luce su qualcuno che vi aiuterà molto nella battaglia contro l'oscurità."</p>
 <p>Gira la carta.</p>
-<p>Questa volta, l'illustrazione rivelata è un cimitero tranquillo soffocato dalla nebbia, il suo ingresso sigillato con una recinzione di ferro affilata. "Le Nebbie." Madam Eva si sporge in avanti. (Vedi <span class="citation">Nemico di Strahd, p. 15</span>, per la predizione di questa carta.)</p>
-<p>Infine, muove la mano verso la quinta carta—e quasi si ritrae, la fronte corrugata fino a quando le rughe le dividono la fronte come una trincea. Dietro di lei, le ombre circondano la luce delle candele fino a quando la luce è quasi inghiottita dall'oscurità strisciante. Quando parla di nuovo, la voce di Madam Eva è appena un sussurro.</p>
+<p>Questa volta, l'illustrazione rivela un cimitero silenzioso soffocato dalla nebbia, il cui ingresso è chiuso da una recinzione di ferro tagliente. "Le Nebbie." Madam Eva si sporge in avanti. (Vedi <span class="citation">Nemico di Strahd, p. 15</span>, per la predizione di questa carta.)</p>
+<p>Infine, passa alla quinta carta—e quasi indietreggia, la fronte corrugata fino a spaccarsi in pieghe profonde. Dietro di lei, le ombre circondano la luce delle candele fino a a quasi inghiottirla. Quando parla di nuovo, la voce di Madam Eva è appena un sussurro.</p>
 <p>"Il vostro nemico è una creatura delle tenebre, i cui poteri sono oltre la mortalità. Quando giungerà l'ora del giudizio, questa carta vi condurrà a lui!"</p>
-<p>La sua mano trema sopra la carta per un momento silenzioso—e poi dita abili e antiche rivelano il suo lato opposto.</p>
-<p>Nell'oscurità, la quinta e ultima illustrazione è appena visibile attraverso il fumo e l'oscurità innaturale. Sulla superficie della carta dimora una rappresentazione di un imperatore incoronato e sorridente vestito con abiti reali e che raggiunge un calice di vino—sebbene i suoi arti siano quelli di un burattino di legno, legati a corde che scompaiono nell'oscurità sopra di lui.</p>
+<p>La sua mano trema sopra la carta per un istante silenzioso—e poi, con dita antiche ma abili, gira la carta.</p>
+<p>Nel buio, la quinta e ultima illustrazione è appena visibile attraverso il fumo e la foschia innaturale. Sulla superficie della carta dimora una rappresentazione di un imperatore incoronato e sorridente vestito con abiti regali, che tende la mano verso un calice di vino—ma le sue membra sono quelle di un burattino di legno, legate a fili che svaniscono nell'oscurità sopra di lui.</p>
 <p>Madam Eva espira lentamente. "Il Burattino." (Vedi <span class="citation">Posizione di Strahd nel Castello, p. 17</span>, per la predizione di questa carta.)</p>
-<p>Quando l'ultima sillaba passa dalle sue labbra, la vecchia donna si blocca—e poi si dondola all'indietro, gli occhi che rotolano fino a quando i loro bianchi brillano come perle nell'oscurità—e poi si riprende, la luce delle candele che torna al suo normale bagliore cremisi.</p>
-<p>Il suono del mondo naturale ritorna—il sussurro del vento tra gli alberi, il lontano ululato di un gufo e il lontano fruscio del Fiume Ivlis contro le sue rive. La luce della luna argentata penetra di nuovo ai margini del cimitero e vi sentite respirare per la prima volta dall'inizio della lettura.</p>
-<p>Madam Eva non dice nulla. Vi guarda solo in silenzio con occhi scuri e pesanti.</p></div>
+<p>Non appena l'ultima sillaba le sfugge dalle labbra, la donna anziana si irrigidisce—poi si piega all'indietro, gli occhi rovesciati, le sclere bianche che brillano come perle nel buio—e poi si ridesta, la luce delle candele che torna alla sua normale tonalità cremisi.</p>
+<p>Il suono del mondo naturale ritorna—il sussurro del vento tra gli alberi, il lontano ululato di un gufo e il placido sciabordio dell'acqua del Fiume Ivlis contro le sue sponde. La luce argentate della luna torna a filtrare lungo i margini del cimitero, e vi rendete conto di respirare di nuovo per la prima volta da quando la lettura è iniziata.</p>
+<p>Madam Eva non dice nulla. Vi osserva soltanto, in silenzio, con occhi scuri e pesanti.</p></div>
 
 Madam Eva rifiuta di elaborare ulteriormente le letture dei personaggi o di fornire ulteriori informazioni o assistenza. Se le viene chiesto di farlo, dice solo, "I fili del Destino non possono essere chiamati come un servo o evocati come un trucco di un mago. Vedo solo ciò che le carte mi mostrano e nient'altro." 
 
-Madam Eva congeda i personaggi dalla sua presenza una volta completata la lettura dei Tarokka, istruendoli a tornare a Tser Pool e a "non dire a nessun servitore di Strahd ciò che hanno appena sentito." 
+Madam Eva congeda i personaggi dalla sua presenza una volta completata la lettura dei Tarokka, istruendoli a tornare allo Stagno di Tser e a "non dire a nessun servitore di Strahd ciò che hanno appena sentito." 
 
-Madam Eva rifiuta di tornare con i personaggi, preferendo invece rimanere all'incrocio. Se le viene chiesto perché, condivide solo che il luogo tiene "ricordi speciali" per lei e che tornerà a Tser Pool quando sarà pronta. "Non temete," sussurra, un luccichio di divertimento nei suoi occhi. "Ho poco da temere dalle creature che si aggirano in questi boschi, ve lo assicuro." Se i personaggi lasciano l'incrocio e poi tornano, scoprono che Madam Eva è scomparsa.
+Madam Eva rifiuta di tornare con i personaggi, preferendo invece rimanere all'incrocio. Se le viene chiesto perché, condivide solo che questo luogo ha "ricordi speciali" per lei e che tornerà allo Stagno di Tser quando sarà pronta. "Non temete," sussurra, un luccichio di divertimento nei suoi occhi. "Ho poco da temere dalle creature che si aggirano in questi boschi, ve lo assicuro." Se i personaggi lasciano l'incrocio e poi tornano, scoprono che Madam Eva è scomparsa.
 
 > [!lore]+ **Perché Madam Eva Rimane**
-> Gli avventurieri che cercavano di uccidere Strahd non sono gli unici sepolti in questo cimitero. La madre di Madam Eva, la Vistana con cui il Re Barov II ebbe una relazione, è sepolta nei boschi a breve distanza dalla forca. (È comune per i Vistani seppellire i loro morti agli incroci, credendo che farlo liberi lo spirito per guidare coloro che seguono i percorsi che una volta percorrevano.)
+> Gli avventurieri che cercavano di uccidere Strahd non sono gli unici sepolti in questo cimitero. La madre di Madam Eva, la Vistana con cui il Re Barov II ebbe una relazione, è sepolta nei boschi a breve distanza dalla biforcazione. (È comune per i Vistani seppellire i loro morti agli incroci, credendo che farlo liberi lo spirito per guidare coloro che seguono i percorsi che una volta percorrevano.)
 
 **_Pietra Miliare_**. Ricevere la lettura dei Tarokka completa una pietra miliare della storia. Quando il gruppo lascia l'incrocio, assegna a ciascun giocatore 500 PE.
-## C4g. Partenza da Tser Pool
-Quando i personaggi si svegliano a Tser Pool la mattina seguente, Stanimir li invita a fare colazione con lui intorno al fuoco spento. La colazione, a cui partecipa Arturi se possibile, include polenta di farina di mais, involtini di cavolo ripieni e pane fritto. (Se il suo tradimento non è stato rivelato la notte precedente, Eliza si unisce allegramente ai personaggi per la colazione.)
+## C4g. Partenza dallo Stagno di Tser
+Quando i personaggi si svegliano allo Stagno di Tser la mattina seguente, Stanimir li invita a fare colazione con lui intorno al fuoco spento. La colazione, a cui partecipa Arturi se possibile, include polenta di farina di mais, involtini di cavolo ripieni e pane fritto. (Se il suo tradimento non è stato rivelato la notte precedente, Eliza si unisce allegramente ai personaggi per la colazione.)
 
-Se i personaggi tentano di parlare di nuovo con Madam Eva prima di partire, Stanimir li avverte che "la vecchia donna" sta dormendo e non desidera essere disturbata. Se i personaggi tentano di entrare nella sua tenda, la trovano addormentata su un pallet accanto al suo tavolo.
+Se i personaggi tentano di parlare di nuovo con Madam Eva prima di partire, Stanimir li avverte che "la vecchia donna" sta dormendo e non desidera essere disturbata. Se i personaggi tentano di entrare nella sua tenda, la trovano addormentata su un giaciglio accanto al suo tavolo.
 # C5. Il Cavaliere Scheletrico
 Quando i personaggi tornano all'Incrocio del Fiume Ivlis dopo aver ricevuto la lettura dei Tarokka, incontrano un cavaliere scheletrico, come descritto in <span class="citation">Cavaliere Scheletrico (p. 31)</span>, che si avvicina dalla strada occidentale e continua verso il villaggio di Barovia. Se i personaggi hanno visto il cadavere di Dalvan Olensky entrando a Barovia, notano che l'abbigliamento del cavaliere è riconoscibilmente simile al suo.
 
@@ -665,10 +685,10 @@ Quando i personaggi tornano all'Incrocio del Fiume Ivlis dopo aver ricevuto la l
 # C6. La Torre di Guardia
 Mentre i personaggi viaggiano verso ovest dall'Incrocio del Fiume Ivlis, leggi:
 
-<div class="description"><p>Lasciate l'incrocio alle spalle e riprendete il vostro viaggio verso ovest. Seguite la strada mentre curva intorno, poi sale sulla scogliera, arrancando su una ripida salita rocciosa. </p>
-<p>La nebbia è fitta qui, oscurando la cima della scogliera sopra di voi. La strada stessa diventa stretta e pericolosa, con pietre sciolte e solchi profondi che rendono difficile mantenere l'equilibrio. </p>
-<p>Presto, però, la strada si livella, continuando oltre una torre di guardia in rovina di tre piani situata sul bordo della scogliera. </p>
-<p>Le vecchie mura di pietra della torre sono coperte di muschio e edera, la sua porta di legno marcio che pende dai cardini. Nelle vicinanze, due tombe fresche si trovano contro la strada. Un cadavere di animale sembra giacere nell'erba alta non lontano.</p></div>
+<div class="description"><p>Vi lasciate alle spalle il crocevia e riprendete il vostro viaggio verso ovest. Seguite la strada mentre curva e poi sale lungo la scogliera, arrancando su per l’inclinazione ripida e rocciosa.</p>
+<p>La nebbia qui è fitta, e nasconde la cima della scogliera. La strada stessa si fa stretta e insidiosa, con pietre sciolte e profondi solchi che rendono difficile mantenere l’equilibrio. </p>
+<p>Poco dopo, però, la strada si livella, proseguendo oltre una torre di guardia in rovina di tre piani, arroccata sul bordo della scogliera.</p>
+<p>Le vecchie mura di pietra della torre sono coperte di muschio e rampicanti, e la sua porta di legno marcito pende dai cardini. Poco distante, due tombe fresche giacciono accanto alla strada. Tra l’erba alta, non lontano, sembra trovarsi il cadavere di un animale.</p></div>
 
 Fermati per permettere ai personaggi di agire o reagire. Se i personaggi rimangono in silenzio, continua a [[#C7. La Strada Alta]] di seguito. Altrimenti, permetti ai personaggi di esplorare l'area.
 ## La Torre di Guardia
@@ -681,7 +701,7 @@ La torre di guardia in rovina è stata costruita come posto di vedetta dall'Ordi
 
 Se i personaggi esplorano la torre di guardia, trovano un ciondolo d'argento rotto scolpito per assomigliare a un drago che giace a terra al primo piano, vicino all'ingresso. Il ciondolo è sempre freddo al tatto.
 
-Dalla cima dei merli della torre di guardia, i personaggi possono vedere le Cascate di Tser a nord-ovest e Tser Pool a nord-est. A sud, sopra e oltre i pendii del Monte Ghakis, possono vedere solo un muro impenetrabile di nebbia grigia fitta.
+Dalla cima dei merli della torre di guardia, i personaggi possono vedere le Cascate di Tser a nord-ovest e lo Stagno di Tser a nord-est. A sud, sopra e oltre i pendii del Monte Ghakis, possono vedere solo un muro impenetrabile di nebbia grigia fitta.
 ## Le Tombe
 Le due tombe contengono i resti di due rifugiati baroviani che sono stati uccisi dai lupi durante il viaggio verso Vallaki qualche tempo fa. Una prova di Saggezza (Sopravvivenza) CD 12 rivela che le tombe hanno non più di qualche settimana.
 
@@ -689,7 +709,7 @@ Piccoli ciottoli sono stati disposti nel terreno sopra ciascuna tomba per formar
 ## Il Cadavere
 Il cadavere appartiene a un lupo ucciso da lance e dardi di balestra, ed è per lo più decomposto. I rifugiati baroviani lo hanno lasciato qui dopo averlo ucciso e aver scacciato gli altri membri del suo branco.
 # C7. La Strada Alta
-Il viaggio dall'Incrocio del Fiume Ivlis alle Cascate di Tser è lungo sette miglia e mezzo, o due ore e mezza.
+Il viaggio dall'Incrocio del Fiume Ivlis alle Cascate di Tser è lungo 12 km e dura due ore e mezza.
 ## C7a. Il Burrone
 Mentre i personaggi continuano lungo la strada, leggi:
 
@@ -700,23 +720,23 @@ Se uno dei personaggi ha un punteggio di Saggezza (Percezione) passivo di 14 o s
 
 <div class="description"><p>Mentre i vostri passi affondano nella vecchia strada fangosa, intravedete un movimento nella boscaglia: un lampo di pelliccia grigia, occhi ambrati e denti bianchi affilati. Poi, non appena è apparso, scompare, nascondendosi di nuovo nelle ombre.</p></div>
 
-Il movimento appartiene a un **lupo**, che si ritira rapidamente nei boschi. I suoi quattro **compagni di branco** non sono lontani, mantenendo una distanza di duecento piedi mentre seguono i personaggi attraverso i boschi.
+Il movimento appartiene a un **lupo**, che si ritira rapidamente nei boschi. I suoi quattro **compagni di branco** non sono lontani, mantenendo una distanza di 60 metri mentre seguono i personaggi attraverso i boschi.
 
 Se i personaggi continuano, leggi:
 
-<div class="description"><p>Mentre la strada curva intorno al bordo della montagna, le scogliere a destra si allontanano, lasciando una caduta a picco su un burrone boscoso sottostante. La strada, ora larga appena dieci piedi, curva più avanti, raddoppiando intorno a questo burrone prima di scendere drammaticamente e snodarsi intorno a una cima di montagna più piccola. </p>
+<div class="description"><p>Mentre la strada curva attorno al bordo della montagna, le scogliere sulla destra precipitano, lasciando spazio a un dirupo a picco su un burrone boscoso sottostante. La strada, ora larga a malapena tre metri, si piega più avanti, ripiegandosi su sé stessa attorno al burrone prima di scendere bruscamente e serpeggiare attorno a una vetta più piccola. </p>
 </div>
 
 Se uno dei personaggi ha un punteggio di Saggezza (Percezione) passivo di 14 o superiore, o se uno dei personaggi riesce in una prova di Saggezza (Percezione) CD 14, aggiungi:
 
 <div class="description">
-<p>Vedete tre ombre pelose grigie che si muovono furtivamente nella boscaglia davanti. Altre due si intravedono ai margini della vostra visione, appena dietro di voi.</p>
+<p>Vedi tre ombre dal pelo grigiastro sfrecciare tra il sottobosco davanti a te. Altre due guizzano appena oltre il limite del tuo campo visivo, alle tue spalle.</p>
 </div>
 
 Se uno dei personaggi ha un punteggio di Saggezza (Percezione) passivo di 18 o superiore, o se uno dei personaggi riesce in una prova di Saggezza (Percezione) CD 18, aggiungi:
 
 <div class="description">
-<p>Una sesta si nasconde nel burrone a quasi cinquanta piedi sotto, mantenendo il passo con i vostri movimenti mentre si aggrappa alle ombre delle rocce.</p>
+<p>Una sesta figura si aggira nella gola quasi quindici metri più in basso, mantenendo il passo con i vostri movimenti mentre si confonde con le ombre delle rocce.</p>
 </div>
 
 Se i personaggi si fermano, procedono o attaccano, i cinque lupi nei boschi attaccano. Leggi:
@@ -733,19 +753,19 @@ Se i personaggi si fermano, procedono o attaccano, i cinque lupi nei boschi atta
 
 Sostituisci l'attacco ***morso*** dei lupi con le seguenti opzioni di azione:
 
-* ***Sbranare.*** *Attacco con Arma da Mischia:* +4 a colpire, portata 5 ft., un bersaglio. *Colpito:* 7 (2d4 + 2) danni perforanti. Invece di infliggere danni, il lupo può afferrare il bersaglio (CD 11 per sfuggire).
-* ***Artigli.*** *Attacco con Arma da Mischia:* +4 a colpire, portata 5 ft., un bersaglio. *Colpito:* 6 (1d8 + 2) danni taglienti. Se il bersaglio è una creatura, deve fare un tiro salvezza di Forza CD 11. In caso di fallimento, viene atterrato prono o spinto di 5 piedi (a scelta del lupo).
+* ***Sbranare.*** *Attacco con Arma da Mischia:* +4 a colpire, portata 1,5 metri., un bersaglio. *Colpito:* 7 (2d4 + 2) danni perforanti. Invece di infliggere danni, il lupo può afferrare il bersaglio (CD 11 per sfuggire).
+* ***Artigli.*** *Attacco con Arma da Mischia:* +4 a colpire, portata 1,5 metri., un bersaglio. *Colpito:* 6 (1d8 + 2) danni taglienti. Se il bersaglio è una creatura, deve fare un tiro salvezza di Forza CD 11. In caso di fallimento, viene atterrato prono o spinto di 1,5 metri (a scelta del lupo).
 
 In combattimento, i **lupi** mirano a un singolo personaggio alla volta, usando le loro ***tattiche di branco*** per ottenere vantaggio sui tiri per colpire e i loro attacchi ***artigli*** per tentare di far cadere un personaggio nel burrone. 
 
-Un personaggio che cade nel burrone rotola per 50 piedi verso il basso, subendo 17 (5d6) danni contundenti e cadendo prono. Il sesto lupo usa il suo ***sbranare*** per attaccare qualsiasi creatura che cade nel burrone, poi la trascina via nella speranza di un pasto facile. Una creatura che si aggrappa al bordo frastagliato alla base del burrone ha mezza copertura dalle creature in cima al burrone.
+Un personaggio che cade nel burrone rotola per 15 metri verso il basso, subendo 17 (5d6) danni contundenti e cadendo prono. Il sesto lupo usa il suo ***sbranare*** per attaccare qualsiasi creatura che cade nel burrone, poi la trascina via nella speranza di un pasto facile. Una creatura che si aggrappa al bordo frastagliato alla base del burrone ha mezza copertura dalle creature in cima al burrone.
 
 Una volta che un personaggio cade nel burrone, il resto del branco fugge nei boschi, poi scende nel burrone per un altro sentiero per aiutare il sesto lupo a trascinare via la sua preda. Il branco fugge se quattro dei sei lupi vengono uccisi.
 
 > [!info]+ **Scendere nel Burrone**
-> Un personaggio che tenta di salire o scendere dal bordo del burrone deve fare una prova di Forza (Atletica) CD 10. Se la prova riesce, il personaggio si muove a metà velocità su o giù dal bordo del burrone, come desiderato. Con un risultato della prova di 6-9, il personaggio non guadagna né perde terreno; con un risultato di 5 o meno, il personaggio cade e subisce 1d6 danni contundenti per ogni 10 piedi caduti, atterrando prono alla base del burrone.
+> Un personaggio che tenta di salire o scendere dal bordo del burrone deve fare una prova di Forza (Atletica) CD 10. Se la prova riesce, il personaggio si muove a metà velocità su o giù dal bordo del burrone, come desiderato. Con un risultato della prova di 6-9, il personaggio non guadagna né perde terreno; con un risultato di 5 o meno, il personaggio cade e subisce 1d6 danni contundenti per ogni 3 metri caduti, atterrando prono alla base del burrone.
 
-Mentre i personaggi lasciano quest'area, un personaggio con un punteggio di Saggezza (Percezione) passivo di 13 o superiore nota due lupi, leggermente più grandi degli altri, che li osservano da una rupe montuosa orientale che si erge sopra la linea degli alberi. Un personaggio che riesce in una prova di Saggezza (Intuizione) CD 20 discerne che i lupi sembrano osservarli con un'intelligenza paziente insolita per un lupo. I lupi si girano e scompaiono dalla vista se notati o interagiti.
+Mentre i personaggi lasciano quest'area, un personaggio con un punteggio di Saggezza (Percezione) passivo di 13 o superiore nota due lupi, leggermente più grandi degli altri, che li osservano da una rupe montuosa orientale che si erge sopra la linea degli alberi. Un personaggio che riesce in una prova di Saggezza (Intuizione) CD 20 discerne che i lupi sembrano osservarli con un'intelligenza paziente insolita per un lupo. I lupi si girano e scompaiono dalla vista se notati o se si tenta di interagire con loro.
 
 > [!lore]+ **I Lupi Osservatori**
 > I due lupi sono **lupi mannari** in forma di lupo. Bruti assetati di sangue fedeli a Kiril Stoyanovich e Strahd von Zarovich, riappariranno per seguire i personaggi in [[#C11. La Caccia dei Lupi Mannari]].
@@ -962,9 +982,9 @@ Modifica i blocchi di statistiche dei lupi come descritto in [[#C7a. Il Burrone]
 <p><strong><em>Rigenerazione.</em></strong> Il lupo mannaro recupera 10 punti ferita all'inizio del suo turno. Se il lupo mannaro subisce danni necrotici o danni contundenti, perforanti o taglienti da un'arma d'argento, questa caratteristica non funziona all'inizio del prossimo turno del lupo mannaro. Il lupo mannaro muore solo se inizia il suo turno con 0 punti ferita e non si rigenera.</p>
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> Il lupo mannaro effettua due attacchi: due con la sua lancia (forma umanoide) o uno con il suo morso e uno con i suoi artigli (forma di lupo o ibrida).</p>
-<p><strong><em>Morso (Solo in Forma di Lupo o Ibrida).</em></strong> Attacco con Arma da Mischia: +5 a colpire, portata 5 ft., un bersaglio. Colpito: 7 (1d8 + 3) danni perforanti. Invece di infliggere danni, il lupo mannaro può afferrare il bersaglio (CD 11 per sfuggire). Inoltre, se il bersaglio è un umanoide, deve superare un tiro salvezza di Costituzione CD 13 o essere maledetto con la licantropia del lupo mannaro.</p>
-<p><strong><em>Artigli (Solo in Forma di Lupo o Ibrida).</em></strong> Attacco con Arma da Mischia: +5 a colpire, portata 5 ft., una creatura. Colpito: 8 (2d4 + 3) danni taglienti. Se il bersaglio è una creatura, deve superare un tiro salvezza di Forza CD 13 o essere atterrato prono.</p>
-<p><strong><em>Lancia (Solo in Forma Umanoide).</em></strong> Attacco con Arma da Mischia o a Distanza: +5 a colpire, portata 5 ft. o gittata 20/60 ft., una creatura. Colpito: 6 (1d6 + 3) danni perforanti, o 6 (1d8 + 3) danni perforanti se usata con due mani per effettuare un attacco in mischia.</p>
+<p><strong><em>Morso (Solo in Forma di Lupo o Ibrida).</em></strong> Attacco con Arma da Mischia: +5 a colpire, portata 1,5 metri., un bersaglio. Colpito: 7 (1d8 + 3) danni perforanti. Invece di infliggere danni, il lupo mannaro può afferrare il bersaglio (CD 11 per sfuggire). Inoltre, se il bersaglio è un umanoide, deve superare un tiro salvezza di Costituzione CD 13 o essere maledetto con la licantropia del lupo mannaro.</p>
+<p><strong><em>Artigli (Solo in Forma di Lupo o Ibrida).</em></strong> Attacco con Arma da Mischia: +5 a colpire, portata 1,5 metri., una creatura. Colpito: 8 (2d4 + 3) danni taglienti. Se il bersaglio è una creatura, deve superare un tiro salvezza di Forza CD 13 o essere atterrato prono.</p>
+<p><strong><em>Lancia (Solo in Forma Umanoide).</em></strong> Attacco con Arma da Mischia o a Distanza: +5 a colpire, portata 1,5 metri. o gittata 20/60 ft., una creatura. Colpito: 6 (1d6 + 3) danni perforanti, o 6 (1d8 + 3) danni perforanti se usata con due mani per effettuare un attacco in mischia.</p>
 <h3>Azioni Bonus</h3>
 <p><strong><em>Cambiamento di Forma.</em></strong> Il lupo mannaro si trasforma in un ibrido lupo-umanoide o in un lupo, o torna alla sua vera forma, che è umanoide. Le sue statistiche, a parte la sua CA, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossa o trasporta si fonde nella nuova forma. Torna alla sua vera forma se muore.</p>
 </div>
@@ -1008,7 +1028,7 @@ La strada continua avanti verso la **Città di Vallaki**, in gran parte come des
 
 <div class="description"><p>Più di una dozzina di tende fatiscenti sono state allestite contro il muro di palizzata. Tra di loro, dozzine di persone stracciate e emaciate si aggirano o siedono accanto a fuochi da campo a bassa fiamma e sacchi a pelo, i loro sguardi vuoti che osservano silenziosamente mentre vi avvicinate.</p></div>
 
-Se i personaggi sono partiti da Tser Pool quella mattina, arrivano a Vallaki al crepuscolo.
+Se i personaggi sono partiti dallo Stagno di Tser quella mattina, arrivano a Vallaki al crepuscolo.
 
 Se [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] sta viaggiando visibilmente con il gruppo, aggiungi:
 
