@@ -36,21 +36,23 @@ La voce appartiene a una sentinella baroviana di nome Kereza, che è accompagnat
 
 Se [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] è con i personaggi, può aiutarli a rassicurare le sentinelle, che la riconoscono e la salutano con rispetto. Le sentinelle sono sorprese di vedere Ireena avventurarsi fuori dal villaggio, ma concordano che Vallaki è probabilmente un posto più sicuro di Barovia, a patto che riesca a raggiungerlo in sicurezza. (Ireena insiste ostinatamente che il suo viaggio è di natura diplomatica e umanitaria, e che i personaggi sono i suoi accompagnatori e guardie del corpo.)
 
-Le sentinelle stanno cercando la famiglia Lansten: due genitori e tre bambini piccoli—una ragazza e due ragazzi—che sono scomparsi durante l'attacco degli zombi al villaggio e non sono stati più visti. Dopo aver chiesto se i personaggi hanno visto i loro obiettivi durante il viaggio, le sentinelle li avvertono di non allontanarsi dalla strada, notando che cose morte e oscure si nascondono sotto le cime degli alberi. Kereza e Korga poi si congedano rispettosamente.
+Le sentinelle stanno cercando la famiglia Lansten: due genitori e tre bambini piccoli—una ragazza e due ragazzi—che sono scomparsi durante l'attacco degli zombi al villaggio e non sono stati più visti. Dopo aver chiesto se i personaggi li hanno visti durante il viaggio, le sentinelle li avvertono di non allontanarsi dalla strada, notando che cose morte e oscure si nascondono sotto le cime degli alberi. Kereza e Korga poi si congedano rispettosamente.
 
 Poco dopo che i personaggi riprendono il loro cammino lungo la Vecchia Strada di Svalich, inizia a cadere una leggera pioggerella, sollevando una sottile nebbia che si diffonde tra la boscaglia.
 ## C1b. Il Deposito di Van Richten
 Mentre i personaggi continuano lungo la strada, leggi:
 
-<div class="description"><p>Viaggiate più a fondo nei boschi, la strada fangosa che vi guida sempre più lontano dalla civiltà. Mentre la strada curva, il fiume si avvicina di nuovo a voi. Qui, il fiume è più ampio, le sue acque scure e calme. Potete vedere il riflesso degli alberi e della nebbia sulla sua superficie. Il suono dell'acqua che scorre silenziosa è accompagnato solo dal fruscio delle foglie e dalla pioggerella leggera. Nessun canto di uccelli rompe il silenzio che avvolge i boschi.</p></div>
+<div class="description"><p>Vi addentrate sempre più nel cuore della foresta, lungo un sentiero fangoso che vi conduce lontano dalla civiltà. La strada curva lentamente, e il fiume torna a farsi vicino. Ora si presenta più ampio, con acque scure e placide, su cui si riflettono gli alberi e la nebbia sospesa. L’unico suono è quello dell’acqua che scivola silenziosa, accompagnato dal lieve fruscio delle foglie e dal ticchettio della pioggia sottile. Nessun canto d’uccello disturba la quiete profonda che avvolge il bosco.</p></div>
 
 Mentre attraversano questa sezione della Vecchia Strada di Svalich, i personaggi sono seguiti da una delle spie di Strahd: un **lupo**. (Vedi <span class="citation">Le Spie di Strahd, pg. 29</span> per ulteriori informazioni.)
 
 Se i personaggi hanno ricevuto la posizione del deposito di armi nascosto di Van Richten da Doru nella chiesa di Barovia, possono entrare nei boschi a sud per trovarlo. Se lo fanno, leggi:
 
 <div class="description">
-<p>Vi allontanate dalla strada e vi addentrate nei boschi, attraversando la linea degli alberi mentre i vostri piedi affondano nel fango e nel terreno ricco di humus. Fili di nebbia si arricciano intorno a voi, alberi nodosi che allungano le loro braccia sopra di voi mentre la luce grigia filtra attraverso la chioma. Camminate per trecento passi, avanzando silenziosamente attraverso il pacciame e la nebbia fino a raggiungere una radura, i boschi che si aprono per fare spazio a una quercia alta e antica il cui tronco nero e nodoso si erge ben al di sopra dei suoi pari.</p>
-<p>Vi rendete presto conto, tuttavia, di non essere soli. Cinque figure si aggirano o stanno in piedi senza meta nella radura, i loro vestiti infangati e strappati e la loro carne che inizia a diventare pallida e grigia. </p>
+<p>Abbandonate la strada e vi immergete nei boschi, varcando la soglia silenziosa degli alberi. I vostri passi affondano nel fango intriso di umidità e nel terreno molle, carico di humus e decomposizione. La nebbia, fredda e spessa, si avvolge intorno a voi come dita spettrali, mentre gli alberi contorti protendono i loro rami nodosi sopra le vostre teste, come a volervi trattenere. Una luce grigia e smorzata filtra appena attraverso la chioma, facendo tremolare le ombre.</p>
+<p>Avanzate in silenzio per trecento passi, ogni movimento ovattato dal tappeto di foglie morte e dalla nebbia che sembra sussurrare antichi segreti. Infine, i boschi si aprono, rivelando una radura immersa in un silenzio irreale. Al centro, si erge una quercia solitaria, altissima e vetusta, il suo tronco scuro e rugoso come pelle bruciata dal tempo, torreggiante sopra le altre piante come un idolo dimenticato.</p>
+<p>Ma non siete soli.</p>
+<p>Cinque figure si muovono lentamente nella radura — o restano immobili, come dimenticate dal tempo. I loro abiti sono laceri, incrostati di fango, e la loro carne ha cominciato a perdere ogni parvenza di vita, sbiadendo in un grigiore malsano. Nessuna parola, nessun suono: solo una presenza inquietante che si insinua sotto la pelle, come un presagio.</p>
 </div>
 
 Le cinque figure sono **zombi**. Corrispondono anche alle descrizioni della famiglia Lansten fornite dalle sentinelle: due genitori, una giovane ragazza e due giovani ragazzi.
@@ -63,35 +65,37 @@ Se i personaggi raggiungono la quercia, possono trovare il deposito di armi di V
 
 Mentre i personaggi si avvicinano a questa area, la pioggerella si ferma. Leggi:
 
-<div class="description"><p>Presto, il fiume curva di nuovo fuori dalla vista e i boschi oscuri circondano di nuovo la strada. Finalmente, però, gli alberi si allontanano, rivelando una alta scogliera alla base di un pendio montuoso nebbioso. L'aria è fredda e umida qui, e sottili fili di nebbia vorticano intorno alla base della scogliera.</p></div>
+<div class="description"><p>Presto il fiume svanisce dietro una curva, inghiottito ancora una volta dal fitto abbraccio dei boschi oscuri che tornano a chiudersi attorno alla strada, come mura vive di ombra e silenzio. Ma infine, quasi all’improvviso, gli alberi si diradano, ritraendosi come se temessero ciò che si cela oltre. Davanti a voi si apre una visione spettrale: una scogliera alta e frastagliata si erge alla base di un pendio montuoso avvolto dalla nebbia.</p>
+<p>L’aria è gelida, pregna di umidità, e ogni respiro si condensa come fumo nell’aria immobile. Sottili veli di nebbia serpeggiano ai piedi della scogliera, danzando lenti e inquieti come anime perdute, accarezzando la pietra con dita invisibili.</p></div>
 
 I personaggi sono arrivati all'Incrocio del Fiume Ivlis, che è in gran parte come descritto in <span class="citation">Incrocio del Fiume Ivlis (p. 35)</span>. Non controllare per un incontro casuale quando i personaggi arrivano.
 
-Questa scena inizia in modo simile a <span class="citation">Incrocio del Fiume Ivlis (p. 35)</span>. Tuttavia, la prima volta che i personaggi si muovono per partire verso Tser Pool, invece di vedere **L'Impiccato**, possono sentire il suono di una carrozza trainata da cavalli o di un carro che si avvicina attraverso la nebbia. Quasi subito dopo che il suono appare, la carrozza nera di Strahd, come descritto in <span class="citation">Carrozza Nera (p. 37)</span> e <span class="citation">Casa della Carrozza (p. 54)</span>, appare in vista.
+Questa scena inizia in modo simile a <span class="citation">Incrocio del Fiume Ivlis (p. 35)</span>. Tuttavia, la prima volta che i personaggi si muovono per partire verso Tser Pool, invece di vedere **L'Impiccato**, possono sentire il suono di una carrozza trainata da cavalli o di un carro che si avvicina attraverso la nebbia. Quasi subito dopo il suono, appare la carrozza nera di Strahd, come descritto in <span class="citation">Carrozza Nera (p. 37)</span> e <span class="citation">Casa della Carrozza (p. 54)</span>.
 ## C2a. L'Arrivo di Strahd
-I personaggi possono vedere un conducente seduto sul sedile della carrozza: lo **spawn vampirico** Escher, come descritto in <span class="citation">K49. Salotto (p. 70)</span>. Se presente, Ireena sussulta alla sua vista, sussurrando che pensava fosse morto.
+I personaggi possono vedere un conducente seduto sul sedile della carrozza: la **progenie vampirica** Escher, come descritto in <span class="citation">K49. Salotto (p. 70)</span>. Se presente, Ireena sussulta alla sua vista, sussurrando che pensava fosse morto.
 
 > [!abstract]+ **E se i personaggi fuggono?**
 >
 > I personaggi dovrebbero avere poco tempo per tentare di nascondersi prima che la carrozza di Strahd appaia in vista. Tuttavia, se i personaggi tentano di fuggire nella foresta, i **lupi terribili** di Strahd—uno per ogni personaggio più Ireena—emergono dalla nebbia dietro di loro e ringhiano, ostacolando la fuga dei personaggi.
 
-La carrozza si ferma. Leggi il seguente, modificando il testo se necessario se Ireena non è presente, e facendo una breve pausa dopo ogni paragrafo per permettere ai personaggi di agire o reagire:
+La carrozza si ferma. Leggi il seguente passaggio, modificando il testo se Ireena non è presente, e facendo una breve pausa dopo ogni paragrafo per permettere ai personaggi di agire o reagire:
 
-<div class="description"><p>Il conducente rilascia le redini, scende dal sedile della carrozza e si muove per aprire la porta laterale della carrozza, inchinandosi profondamente. Passa un momento—e poi un uomo esce dalla carrozza.</p>
-<p>È alto, magro e vestito con abiti adatti a un uomo di statura aristocratica, persino reale. Un mantello nero è tirato ordinatamente intorno alle sue spalle, legato al collo da una spilla rosso sangue. Una spada lunga riposa nel fodero al suo fianco, il suo elsa lucida che brilla sotto la luce fioca. La sua tunica scarlatta è lavorata con disegni intricati, e i suoi capelli sono tirati indietro in una vedova acuta e immacolata. </p><p>I suoi occhi sono scuri, e mentre si muove per aggiustare il rubino al suo collo, vedete che le sue unghie formano lunghe, eleganti artigli. Solo allora vi rendete conto che la sua pelle è pallida—innaturalmente così—e che i suoi occhi brillano di una fame profonda e intelligente.</p></div>
+<div class="description"><p>Il cocchiere lascia lentamente le redini, come se sciogliesse un vincolo invisibile, poi scende dal suo scranno con movimenti misurati. Senza dire una parola, si avvicina al fianco della carrozza e, con un gesto solenne, apre la portiera. Si inchina profondamente, il cappello abbassato, come davanti a qualcosa che non osa guardare. Segue un istante di silenzio sospeso—quasi irreale—prima che una figura emerga dall’oscurità dell’interno. Un uomo discende dalla carrozza, e con lui pare scendere anche un’ombra più densa, come se la notte stessa si fosse fatta carne.</p>
+<p>È alto e slanciato, con l’aspetto raffinato di un uomo dal portamento aristocratico, quasi regale. Un mantello nero, avvolto con cura attorno alle spalle, è fissato al collo da una spilla color sangue. Al suo fianco riposa una spada lunga, custodita nel fodero, la cui elsa lucente cattura i riflessi della luce fioca. Indossa una tunica scarlatta finemente decorata con motivi intricati, mentre i capelli, pettinati con precisione e tirati all'indietro, formano una perfetta V sulla fronte, quasi un marchio naturale.</p><p>I suoi occhi, scuri come pozzi senza fondo, osservano con calma predatoria. Quando solleva una mano per sistemare il rubino che gli adorna il collo, notate le dita affusolate, terminanti in unghie lunghe e affilate come artigli cesellati con cura. È solo allora che vi accorgete della sua pelle: incredibilmente pallida, quasi traslucida, come se la luce stessa esitasse a toccarla. E nei suoi occhi—quegli occhi abissali—brilla una fame antica, intelligente, affilata come una lama nascosta nel velluto.</p></div>
 
 Se [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] è con il gruppo, aggiungi:
 
-<div class="description"><p>Ireena si ritrae, come se fosse stata schiaffeggiata. Distoglie lo sguardo dagli occhi dell'uomo, tutto il suo corpo si irrigidisce. "Non guardate nei suoi occhi," dice con voce strozzata.</p>
-<p>Lo sguardo dell'uomo si posa brevemente su Ireena, e sorride—anche se nessun calore raggiunge i suoi occhi. "Lady Kolyana," dice. "Che piacevole sorpresa." Poi rivolge il suo sguardo a voi. </p></div>
+<div class="description"><p>Ireena si ritrae, come se fosse stata schiaffeggiata. Distoglie lo sguardo dagli occhi dell'uomo e tutto il suo corpo si irrigidisce. "Non guardate nei suoi occhi", dice con voce strozzata.</p>
+<p>Lo sguardo dell'uomo si posa brevemente su Ireena, e sorride—anche se nessun calore raggiunge i suoi occhi. "Lady Kolyana," dice. "Che piacevole sorpresa." Poi rivolge il suo sguardo su di voi. </p></div>
 
 Che Ireena sia con il gruppo o meno, aggiungi:
 
-<div class="description"><p>"Buongiorno," dice. "Sono il Conte Strahd von Zarovich—ed è un piacere incontrare finalmente i nuovi arrivati nel mio dominio. I miei amici mi hanno raccontato tanto di voi." I suoi occhi si soffermano su ciascuno di voi a turno, guardandovi come un pezzo di carne pesato al mercato, un oggetto intrigante ma inanimato—una preda avvistata da un predatore nel cespuglio.</p></div>
+<div class="description"><p>«Buongiorno», dice con voce vellutata, venata da un’eco d’antichità e comando. «Sono il Conte Strahd von Zarovich… ed è un piacere, finalmente, fare la conoscenza dei nuovi ospiti del mio reame.» Le sue parole scorrono lente, misurate, come gocce di vino scuro versate da un calice d’argento.</p>
+<p>I suoi occhi, due abissi insondabili, si posano su ognuno di voi a turno—scrutandovi con la calma glaciale di un collezionista che valuta un oggetto raro, o di un predatore celato nell’ombra che ha appena scelto la sua preda. In quello sguardo non c’è fretta, né pietà. Solo un gelido interesse… e fame.</p></div>
 
 > [!lore]+ **La Predizione di Strahd**
 >
-> Al momento dell'incontro con i personaggi, Strahd sta tornando da una visita alla tenda di Madam Eva all'Accampamento di Tser Pool. Trovando il potere del Fane della Foresta difficile da controllare a causa dell'interferenza di Baba Zelenna durante il suo sonno, ha cercato il consiglio di Madam Eva nei suoi preparativi per la Grande Congiunzione. Ha ricevuto la seguente predizione:
+> Al momento dell'incontro con i personaggi, Strahd sta tornando da una visita alla tenda di Madam Eva all'Accampamento di Tser Pool. Trovando il potere del Fano della Foresta difficile da controllare a causa dell'interferenza di Baba Zelenna durante il suo sonno, ha cercato il consiglio di Madam Eva nei suoi preparativi per la Grande Congiunzione. Ha ricevuto la seguente predizione:
 >
 > - "Il Signore Oscuro—il padrone delle ombre, la bestia nel labirinto che strappa le sue catene."
 > - "Il Sei di Stelle, l'Evocatore—il potere che brami, una forza non domata dalle mani mortali, cruda e selvaggia con furia ardente."
@@ -124,11 +128,11 @@ Che Ireena sia con il gruppo o meno, aggiungi:
 >  
 >  <hr>
 >  
-> "Sembri essere sotto l'errata convinzione di essere speciale," dice Strahd. "Non lo sei. Sei un estraneo nelle mie terre, senza un'oncia di rispetto o di buon senso comune. Mi diverte, di tanto in tanto, prendere le misure di coloro che entrano nella valle da oltre le Nebbie."
+> "Sembri essere sotto l'errata convinzione di essere speciale," dice Strahd. "Non lo sei. Sei un estraneo nelle mie terre, senza un grammo di rispetto o di buon senso. Mi diverte, di tanto in tanto, prendere le misure di coloro che entrano nella valle da oltre le Nebbie."
 > 
-> I suoi occhi si stringono. "Ma hai preso le tue misure, e le ho trovate carenti. Non sei coraggioso. Non sei astuto. Inviti la morte, e non sono mai stato uno che nega ai miei sudditi un tale desiderio, per quanto sciocco. Questa ultima possibilità, te la concederò, per salvare la tua stessa vita—perché non vedo alcun valore in essa al di sopra di quella della creatura più umile che striscia nel fango." 
+> I suoi occhi si stringono. "Ma ho preso le tue misure, e le ho trovate carenti. Non sei coraggioso. Non sei astuto. Inviti la morte, e non sono mai stato uno che nega ai suoi sudditi un tale desiderio, per quanto sciocco. Questa ultima possibilità, te la concederò, di salvare la tua stessa vita—perché non vedo alcun valore in essa, non più di quella della creatura più umile che striscia nel fango." 
 > 
-> Alza un terzo dito. "La prossima volta che parli, i miei animali ti uccideranno. Chiunque ti difenda condividerà lo stesso destino."
+> Alza un terzo dito. "La prossima volta che parlerai, i miei animali ti uccideranno. Chiunque ti difenda condividerà lo stesso destino."
 > 
 > <hr>
 > 
@@ -307,7 +311,7 @@ Se salvata, Muriel rimane con i personaggi fino a quando non riesce a discernere
 <p><strong><em>Interposizione.</em></strong> Quando una creatura che Muriel può vedere colpisce un altro bersaglio entro 5 piedi da Muriel con un attacco, può usare la sua reazione per subire il danno al posto del bersaglio.</p>
 </div>
 
-Se scopre che i personaggi intendono viaggiare verso Vallaki, Muriel viaggia con loro mantenendo il suo travestimento da corvo, sperando di fare affidamento sulla sicurezza del numero fino a quando non può riferire le sue scoperte a Urwin Martikov al Blue Water Inn. In nessun caso Muriel rivela volontariamente la sua vera natura ai personaggi in questo momento.
+Se scopre che i personaggi intendono viaggiare verso Vallaki, Muriel viaggia con loro mantenendo il suo travestimento da corvo, sperando di fare affidamento sulla sicurezza del numero fino a quando non può riferire le sue scoperte a Urwin Martikov alla Locanda dell’Acqua Azzurra. In nessun caso Muriel rivela volontariamente la sua vera natura ai personaggi in questo momento.
 
 > [!info]+ **Muriel Incognito**
 > Mentre viaggia con i personaggi, Muriel cerca di mantenere un basso profilo mentre si ingrata con il gruppo. Mentre è in forma di corvo, i personaggi possono comunicare con lei solo usando l'incantesimo *parlare con gli animali*, anche se nega ogni conoscenza di Strahd o delle origini della strige e finge di essere un corvo ordinario e semplice, preoccupato solo di cibo e di evitare i predatori. Se le viene chiesto il suo nome, insiste eccitata, poi (se interrogata) ostinatamente, che il suo nome è "Blu."
@@ -985,7 +989,7 @@ Qualsiasi personaggio che ha fallito il suo tiro salvezza contro la maledizione 
 > Infine, mentre le nebbie rimangono, il ciclo lunare è accelerato a Barovia: la luna piena arriva una volta ogni due settimane, invece di una volta ogni quattro. **La prima luna piena che i personaggi sperimentano avrà luogo l'8 di Neyavr—la sesta notte dopo il loro primo ingresso a Vallaki.**
 
 > [!abstract]+ **Curare la Licantropia dei Personaggi**
-> I personaggi possono apprendere dai Martikov del Blue Water Inn, dal Dott. Rudolph van Richten o da Kasimir Velikov dell'accampamento vistanico di Vallaki che la prossima luna piena avrà luogo la sesta notte dopo il loro primo ingresso a Vallaki. Man mano che la notte della luna piena si avvicina, i personaggi infetti dalla licantropia sperimentano incubi di crescente gravità, nonché un crescente appetito per la carne cruda.
+> I personaggi possono apprendere dai Martikov della Locanda dell’Acqua Azzurra, dal Dott. Rudolph van Richten o da Kasimir Velikov dell'accampamento vistanico di Vallaki che la prossima luna piena avrà luogo la sesta notte dopo il loro primo ingresso a Vallaki. Man mano che la notte della luna piena si avvicina, i personaggi infetti dalla licantropia sperimentano incubi di crescente gravità, nonché un crescente appetito per la carne cruda.
 > 
 > I personaggi infetti dalla licantropia del **lupo mannaro** saranno in grado di cercare una cura in [[Arco I - Le Mura di Krezk]] dopo aver incontrato il Dott. Rudolph van Richten in [[Arco E - La Vistana Scomparsa]]. I personaggi di una classe appropriata possono anche curare se stessi e gli altri dalla licantropia lanciando *rimuovi maledizione* al raggiungimento del 5° livello. (Padre Lucian della Chiesa di St. Andral a Vallaki non può lanciare l'incantesimo e quindi non può curare la licantropia.)
 
@@ -1027,7 +1031,7 @@ Le guardie richiedono quindi che ogni personaggio paghi 1 moneta d'oro come peda
 
 Se i personaggi pagano il pedaggio, le guardie insistono anche che ogni entrante apra la sua borsa (o equivalente) e consegni qualsiasi moneta d'argento in loro possesso. (Se i personaggi si lamentano, le guardie assicurano loro che l'argento è necessario per produrre le armi d'argento necessarie per difendere la città dai lupi mannari.) In cambio di qualsiasi moneta d'argento che danno, i personaggi ricevono una quantità di monete di rame di pari valore—meno una tassa del dieci percento.
 
-Se viene chiesto dell'alloggio, le guardie possono condividere informazioni sul Blue Water Inn, come descritto in <span class="citation">Lore di Vallaki (p. 96)</span>. Le guardie sono anche disposte a fornire ulteriori indicazioni ad altri punti di riferimento nella città in cambio di una tangente di 1 moneta d'oro.
+Se viene chiesto dell'alloggio, le guardie possono condividere informazioni sulla Locanda dell’Acqua Azzurra, come descritto in <span class="citation">Lore di Vallaki (p. 96)</span>. Le guardie sono anche disposte a fornire ulteriori indicazioni ad altri punti di riferimento nella città in cambio di una tangente di 1 moneta d'oro.
 
 Ogni volta che i personaggi passano attraverso i cancelli, inclusa la prima, le guardie annuiscono loro e intonano la frase preferita del Barone: "Tutto andrà bene."
 
@@ -1044,10 +1048,10 @@ Mentre i personaggi passano lungo il viale principale di Vallaki, leggi:
 La figura incappucciata è Willemina Rikalova, come descritto in <span class="citation">Chiesa di St. Andral (p. 97)</span>. Sta andando alla chiesa per pregare per la liberazione di suo figlio, Udo Lukovich.
 
 Mentre i personaggi passano per le strade, vengono notati da Ernst Larnak, che li osserva intensamente—anche se non li segue—come descritto in <span class="citation">Il Desiderio di Lady Wachter (p. 124)</span>. (Ernst non consegna ancora un invito a cenare con Lady Wachter, anche se torna a <span class="citation">N4. Wachterhaus (p. 110)</span> per riferire a Lady Wachter quando i personaggi lasciano la sua vista.)
-## C12b. Blue Water Inn
+## C12b. Locanda dell’Acqua Azzurra
 <span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N2.</em></span>
 
-Quest'area è in gran parte come descritto in <span class="citation">N2. Blue Water Inn (p. 98)</span>. Se Muriel è presente, saluta i personaggi con un trillo morbido e sentimentale, poi parte per unirsi agli altri corvi che riposano sul tetto. (Se i personaggi tornano più tardi all'inn per cercarla, non è presente.)
+Quest'area è in gran parte come descritto in <span class="citation">N2. Locanda dell’Acqua Azzurra (p. 98)</span>. Se Muriel è presente, saluta i personaggi con un trillo morbido e sentimentale, poi parte per unirsi agli altri corvi che riposano sul tetto. (Se i personaggi tornano più tardi all'inn per cercarla, non è presente.)
 
 Quando i personaggi arrivano per la prima volta, l'inn contiene i seguenti PNG notevoli:
 
@@ -1058,7 +1062,7 @@ Quando i personaggi arrivano per la prima volta, l'inn contiene i seguenti PNG n
 
 ![[Vallaki_Martikovs.png]]
 
-<span class="credit">"The Martikovs of the Blue Water Inn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"The Martikovs of the Locanda dell’Acqua Azzurra" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profilo: Urwin Martikov**
 >
@@ -1076,7 +1080,7 @@ Quando i personaggi arrivano per la prima volta, l'inn contiene i seguenti PNG n
 >
 > ***Morale.*** In un combattimento, Urwin tenterebbe immediatamente di disinnescare la situazione e tenterebbe di fuggire se infruttuoso—anche se non prima di scortare chiunque altro fuori pericolo.
 >
-> ***Relazioni.*** Urwin è il padre di Brom e Bray Martikov e il marito di Danika Dorakova. È anche il figlio esiliato di Davian Martikov e il fratello maggiore amato di Adrian, Elvir e Stefania Martikov. Oltre a co-gestire il Blue Water Inn, Urwin è il spymaster dei [[Lore di Barovia#Custodi della Piuma|Custodi della Piuma]].
+> ***Relazioni.*** Urwin è il padre di Brom e Bray Martikov e il marito di Danika Dorakova. È anche il figlio esiliato di Davian Martikov e il fratello maggiore amato di Adrian, Elvir e Stefania Martikov. Oltre a co-gestire la Locanda dell’Acqua Azzurra, Urwin è il spymaster dei [[Lore di Barovia#Custodi della Piuma|Custodi della Piuma]].
 
 > [!profile]+ **Profilo: Danika Dorakova**
 >
@@ -1094,7 +1098,7 @@ Quando i personaggi arrivano per la prima volta, l'inn contiene i seguenti PNG n
 >
 > ***Morale.*** In un combattimento, Danika tenterebbe rapidamente di disinnescare, ma combatterebbe fino alla morte per difendere la sua famiglia o i suoi ospiti.
 >
-> ***Relazioni.*** Danika è la madre di Brom e Bray Martikov e la moglie di Urwin Martikov. Oltre a co-gestire il Blue Water Inn, Danika è un membro di alto rango dei [[Lore di Barovia#Fazioni#Custodi della Piuma|Custodi della Piuma]].
+> ***Relazioni.*** Danika è la madre di Brom e Bray Martikov e la moglie di Urwin Martikov. Oltre a co-gestire la Locanda dell’Acqua Azzurra, Danika è un membro di alto rango dei [[Lore di Barovia#Fazioni#Custodi della Piuma|Custodi della Piuma]].
 ### Entrare nell'Inn
 La sala comune è come descritto in <span class="citation">N2c. Sala Comune (p. 100)</span>. Tuttavia, aggiungi il seguente testo alla fine della descrizione di quest'area:
 
@@ -1110,7 +1114,7 @@ Quando i personaggi entrano per la prima volta nell'inn, [[Personaggi Non Giocan
 
 Se i personaggi si avvicinano al bar, [[Personaggi Non Giocanti#Urwin Martikov|Urwin]] esce dalla cucina portando un vassoio di pane appena sfornato, stufato di barbabietole caldo e bistecche di lupo, che posa sul bar. (Il cibo ha un odore delizioso.) Szoldar Szoldarovich e Yevgeni Krushkin sono anche seduti al bar e sono come descritto in <span class="citation">N2c. Sala Comune (p. 100)</span>.
 
-Urwin saluta calorosamente i personaggi e li accoglie al Blue Water Inn. Se i personaggi non dirigono la conversazione altrove, nota che sembrano viaggiatori e chiede se hanno bisogno di stanze per la notte.
+Urwin saluta calorosamente i personaggi e li accoglie alla Locanda dell’Acqua Azzurra. Se i personaggi non dirigono la conversazione altrove, nota che sembrano viaggiatori e chiede se hanno bisogno di stanze per la notte.
 
 Prima che Urwin possa rispondere ai personaggi, Danika torna e si scusa con i personaggi per il ritardo. Supponendo che i personaggi non interrompano, la conversazione procede come segue:
 
@@ -1119,7 +1123,7 @@ Prima che Urwin possa rispondere ai personaggi, Danika torna e si scusa con i pe
 * "Dopotutto," dice Urwin con un sorriso, "perché altro mi sono sposato con te?" Con un sorriso, Danika risponde, "Un raro caso di buon senso, immagino."
 * Danika bacia Urwin sulla guancia e dice, "Il tavolo vicino alla finestra ha fame." Urwin fa l'occhiolino ai personaggi, prende di nuovo il vassoio e esce dal bar per servire il cibo.
 
-Danika dice poi ai personaggi le tariffe per vitto e alloggio, come elencato in <span class="citation">N2. Blue Water Inn (p. 98)</span>. (Sia la grande camera degli ospiti, <span class="citation">N2m. Camera degli Ospiti (p. 102)</span>, sia le due piccole camere degli ospiti, <span class="citation">N2l. Camere degli Ospiti (p. 102)</span>, sono disponibili per l'affitto.) Quando Urwin torna, offre di prendere gli ordini dei personaggi per la cena, supponendo che abbiano fame. 
+Danika dice poi ai personaggi le tariffe per vitto e alloggio, come elencato in <span class="citation">N2. Locanda dell’Acqua Azzurra (p. 98)</span>. (Sia la grande camera degli ospiti, <span class="citation">N2m. Camera degli Ospiti (p. 102)</span>, sia le due piccole camere degli ospiti, <span class="citation">N2l. Camere degli Ospiti (p. 102)</span>, sono disponibili per l'affitto.) Quando Urwin torna, offre di prendere gli ordini dei personaggi per la cena, supponendo che abbiano fame. 
 
 I personaggi hanno poi qualche minuto per parlare con Urwin e Danika o tra di loro. Durante questa conversazione, Urwin e Danika possono fornire ai personaggi informazioni su Rictavio, il Festival del Sole Splendente (che avrà luogo tra cinque giorni a mezzogiorno) e il vicino campo vistanico, come descritto in <span class="citation">Lore di Vallaki (p. 96)</span>. 
 
@@ -1127,7 +1131,7 @@ Sia Urwin che Danika possono fornire indicazioni a qualsiasi punto di riferiment
 
 L'ultima spedizione di vino dell'inn è leggermente in ritardo, ma non è stata sufficientemente ritardata da allarmare Urwin. Come tale, non chiede ai personaggi di indagare sulla Cantina del Mago in questo momento. (Questa missione non sarà disponibile fino a quando i personaggi non raggiungeranno il livello 5. Vedi [[Arco J - La Gemma Rubata]] per ulteriori informazioni.)
 
-Se i personaggi ordinano cibo o vino nella sala comune, [[Personaggi Non Giocanti#Danika Dorakova|Danika]] offre di farli sedere al lungo tavolo all'estremità sud della sala comune e promette che saranno serviti a breve. (Vedi **Mappa 5.2: Blue Water Inn**.)
+Se i personaggi ordinano cibo o vino nella sala comune, [[Personaggi Non Giocanti#Danika Dorakova|Danika]] offre di farli sedere al lungo tavolo all'estremità sud della sala comune e promette che saranno serviti a breve. (Vedi **Mappa 5.2: Locanda dell’Acqua Azzurra**.)
 ### Il Racconto del Presentatore
 Se uno dei personaggi si avvicina al tavolo di Rictavio, Nikolai e Karl Wachter li esortano a sedersi. "Sta per raccontare una storia," sussurra Nikolai ad alta voce. (Szoldar Szoldarovich, il cacciatore di lupi, ha girato la sua sedia lontano dal bar per ascoltare.)
 
@@ -1175,7 +1179,7 @@ Dopo aver schiarito la gola, Rictavio condivide la seguente storia:
 Se parlato, Rictavio è disposto a condividere le seguenti informazioni durante le bevande:
 
 * È Rictavio, un presentatore di carnevale mezzelfo che ha viaggiato a lungo e lontano alla ricerca di nuovi atti per il suo circo. Non è del tutto sicuro di come sia finito a Barovia, ma sta cercando di trarne il massimo. (Questa è una bugia. Una prova di Saggezza (Intuizione) CD 16 rivela che le parole di Rictavio suonano un po' troppo lisce e praticate.)
-* È arrivato di recente quella mattina e ha preso residenza nella suite privata del Blue Water Inn. "I buoni locandieri mi hanno generosamente permesso di rimanere in cambio di racconti e buon umore," nota, sorridendo.
+* È arrivato di recente quella mattina e ha preso residenza nella suite privata della Locanda dell’Acqua Azzurra. "I buoni locandieri mi hanno generosamente permesso di rimanere in cambio di racconti e buon umore," nota, sorridendo.
 
 Durante la conversazione, Rictavio tenta sottilmente di apprendere più informazioni di quante ne riveli, sperando di ottenere le identità, le capacità, le relazioni e le storie dei personaggi dentro e oltre Barovia. Se gli viene chiesto perché sembra essere così curioso, insiste con enfasi che è sempre alla ricerca di nuove storie da aggiungere al suo repertorio.
 
@@ -1251,7 +1255,7 @@ Mentre la conversazione di Urwin si avvicina alla fine, Rictavio scende le scale
 > [!abstract]+ **Cosa C'è nel Pacco?**
 > Se gli viene chiesto, Urwin può informare i personaggi che il pacco contiene semplicemente cibo—alcune mele, alcune pagnotte di pane e una forma di formaggio.
 ### Seguire il Presentatore
-Se uno o più personaggi seguono Rictavio fuori dal Blue Water Inn, possono seguirlo fino a <span class="citation">N2f. Stalla (p. 101)</span> senza difficoltà.
+Se uno o più personaggi seguono Rictavio fuori dalla Locanda dell’Acqua Azzurra, possono seguirlo fino a <span class="citation">N2f. Stalla (p. 101)</span> senza difficoltà.
 
 Una volta dentro, Rictavio rimuove il pacco dal mantello, estrae due mele e procede a dar da mangiare al suo cavallo, Drusilla. Una volta che Drusilla ha finito di mangiare, Rictavio controlla i suoi dintorni, costringendo qualsiasi personaggio nascosto a riuscire in una prova di Destrezza (Furtività) di gruppo CD 18 o essere rilevato.
 
@@ -1281,9 +1285,9 @@ Rictavio rifiuta di condividere ulteriori informazioni per paura che gli agenti 
 Se non riesce a rilevare i personaggi, Rictavio usa il suo *cappello del travestimento* per assumere la forma di un comune vallakiano casuale, poi scivola fuori dalla stalla sulla strada. Procede poi a intrecciarsi tra le strade e i vicoli di Vallaki in un tentativo paranoico di perdere eventuali inseguitori. Un personaggio che tenta di seguirlo deve riuscire in una prova di Saggezza (Percezione) CD 18 o perderlo nella folla. 
 
 > [!abstract]+ **Seguire Rictavio**
-> Una volta che lascia la stalla del Blue Water Inn, Rictavio si dirige verso il Magazzino di Arasek, dove infila il pacco di cibo attraverso le fessure della porta posteriore del suo carro. Fornisce poi ad Arabelle un breve aggiornamento sulle attività della città mentre mangia, inginocchiandosi davanti al carro come descritto in [[Arco E - La Vistana Scomparsa#E8b. Seguire Rictavio|Arco E - La Vistana Scomparsa]].
+> Una volta che lascia la stalla della Locanda dell’Acqua Azzurra, Rictavio si dirige verso il Magazzino di Arasek, dove infila il pacco di cibo attraverso le fessure della porta posteriore del suo carro. Fornisce poi ad Arabelle un breve aggiornamento sulle attività della città mentre mangia, inginocchiandosi davanti al carro come descritto in [[Arco E - La Vistana Scomparsa#E8b. Seguire Rictavio|Arco E - La Vistana Scomparsa]].
 ### Uscire dall'Inn
-Mentre i personaggi lasciano il Blue Water Inn la loro prima mattina a Vallaki, trovano la strada piena di cittadini. Supponendo che i personaggi non interferiscano, la seguente scena si svolge poi:
+Mentre i personaggi lasciano la Locanda dell’Acqua Azzurra la loro prima mattina a Vallaki, trovano la strada piena di cittadini. Supponendo che i personaggi non interferiscano, la seguente scena si svolge poi:
 
 * I personaggi sentono il suono di un cavallo che nitrisce dalla strada—e i cittadini si bloccano e cadono in silenzio. Una piccola processione si trova a sud: il Barone Vargas Vallakovich (come descritto in <span class="citation">Interpretare la Famiglia Vallakovich, p. 105</span>) che cavalca il suo cavallo castano, fiancheggiato dai suoi due **mastini** di nome Artiglio e Zanna, e seguito da tre **guardie**. Izek Strazni guida la processione. 
 * I personaggi possono vedere che una vecchia donna dall'aspetto spaventato che indossa abiti comuni logori è appena inciampata lontano dal cavallo ed è caduta in una pozzanghera di fango a pochi piedi dal cavallo. Il cavallo si è fermato bruscamente e la processione si è fermata con esso. Il braccio diavolesco di Izek è teso, suggerendo che ha appena spinto—o lanciato—la vecchia donna nel fango. (La donna è Willemina Rikalova, la madre del calzolaio imprigionato Udo Lukovich.)
@@ -1357,7 +1361,7 @@ Se gli viene chiesto, Ireena nota con incertezza che qualcosa di Izek sembrava q
 
 Se i personaggi hanno sfidato Vargas o Izek in qualsiasi modo, o hanno altrimenti assistito Willemina, Ernst Larnak riferisce le loro azioni a Lady Fiona Wachter a Wachterhaus. [[Arco F - Il Desiderio di Lady Wachter]] inizia poi.
 
-***Fine di un Atto.*** Quando i personaggi partono dal Blue Water Inn per il loro primo giorno intero a Vallaki, **Atto I** finisce e **Atto II** inizia.
+***Fine di un Atto.*** Quando i personaggi partono dalla Locanda dell’Acqua Azzurra per il loro primo giorno intero a Vallaki, **Atto I** finisce e **Atto II** inizia.
 # Note di Design: Nella Valle
 ## Viaggio a Vallaki
 ***La Famiglia Lansten.*** Gli incontri con le sentinelle baroviane e la famiglia Lansten non morta sono stati aggiunti per sottolineare la tragedia dell'assedio di Strahd al villaggio di Barovia, per introdurre le forze non morte di Strahd e per prefigurare il piano finale di Strahd di trasformare i baroviani in non morti per forgiare il suo nuovo esercito una volta sfuggito alle Nebbie.
@@ -1402,6 +1406,6 @@ La storia di Stanimir indica la relazione tra Strahd e i Vistani, prefigurando c
 
 ***La Tassa.*** La tassa delle guardie dà ai personaggi un ulteriore motivo per odiare il Barone Vallakovich. La tariffa sull'argento indica anche ai personaggi la ricchezza di armi e munizioni d'argento che il Barone ha accumulato.
 
-***Blue Water Inn.*** Questa sequenza è stata strutturata intenzionalmente per introdurre lentamente e gestibilmente i personaggi a diversi dei giocatori chiave a Vallaki: i Martikov, i Wachter, i cacciatori di lupi e il presentatore Rictavio. La storia di Rictavio è stata scritta per essere il più comica possibile per scoraggiare i personaggi dal prenderlo sul serio fino alla rivelazione della sua identità in [[Arco E - La Vistana Scomparsa]].
+***Locanda dell’Acqua Azzurra.*** Questa sequenza è stata strutturata intenzionalmente per introdurre lentamente e gestibilmente i personaggi a diversi dei giocatori chiave a Vallaki: i Martikov, i Wachter, i cacciatori di lupi e il presentatore Rictavio. La storia di Rictavio è stata scritta per essere il più comica possibile per scoraggiare i personaggi dal prenderlo sul serio fino alla rivelazione della sua identità in [[Arco E - La Vistana Scomparsa]].
 
 ***Uscire dall'Inn.*** L'incontro dei personaggi con il Barone Vallakovich e Izek per le strade di Vallaki è stato aggiunto per fornire ai personaggi un motivo immediato per non gradirli, per introdurre i personaggi a Padre Lucian Petrovich, per avviare la tensione drammatica centrale del governo tirannico del Barone su Vallaki, per dare il via alla ricerca di Izek di Ireena e per fornire a Lady Fiona Wachter un motivo attuabile per invitare i personaggi nelle sue macchinazioni. **È essenziale che i personaggi *non* combattano Izek qui, e tutte le precauzioni ragionevoli sono state prese per garantire ciò.**
