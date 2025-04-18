@@ -441,6 +441,13 @@ Se i personaggi accettano la sfida, Eliza, Arturi e [[Personaggi Non Giocanti#Ir
 
 Dai ai giocatori qualche minuto lontano dal tavolo per pianificare le loro storie prima che il gioco inizi.
 
+> [!info]+ ***Reazioni al Falò***
+> In risposta alle storie dei giocatori, i partecipanti al Gioco delle Storie votano come segue:
+> * Stanimir, credendo che un granello di verità si trovi nel cuore di ogni racconto, vota solo Vero.
+> * Eliza, che non ama le mezze verità, alterna tra Vero e Falso.
+> * Arturi, cinico e diffidente, alterna tra Mezzo-Vero e Falso.
+> * Ireena, pronta a scaldarsi con il giocatore, alterna tra Vero e Mezzo-Vero.
+
 > [!lore]+ **Il Manoscritto di Arturi**
 >
 > Il manoscritto di Arturi—scritto dal Dott. Rudolph van Richten—è scritto a mano e lungo due pagine. È intitolato "Uno Studio sulla Maledizione del Lupo Mannaro" e recita come segue:
@@ -1234,7 +1241,7 @@ La sala comune si svuota lentamente nelle due ore successive. Nikolai e Karl Wac
 
 Se i personaggi hanno affittato stanze per la notte, [[Personaggi Non Giocanti#Danika Dorakova|Danika]] si avvicina infine al loro tavolo e offre di mostrarli alle loro stanze. (Vedi **N2l. Camere degli Ospiti** e <span class="citation">N2m. Camera degli Ospiti (p. 102)</span>). Durante il tour, Danika fa sapere loro che sono liberi di richiedere lenzuola fresche o una vasca di acqua calda (per un bagno) da portare nelle loro stanze. "La colazione viene servita all'alba," dice calorosamente, e aggiunge, "Sentitevi liberi di farci sapere se avete bisogno di qualcos'altro."
 
-***Pietra Miliare.*** Arrivare a Vallaki completa una pietra miliare della storia. Quando il gruppo fa il suo primo riposo lungo a Vallaki, assegna a ciascun giocatore 1.000 PE, più un ulteriore 250 PE se hanno scortato con successo Ireena a Vallaki. (I personaggi non devono portare Ireena alla chiesa di St. Andral per ricevere questi PE.)
+***Pietra Miliare.*** Quando i giocatori fanno il loro primo riposo lungo a Vallaki, assegna a ciascun giocatore 1.000 PE. (Questo dovrebbe portare tutti i giocatori al quarto livello.) Se i giocatori hanno scortato con successo Ireena a Vallaki, guadagnano ulteriori 250 PE. (I personaggi non devono necessariamente portare Ireena alla chiesa di St. Andral per ricevere questi PE.)
 ## C12c. Mattina a Vallaki
 ### Il Consiglio di Urwin
 Quando i personaggi emergono per la prima volta dalle loro stanze su <span class="citation">N2k. Balcone degli Ospiti</span> la mattina seguente, [[Personaggi Non Giocanti#Urwin Martikov|Urwin]]—che sta togliendo le sedie dai tavoli della sala comune—chiede loro di scendere al bar per parlare.

@@ -716,6 +716,11 @@ La presenza è lo spirito di Santa Markovia, che può comunicare con i giocatori
 > * **Importanza**: Se la domanda riguarda tratti o qualità, potresti scegliere di posizionare prima la caratteristica più dominante o la carta più importante, seguita da carte che rappresentano qualità secondarie o terziarie.
 > * **Contrasto e Transizione**: Quando scegli carte che rappresentano idee o stati contrastanti, disponile in un ordine che meglio illustra il contrasto o la transizione da uno stato all'altro.
 
+> [!abstract]+ **Il Consiglio di Ezmerelda**
+> Se informata dell'invito di Strahd una volta reclutata alla loro causa in [[Arco K - L'Abbazia Caduta]], Ezmerelda d'Avenir consiglia vivamente ai giocatori di accettarlo—se non l'hanno già fatto—come un'opportunità unica nella vita per esplorare il castello prima di recuperare l'*Icona della Grazia dell'Alba* in [[Arco K - L'Abbazia Caduta]], salvare il **licantropo** Emil Toranescu in [[Arco L - La Tana dei Lupi]], e/o recuperare il teschio di Argynvost in [[Arco M - Il Maniero del Drago]].
+>
+> Ezmerelda fa notare, tuttavia, che *non* è stata invitata alla cena e quindi non può partecipare apertamente. È disposta, però, a perseguire una propria linea d'azione indipendente mentre i giocatori cenano con Strahd. Su suggerimento dei giocatori, potrebbe trascorrere la serata a fare la guardia a Ireena, a sorvegliare segretamente i terreni del castello alla ricerca di ingressi alternativi e possibili guardie (anche se non entrerà nel castello da sola), o intraprendere qualche altra azione per promuovere gli interessi del gruppo.
+
 Se i giocatori sembrano non sapere quali domande fare, Ezmerelda suggerisce di fare una o tutte le seguenti domande:
 
 * “Chi sei?" (Lo spirito risponde capovolgendo la carta Priest, che poi capovolge a faccia in giù. Poi capovolge la carta Missionary, che poi capovolge a faccia in giù. Poi capovolge la carta Shepherd.)

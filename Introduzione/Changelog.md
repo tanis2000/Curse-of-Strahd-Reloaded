@@ -1,3 +1,28 @@
+# Hotfix 2.0.11.2 (March 23, 2025)
+* Tweaked the history of the Amber Temple and the answer to Meda's riddle in [[Arc S - A Sword of Sunlight]] to clarify that the amber vestiges are not the Dark Powers.
+# Hotfix 2.0.11.1 (March 22, 2025)
+* Added *Indomitable* to Vladimir's statblock in Arc M
+* Clarified damage resistance in Ludmilla's *Shroud of Shadows* ability in Arc J
+* Added image of Yeska to Arc D
+* Added image of Arrigal's secret message to Arc O
+* Added image of Lief to Arc O
+* Added image of Khazan's staff to Arc P
+* Added barricade map Arc B
+* Added ice cave maps to Arc R 
+# Update 2.0.11 (March 22, 2025)
+* Added [[Arc S - A Sword of Sunlight]]
+# Patch 2.0.10.5 (March 22, 2025)
+* Amended various typos and errors in formatting
+* Added images for Anastrasya, Stella Wachter, and the Bodak Lair
+* Removed attunement from the Twilight Crest, Bracelet of Warding, and Mace of Life
+* Added roleplay information for Rahadin in [[Non-Player Characters]]
+* Clarified damage resistance in Ludmilla's *Shroud of Shadows* ability
+* Revised references to Strahd's wedding being "over 400 years ago" when it was in fact just under 400 years
+* Added column heading to Icicle Cascade table in [[Arc R - Trials of the Mountain]]
+* Tidied Izek's schedule in [[Arc F - Lady Wachter's Wish]]
+* Clarified the timeline in [[Act III Summary]]
+* Updated the *Indomitable* feature across various statblocks 
+* Added *Hindered* into glossary
 # Patch 2.0.10.4 (February 13th, 2025)
 * Amended various typos, broken links, and errors in formatting
 * Revised XP rewards to match milestone levels

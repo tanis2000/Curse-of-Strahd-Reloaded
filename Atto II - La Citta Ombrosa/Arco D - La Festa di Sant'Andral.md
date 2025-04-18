@@ -181,6 +181,9 @@ Se i giocatori scelgono di interrogare Yeska, [[Personaggi Non Giocanti#Padre Lu
 
 Se uno dei giocatori chiede a Yeska se ha detto a qualcun altro delle ossa, nega sinceramente di averlo fatto. Tuttavia, se i giocatori chiedono se qualcuno potrebbe aver sentito la sua conversazione con Padre Lucian, Yeska condivide che anche Milivoj era nella chiesa in quel momento. (Yeska, sebbene allarmato dalla direzione della conversazione, può anche essere persuaso a condividere che i racconti di Milivoj su Strahd che potrebbe attaccare la chiesa lo hanno incoraggiato a chiedere a Padre Lucian della protezione della chiesa in primo luogo.)
 
+![[Yeska.png]]
+<span class="credit">"Yeska" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 # D2. Casa di Milivoj
 
 La casa di Milivoj si trova nel quartiere povero nord-occidentale di Vallaki, a breve distanza dalla Chiesa di Sant'Andral.
@@ -645,8 +648,12 @@ Una volta che Rahadin è soddisfatto che la giustizia sia stata fatta, evoca di 
 <hr>
 <p><strong><em>Urla dei Morti.</em></strong> Qualsiasi creatura entro 10 piedi da Rahadin che non sia protetta da un incantesimo <em>mente vuota</em> sente nella sua mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
 <p><strong><em>Ascendenza Fatata.</em></strong> Rahadin ha vantaggio sui tiri salvezza contro essere affascinato e la magia non può farlo addormentare.</p>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Rahadin fallisce un tiro salvezza, può scegliere di riuscire invece.</p>
-<p><strong><em>Indomabile.</em></strong> Se Rahadin verrebbe paralizzato o stordito, viene rallentato invece. (La sua velocità è dimezzata, ha svantaggio sui tiri salvezza di Destrezza e le creature hanno vantaggio sugli attacchi contro di lui.)
+<p><strong><em>Indomabile.</em></strong>Se Rahadin fallisce un tiro salvezza, può scegliere di considerarlo come superato. Se lo fa, subisce la condizione di ostacolato fino alla fine del suo prossimo turno. Quando è ostacolato:<br>
+-	la sua velocità è ridotta (è rallentato),<br>
+-	può usare una reazione in meno per round,<br>
+-	non può usare il suo attacco multiplo.<br>
+<br>
+Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione ulteriore (fino a un minimo di zero). Gli altri effetti dell’essere ostacolato non si sommano.</p>
 <p><strong><em>Incantesimi Innati.</em></strong> La capacità di incantesimi innati di Rahadin è Intelligenza. Può lanciare innatamente i seguenti incantesimi, senza bisogno di componenti:<br>
 - 3/giorno: cavallo fantasma<br>
 - 1/giorno: non individuazione</p>
@@ -710,8 +717,12 @@ Una volta che Rahadin è soddisfatto che la giustizia sia stata fatta, evoca di 
 <hr>
 <p><strong><em>Urla dei Morti.</em></strong> Qualsiasi creatura entro 10 piedi da Rahadin che non sia protetta da un incantesimo <em>mente vuota</em> sente nella sua mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
 <p><strong><em>Ascendenza Fatata.</em></strong> Rahadin ha vantaggio sui tiri salvezza contro essere affascinato e la magia non può farlo addormentare.</p>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Rahadin fallisce un tiro salvezza, può scegliere di riuscire invece.</p>
-<p><strong><em>Indomabile.</em></strong> Se Rahadin verrebbe paralizzato o stordito, viene rallentato invece. (La sua velocità è dimezzata, ha svantaggio sui tiri salvezza di Destrezza e le creature hanno vantaggio sugli attacchi contro di lui.)
+<p><strong><em>Indomabile.</em></strong>Se Rahadin fallisce un tiro salvezza, può scegliere di considerarlo come superato. Se lo fa, subisce la condizione di ostacolato fino alla fine del suo prossimo turno. Quando è ostacolato:<br>
+-	la sua velocità è ridotta (è rallentato),<br>
+-	può usare una reazione in meno per round,<br>
+-	non può usare il suo attacco multiplo.<br>
+<br>
+Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione ulteriore (fino a un minimo di zero). Gli altri effetti dell’essere ostacolato non si sommano.</p>
 <p><strong><em>Maschera della Natura.</em></strong> Rahadin può tentare di nascondersi anche quando è solo leggermente oscurato da fogliame, pioggia battente, neve che cade, nebbia e altri fenomeni naturali.</p>
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> Rahadin effettua tre attacchi con le sue scimitarre <strong><em>Spina</em></strong> e/o <strong><em>Catena</em></strong>. Può sostituire un attacco con la sua caratteristica <strong><em>infestare</em></strong>.

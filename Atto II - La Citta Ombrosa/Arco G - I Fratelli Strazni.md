@@ -179,8 +179,12 @@ Se è cosciente, Ireena usa un pugnale nascosto nel suo stivale per liberarsi da
 <strong>Lingue</strong> Comune<br>
 <strong>Sfida</strong> 6 o 5 se avvelenato<br>
 <hr>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Izek fallisce un tiro salvezza, può scegliere di avere successo.</p>
-<p><strong><em>Indomito.</em></strong> Se Izek dovrebbe essere paralizzato o stordito, viene invece rallentato. (La sua velocità è dimezzata, ha svantaggio ai tiri salvezza su Destrezza e le creature hanno vantaggio negli attacchi contro di lui.)
+<p><strong><em>Indomabile.</em></strong>Se Izek fallisce un tiro salvezza, può scegliere di considerarlo come superato. Se lo fa, subisce la condizione di ostacolato fino alla fine del suo prossimo turno. Quando è ostacolato:<br>
+-	la sua velocità è ridotta (è rallentato),<br>
+-	può usare una reazione in meno per round,<br>
+-	non può usare il suo attacco multiplo.<br>
+<br>
+Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione ulteriore (fino a un minimo di zero). Gli altri effetti dell’essere ostacolato non si sommano.</p>
 <p><strong><em>Seconda Fase.</em></strong> Quando Izek viene ridotto a 0 punti ferita, le sue braccia e l'ascia vengono avvolte dalle fiamme, le spine sul suo braccio demoniaco crescono più lunghe e affilate, e la sua pelle diventa rossa e inizia a fumare. Le sue statistiche vengono istantaneamente sostituite da quelle della sua seconda forma. Il suo conteggio di iniziativa non cambia. Il danno in eccesso non si trasferisce alla nuova forma, ma mantiene tutte le condizioni che aveva nella forma precedente.</p>
 <h3>Azioni</h3>
 <p><strong><em>Attacco Multiplo.</em></strong> Izek effettua due attacchi.</p>
@@ -237,8 +241,12 @@ Se è cosciente, Ireena usa un pugnale nascosto nel suo stivale per liberarsi da
 <strong>Lingue</strong> Comune<br>
 <strong>Sfida</strong> 6 o 5 se avvelenato<br>
 <hr>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Izek fallisce un tiro salvezza, può scegliere di avere successo.</p>
-<p><strong><em>Indomito.</em></strong> Se Izek dovrebbe essere paralizzato o stordito, viene invece rallentato. (Deve spendere 1 piede di movimento extra per ogni piede che si muove usando la sua velocità, i tiri per colpire contro di lui hanno vantaggio e ha svantaggio ai tiri salvezza su Destrezza.)
+<p><strong><em>Indomabile.</em></strong>Se Izek fallisce un tiro salvezza, può scegliere di considerarlo come superato. Se lo fa, subisce la condizione di ostacolato fino alla fine del suo prossimo turno. Quando è ostacolato:<br>
+-	la sua velocità è ridotta (è rallentato),<br>
+-	può usare una reazione in meno per round,<br>
+-	non può usare il suo attacco multiplo.<br>
+<br>
+Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione ulteriore (fino a un minimo di zero). Gli altri effetti dell’essere ostacolato non si sommano.</p>
 <h3>Azioni</h3>
 <p><strong><em>Attacco Multiplo.</em></strong> Izek effettua due attacchi in mischia.</p>
 <p><strong><em>Ascia da Battaglia Argentata.</em></strong> <em>Attacco con arma da mischia:</em> +8 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 10 (1d8 + 5) danni taglienti più 2 (1d4) danni da fuoco.</p>

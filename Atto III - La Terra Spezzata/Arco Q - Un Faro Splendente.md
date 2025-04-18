@@ -47,7 +47,7 @@ I giocatori possono anche viaggiare da Berez alla città di Vallaki, alla Torre 
 
 ***Mago dei Vini.*** Se i giocatori si teletrasportano al Mago dei Vini, i Martikov sono felici di offrire loro un posto dove dormire per la notte. Quando i giocatori partono la mattina successiva, Davian invia due **sciami di corvi** ad accompagnarli fino alla loro destinazione. (I corvi partono quando i giocatori arrivano successivamente a Vallaki, Krezk o Argynvostholt, qualunque sia il primo.)
 
-***Passo di Tsolenka.*** Se i giocatori si teletrasportano al Passo di Tsolenka, possono dormire nella torre di guardia lì. I **vrock** pietrificati non attaccano i giocatori che bypassano la portcullis dal lato nord.
+***Passo di Tsolenka.*** Se i giocatori si teletrasportano al Passo di Tsolenka, possono dormire nella torre di guardia lì. I **vrock** pietrificati non attaccano i giocatori che bypassano la saracinesca dal lato est.
 
 I giocatori possono anche viaggiare dalla torre di guardia alla città di Vallaki, alla Torre di Van Richten o al villaggio di Krezk:
 
@@ -256,7 +256,7 @@ In combattimento, l'Abate preferisce combattere nel cortile dell'Abbazia, ma pot
 <strong>Grado di Sfida</strong> 15<br>
 <strong>Bonus di Competenza</strong> +5<br>
 <hr>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Ithuriel fallisce un tiro salvezza, può scegliere di avere successo invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se Ithuriel fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Incantesimi Innati.</em></strong> La capacità di incantesimi innati di Ithuriel è Carisma (CD tiro salvezza incantesimi 18). Può lanciare innatamente i seguenti incantesimi, richiedendo solo componenti verbali:<br>
 A volontà: individuazione del bene e del male<br>
 1/giorno ciascuno: comunione, resurrezione</p>
@@ -325,14 +325,14 @@ A volontà: individuazione del bene e del male<br>
 <strong>Grado di Sfida</strong> 16<br>
 <strong>Bonus di Competenza</strong> +5<br>
 <hr>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Ithuriel fallisce un tiro salvezza, può scegliere di avere successo invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se Ithuriel fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Resistenza Magica.</em></strong> Ithuriel ha vantaggio sui tiri salvezza contro incantesimi e altri effetti magici.</p>
 <p><strong><em>Armi Magiche.</em></strong> Gli attacchi con armi di Ithuriel sono magici.</p>
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> Ithuriel effettua un attacco con i suoi artigli e uno con il suo morso o dardi radianti</p>
 <p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia</em>: +11 per colpire, portata 3 m, un bersaglio. Colpito: 17 (2d10 + 6) danni perforanti più 4 (1d8) danni radianti. Se il bersaglio è una creatura, è afferrato (CD fuga 19). Fino a quando questa presa non termina, il bersaglio è trattenuto e Ithuriel non può mordere un altro bersaglio.</p>
 <p><strong><em>Artiglio.</em></strong> <em>Attacco con Arma da Mischia</em>: +11 per colpire, portata 1,5 m, un bersaglio. Colpito: 13 (2d6 + 6) danni da taglio.</p>
-<p><strong><em>Dardi Radianti.</em></strong> <em>Attacco con Arma a Distanza</em>: +10 per colpire, portata 1,5 m, tre bersagli separati. Colpito: 7 (2d4 + 2) danni radianti. Essere entro 1,5 m da una creatura ostile non causa a Ithuriel di effettuare questo attacco con svantaggio.</p>
+<p><strong><em>Dardi Radiosi.</em></strong> <em>Attacco con Arma a Distanza</em>: +10 per colpire, portata 9 m, tre bersagli separati. Colpito: 7 (2d4 + 2) danni radiosi. Essere entro 1,5 m da una creatura ostile non causa a Ithuriel di effettuare questo attacco con svantaggio.</p>
 <p></p>
 <h3>Azioni Bonus</h3>
 <p><strong><em>Eruzione della Terra.</em></strong> Ithuriel sbatte la coda contro il suolo, causando fontane di terra e pietra smosse che eruttano in un raggio di 1,5 m intorno a lui. Ogni creatura in quell'area deve superare un tiro salvezza su Forza a CD 19 o subire 7 (2d6) danni contundenti e cadere prona.</p>
@@ -707,8 +707,7 @@ Kiril attacca quindi.
 <strong>Bonus di Competenza</strong> +6<br>
 <hr>
 <p><strong><em>Rigenerazione.</em></strong> Kiril recupera 20 punti ferita all'inizio del suo turno. Se subisce danni necrotici o danni contundenti, perforanti o da taglio da un'arma argentata, questa caratteristica non funziona all'inizio del suo prossimo turno.</p>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Kiril fallisce un tiro salvezza, può scegliere di avere successo invece.</p>
-<p><strong><em>Indomabile.</em></strong> Se Kiril sarebbe paralizzato o stordito, è rallentato invece. (La sua velocità è dimezzata, ha svantaggio sui tiri salvezza su Destrezza e le creature hanno vantaggio sugli attacchi effettuati contro di lui.)</p>
+<p><strong><em>Indomabile.</em></strong> Se Kiril fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Udito e Olfatto Acuti.</em></strong> Kiril ha vantaggio sulle prove di Saggezza (Percezione) che si basano sull'udito o sull'olfatto.</p>
 <p><strong><em>Seconda Fase.</em></strong> Quando Kiril viene ridotto a 0 punti ferita, si scava gli artigli nel petto, estrae il proprio cuore e lo divora. Raddoppia quindi in altezza e larghezza, guadagnando una schiena curva, sporgenze ossee lungo le braccia e le spalle, e una testa grottesca e gonfia con zanne e denti sovradimensionati, così come una coppia di mascelle dentate per occhi. Le sue statistiche vengono quindi immediatamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio di iniziativa non cambia. I danni in eccesso e le condizioni non si trasferiscono alla sua nuova forma.</p>
 <h3>Azioni</h3>
@@ -773,8 +772,7 @@ Kiril attacca quindi.
 <strong>Bonus di Competenza.</strong> +6<br>
 <hr>
 <p><strong><em>Rigenerazione.</em></strong> Kiril recupera 20 punti ferita all'inizio del suo turno. Se subisce danni necrotici o danni contundenti, perforanti o da taglio da un'arma argentata, questa caratteristica non funziona all'inizio del suo prossimo turno.</p>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Kiril fallisce un tiro salvezza, può scegliere di avere successo invece.</p>
-<p><strong><em>Indomabile.</em></strong> Se Kiril sarebbe paralizzato o stordito, è rallentato invece. (La sua velocità è dimezzata, ha svantaggio sui tiri salvezza su Destrezza e le creature hanno vantaggio sugli attacchi effettuati contro di lui.)</p>
+<p><strong><em>Indomabile.</em></strong> Se Kiril fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Udito e Olfatto Acuti.</em></strong> Kiril ha vantaggio sulle prove di Saggezza (Percezione) che si basano sull'udito o sull'olfatto.</p>
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> Kiril effettua un attacco con i suoi artigli e uno con il suo morso. Può sostituire il morso con un inghiottire se ha già un bersaglio trattenuto con il suo morso.</p>
@@ -919,7 +917,7 @@ La prima volta che i giocatori entrano nel cimitero, se non stanno usando furtiv
 <strong>Grado di Sfida</strong> 15<br>
 <strong>Competenza</strong> +5
 <hr>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Vladimir fallisce un tiro salvezza, può scegliere di avere successo invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se Vladimir fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Rigenerazione.</em></strong> Vladimir recupera 10 punti ferita all'inizio del suo turno. Se subisce danni da fuoco o radianti, questa caratteristica non funziona all'inizio del suo prossimo turno. Il corpo di Vladimir viene distrutto solo se inizia il suo turno con 0 punti ferita e non si rigenera.</p>
 <p><strong><em>Immunità al Volgersi.</em></strong> Vladimir è immune agli effetti che volgono i non morti.</p>
 <p><strong><em>Vincolo del Giuramento.</em></strong> Se Vladimir infliggerebbe danni a una creatura morente con il suo <strong><em>spadone +2</em></strong>, può invece scegliere di stabilizzare quella creatura e sottoporla agli effetti di un incantesimo <em>geas</em>. Questo geas dura fino a quando non viene dissolto e può danneggiare il suo portatore un numero qualsiasi di volte ogni giorno. Una creatura che subisce danni in questo modo è anche trattenuta fino all'inizio del suo prossimo turno. Inoltre, il geas non può essere terminato o dissolto se non attraverso gli effetti di un incantesimo <em>restaurazione superiore</em> o <em>desiderio</em>, o se Vladimir usa un'azione per dissolverlo.</p>
@@ -980,7 +978,7 @@ La prima volta che i giocatori entrano nel cimitero, se non stanno usando furtiv
 <strong>Grado di Sfida</strong> 15<br>
 <strong>Competenza</strong> +5
 <hr>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Vladimir fallisce un tiro salvezza, può scegliere di avere successo invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se Vladimir fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Rigenerazione.</em></strong> Vladimir recupera 10 punti ferita all'inizio del suo turno. Se subisce danni da fuoco o radianti, questa caratteristica non funziona all'inizio del suo prossimo turno. Il corpo di Vladimir viene distrutto solo se inizia il suo turno con 0 punti ferita e non si rigenera.</p>
 <p><strong><em>Ringiovanimento.</em></strong> Quando il corpo di Vladimir viene distrutto, la sua anima persiste. Dopo 24 ore, l'anima abita e anima un altro cadavere sullo stesso piano di esistenza e recupera tutti i suoi punti ferita. Mentre l'anima è senza corpo, un incantesimo desiderio può essere usato per costringere l'anima ad andare nell'aldilà e non tornare.</p>
 <p><strong><em>Immunità al Volgersi.</em></strong> Vladimir è immune agli effetti che volgono i non morti.</p>
@@ -1131,7 +1129,7 @@ Continua con quanto segue, modificando il testo come necessario per riflettere l
 
 Tutte le creature che si oppongono a Strahd, inclusi i giocatori, ottengono quindi gli effetti del ***Faro di Protezione*** descritto in <span class="citation">Accendere il Faro (p. 142)</span>.
 
-***Traguardo.*** Restituire il teschio di Argynvost alla sua cripta completa un traguardo della storia. Quando i giocatori accendono il faro di Argynvost, assegna a ciascun giocatore 3.000 PE.
+***Traguardo.*** Restituire il teschio di Argynvost alla sua cripta completa un traguardo della storia. Quando i giocatori accendono il faro di Argynvost, assegna a ciascun giocatore 3.000 PE. (Questo dovrebbe portare i personaggi all'ottavo livello.)
 # Q7. Ritorno alla Tana dei Lupi Mannari
 
 > [!abstract]+ **Combattere Kiril**

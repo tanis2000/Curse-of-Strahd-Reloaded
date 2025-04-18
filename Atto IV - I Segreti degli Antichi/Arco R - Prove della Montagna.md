@@ -1346,6 +1346,9 @@ Se i giocatori entrano nella caverna, leggi:
 <p>L'entrata della caverna conduce a una piccola camera rocciosa di non più di sei metri di diametro. Uno stretto corridoio naturale si dirama dal lato destro della camera, piegandosi ulteriormente nelle profondità della montagna prima di svanire alla vista.</p>
 </div>
 
+![[Bodak_Lair_4k_NoGrid_60x40_68PPI_Gloom.png]]
+<span class="credit">"Bodak Lair" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/public-version-120933240">here!</a></span>
+
 > [!lore]+ **I Bodak**
 > Diversi decenni fa, due fratelli che portavano schegge d'ambra di nome Cassius e Deirdre si fecero strada attraverso le Nebbie verso Barovia. Le loro schegge li condussero al Tempio d'Ambra, dove accettarono il dono oscuro della vestigia Sykane, il Divoratore di Anime, per resuscitare la loro madre. Entrambi soccombettero alla corruzione di Sykane, tuttavia, trasformandosi in involucri oscuri e distorti con le statistiche dei **bodak** prima di poter fuggire dalla montagna o dalle Nebbie.
 >
@@ -1419,7 +1422,7 @@ Le ossa sul pavimento sono i resti dei pasti di Cassius. Scricchiolano forte sot
 Il tunnel a sinistra conduce a [[#Il Nido Occidentale]]. Il camino, che ha un diametro di 75 centimetri, inizia a tre metri sopra il pavimento prima di salire per 18 metri attraverso la pietra fino a [[#R4k. Le Caverne di Ghiaccio]].
 
 > [!info]+ **Salire sul Camino**
-Le pareti accanto al camino, levigate da anni di erosione, sono prive di appigli naturali. Per scalare le pareti fino all'ingresso del camino, un personaggio deve superare una prova di Forza (Atletica) con CD 25.
+> Le pareti accanto al camino, levigate da anni di erosione, sono prive di appigli naturali. Per scalare le pareti fino all'ingresso del camino, un personaggio deve superare una prova di Forza (Atletica) con CD 25.
 >
 > Una volta all'interno del camino, un personaggio che tenta di salire o scendere l'albero del camino senza l'aiuto di magia o equipaggiamento deve effettuare una prova di Forza (Atletica) con CD 10. Se la prova ha successo, il personaggio si muove a metà velocità su o giù per l'albero, come desiderato. Con un risultato della prova di 6-9, il personaggio non guadagna né perde terreno; con un risultato di 5 o meno, il personaggio cade e subisce 1d6 danni contundenti per ogni 3 metri caduti, atterrando prono alla base dell'albero.
 
@@ -1554,6 +1557,9 @@ Se un personaggio entra in questa stanza, leggi:
 <p>Un enorme, solitario ghiacciolo pende dal centro del soffitto, alto facilmente 90 centimetri e largo 25 centimetri alla base. Una profonda luce rossa pulsante tremola da qualcosa di congelato al suo interno.</p>
 </div>
 
+![[Frozen-Vault.png]]
+<span class="credit">"The Frozen Vault" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/124574173">here!</a></span>
+
 Il ghiacciolo, che termina a circa 2 metri dal suolo e cade facilmente se sciolto o rotto, contiene un *pendente di sangueferro* congelato (vedi sotto), la cui catena di ferro pende da un gancio di pietra naturale sul soffitto. Il pendente cade se il ghiacciolo cade, o diventa esposto se il ghiacciolo viene sciolto.
 
 Quando il pendente diventa visibile per la prima volta, leggi:
@@ -1599,7 +1605,7 @@ Quando il pendente diventa visibile per la prima volta, leggi:
 > [!lore]+ **Il Pendente Maledetto**
 > Strahd ha intenzionalmente posto questo pendente qui la notte di [[#R4f. The Tyrant’s Second Trial]], sperando che uno dei personaggi potesse portarlo con sé al Tempio d'Ambra e accettare il dono oscuro di Vampyr, dando così a lui un vampiro purosangue sotto il suo controllo. (Il vestigio di Vampyr non sa che il pendente è maledetto.)
 >
-> La scheggia d'ambra incorporata nel pendente è la stessa che i Poteri Oscuri hanno conferito a Strahd il giorno del matrimonio di Sergei, permettendogli così di accettare il dono oscuro di Vampyr prima che suo fratello potesse essere sposato. (A causa del suo precedente incontro con il sarcofago di Vampyr sotto la guida di Patrina Velikov, Strahd non ha avuto bisogno di tornare di persona al Tempio d'Ambra per accettare il dono oscuro di Vampyr per mezzo della scheggia d'ambra.)
+> La scheggia d'ambra incorporata nel pendente è la stessa che i Poteri Oscuri hanno conferito a Strahd il giorno del matrimonio di Sergei, permettendogli così di accettare il dono oscuro di Vampyr prima che suo fratello potesse essere sposato. (A causa del suo precedente incontro con il sarcofago di Vampyr sotto la guida di Patrina Velikovna, Strahd non ha avuto bisogno di tornare di persona al Tempio d'Ambra per accettare il dono oscuro di Vampyr per mezzo della scheggia d'ambra.)
 ### La Caverna dei Pugnali
 L'apertura in [[#R4k. The Ice Caves]] si piega attorno alla parete occidentale della caverna d'ingresso, poi si piega di nuovo verso ovest, allargandosi presto in un tunnel. Leggi:
 
@@ -1607,6 +1613,9 @@ L'apertura in [[#R4k. The Ice Caves]] si piega attorno alla parete occidentale d
 <p>La spaccatura rocciosa e ricoperta di brina si allarga in un lungo tunnel arrotondato. Fogli di ghiaccio ondulati, simili a onde, coprono le pareti, formando un passaggio quasi perfettamente circolare attraverso la montagna. Il ghiaccio luccica debolmente, scintillando come se fosse pieno di migliaia di stelle lontane.</p>
 <p>Il tunnel continua a lungo in lontananza, scomparendo presto nell'oscurità.</p>
 </div>
+
+![[The-Cave-of-Daggers.png]]
+<span class="credit">"The Cave of Daggers" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/124574173">here!</a></span>
 
 Se i personaggi seguono il tunnel, leggi:
 
@@ -1624,7 +1633,7 @@ Un personaggio che supera una prova di Intelligenza (Natura) con CD 15 riconosce
 > [!info]+ **Cascata di Ghiaccioli**
 > Ogni volta che i personaggi eseguono uno dei seguenti atti, tira un d100. Se il risultato rientra nell'intervallo di "Avvertimento" per quell'atto, i ghiaccioli sopra la testa tremano debolmente, tintinnando insieme e facendo filtrare frammenti di brina dall'alto, ma altrimenti rimangono indisturbati. Tuttavia, se il risultato rientra nell'intervallo di "Cascata" per quell'atto, inizia una cascata di ghiaccioli.
 >
-> | Azione | | Intervallo di Cascata | Intervallo di Avvertimento |
+> | Azione | Intervallo di Cascata | Intervallo di Avvertimento |
 > |:---|:---:|:--:|
 > | Rumori Ordinari | 00-09 | 10-49 |
 > | Calore Debole | 00-09 | 10-49 |
@@ -2324,8 +2333,8 @@ Quando i giocatori si svegliano la mattina successiva, Oroles li accoglie con un
 * Molti hanno cercato di ottenere potere o conoscenza dal tempio; quasi tutti sono caduti preda della corruzione del tempio, o sono caduti vittime del pericolo che si trova all'interno. Sebbene i suoi costruttori siano morti molto tempo fa, il tempio rimane ben difeso da forze innaturali, con strani costrutti e non morti che pattugliano i suoi corridoi oscurati. Inoltre, un miasma malvagio riempie le stanze del tempio, consumando la vitalità di chiunque cerchi di riposare lì.
 * Il tempio è ben nascosto, montato in alto nelle gelide distese del Monte Ghakis e circondato da scogliere mortali. Sebbene un'antica strada un tempo conducesse direttamente alla sua facciata anteriore, è crollata molto tempo fa, lasciando solo sentieri insidiosi e strette sporgenze per avvicinarsi. "Il percorso più semplice inizia sul bordo sudoccidentale dell'altopiano fuori Soldav," dice Diegia. "Se lo segui, ti guiderà alle porte del tempio."
 * Il **caprone gigante** Sangzor sorveglia l'unico passo che ora conduce verso il tempio. Si dice che abbia dimorato sul Monte Ghakis per secoli, se non millenni, Sangzor ha mandato molti pellegrini al Tempio a precipitare verso la morte lungo il fianco della montagna. "Si dice che Sangzor senta il male che si nasconde nel cuore degli uomini," dice Diegia solennemente. "Solo se vi giudica degni vi permetterà di passare."
-* Gli eredi al capo di Soldav, ciascuno affiancato da due compagni fidati, hanno viaggiato al Tempio Ambrato per secoli, cercando di mettere alla prova la loro resilienza e volontà contro la corruzione che contiene. "Da tempo immemorabile, ha dimorato sulla nostra vetta sorella," dice Diegia cupamente, "i suoi sussurri accarezzano dolcemente i sogni di coloro che cerca di tentare. Ogni volta che un capo ha accettato i suoi inviti, la calamità si è abbattuta sulla tribù non molto tempo dopo. Ora, mettiamo alla prova i nostri capi prima che prendano la sedia di legno—in modo che se la debolezza si nasconde nel loro cuore, venga estratta e distrutta con il suo portatore."
-* Attualmente, la figlia maggiore e unica di Diegia, Diona, sta subendo una tale prova, meditando nel tempio con i suoi due compagni scelti per sei giorni e sei notti prima che possa tornare a Soldav. Se i giocatori dovessero incontrarla, Diegia chiede loro di trasmetterle i suoi saluti e la sua speranza che Diona possa completare con successo il suo rito di passaggio e tornare a casa dalla sua famiglia.
+* Gli eredi al capo di Soldav, ciascuno affiancato da tre compagni fidati, hanno viaggiato al Tempio Ambrato per secoli, cercando di mettere alla prova la loro resilienza e volontà contro la corruzione che contiene. "Da tempo immemorabile, ha dimorato sulla nostra vetta sorella," dice Diegia cupamente, "i suoi sussurri accarezzano dolcemente i sogni di coloro che cerca di tentare. Ogni volta che un capo ha accettato i suoi inviti, la calamità si è abbattuta sulla tribù non molto tempo dopo. Ora, mettiamo alla prova i nostri capi prima che prendano la sedia di legno—in modo che se la debolezza si nasconde nel loro cuore, venga estratta e distrutta con il suo portatore."
+* Attualmente, la figlia maggiore e unica di Diegia, Diona, sta subendo una tale prova, meditando nel tempio con i suoi tre compagni scelti per sei giorni e sei notti prima che possa tornare a Soldav. Se i giocatori dovessero incontrarla, Diegia chiede loro di trasmetterle i suoi saluti e la sua speranza che Diona possa completare con successo il suo rito di passaggio e tornare a casa dalla sua famiglia.
 
 Quando i giocatori sono pronti a partire, Diegia e la sua famiglia augurano loro addio. Como li guida quindi al tunnel di uscita e augura loro buona fortuna nel loro viaggio. (Se interrogato, Como rifiuta di unirsi ai giocatori nel loro viaggio. "Il mio posto è qui, con la mia famiglia e il mio popolo," dice, scusandosi.)
 # R6. Monte Ghakis

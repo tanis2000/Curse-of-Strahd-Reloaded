@@ -59,6 +59,7 @@ Al ritorno nel loro insediamento scelto alla conclusione di [[Arco O - Cena con 
 > > <span class="citation">K23. Ingresso dei Servitori (p. 59)</span>. “L'ingresso posteriore. Un ottimo posto per entrare di nascosto."
 > > <span class="citation">K62. Sala dei Servitori (p. 76)</span>. “Presumo che sia la sala dei servitori."
 > > <span class="citation">K61. Trappola dell'Ascensore (p. 74)</span>. “Un corridoio tranquillo. Ho notato alcune strane indentazioni lungo il pavimento mentre fuggivo dal castello, ma non ho potuto permettermi il tempo per indagare."
+> > <span class="citation">K62. Sala dei Servitori (p. 76)</span>. “La sala dei servitori, presumo."
 > > <span class="citation">K84. Catacombe (p. 85)</span>. “Fate attenzione a non perdervi qui sotto—o ad aprire la porta sbagliata. Cose oscure si nascondono tra le cripte. Sono sicuro che sia solo peggiorato con il risveglio di Strahd."
 > > <span class="citation">K86. Tomba di Strahd (p. 93)</span>. “La tomba di Strahd—e il luogo di riposo del suo cofano. Sono sicuro che sia un dormiente leggero, però."
 
@@ -347,7 +348,7 @@ Che Ludmilla riesca a rubare il simbolo o meno, si ritira poi su <span class="ci
 <p><strong><em>Presa Folgorante.</em></strong> <em>Attacco con Incantesimo a Contatto:</em> +7 per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 9 (2d8) danni da fulmine. Se colpisce, il bersaglio non può prendere reazioni fino all'inizio del suo prossimo turno.</p>
 <p><strong><em>Lancia di Fulmine.</em></strong> Un fulmine si arcua verso una creatura a scelta di Ludmilla che può vedere entro 30 piedi. Due fulmini poi saltano da quella creatura a un massimo di due altre creature, ciascuna delle quali deve essere entro 10 piedi dalla prima creatura. (Una creatura può essere bersagliata da solo uno dei fulmini.) Ogni creatura deve fare un <span class="highlight">tiro salvezza di Destrezza CD 15</span>, subendo 9 (2d8) danni da fulmine se fallisce il tiro salvezza, o metà danno se riesce.</p>
 <h3>Azioni Bonus</h3>
-<p><strong><em>Velo di Ombre (1/giorno).</em></strong> Ludmilla evoca un velo di ombre intorno a sé, che dura per 8 ore o fino a quando lo dissolve come azione bonus. Mentre il velo rimane, ottiene una velocità di volo di 50 piedi (fluttuante) e ha resistenza ai danni inflitti dagli attacchi con armi da mischia. Se Ludmilla resiste ai danni in questo modo, l'attaccante subisce lo stesso ammontare e tipo di danno inflitto.<br>&nbsp;&nbsp;&nbsp;&nbsp; La prima volta che Ludmilla subisce danni radianti o danni da acqua santa mentre il velo è presente, il velo si indebolisce, riducendo la sua velocità di volo a 25 piedi e facendola cadere di 20 piedi. La seconda volta che Ludmilla subisce danni radianti o danni da acqua santa mentre il velo è presente, il velo svanisce immediatamente.</p>
+<p><strong><em>Velo di Ombre (1/giorno).</em></strong> Ludmilla evoca un velo di ombre attorno a sé, che dura per 8 ore o fino a quando non lo dissolve come azione bonus. Mentre il velo rimane, ottiene una velocità di volo di 15 metri (fluttuare) e ha resistenza ai danni contundenti, perforanti e taglienti inflitti da attacchi con armi da mischia magiche e non magiche. Se Ludmilla resiste ai danni in questo modo, l'attaccante subisce la stessa quantità e tipo di danno inflitto.<br>&nbsp;&nbsp;&nbsp;&nbsp; La prima volta che Ludmilla subisce danni radianti o danni da acqua santa mentre il velo è presente, il velo si indebolisce, riducendo la sua velocità di volo a 7,5 metri e facendola cadere di 6 metri. La seconda volta che Ludmilla subisce danni radianti o danni da acqua santa mentre il velo è presente, il velo svanisce immediatamente.</p>
 <p><strong><em>Duplicato.</em></strong> Ludmilla crea un'illusione perfetta e intangibile di sé stessa che dura fino all'inizio del suo prossimo turno. L'illusione appare in uno spazio non occupato entro 30 piedi da lei. Ludmilla può quindi scambiare magicamente il posto con l'illusione. Mentre l'illusione rimane, imita perfettamente le azioni, il discorso e i movimenti di Ludmilla, anche se non può attaccare. Un giocatore può fare una <span class="highlight">prova di Intelligenza (Indagare) CD 15</span> (senza azione richiesta) per determinare quale Ludmilla è illusoria. L'illusione svanisce se subisce danni.</p>
 <p><strong><em>Raggio Congelante.</em></strong> <em>Attacco con Incantesimo a Distanza:</em> +7 per colpire, portata 120 ft., tre creature. <em>Colpito:</em> 7 (2d6) danni da freddo per raggio.</p>
 <p><strong><em>Oscurità (1/giorno).</em></strong> Ludmilla lancia <em>oscurità</em> con un raggio di 40 piedi.</p>
@@ -573,6 +574,9 @@ Quest'area è per lo più come descritta in <span class="citation">K30. Contabil
 
 > [!lore]+ **Lief Lipsiege**
 > Quando Khazan divenne per la prima volta il consigliere arcano di Strahd quattro secoli fa, Strahd aveva già i servizi aggiuntivi di Lief Lipsiege, un anziano maestro contabile completamente dedicato al suo lavoro. Non volendo perdere i servizi di Lief alla sua morte, Strahd—dopo aver promesso a Lief che il suo stipendio avrebbe continuato a finanziare i suoi fratelli e i loro discendenti—lavorò con Khazan per trasformare Lief in un **wight**, permettendo così a Lief di continuare il lavoro della sua vita anche nella non morte. Da allora, Lief ha servito obbedientemente come contabile di Strahd, anche se la sua mente è diventata dispersa e la sua memoria piena di buchi nel corso degli anni dalla sua morte.
+
+![[Leif.png]]
+<span class="credit">"Lief Lipsiege" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Lief non è incatenato alla sua scrivania di legno. Tuttavia, non lascerà la stanza volontariamente in nessuna circostanza. 
 
@@ -833,7 +837,7 @@ Gertruda è sorpresa di vedere i giocatori e teme che siano “un altro dei truc
 >
 > Se colta in una bugia e confrontata, Gertruda continuerà a negare di nascondere la verità a meno che i giocatori non minaccino di abbandonarla a Ravenloft. Se ciò accade, rivela che Strahd le ha ordinato di dire quelle bugie a chiunque venisse a salvarla come un modo per “rendere il gioco più autentico." (Gertruda non è sicura di cosa intendesse Strahd con il suo riferimento a un “gioco.")
 >
-> Se non rimosso o soppresso tramite *dissolvi magie* o magia simile, l'incantesimo di Gertruda scade all'alba. Se possibile, racconta poi ai giocatori—con una realizzazione tormentata e orribile—che Strahd l'ha tenuta incantata da quando è arrivata per la prima volta nel castello e che le ha ordinato di chiedere a Sasha di aiutarla a “fuggire" dal Castello Ravenloft, suggerendo che ha orchestrato l'intero evento per fini sconosciuti.
+> L'incantesimo di Gertruda scade all'alba. Se è ancora con i giocatori, allora racconta-con una realizzazione tormentata e orribile—che Strahd l'ha tenuta incantata da quando è arrivata per la prima volta nel castello e che le ha ordinato di chiedere a Sasha di aiutarla a “fuggire" dal Castello Ravenloft, suggerendo che ha orchestrato l'intero evento per fini sconosciuti.
 
 > [!abstract]+ **Riunione di Doru**
 > Se Doru ha accompagnato i giocatori al Castello Ravenloft, Gertruda lo saluta con incredulità, poi con gioia lacrimosa. Mentre lo abbraccia, Doru scoppia in lacrime, scusandosi per aver risvegliato Strahd e indirettamente causato la sua prigionia. “È tutta colpa mia," singhiozza, il suo corpo tremante. “Sono un mostro, sia dentro che fuori. Non—non ti merito."
@@ -1528,7 +1532,7 @@ Additionally, instead of teleporting their victims to cells in the dungeons, the
 
 This area is largely as described in <span class="citation">K74. North Dungeon (p. 80)</span>. However, modify the half-elf corpse in <span class="citation">K74c. Rotting Corpse (p. 80)</span> to be a human corpse instead.
 
-In addition, modify the description of <span class="citation">K74h. Lost Sword (p. 81)</span> to refer to a glowing mace, rather than a glowing blade. The mace has the same properties as the shortsword, but is not sentient, and allows its wielder to cast *aura of life* rather than *crusader’s mantle*.
+In addition, modify the description of <span class="citation">K74h. Lost Sword (p. 81)</span> to refer to a glowing mace, rather than a glowing blade. The mace has the same properties as the shortsword, but is not sentient, requires no attunement, and allows its wielder to cast *aura of life* rather than *crusader’s mantle*.
 
 > [!info]+ **The Keys to the Cells**
 > The keys to the cells are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
@@ -1537,7 +1541,7 @@ In addition, modify the description of <span class="citation">K74h. Lost Sword (
 
 This area is largely as described in <span class="citation">K75. South Dungeon (p. 81)</span>. However, Emil doesn’t lie to players who tell him that Zuleika sent them, and is surprised, but grateful for their efforts to rescue him. No matter what, Emil doesn’t betray the players to Strahd or Strahd’s minions, and provides his best efforts to assist them in escaping the castle if rescued.
 
-Emil, who has three levels of exhaustion, has been locked in his cell for weeks. He wears a *silverthorn collar* around his neck (see below). If asked, he can share that the key to his collar is held by Volenta or, if Volenta has been killed, Ludmilla. (Emil can share that Ludmilla dwells with her witches’ coven on the highest level of the South Tower, but isn’t sure how to get there from here.)
+Emil, who has three levels of exhaustion, has been locked in his cell for weeks. He wears a *silverthorn collar* around his neck (see below). If asked, he can share that the key to his collar is held by Volenta or, if Volenta has been killed in [[Arc D - St. Andral's Feast]], Ludmilla. (Emil can share that Ludmilla dwells with her witches’ coven on the highest level of the South Tower, but isn’t sure how to get there from here.)
 
 <div class="statblock">
 <h2>Emil Toranescu</h2>
@@ -1719,6 +1723,7 @@ On initiative count 20 of each subsequent round, the oil spreads an additional f
 <p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<strong><em>Bloodlust Frenzy.</em></strong> When Volenta is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her Frenzied Spawn form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Volenta uses <strong><em>hail of daggers</em></strong> twice, or <strong><em>hail of daggers</em></strong> once and either <strong><em>thunderstone</em></strong> or <strong><em>froststar</em></strong>.</p>
 <p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, range 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage plus 7 (2d6) poison damage.</p>
@@ -1930,6 +1935,9 @@ At the end of each turn the character continues to hold the staff, they can make
 
 The player can release the staff at any time. If they release the staff while the arcane surge is active, the staff vanishes, and the runes cannot be activated again for one year.
 
+![[Khazan-Staff.png]]
+<span class="credit">"Khazan's Staff" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 > [!item]+ **Khazan's Staff**
 > *Staff, weapon, rare (requires attunement by a sorcerer, warlock, or wizard)*
 > *Simple weapon, melee weapon*
@@ -1973,7 +1981,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 ***Crypt 40.*** Replace the epigraph and contents of Crypt 40 with the epigraph and contents of <span class="citation">Crypt 6 (p. 86)</span>, including the **poison dart trap** protecting it (see <span class="citation">Dungeon Master’s Guide, p. 123</span>). However, reduce the number of darts to two, and replace the darts’ attack rolls with two DC 15 Dexterity saving throws (one per dart). In addition, replace Saint Markovia’s thighbone with the *Icon of Dawn’s Grace* (see below), and remove the whispered message from Saint Markovia’s spirit.
 
 > [!item]+ **Icon of Dawn’s Grace**
-> The *Icon of Dawn’s Grace* is largely as described in <span class="citation">Icon of Ravenloft (p. 222)</span>, but does not grant the benefits of a *protection from evil and good* spell. Instead, it gains the following additional feature, which can be used only by a creature attuned to the icon:
+> The *Icon of Dawn’s Grace* is largely as described in <span class="citation">Icon of Ravenloft (p. 222)</span>, but is an eight-inch-tall statuette, and does not grant the benefits of a *protection from evil and good* spell. Instead, it gains the following additional feature, which can be used only by a creature attuned to the icon:
 >
 > ***Protection from Evil.*** You can present the icon as an action to grant yourself and each creature within 30 feet of you the effect of a *protection from evil and good* spell against fiends and undead until the start of your next turn. Once used, this property can’t be used again until the next dawn.
 >
@@ -2050,8 +2058,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <hr>
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Rahadin would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)
+<p><strong><em>Indomitable.</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)
 <p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
 - 3/day: phantom steed<br>
 - 1/day: nondetection</p>
@@ -2119,8 +2126,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <hr>
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Legendary Resistance (1/day).</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead.</p>
-<p><strong><em>Indomitable.</em></strong> If Rahadin would be paralyzed or stunned, he is slowed instead. (His speed is halved, he has disadvantage on Dexterity saving throws, and creatures have advantage on attacks made against him.)
+<p><strong><em>Indomitable.</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)
 <p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
@@ -2144,7 +2150,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 >
 > * The wielder gains the lair actions described in <span class="citation">Lair Actions (p. 239)</span>, and gains the ability to pass through solid walls, doors, ceilings, and floors as if they weren’t there.
 > * Every crypt door in <span class="citation">K84. Catacombs (p. 85)</span> swings open.
-> * The **skeletons** in <span class="citation">Crypt 2 (p. 86)</span>, <span class="citation">Crypt 3 (p. 86)</span>, <span class="citation">Crypt 5 (p. 86)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, <span class="citation">Crypt 13 (p. 88)</span>, <span class="citation">Crypt 16 (p. 89)</span>, <span class="citation">Crypt 17 (p. 89)</span>, <span class="citation">Crypt 19 (p. 89)</span>, <span class="citation">Crypt 24 (p. 90)</span>, <span class="citation">Crypt 25 (p. 90)</span>, <span class="citation">Crypt 26 (p. 90)</span>, <span class="citation">Crypt 28 (p. 90)</span>, <span class="citation">Crypt 30 (p. 91)</span>, <span class="citation">Crypt 33 (p. 91)</span>, <span class="citation">Crypt 36 (p. 92)</span>, <span class="citation">Crypt 37 (p. 92)</span>, and <span class="citation">Crypt 40 (p. 93)</span> animate. The following round, each skeleton emerges from its crypt, pursuing and attacking any intruders on sight. (Skeletons without weapons can make only unarmed strikes and grapples.)
+> * The **skeletons** in <span class="citation">Crypt 2 (p. 86)</span>, <span class="citation">Crypt 3 (p. 86)</span>, <span class="citation">Crypt 5 (p. 86)</span>, <span class="citation">Crypt 2 (p. 86)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, <span class="citation">Crypt 13 (p. 88)</span>, <span class="citation">Crypt 16 (p. 89)</span>, <span class="citation">Crypt 17 (p. 89)</span>, <span class="citation">Crypt 19 (p. 89)</span>, <span class="citation">Crypt 24 (p. 90)</span>, <span class="citation">Crypt 25 (p. 90)</span>, <span class="citation">Crypt 26 (p. 90)</span>, <span class="citation">Crypt 28 (p. 90)</span>, <span class="citation">Crypt 30 (p. 91)</span>, <span class="citation">Crypt 33 (p. 91)</span>, <span class="citation">Crypt 36 (p. 92)</span>, and <span class="citation">Crypt 37 (p. 92)</span> animate. The following round, each skeleton emerges from its crypt, pursuing and attacking any intruders on sight. (Skeletons without weapons can make only unarmed strikes and grapples.)
 > * All one hundred **skeletons** in <span class="citation">Crypt 14 (p. 88)</span> animate. Over the following three rounds, the skeletons form a living ladder, allowing any remaining **wights** in the vault to climb from the shaft and emerge from the crypt, pursuing and attacking any intruders on sight. 2d6 armed **skeletons** emerge from the crypt each subsequent round, until all skeletons have emerged.
 > * On initiative count 20 of the third round after the amulet is activated, the **hell hounds** and **wraith** described in <span class="citation">Crypt 38 (p. 92)</span> begin to manifest in their crypt, coalescing fully from brimstone smoke three rounds later. They then emerge to pursue any intruders still remaining in the catacombs or [[#P11g. Catacomb Tunnel]].
 > * The **iron golems** in <span class="citation">K78. Brazier Room (p. 82)</span> begin to animate, activating fully on initiative count 20 of the fifteenth round after the amulet is activated. (Creatures in the Brazier Room while the golems are activating can observe their limbs and heads slowly grinding to life, their lifeless gazes locking onto any intruders present in their chamber.)

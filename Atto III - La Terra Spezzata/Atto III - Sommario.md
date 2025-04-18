@@ -48,6 +48,7 @@ Le missioni dell'Atto III diventano disponibili e si risolvono come indicato nel
 | N: Racconti di Vallaki | —   | —   | —   | —   | —   | —   | —   | —   |
 | O: Cena con il Diavolo | —   | —   | —   | —   | —   | 🔶  | ❌   | ❌   |
 | P: Il Colpo a Ravenloft| —   | —   | —   | —   | —   | —   | 🔶  | ❌   |
+| Q: Un Faro Splendente  | —   | —   | —   | —   | —   | —   | —   | 🔶   |
 
 Il percorso più comune attraverso l'Atto III è il seguente:
 
@@ -55,9 +56,10 @@ Il percorso più comune attraverso l'Atto III è il seguente:
 * **Neyavr 10.** I giocatori viaggiano alla cantina del Mago dei Vini e sconfiggono i druidi del Popolo della Foresta in [[Arco J - La Gemma Rubata]].
 * **Neyavr 11.** I giocatori viaggiano alla Collina di Yester all'alba e fermano il rituale per evocare il **flagello arboreo** Wintersplinter in [[Arco J - La Gemma Rubata]]. I giocatori poi incontrano Ezmerelda d'Avenir nel villaggio di Krezk e conducono una seduta spiritica all'Abbazia di Santa Markovia in [[Arco K - L'Abbazia Caduta]], quindi sorvegliano la tana dei lupi mannari al calar della notte in [[Arco L - La Tana dei Lupi]].
 * **Neyavr 12.** I giocatori investigano Argynvostholt in [[Arco M - Il Maniero del Drago]].
-* **Neyavr 13.** I giocatori cenano con Strahd al tramonto in [[Arco O - Cena con il Diavolo]] (🔶).
-* **Neyavr 14 (Luna Nuova).** I giocatori si infiltrano nel Castello Ravenloft al tramonto, poi fuggono attraverso il braciere di teletrasporto in [[Arco P - Il Colpo a Ravenloft]] (🔶).
-* **Neyavr 15.** I giocatori accendono il faro di Argynvostholt in [[Arco M - Il Maniero del Drago]] e sconfiggono il lupo mannaro Kiril Stoyanovich in [[Arco L - La Tana dei Lupi]].
+* **Neyavr 13.** I giocatori prendono un giorno di riposo.
+* **Neyavr 14.** I giocatori cenano con Strahd al tramonto in [[Arco O - Cena con il Diavolo]] (🔶).
+* **Neyavr 15 (Luna Nuova).** I giocatori si infiltrano nel Castello Ravenloft al tramonto, poi fuggono attraverso il braciere di teletrasporto in [[Arco P - Il Colpo a Ravenloft]] (🔶).
+* **Neyavr 16.** I giocatori accendono il faro di Argynvostholt in [[Arco M - Il Maniero del Drago]] e sconfiggono il lupo mannaro Kiril Stoyanovich in [[Arco L - La Tana dei Lupi]].
 
 In alternativa, giocatori particolarmente rapidi potrebbero seguire invece questo percorso attraverso l'Atto III:
 
@@ -65,6 +67,7 @@ In alternativa, giocatori particolarmente rapidi potrebbero seguire invece quest
 * **Neyavr 10.** I giocatori viaggiano alla cantina del Mago dei Vini e sconfiggono i druidi del Popolo della Foresta in [[Arco J - La Gemma Rubata]].
 * **Neyavr 11.** I giocatori viaggiano alla Collina di Yester all'alba e fermano il rituale per evocare il **flagello arboreo** Wintersplinter in [[Arco J - La Gemma Rubata]]. I giocatori poi incontrano Ezmerelda d'Avenir e conducono una seduta spiritica in [[Arco K - L'Abbazia Caduta]], e sorvegliano la tana dei lupi mannari in [[Arco L - La Tana dei Lupi]].
 * **Neyavr 12.** I giocatori prendono un giorno di riposo.
-* **Neyavr 13.** I giocatori prendono un giorno di riposo, poi cenano con Strahd al tramonto in [[Arco O - Cena con il Diavolo]] (🔶).
-* **Neyavr 14 (Luna Nuova).** I giocatori si infiltrano nel Castello Ravenloft al tramonto, poi fuggono attraverso il braciere di teletrasporto in [[Arco P - Il Colpo a Ravenloft]] (🔶).
-* **Neyavr 15.** I giocatori accendono il faro di Argynvostholt in [[Arco M - Il Maniero del Drago]] e sconfiggono il lupo mannaro Kiril Stoyanovich in [[Arco L - La Tana dei Lupi]].
+* **Neyavr 13.** I giocatori prendono un giorno di riposo.
+* **Neyavr 14.** I giocatori prendono un giorno di riposo, poi cenano con Strahd al tramonto in [[Arco O - Cena con il Diavolo]] (🔶).
+* **Neyavr 15 (Luna Nuova).** I giocatori si infiltrano nel Castello Ravenloft al tramonto, poi fuggono attraverso il braciere di teletrasporto in [[Arco P - Il Colpo a Ravenloft]] (🔶).
+* **Neyavr 16.** I giocatori accendono il faro di Argynvostholt in [[Arco M - Il Maniero del Drago]] e sconfiggono il lupo mannaro Kiril Stoyanovich in [[Arco L - La Tana dei Lupi]].

@@ -511,7 +511,7 @@ Le megere combattono per autodifesa o se i giocatori chiariscono che non restitu
 >
 > - **_Vento Protettivo._** La congrega lancia *vento protettivo*.
 > - **_Raffica di Vento._** La congrega lancia *raffica di vento*.
-> - **_Cacofonia Anfibia._** La congrega fa sì che le rane nell'erba intorno al mulino a vento gracidino una canzone stranamente ipnotica. Ogni creatura entro 120 piedi dal mulino a vento che può sentire le rane deve superare un tiro salvezza di Carisma CD 10 o usare tutto il suo movimento nel turno successivo per muoversi il più lontano possibile verso il mulino.
+> - **_Cacofonia Anfibia._** La congrega fa sì che le rane nell'erba intorno al mulino a vento gracidino una canzone stranamente ipnotica. Ogni creatura entro 120 piedi dal mulino a vento che può sentire le rane deve superare un tiro salvezza di Carisma CD 10 o usare tutto il suo movimento all'inizio del turno successivo per muoversi il più possibile verso il mulino.
 > - **_Dissolvi Magie (1/giorno)._** La congrega lancia *dissolvi magie* al 5° livello.
 
 <div class="statblock">
@@ -1066,7 +1066,7 @@ Quando l'oratore del patibolo muore, il *Tomo di Strahd* cade a terra. Vedi [[#H
 <strong>Grado di Sfida</strong> CR 11<br>
 <strong>Bonus di Competenza.</strong> +4<br>
 <hr>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se l'oratore del patibolo fallisce un tiro salvezza, può scegliere di riuscire invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se l'oratore del patibolo dovesse fallire un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Sensi di Divinazione.</em></strong> L'oratore del patibolo può vedere 60 piedi nel Piano Etereo quando si trova nel Piano Materiale e viceversa.</p>
 <p><strong><em>Ira del Traditore.</em></strong> Se l'oratore del patibolo viene ridotto a 0 punti ferita, le sfere dorate intorno a lui si spengono, rivelando cinque pugnali con lame ondulate e elsi laccati di colore rosso, nero e oro. Tutti gli effetti attuali dell'oratore del patibolo terminano e le sue statistiche vengono immediatamente sostituite da quelle dell'<strong>Avenger dei Ba'al Verzi</strong>. La sua iniziativa rimane la stessa. I danni in eccesso non si trasferiscono alla sua nuova forma, ma mantiene qualsiasi condizione avesse nella sua forma precedente.</p>
 <h3>Azioni</h3>
@@ -1125,7 +1125,7 @@ Quando l'oratore del patibolo muore, il *Tomo di Strahd* cade a terra. Vedi [[#H
 <strong>Grado di Sfida</strong> CR 11<br>
 <strong>Bonus di Competenza</strong> +4<br>
 <hr>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se l'oratore del patibolo fallisce un tiro salvezza, può scegliere di riuscire invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se l'oratore del patibolo dovesse fallire un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Sensi di Divinazione.</em></strong> L'oratore del patibolo può vedere 60 piedi nel Piano Etereo quando si trova nel Piano Materiale e viceversa.</p>
 <p><strong><em>Movimento Incorporeo.</em></strong> L'oratore del patibolo può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni da forza se termina il suo turno all'interno di un oggetto.</p>
 <h3>Azioni</h3>
@@ -1176,6 +1176,9 @@ Se i giocatori lo seguono, possono osservare mentre Victor e Stella si incontran
 * Quando Lady Wachter finalmente la rilascia, Stella si avvicina ai giocatori - e inciampa, il suo piede quasi cedendo sotto di lei. Victor e Lady Wachter si muovono rapidamente per afferrarla. "Sei stata fuori dal tuo corpo per troppo tempo," la avverte Victor. "Devi abituarti di nuovo ad avere le gambe."
 * Stella annuisce, poi guarda intorno ai giocatori, i suoi occhi brillano di gratitudine. "Grazie," dice. "Era così silenzioso lì dentro - così *freddo.* Ma grazie a voi, posso *sentire* di nuovo. Posso sentire di nuovo il mondo. Grazie - dal profondo del mio cuore, *grazie.*"
 
+![[Stella_Alive.png]]
+<span class="credit">"Stella Wachter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 In segno di gratitudine per gli sforzi dei giocatori, Lady Wachter concede loro una *lanterna rivelatrice*, nonché un invito permanente a cercare il suo aiuto o consiglio ogni volta che si trovano a Vallaki, purché i loro sforzi non mettano a rischio la città o i suoi abitanti.
 
 ***Traguardo.*** Ripristinare l'anima di Stella nel suo corpo completa un traguardo della storia. Se i giocatori riescono a salvarla dal Piano Etereo, assegna a ciascun giocatore 1.750 XP.
@@ -1217,7 +1220,7 @@ I giocatori che leggono queste sezioni trovano numerose annotazioni che fanno ri
 
 > [!abstract]+ **Il Simbolo**
 >
-> Il simbolo del Tempio d'Ambra può essere identificato dall'elfo del crepuscolo Kasimir Velikov (che lo ha visto nei suoi sogni), dal revenant Sir Godfrey Gwilym (che una volta ha sorvegliato il Tempio) o da Victor Vallakovich (che ha visto il simbolo nel suo libro degli incantesimi). Di questi tre, solo Kasimir e Godfrey sanno cosa sia il Tempio d'Ambra e dove si trovi, e solo Kasimir - una volta che i giocatori completano [[Arc M - Il Maniero del Drago]] - è disposto a dire loro come arrivarci.
+> Il simbolo del Tempio d'Ambra può essere identificato dall'elfo del crepuscolo Kasimir Velikov (che lo ha visto nei suoi sogni), dal revenant Sir Godfrey Gwilym (che una volta ha sorvegliato il Tempio) o da Victor Vallakovich (che ha visto il simbolo nel suo libro degli incantesimi). Di questi tre, solo Kasimir e Godfrey sanno cosa sia il Tempio d'Ambra e dove si trovi, e solo Kasimir - una volta che i giocatori completano [[Arco Q - Un Faro Splendente]] - è disposto a dire loro come arrivarci.
 # Note di Design: L'Anima Perduta
 Il modulo originale presenta una serie di idee e set di scene interessanti - la congrega di megere a Old Bonegrinder, i dipendenti dei pasticcini dei sogni, il cerchio di teletrasporto di Victor Vallakovich, la strana malattia di Stella Wachter e il tradimento di Leo Dilisnya - ma alla fine non riesce a fare qualcosa di interessante o significativo con loro.
 

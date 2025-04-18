@@ -464,6 +464,10 @@ Se uno dei giocatori lo ha trattato gentilmente alla Taverna Sangue della Vigna 
 > La barricata che i giocatori devono difendere è composta da  una struttura lunga 9 metri e alta 2 metri, realizzata con tronchi d'albero, mobili impilati e assi di legno fissate con chiodi. Ogni sezione, lunga 1,5 metri, ha una CA di 15, 10 punti ferita e immunità ai danni perforanti, psichici e da veleno. 
 >
 > Piattaforme di legno sparse sul lato occidentale della barricata permettono ai difensori di sbirciare oltre il bordo e attaccare i nemici in avvicinamento. Mentre si trovano dietro la barricata, i difensori hanno copertura totale, o tre quarti di copertura mentre si trovano su una piattaforma.
+
+![[Eastern-Barricades.jpg]]
+<span class="credit">"La Barricata Orientale" di DM Andy Maps. Versioni ad alta risoluzione disponibili <a href="https://ko-fi.com/s/ef507db2df">qui!</a></span>
+
 ### L'Assedio
 Il crepuscolo cala poco dopo che i giocatori completano i loro preparativi. Leggete:
 
@@ -681,8 +685,12 @@ La proclamazione iniziale di Rahadin lascia Ismark rigido e con il volto di piet
 <hr>
 <p><strong><em>Urla dei Morti.</em></strong> Qualsiasi creatura entro 10 piedi da Rahadin che non sia protetta da un incantesimo <em>mente vuota</em> sente nella sua mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
 <p><strong><em>Ascendenza Fatata.</em></strong> Rahadin ha vantaggio sui tiri salvezza contro l'essere affascinato, e la magia non può farlo addormentare.</p>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Rahadin fallisce un tiro salvezza, può scegliere di riuscire invece.</p>
-<p><strong><em>Indomabile.</em></strong> Se Rahadin sarebbe paralizzato o stordito, è rallentato invece. (La sua velocità è dimezzata, ha svantaggio sui tiri salvezza di Destrezza e le creature hanno vantaggio sugli attacchi contro di lui.)
+<p><strong><em>Indomabile.</em></strong>Se Rahadin fallisce un tiro salvezza, può scegliere di considerarlo come superato. Se lo fa, subisce la condizione di ostacolato fino alla fine del suo prossimo turno. Quando è ostacolato:<br>
+-	la sua velocità è ridotta (è rallentato),<br>
+-	può usare una reazione in meno per round,<br>
+-	non può usare il suo attacco multiplo.<br>
+<br>
+Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione ulteriore (fino a un minimo di zero). Gli altri effetti dell’essere ostacolato non si sommano.</p>
 <p><strong><em>Incantesimi Innati.</em></strong> La capacità di incantesimi innati di Rahadin è Intelligenza. Può lanciare innatamente i seguenti incantesimi, senza bisogno di componenti:<br>
 - 3/giorno: destriero fantasma<br>
 - 1/giorno: non rilevabile</p>
@@ -746,8 +754,12 @@ La proclamazione iniziale di Rahadin lascia Ismark rigido e con il volto di piet
 <hr>
 <p><strong><em>Urla dei Morti.</em></strong> Qualsiasi creatura entro 10 piedi da Rahadin che non sia protetta da un incantesimo <em>mente vuota</em> sente nella sua mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
 <p><strong><em>Ascendenza Fatata.</em></strong> Rahadin ha vantaggio sui tiri salvezza contro l'essere affascinato, e la magia non può farlo addormentare.</p>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Rahadin fallisce un tiro salvezza, può scegliere di riuscire invece.</p>
-<p><strong><em>Indomabile.</em></strong> Se Rahadin sarebbe paralizzato o stordito, è rallentato invece. (La sua velocità è dimezzata, ha svantaggio sui tiri salvezza di Destrezza e le creature hanno vantaggio sugli attacchi contro di lui.)
+<p><strong><em>Indomabile.</em></strong>Se Rahadin fallisce un tiro salvezza, può scegliere di considerarlo come superato. Se lo fa, subisce la condizione di ostacolato fino alla fine del suo prossimo turno. Quando è ostacolato:<br>
+-	la sua velocità è ridotta (è rallentato),<br>
+-	può usare una reazione in meno per round,<br>
+-	non può usare il suo attacco multiplo.<br>
+<br>
+Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione ulteriore (fino a un minimo di zero). Gli altri effetti dell’essere ostacolato non si sommano.</p>
 <p><strong><em>Maschera della Natura.</em></strong> Rahadin può tentare di nascondersi anche quando è solo leggermente oscurato da fogliame, pioggia battente, neve cadente, nebbia e altri fenomeni naturali.</p>
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> Rahadin effettua tre attacchi con le sue scimitarre <strong><em>Spina</em></strong> e/o <strong><em>Catena</em></strong>. Può sostituire un attacco con la sua caratteristica <strong><em>tormentare</em></strong>.
@@ -1008,7 +1020,7 @@ Se i giocatori accettano di soddisfare la richiesta di Doru esponendolo al sangu
 <p>I muscoli di Doru si tendono e chiude gli occhi. Pochi istanti dopo, le sue narici si dilatano e una sottile linea di saliva inizia a scorrere lungo le sue labbra. Geme, le sue dita artigliate che si flettono e si contraggono.</p>
 <p>"Quando arrivano le ombre," sussurra, “non cederò. L'oscurità è il distruttore e la tentazione la sua arma. Affronterò la notte e i suoi orrori e attenderò l'alba. Perché nella luce dell'amore del Signore del Mattino, solo la luce può rimanere."</p>
 <p>La voce di Doru trema, il suo corpo emaciato che trema. Un pugno è stretto al suo fianco, l'altro stringe il sole macchiato di sangue che giace sul suo collo.</p>
-<p>"Nella luce dell'amore del Signore del Mattino," ripete, ansimando per il respiro. "Nella luce dell'amore del Signore del Mattino. Gertruda. Gertruda. ***Gertruda***—"</p>
+<p>"Nella luce dell'amore del Signore del Mattino," ripete, ansimando per il respiro. "Nella luce dell'amore del Signore del Mattino. Gertruda. Gertruda. <b><em>Gertruda</em></b> —"</p>
 </div>
 
 Se Doru soccombe alla sete di sangue (vedi **Doru Ricorderà Questo** sopra), si ferma, poi attacca. Tira l'iniziativa.

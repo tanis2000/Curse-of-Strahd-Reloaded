@@ -1254,7 +1254,7 @@ Una volta che i giocatori attraversano la coltre di nebbia, Ludmilla li attacca 
     <p><strong><em>Modello Ipnotico (2/giorno).</em></strong> Ludmilla lancia <em>modello ipnotico</em> (CD 15).</p>
     <p><strong><em>Porta Dimensionale (1/giorno).</em></strong> Ludmilla lancia <em>porta dimensionale.</em></p>
     <h3>Azioni Bonus</h3>
-    <p><strong><em>Coltre di Ombre (1/giorno).</em></strong> Ludmilla evoca una coltre di ombre intorno a sé, che dura per 8 ore o fino a quando non la dissolve come azione bonus. Mentre la coltre rimane, guadagna una velocità di volo di 50 piedi (sospeso) e ha resistenza ai danni inflitti dagli attacchi in mischia. Se Ludmilla resiste ai danni in questo modo, l'attaccante subisce la stessa quantità e tipo di danni inflitti.<br>&nbsp;&nbsp;&nbsp;&nbsp; La prima volta che Ludmilla subisce danni radianti o danni da acqua santa mentre la coltre è presente, la coltre si indebolisce, riducendo la sua velocità di volo a 25 piedi e facendola cadere di 20 piedi. La seconda volta che Ludmilla subisce danni radianti o danni da acqua santa mentre la coltre è presente, la coltre scompare immediatamente.</p>
+    <p><strong><em>Coltre di Ombre (1/giorno).</em></strong> Ludmilla evoca una coltre di ombre intorno a sé, che dura per 8 ore o fino a quando non la dissolve come azione bonus. Mentre la coltre rimane, guadagna una velocità di volo di 15 metri (sospeso) e ha resistenza ai danni contundenti, perforanti e taglienti inflitti dagli attacchi con armi da mischia magiche e non magiche. Se Ludmilla resiste ai danni in questo modo, l'attaccante subisce la stessa quantità e tipo di danni inflitti.<br>&nbsp;&nbsp;&nbsp;&nbsp; La prima volta che Ludmilla subisce danni radianti o danni da acqua santa mentre la coltre è presente, la coltre si indebolisce, riducendo la sua velocità di volo a 7,5 metri e facendola cadere di 6 metri. La seconda volta che Ludmilla subisce danni radianti o danni da acqua santa mentre la coltre è presente, la coltre scompare immediatamente.</p>
     <p><strong><em>Melma Intrappolante.</em></strong> Se Ludmilla ha lanciato l'incantesimo <em>grasso</em>, lancia <em>ragnatela</em> (CD 15), bersagliando la stessa area quadrata di 20 piedi dell'incantesimo <em>grasso</em>.</em></p>
     <h3>Reazioni</h3>
     <p>Ludmilla può prendere fino a tre reazioni per round, ma solo una per turno. Se perde le sue reazioni e non è incapacitata, perde una reazione invece.</p>
@@ -1401,8 +1401,8 @@ Se i giocatori chiedono della natura della scintilla che Strahd tiene, la sollev
 
 Quando tutti i giocatori sono tornati dal Muro Sussurrante o hanno rifiutato di farlo, Strahd presenta loro la loro ricompensa per aver sconfitto il Popolo della Foresta: il *crest del crepuscolo* (vedi sotto). "Si dice che il dio che è morto qui, sebbene il suo nome sia perso nel tempo, abbia lasciato dietro di sé diversi reliquie. Questa è una di esse."
 
-> [!item]+ **Crest del Crepuscolo**
-> _Oggetto meraviglioso non comune (richiede sintonizzazione)_
+> [!item]+ **Cresta del Crepuscolo**
+> _Oggetto meraviglioso non comune_
 > 
 > Questo piccolo medaglione è scolpito in legno pietrificato e punteggiato di piccoli grappoli scintillanti di azzurrite. Dall'alba al tramonto, l'azzurrite è colorata di un blu profondo. Dal tramonto all'alba, l'azzurrite è invece di un viola scuro e vivido.
 > 
@@ -1490,7 +1490,7 @@ Sebbene Muriel sia stata inseguita via prima di poter sentire la fine della lett
 <p>"Ma ce n'è un'altra, il Frantumato. Il sentiero del sacrificio apre un'altra porta. Il muro che sussurra attende il tuo tributo."</p>
 </div>
 
-***Traguardo.*** Sconfiggere i druidi di Yester Hill completa un traguardo della storia. Quando i giocatori restituiscono la gemma rubata a Davian Martikov, assegna a ciascun giocatore 2.500 PE.
+***Traguardo.*** Sconfiggere i druidi di Yester Hill completa un traguardo della storia. Quando i giocatori restituiscono la gemma rubata a Davian Martikov, assegna a ciascun giocatore 2.500 PE. (Questo dovrebbe portare i giocatori al sesto livello.)
 
 > [!item]+ **Fischietto del Guardiano**
 > Il fischietto è un oggetto magico legato alla maledizione della licantropia del licantropo corvo. Una volta al giorno, i giocatori possono soffiare nel fischietto per evocare il **licantropo corvo** agente più vicino dei Guardiani della Piuma entro cinque miglia (se presente). (L'agente impiega un tempo ragionevole per arrivare, volando dalla sua posizione attuale alla posizione in cui i giocatori hanno soffiato nel fischietto.)

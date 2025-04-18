@@ -393,7 +393,7 @@ Quest'area è descritta come in <span class="citation">Z7. Santuario della Madre
 <p>Due gabbie di legno fiancheggiano la statua, i loro coperchi tenuti chiusi con pesanti rocce. Nella gabbia di sinistra è inginocchiato un giovane con occhi infossati e abiti larghi e logori, una gamba umana in decomposizione giace a terra davanti alla sua gabbia. Nella gabbia di destra, una donna dagli occhi ambrati che indossa abiti strappati siede con le gambe incrociate, i suoi capelli arruffati e legati dietro una bandana nera. Collari d'argento intorno ai loro colli sono incatenati al muro dietro di loro, ogni collare è inciso con motivi di spine minacciose.</p>
 </div>
 
-Il medaglione è il *Simbolo Sacro di Ravenkind*. Il giovane è Ilya Krezkov, un **lupo mannaro** di quattordici anni con 36 punti ferita. La donna è Zuleika Toranescu, zia di Ilya e **sacerdotessa lupo mannaro** della Madre Notte. Sia Ilya che Zuleika sono affamati e hanno tre livelli di affaticamento di conseguenza.
+Il medaglione è il *Simbolo Sacro di Ravenkind*. Il giovane è Ilya Krezkov, un **lupo mannaro** di tredici anni con 36 punti ferita. La donna è Zuleika Toranescu, zia di Ilya e **sacerdotessa lupo mannaro** della Madre Notte. Sia Ilya che Zuleika sono affamati e hanno tre livelli di affaticamento di conseguenza.
 
 I giocatori che hanno visto il disegno di Ilya di Zuleika in [[Arco K - L'Abbazia Caduta#Camera di Ilya|Arco K - L'Abbazia Caduta]] la riconoscono come la donna nel disegno.
 
@@ -483,7 +483,7 @@ Zuleika avverte i giocatori che, se non manterranno il loro giuramento entro la 
 > [!info]+ **Giuramento della Luna Nuova**
 > Zuleika è disposta a permettere ai giocatori di prendere il *Simbolo Sacro di Ravenkind* solo se tutti loro, inclusi eventuali compagni PNG, giurano il Giuramento della Luna Nuova davanti alla statua della Madre Notte.
 > 
-> La prossima luna nuova avrà luogo il 14 di Neyavr—il settimo giorno dopo l'ultima luna piena. Ogni volta che la luna sorge dopo la luna nuova, a partire dal tramonto del 15 di Neyavr, ogni giocatore che ha giurato il giuramento subisce i seguenti effetti: i suoi punti ferita massimi sono ridotti di un settimo del loro massimo originale (arrotondato per eccesso) e ottiene un -1 cumulativo alle prove di abilità e ai tiri salvezza. (Un personaggio muore se questo effetto riduce i suoi punti ferita massimi a 0. Queste riduzioni durano fino a quando non vengono rimosse da un incantesimo *desiderio* o magia simile.)
+> La prossima luna nuova avrà luogo il 15 di Neyavr—il settimo giorno dopo l'ultima luna piena. Ogni volta che la luna sorge dopo la luna nuova, a partire dal tramonto del 16 di Neyavr, ogni giocatore che ha giurato il giuramento subisce i seguenti effetti: i suoi punti ferita massimi sono ridotti di un settimo del loro massimo originale (arrotondato per eccesso) e ottiene un -1 cumulativo alle prove di abilità e ai tiri salvezza. (Un personaggio muore se questo effetto riduce i suoi punti ferita massimi a 0. Queste riduzioni durano fino a quando non vengono rimosse da un incantesimo *desiderio* o magia simile.)
 > 
 > Un chierico della Madre Notte, inclusa Zuleika, può usare la sua azione per liberare un personaggio dal suo giuramento e rimuovere eventuali penalità subite per non averlo adempiuto. (Zuleika non lo farà a meno che i giocatori non liberino Emil da Castello Ravenloft.) Questa azione non ha effetto se il chierico viene manipolato o costretto.
 

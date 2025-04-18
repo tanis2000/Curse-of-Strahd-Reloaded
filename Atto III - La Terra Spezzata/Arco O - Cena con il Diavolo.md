@@ -80,6 +80,9 @@ Un giocatore che controlla la sua tasca trova un piccolo biglietto scarabocchiat
 <p>—A</p>
 </div>
 
+![[Spy Note.png]]
+<span class="credit">"Arrigal's Note" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 Se Ezmerelda viene a conoscenza del biglietto, consiglia entusiasticamente ai giocatori di usare la cena a Castello Ravenloft come un'opportunità per scoprire sottilmente l'identità del traditore—e coordinare un incontro se possibile.
 
 > [!lore]+ **Cosa Sa Arrigal**
@@ -284,6 +287,9 @@ I giocatori riconoscono l'uomo come Rahadin, il ciambellano di Strahd. La donna 
 >
 > ***Relazioni.*** Rahadin è il ciambellano di Castello Ravenloft, il fratello adottivo di Strahd von Zarovich, il cugino dell'elfo del crepuscolo Kasimir Velikov, il figlio del defunto principe degli elfi del crepuscolo Erevan Löwenhart (il proprietario originale della lama che sarebbe poi diventata la *Spada del Sole*), e l'assassino delle donne degli elfi del crepuscolo (eccetto la **banshee** Patrina Velikov, che fu uccisa dal suo fratello Kasimir).
 
+![[Anastrasyatransparent.png]]
+<span class="credit">"Anastrasya" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 Anastrasya saluta calorosamente i giocatori per nome ("Dovete essere..."), poi li accoglie a Castello Ravenloft. Mentre lo fa, esprime la sua gioiosa delizia nel finalmente avere l'opportunità di incontrarli di persona e condivide che ha "sentito *così* tanto su di loro."
 
 Se i giocatori chiedono dell'assenza di Strahd, Rahadin nota freddamente che "il padrone è occupato con altri affari," e li vedrà presto.
@@ -358,13 +364,13 @@ I giocatori riconoscono l'uomo come Escher, il **vampiro progenie** consorte di 
 > ***Relazioni.*** Sasha è la prima sposa di Strahd e un'amica segreta di Gertruda, la promessa sposa di Doru e prigioniera di Strahd.
 
 > [!lore]+ **La Sposa più Anziana**
-> Più di quattrocento anni fa, nel suo dolore dopo aver perso Tatyana, Strahd attirò diverse altre donne a Castel Ravenloft come descritto in <span class="citation">Rahadin (p. 236)</span>. Tutte perirono per la sua nuova sete di sangue, ma solo Sasha Ivliskova, che Strahd trovò notevolmente simile nel temperamento a Tatyana, mantenne il suo interesse a lungo.
+> Quasi quattrocento anni fa, nel suo dolore dopo aver perso Tatyana, Strahd attirò diverse altre donne a Castel Ravenloft come descritto in <span class="citation">Rahadin (p. 236)</span>. Tutte perirono per la sua nuova sete di sangue, ma solo Sasha Ivliskova, che Strahd trovò notevolmente simile nel temperamento a Tatyana, mantenne il suo interesse a lungo.
 >
 > In una cerimonia nuziale a cui parteciparono i burgomaster terrorizzati e altri nobili di Barovia, Strahd fece di Sasha una **progenie vampirica** - e la sua prima sposa vampirica. La loro unione, tuttavia, non fu felice. Amareggiato e deluso dalla perdita di Tatyana, Strahd spesso si infuriava per "l'inadeguatezza" di Sasha, maledicendola e trattandola crudelmente per le sue molte presunte mancanze. Terrorizzata, ma non più disposta ad accettare i suoi abusi, Sasha chiese la sua libertà - e Strahd la punì imprigionandola in una minuscola cripta nelle catacombe di Ravenloft.
 >
 > Sasha rimase nella sua cripta per secoli, discendendo nella follia mentre i lunghi anni la privavano sia di sangue che di compagnia. Costretta dagli ordini di Strahd a rimanere, era impotente persino a toccare la pesante lastra che sigillava la sua tomba silenziosa, la sua superficie di pietra liscia a pochi centimetri dalle sue mani tremanti e avvizzite.
 >
-> Fu solo quando Strahd si svegliò dal suo recente letargo che finalmente recuperò Sasha dalla sua prigione, permettendo ai suoi occhi di vedere la luce per la prima volta in quattro secoli. Spinta in una frenesia dai tre prigionieri baroviani che lasciò per lei, si abbatté su di loro come un animale, la sua mente tornando solo una volta che aveva bevuto l'ultima goccia di sangue.
+> Fu solo quando Strahd si svegliò dal suo recente letargo che finalmente recuperò Sasha dalla sua prigione, permettendo ai suoi occhi di vedere la luce per la prima volta in quasi quattro secoli. Spinta in una frenesia dai tre prigionieri baroviani che lasciò per lei, si abbatté su di loro come un animale, la sua mente tornando solo una volta che aveva bevuto l'ultima goccia di sangue.
 >
 > Sasha odia ciò che è diventata—e l'unica cosa che odia più di questo è Strahd. Anche se non è sicura del motivo per cui l'ha svegliata, desidera nient'altro che la sua completa e totale fine—e la sua stessa opportunità di trovare finalmente riposo.
 
@@ -698,7 +704,7 @@ Sasha avverte il giocatore che ha poco tempo, e che le loro assenze saranno sicu
 
 Sasha può condividere qualsiasi o tutte le seguenti informazioni su di sé se richiesto:
 
-* È Sasha Ivliskova, la prima e più anziana sposa di Strahd. La sposò più di quattro secoli fa, dopo la perdita del suo primo amore, Tatyana Federovna. Tuttavia, si stancò di lei, e quando osò sfidarlo, la rinchiuse in una cripta per quattrocento anni, liberandola per scopi sconosciuti poco dopo il suo recente risveglio. (Se chiesto com'era l'esperienza, Sasha dice cupamente, "era folle—e un tempo che desidero dimenticare per sempre.")
+* È Sasha Ivliskova, la prima e più anziana sposa di Strahd. La sposò quasi quattro secoli fa, dopo la perdita del suo primo amore, Tatyana Federovna. Tuttavia, si stancò di lei, e quando osò sfidarlo, la rinchiuse in una cripta per quattrocento anni, liberandola per scopi sconosciuti poco dopo il suo recente risveglio. (Se chiesto com'era l'esperienza, Sasha dice cupamente, "era folle—e un tempo che desidero dimenticare per sempre.")
 * Disprezza Strahd con ogni fibra del suo essere. "Sono vecchia, e sono stanca," ringhia. "Ci sono due cose che desidero vedere prima di morire: la luce del sole nascente, e la morte del mostro Strahd von Zarovich."
 
 Se il giocatore non rivela il suo interesse a infiltrarsi in Castello Ravenloft, Sasha chiede loro direttamente se si sono avvicinati a lei perché desiderano rubare dal castello. In entrambi i casi, è disposta a condividere informazioni sui contenuti, il layout e gli abitanti del castello—così come un momento in cui Strahd sarà lontano dal castello—se i giocatori accettano di portare con sé un certo prigioniero quando lo fanno. "Il suo nome è Gertruda," dice Sasha, le sopracciglia aggrottate in preoccupazione. "È una villager di Barovia, rapita mentre percorreva la strada verso Vallaki. È viva, per ora, ma temo per la sua vita se dovesse rimanere più a lungo nel castello. Mi ha chiesto di aiutarla a liberarsi, se posso—una richiesta che, fino ad ora, non avevo alcuna speranza di soddisfare."
@@ -922,7 +928,7 @@ Se convinta a parlare liberamente, Sasha chiude gli occhi, prende un respiro pro
 
 Una volta dentro il salotto, Sasha può condividere qualsiasi o tutte le seguenti informazioni su di sé se richiesto:
 
-* È Sasha Ivliskova, la prima e più anziana sposa di Strahd. La sposò più di quattro secoli fa, dopo la perdita del suo primo amore, Tatyana Federovna. Tuttavia, si stancò di lei, e quando osò sfidarlo, la rinchiuse in una cripta per quattrocento anni, liberandola per scopi sconosciuti poco dopo il suo recente risveglio. (Se chiesto com'era l'esperienza, Sasha dice cupamente, "era folle—e un tempo che desidero dimenticare per sempre.")
+* È Sasha Ivliskova, la prima e più anziana sposa di Strahd. La sposò quasi quattro secoli fa, dopo la perdita del suo primo amore, Tatyana Federovna. Tuttavia, si stancò di lei, e quando osò sfidarlo, la rinchiuse in una cripta per quattrocento anni, liberandola per scopi sconosciuti poco dopo il suo recente risveglio. (Se chiesto com'era l'esperienza, Sasha dice cupamente, "era folle—e un tempo che desidero dimenticare per sempre.")
 * Disprezza Strahd con ogni fibra del suo essere. "Sono vecchia, e sono stanca," ringhia. "Ci sono due cose che desidero vedere prima di morire: la luce del sole nascente, e la morte del mostro Strahd von Zarovich."
 
 Se i giocatori non rivelano il loro interesse a infiltrarsi in Castello Ravenloft, Sasha chiede loro direttamente se si sono avvicinati a lei perché desiderano rubare dal castello. In entrambi i casi, è disposta a condividere informazioni sui contenuti, il layout e gli abitanti del castello—così come un momento in cui Strahd sarà lontano dal castello—se i giocatori accettano di portare con sé un certo prigioniero quando lo fanno. "Il suo nome è Gertruda," dice Sasha, le sopracciglia aggrottate in preoccupazione. "È una villager di Barovia, rapita mentre percorreva la strada verso Vallaki. È viva, per ora, ma temo per la sua vita se dovesse rimanere più a lungo nel castello. Mi ha chiesto di aiutarla a liberarsi, se posso—una richiesta che, fino ad ora, non avevo alcuna speranza di soddisfare."
@@ -961,7 +967,7 @@ Prima di partire, Rahadin produce anche una chiave dalla sua tasca, che usa per 
 La suite degli ospiti è per lo più come descritta in <span class="citation">K49. Salotto (p. 70)</span>, <span class="citation">K50. Stanza degli Ospiti (p. 70)</span>, e <span class="citation">K51. Armadio (p. 70)</span>. Tuttavia:
 
 * Nel Salotto, rimuovi il riferimento a Escher nella descrizione di quest'area;
-* Nella Stanza degli Ospiti, rivedi la seconda frase per leggere come segue: "Diversi divani confortevoli sono posizionati intorno alla stanza, e un orologio ornato a forma di torre del castello guarda giù dal suo posto sul muro sopra di loro." L'orologio di metallo, che è stato realizzato dal leggendario inventore Fritz von Weerg più di quattro secoli fa, è a forma di facciata anteriore di Castello Ravenloft. Tuttavia, l'orologio è rotto e non funziona. Un giocatore che trascorre 1 minuto cercando l'orologio per segreti e riesce in una prova di Intelligenza (Investigazione) CD 20 trova un compartimento di stoccaggio nascosto nella parte dell'orologio corrispondente alla torre nord del castello, che normalmente contiene <span class="citation">K20. Cuore del Dolore (p. 59)</span> e <span class="citation">K60. Picco della Torre Nord (p. 74)</span>.
+* Nella Stanza degli Ospiti, rivedi la seconda frase per leggere come segue: "Diversi divani confortevoli sono posizionati intorno alla stanza, e un orologio ornato a forma di torre del castello guarda giù dal suo posto sul muro sopra di loro." L'orologio di metallo, che è stato realizzato dal leggendario inventore Fritz von Weerg quasi quattro secoli fa, è a forma di facciata anteriore di Castello Ravenloft. Tuttavia, l'orologio è rotto e non funziona. Un giocatore che trascorre 1 minuto cercando l'orologio per segreti e riesce in una prova di Intelligenza (Investigazione) CD 20 trova un compartimento di stoccaggio nascosto nella parte dell'orologio corrispondente alla torre nord del castello, che normalmente contiene <span class="citation">K20. Cuore del Dolore (p. 59)</span> e <span class="citation">K60. Picco della Torre Nord (p. 74)</span>.
 * Nell'Armadio, rimuovi il "mantello nero polveroso" e rivedi la seconda frase della descrizione di quest'area per leggere semplicemente: "Ganci di ferro fiancheggiano le pareti."
 
 > [!abstract]+ **Giocatori Vaganti**
@@ -1169,7 +1175,7 @@ La porta dell'armadio non si apre nell'armadio della suite degli ospiti. Invece,
 ## O8f. Il Castello Insanguinato
 <span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K23.</em></span>
 
-Un giocatore che passa attraverso la porta dell'armadio in [[#O8e. Il Quinto Livello]] emerge in <span class="citation">K23. Ingresso dei Servitori (p. 59)</span>, come era il giorno della morte di Strahd più di quattro secoli fa. Leggi:
+Un giocatore che passa attraverso la porta dell'armadio in [[#O8e. Il Quinto Livello]] emerge in <span class="citation">K23. Ingresso dei Servitori (p. 59)</span>, come era il giorno della morte di Strahd quasi quattro secoli fa. Leggi:
 
 <div class="description">
 <p>La luce rosso sangue filtra attraverso una finestra sulla parete est. Un grande tavolo pesante si trova al centro del pavimento, mezzo coperto da una pozza di inchiostro nero da un calamaio rovesciato. Un pugnale insanguinato è stato conficcato nelle pagine di un libro spesso accanto al calamaio, e il cadavere di un uomo giace accasciato contro la gamba del tavolo appena sotto di esso.</p>
@@ -1187,7 +1193,7 @@ La porta scheggiata conduce alle Stanze dei Servitori (vedi sotto). La scala sce
 
 Quest'area include <span class="citation">K24. Quartieri dei Servitori (p. 61)</span>, <span class="citation">K34. Piano Superiore dei Servitori (p. 64)</span> e <span class="citation">K20. Cuore del Dolore (p. 59)</span>, ma come erano il giorno della morte di Strahd.
 #### Quartieri dei Servitori
-Un giocatore che passa attraverso la porta scheggiata emerge in <span class="citation">K24. Quartieri dei Servitori (p. 61)</span>, come era il giorno della morte di Strahd più di quattro secoli fa. Leggi:
+Un giocatore che passa attraverso la porta scheggiata emerge in <span class="citation">K24. Quartieri dei Servitori (p. 61)</span>, come era il giorno della morte di Strahd quasi quattro secoli fa. Leggi:
 
 <div class="description">
 <p>La luce cremisi dalle finestre illumina una stanza ordinata contenente diversi pezzi di mobili semplici, tra cui una scrivania, una dozzina di sedie di legno e un paio di tavoli decorati con tovaglie a fiori. Una scala stretta con una ringhiera di legno sale lungo la parete nord.</p>
@@ -1195,12 +1201,12 @@ Un giocatore che passa attraverso la porta scheggiata emerge in <span class="cit
 
 Un giocatore con un punteggio di Saggezza (Percezione) passivo di 10 o superiore nota qualcosa che trema sotto la tovaglia del tavolo più lontano. Un giocatore che solleva la tovaglia rivela Varushka, che ha gli occhi spalancati, pallida e ovviamente terrorizzata. Non riconosce i giocatori e sussurra spaventata di "lasciarla in pace" e "fuggire per le loro vite."
 
-Varushka non lascerà volontariamente il suo nascondiglio sotto il tavolo. Tuttavia, se interrogata, Varushka dice loro che se stanno cercando "Capitano Dilisnya," sono troppo tardi—è appena fuggito giù per le scale e scappato fuori nel cortile del castello. (Varushka si riferisce a Leo Dilisnya, il capitano della guardia di Strahd. È confusa su come sia arrivato al piano superiore dei servitori—dato che l'ha visto l'ultima volta scendere le scale verso la sala dei servitori—ma non ha avuto il tempo di pensarci troppo, dato che il mondo intero sembra essere caduto nella follia.)
+Varushka non lascerà volontariamente il suo nascondiglio sotto il tavolo. Tuttavia, se interrogata, Varushka dice loro che se stanno cercando "Capitano Dilisnya," sono troppo tardi—è appena fuggito giù per le scale e scappato fuori nel cortile del castello. (Varushka si riferisce a [[History of Barovia#Arrival of the Mists|Leo Dilisnya]], il capitano della guardia di Strahd. È confusa su come sia arrivato al piano superiore dei servitori—dato che l'ha visto l'ultima volta scendere le scale verso la sala dei servitori—ma non ha avuto il tempo di pensarci troppo, dato che il mondo intero sembra essere caduto nella follia.)
 
 Varushka è troppo terrorizzata per condividere altre informazioni oltre a "Re Strahd" è impazzito e sta attualmente devastando i piani inferiori del castello. "Il cielo è diventato rosso," singhiozza. "Moriremo tutti?"
 
 #### Piano Superiore dei Servitori
-Un giocatore che sale le scale dai [[Quartieri dei Servitori]] emerge in <span class="citation">K34. Piano Superiore dei Servitori (p. 64)</span>, come era il giorno della morte di Strahd più di quattro secoli fa. Leggi:
+Un giocatore che sale le scale dai [[Quartieri dei Servitori]] emerge in <span class="citation">K34. Piano Superiore dei Servitori (p. 64)</span>, come era il giorno della morte di Strahd quasi quattro secoli fa. Leggi:
 
 <div class="description">
 <p>File ordinate di piccoli letti ordinati fiancheggiano il lato sinistro di questa stanza al piano superiore. Un alto armadio polveroso a forma di bara, le cui porte nere sono dipinte con creature fatate, si trova tra due specchi a figura intera appesi alla parete sud. Uno degli specchi pende leggermente di traverso.</p>
@@ -1209,7 +1215,7 @@ Un giocatore che sale le scale dai [[Quartieri dei Servitori]] emerge in <span c
 Lo specchio nasconde la porta segreta descritta in <span class="citation">K34. Piano Superiore dei Servitori (p. 64)</span>. Può essere aperto per rivelare un piccolo armadio vuoto che contiene una scala di legno come descritto in <span class="citation">K34. Piano Superiore dei Servitori (p. 64)</span>.
 
 #### Torre Nord
-Un giocatore che passa attraverso la porta segreta emerge in <span class="citation">K20. Cuore del Dolore (p. 59)</span>, come era il giorno della morte di Strahd più di quattro secoli fa. Leggi:
+Un giocatore che passa attraverso la porta segreta emerge in <span class="citation">K20. Cuore del Dolore (p. 59)</span>, come era il giorno della morte di Strahd quasi quattro secoli fa. Leggi:
 
 <div class="description">
 <p>Un vuoto rosso sangue circonda i resti frantumati di una torre un tempo possente. Sopra di voi, frammenti di pietra polverizzata fluttuano impotenti nell'aria, segnando la silhouette dove una scala a chiocciola potrebbe una volta essere salita nelle altezze sopra.</p>
@@ -1222,7 +1228,7 @@ Il secondo set di scale sottostanti è come descritto in <span class="citation">
 
 ### Cantina del Castello
 #### Sala dei Servitori
-Un giocatore che scende le scale da <span class="citation">K23. Ingresso dei Servitori (p. 59)</span> emerge in <span class="citation">K62. Sala dei Servitori (p. 76)</span>, come era il giorno della morte di Strahd più di quattro secoli fa. Leggi:
+Un giocatore che scende le scale da <span class="citation">K23. Ingresso dei Servitori (p. 59)</span> emerge in <span class="citation">K62. Sala dei Servitori (p. 76)</span>, come era il giorno della morte di Strahd quasi quattro secoli fa. Leggi:
 
 <div class="description">
 <p>Un ultimo urlo viene bruscamente interrotto mentre scendete le scale di pietra. Tre cadaveri vestiti con maglie insanguinate giacciono sparsi in questa lunga sala. Le porte a sinistra e a destra sono chiuse, anche se le doppie porte pesanti gemelle alla fine della sala sono state spalancate. Il torso superiore di un ulteriore cadavere giace accasciato alla base di una lunga striscia di sangue lungo la porta destra, le sue gambe mozzate abbandonate sul pavimento a diversi piedi di distanza.</p>
@@ -1235,7 +1241,7 @@ Il corridoio oltre la porta sinistra che conduce a <span class="citation">K61. T
 * ***Quartieri del Maggiordomo.*** I quartieri del maggiordomo sono per lo più come descritti in <span class="citation">K66. Quartieri del Maggiordomo (p. 78)</span>, ma contengono solo un letto ordinato e ben fatto e un cassettone pieno di tuniche, pantaloni e biancheria puliti e stirati.
 
 #### Sala Riunioni delle Guardie
-Un giocatore che passa attraverso le doppie porte alla fine della sala dei servitori emerge in <span class="citation">K67. Sala delle Ossa (p. 78)</span>, come era il giorno della morte di Strahd più di quattro secoli fa. Leggi:
+Un giocatore che passa attraverso le doppie porte alla fine della sala dei servitori emerge in <span class="citation">K67. Sala delle Ossa (p. 78)</span>, come era il giorno della morte di Strahd quasi quattro secoli fa. Leggi:
 
 <div class="description">
 <p>Emergete dalla porta in una scena di carneficina macchiata di sangue. Pozze rosse coprono il pavimento di quest'area, che è ulteriormente disseminata da una mezza dozzina di cadaveri spezzati. Grandi tavoli di quercia, segnati e battuti, giacciono sparsi come giocattoli nella stanza, il loro legno schiacciato e scheggiato. Sopra le porte orientali è montato il teschio di un drago.</p>
@@ -1253,7 +1259,7 @@ La voce è riconoscibile come quella di Strahd, ma più piena di emozione e vita
 Il corridoio oltre la porta sud che conduce a <span class="citation">K68. Corsa delle Guardie (p. 79)</span> è stato murato e attualmente è inaccessibile.
 
 #### Sala dei Re & Quartieri dei Re
-***Sala dei Re.*** Un giocatore che passa attraverso la porta socchiusa all'estremità nord della sala riunioni delle guardie, o che entra tramite i quartieri dei re (vedi sotto), emerge in <span class="citation">K70. Sala dei Re (p. 79)</span>, come era il giorno della morte di Strahd più di quattro secoli fa. Leggi:
+***Sala dei Re.*** Un giocatore che passa attraverso la porta socchiusa all'estremità nord della sala riunioni delle guardie, o che entra tramite i quartieri dei re (vedi sotto), emerge in <span class="citation">K70. Sala dei Re (p. 79)</span>, come era il giorno della morte di Strahd quasi quattro secoli fa. Leggi:
 
 <div class="description">
 <p>Questa stanza quadrata di trenta piedi è un disastro. Mobili sparsi giacciono in cumuli vicino alle pareti. Cadaveri rotti e insanguinati giacciono sparsi sul pavimento, molti con armature a piastre accartocciate e schiacciate. Scudi e spade sporgono dalle pareti come se fossero stati conficcati da una forza tremenda.</p>
@@ -1282,7 +1288,7 @@ I giocatori possono tentare di attirare Strahd lontano dalla porta dell'ufficio 
 
 Un giocatore che poi dice a Strahd dove si trova Leo Dilisnya e riesce in una prova di Carisma (Persuasione) CD 20 può convincere Strahd a permettere loro e ai loro compagni di vivere. Altrimenti, Strahd li attacca a vista, inseguendoli ovunque vadano nel castello. Tuttavia, se i giocatori si ritirano in [[#O8e. Il Quinto Livello]] e chiudono la porta, Strahd non può seguirli all'interno.
 
-***Quartieri dei Re.*** Un giocatore che passa attraverso l'arco nella sala dei re o scende <span class="citation">K20a. Scala della Sala della Torre (p. 59)</span> da [[Torre Nord]] emerge in <span class="citation">K71. Quartieri dei Re (p. 79)</span>, come era il giorno della morte di Strahd più di quattro secoli fa. Leggi:
+***Quartieri dei Re.*** Un giocatore che passa attraverso l'arco nella sala dei re o scende <span class="citation">K20a. Scala della Sala della Torre (p. 59)</span> da [[Torre Nord]] emerge in <span class="citation">K71. Quartieri dei Re (p. 79)</span>, come era il giorno della morte di Strahd quasi quattro secoli fa. Leggi:
 
 <div class="description">
 <p>Questo passaggio buio corre per venti piedi, collegando un arco a ovest con una scala di pietra ascendente a est. A nord e a sud ci sono alcove quadrate di dieci piedi ingombre di letti e tappeti pregiati.</p>
@@ -1674,4 +1680,4 @@ Mentre la carrozza si allontana dal cortile, i giocatori possono catturare un ul
 <p>Mentre la fortezza si rimpicciolisce dietro di voi, le catene delle due torri del cancello stridono e gemono, la macchina arrugginita che si muove lentamente mentre solleva di nuovo il ponte levatoio nell'aria. La carrozza gira una curva sulla strada—e il suono del ponte levatoio che si chiude echeggia attraverso le montagne.</p>
 </div>
 
-***Pietra Miliare.*** Cenare con Strahd e sconfiggere Varushka completa una pietra miliare della storia. Quando i giocatori lasciano Ravenloft, assegna a ciascun giocatore 3.500 PE. Assegna a ciascun giocatore ulteriori 500 PE se hanno riunito Varushka con il ciondolo di Katarina e recuperato il nascondiglio segreto di Varushka.
+***Pietra Miliare.*** Cenare con Strahd e sconfiggere Varushka completa una pietra miliare della storia. Quando i giocatori lasciano Ravenloft, assegna a ciascun giocatore 3.500 PE. (Questo dovrebbe portare i personaggi al settimo livello.) Assegna a ciascun giocatore ulteriori 500 PE se hanno riunito Varushka con il ciondolo di Katarina e recuperato il nascondiglio segreto di Varushka.

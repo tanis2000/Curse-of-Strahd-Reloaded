@@ -27,7 +27,7 @@ I giocatori iniziano questo atto al 2° livello e dovrebbero terminarlo al 4° l
 * [[Atto I - Nelle Nebbie/Arco narrativo C - Nella Valle]]: I giocatori ricevono la lettura dei Tarocchi il 1 Neyavr, arrivano a Vallaki il 2 Neyavr e incontrano il Barone Vallakovich la mattina del 3 Neyavr.
 
 > [!info]+ **Il Calendario Baroviano**
-> L'anno corrente Baroviano è il 735 C.B. (Calendario Baroviano). Il calendario Baroviano è composto da dodici mesi di 28 giorni ciascuno, con i seguenti nomi: [^1]
+> L'anno corrente Baroviano è il 735 C.B. (Calendario Baroviano). Il calendario Baroviano è composto da dodici mesi di 28 giorni ciascuno, con i seguenti nomi: <sup>1</sup>
 >
 >
 | Mese  | Nome Baroviano | Nome Gregoriano |
@@ -45,4 +45,4 @@ I giocatori iniziano questo atto al 2° livello e dovrebbero terminarlo al 4° l
 |  11   | Neyavr         | Novembre        |
 |  12   | Dekavr         | Dicembre        |
 
-[^1] Calendario Baroviano, *The Travelogue Wiki*, https://travelogue.fandom.com/wiki/Barovian_Calendar (ultimo accesso 29 Mar 2024).
+<sup>1</sup> Calendario Baroviano, *The Travelogue Wiki*, https://travelogue.fandom.com/wiki/Barovian_Calendar (ultimo accesso 29 Mar 2024).

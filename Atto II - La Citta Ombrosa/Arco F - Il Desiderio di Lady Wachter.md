@@ -245,7 +245,8 @@ La mattina seguente, quando i giocatori entrano nella sala comune della Locanda 
 
 L'uomo, Ernst Larnak (descritto in **N4. Villa Wachter**, p. 110), sta attualmente gustando una colazione di pane, uova e salsiccia stagionata. Invece di salutare i giocatori, riflette (con la bocca piena) sulla qualità della cucina di Urwin Martikov, ma si lamenta che la locanda non serve caffè, una meravigliosa bevanda straniera che una volta ha acquistato da una carovana Vistana.
 
-Una volta terminata la colazione, Ernst può informare i giocatori che Izek Strazni riceve generalmente una consegna di un pasto di mezzogiorno e una cassa contenente due bottiglie di vino poco dopo mezzogiorno nella piazza di Vallaki, consegnata dal cuoco del Barone, Tereska. Il programma pomeridiano di Izek è altamente variabile, ma finisce regolarmente la prima bottiglia di vino al tramonto e svuota la seconda bottiglia poco dopo essersi sistemato in uno dei suoi luoghi preferiti.
+Una volta terminata la colazione, Ernst può informare i giocatori che Izek Strazni riceve generalmente una consegna di un pasto di mezzogiorno e una cassa contenente due bottiglie di vino poco dopo mezzogiorno nella piazza di Vallaki, consegnata dal cuoco del Barone, Tereska.
+Izek poi parla con varie spie in città. (Ernst osserva con disgusto che le "spie" di Izek sono semplici pettegoli che Izek ha intimidito per spiare i loro vicini.) Il programma pomeridiano di Izek è molto variabile, ma finisce regolarmente la prima bottiglia di vino al tramonto e svuota la seconda bottiglia poco dopo essersi sistemato in uno dei suoi luoghi preferiti.
 
 Ernst può anche fornire ai giocatori un sacco di iuta di dimensioni sufficienti per contenere la testa di Izek, che contiene anche la bottiglia di vino avvelenato. ("Per trasportare la merce," dice, sorridendo, mentre porge il sacco. Mentre lo apre per rivelare la bottiglia, aggiunge, "E un regalo d'addio per il loro proprietario.") Il vino è etichettato Red Dragon Crush.
 
@@ -260,16 +261,22 @@ Quando la consegna è completata, Ernst consiglia ai giocatori di seguire Izek m
 # F4. L'Assassinio di Izek
 Il giorno particolare in cui i giocatori scelgono di portare a termine il loro piano, Izek segue il seguente programma a meno che non venga interrotto:
 
-* **11:00 A.M.** Izek si sveglia dal suo sonno ubriaco e prende il suo pasto mattutino nella cucina della villa del borgomastro, dove viene incontrato da due **guardie** che consegnano un rapporto mattutino.
-* **11:30 A.M.** Izek, accompagnato dalle due **guardie**, si reca alla Porta del Tramonto occidentale, alla Porta Zarovich settentrionale e alla Porta del Mattino orientale per ricevere i rapporti delle guardie e ispezionare le difese della città.
-* **1:00 P.M.** Il cuoco del Barone consegna a Izek un pasto di mezzogiorno e una cassa contenente due bottiglie di vino nella piazza di Vallaki. Izek mangia il suo pranzo e inizia a bere la prima bottiglia di vino mentre le due **guardie** pattugliano l'area circostante.
-* **2:00 P.M.** Izek e le due **guardie** visitano tre o quattro delle "spie" di Izek sparse per la città per ricevere rapporti sull'infelicità maliziosa recente. (Ernst nota con disgusto che le "spie" di Izek sono semplici pettegoli della città che Izek ha intimidito a fare la spia sui loro vicini.)
-* **4:00 P.M.** Izek e le due **guardie** si recano alla Porta del Tramonto, alla Porta Zarovich e alla Porta del Mattino (iniziando con la porta più vicina) per ricevere i rapporti delle guardie e ispezionare le difese della città.
-* **5:30 P.M.** Izek congeda le due **guardie** e si reca da solo al Lago Zarovich. Trascorre il resto della serata consumando la seconda bottiglia di vino e fissando il vuoto.
-* **10:00 P.M.** Izek torna alla villa del borgomastro e prende il suo pasto serale, oltre a una terza bottiglia di vino, nella sua camera da letto.
+> [!lore]+ **Il Programma di Izek**
+>
+> Nel giorno specifico in cui i giocatori scelgono di eseguire il loro piano, Izek segue il seguente programma a meno che non venga interrotto:
+>
+> * **11:00 A.M.** Izek si sveglia dal suo sonno ubriaco e prende il suo pasto mattutino nella cucina della villa del borgomastro, dove viene incontrato da due **guardie** che consegnano un rapporto mattutino.
+> * **11:30 A.M.** Izek, accompagnato dalle due **guardie**, si reca alla Porta del Tramonto occidentale, alla Porta Zarovich settentrionale e alla Porta del Mattino orientale per ricevere i rapporti delle guardie e ispezionare le difese della città.
+> * **1:00 P.M.** Il cuoco del Barone consegna a Izek un pasto di mezzogiorno e una cassa contenente due bottiglie di vino nella piazza di Vallaki. Izek mangia il suo pranzo e inizia a bere la prima bottiglia di vino mentre le due **guardie** pattugliano l'area circostante.
+> * **2:00 P.M.** Izek e le due **guardie** visitano tre o quattro delle "spie" di Izek sparse per la città per ricevere rapporti sull'infelicità maliziosa recente. (Ernst nota con disgusto che le "spie" di Izek sono semplici pettegoli della città che Izek ha intimidito a fare la spia sui loro vicini.)
+> * **4:00 P.M.** Izek e le due **guardie** si recano alla Porta del Tramonto, alla Porta Zarovich e alla Porta del Mattino (iniziando con la porta più vicina) per ricevere i rapporti delle guardie e ispezionare le difese della città.
+> * **5:30 P.M.** Izek congeda le due **guardie** e si reca da solo al Lago Zarovich. Trascorre il resto della serata consumando la seconda bottiglia di vino e fissando il vuoto.
+> * **10:00 P.M.** Izek torna alla villa del borgomastro e prende il suo pasto serale, oltre a una terza bottiglia di vino, nella sua camera da letto.
+>
+>Una volta che Izek beve l'intera bottiglia di vino avvelenato di Lady Wachter, subisce la condizione di **avvelenato** per 1 ora successiva.
 
-Una volta che Izek beve l'intera bottiglia di vino avvelenato di Lady Wachter, subisce la condizione di **avvelenato** per 1 ora successiva.
-## F4a. Piazzare il Vino Avvelenato
+# F4a. Piazzare il Vino Avvelenato
+
 I giocatori possono tentare di piazzare la bottiglia di vino avvelenato nella cassa di vino di Izek in vari modi, tra cui (ma non solo) i seguenti:
 
 * I giocatori possono intrufolarsi nella cucina della villa del borgomastro e distrarre il cuoco, Tereska, per sostituire la seconda bottiglia con quella avvelenata.
@@ -392,8 +399,12 @@ Se Ireena ha accompagnato i giocatori al lago, Izek le ordina di farsi da parte 
 <strong>Linguaggi</strong> Comune<br>
 <strong>Sfida</strong> 6 o 5 se avvelenato<br>
 <hr>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Izek fallisce un tiro salvezza, può scegliere di riuscire invece.</p>
-<p><strong><em>Indomabile.</em></strong> Se Izek verrebbe paralizzato o stordito, viene rallentato invece. (La sua velocità è dimezzata, ha svantaggio sui tiri salvezza di Destrezza e le creature hanno vantaggio sugli attacchi contro di lui.)
+<p><strong><em>Indomabile.</em></strong>Se Izek fallisce un tiro salvezza, può scegliere di considerarlo come superato. Se lo fa, subisce la condizione di ostacolato fino alla fine del suo prossimo turno. Quando è ostacolato:<br>
+-	la sua velocità è ridotta (è rallentato),<br>
+-	può usare una reazione in meno per round,<br>
+-	non può usare il suo attacco multiplo.<br>
+<br>
+Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione ulteriore (fino a un minimo di zero). Gli altri effetti dell’essere ostacolato non si sommano.</p>
 <p><strong><em>Seconda Fase.</em></strong> Quando Izek viene ridotto a 0 punti ferita, le sue braccia e l'ascia si avvolgono di fiamme, le punte sul suo braccio demoniaco diventano più lunghe e affilate, e la sua pelle diventa rossa e inizia a fumare. Le sue statistiche vengono quindi immediatamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio dell'iniziativa non cambia. I danni in eccesso non si trasferiscono alla sua nuova forma, ma mantiene qualsiasi condizione avesse nella sua forma precedente.</p>
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> Izek effettua due attacchi.</p>
@@ -450,8 +461,12 @@ Se Ireena ha accompagnato i giocatori al lago, Izek le ordina di farsi da parte 
 <strong>Linguaggi</strong> Comune<br>
 <strong>Sfida</strong> 6 o 5 se avvelenato<br>
 <hr>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Izek fallisce un tiro salvezza, può scegliere di riuscire invece.</p>
-<p><strong><em>Indomabile.</em></strong> Se Izek verrebbe paralizzato o stordito, viene rallentato invece. (La sua velocità è dimezzata, ha svantaggio sui tiri salvezza di Destrezza e le creature hanno vantaggio sugli attacchi contro di lui.)
+<p><strong><em>Indomabile.</em></strong>Se Izek fallisce un tiro salvezza, può scegliere di considerarlo come superato. Se lo fa, subisce la condizione di ostacolato fino alla fine del suo prossimo turno. Quando è ostacolato:<br>
+-	la sua velocità è ridotta (è rallentato),<br>
+-	può usare una reazione in meno per round,<br>
+-	non può usare il suo attacco multiplo.<br>
+<br>
+Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione ulteriore (fino a un minimo di zero). Gli altri effetti dell’essere ostacolato non si sommano.</p>
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> Izek effettua due attacchi in mischia.</p>
 <p><strong><em>Ascia da Battaglia Argentata.</em></strong> <em>Attacco con arma da mischia:</em> +8 a colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 10 (1d8 + 5) danni taglienti più 2 (1d4) danni da fuoco.</p>
@@ -538,7 +553,7 @@ Il resto del libro riguarda genealogie, leggende familiari e figure notevoli nel
 
 Lady Wachter può condividere che, secondo il libro, Vladislav era un Wachter e il marito di Lovina. Non è sicura di chi sia Reinhold, tuttavia, e non conosce altre informazioni rilevanti su Lady Lovina Wachter, Leo Dilisnya, Sergei von Zarovich o Tatyana Federovna.
 
-***Pietra Miliare.*** Assassinate Izek completa una pietra miliare della storia. Quando Lady Wachter prende il potere, assegna a ciascun giocatore 1.500 PE.
+***Pietra Miliare.*** Assassinare Izek completa una pietra miliare della storia. Quando Lady Wachter prende il potere, assegna a ciascun giocatore 1.500 PE. (Questo dovrebbe portare i giocatori al quinto livello.)
 
 > [!abstract]+ **Le Promesse di Lady Wachter**
 >
