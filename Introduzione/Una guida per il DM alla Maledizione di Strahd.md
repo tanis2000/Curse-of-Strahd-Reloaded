@@ -2,6 +2,7 @@
 description: "Benvenuti a Curse of Strahd: Reloaded—una guida completa per Dungeon Master, sia nuovi che veterani, per affrontare Curse of Strahd. Scoprite una narrazione migliorata, informazioni organizzate e una guida a livello di scena che rende più facile che mai dare vita a Barovia."
 keywords: Guida a Curse of Strahd, guida per DM a Curse of Strahd, guida per affrontare Curse of Strahd, come affrontare Curse of Strahd, D&D, Dungeons and Dragons, Curse of Strahd, Guida per DM, Barovia, Gioco di Ruolo, Consigli per DM, Guida alla Campagna, Strahd Von Zarovich, Giochi da Tavolo
 cover: preview.png
+permalink: "/"
 ---
 <img class="image-dark" src="https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/cover-dark.png">
 <img class="image-light" src="https://publish-01.obsidian.md/access/7db64b11c71d88572ddc6cd06b888976/images/cover-light.png">

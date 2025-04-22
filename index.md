@@ -1,1 +1,0 @@
-![[Introduzione/Una guida per il DM alla Maledizione di Strahd.md]]
