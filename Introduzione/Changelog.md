@@ -40,7 +40,7 @@
 * Removed attunement requirement for the spirit mirror in [[Arc H - The Lost Soul]]
 * Added details of Godfrey being ordered by Vladimir to not speak to players upon their return in [[Arc Q - A Shining Beacon]]
 * Amended Muriel's stat block and added a reminder on NPC allies falling to death saves in [[Arc C - Into the Valley]]
-* Removed Resurrection Madness mechanics from the guide in [[Lore of Barovia]]
+* Removed Resurrection Madness mechanics from the guide in [[Storia e Folklore di Barovia]]
 * Amended all vampire bite attacks and HP recovery mechanics to be in line with Strahd's in [[Strahd von Zarovich]]
 * Added necrotic resistance to the Abbot's stat blocks in [[Arc Q - A Shining Beacon]]
 # Hotfix 2.0.10.2 (December 20, 2024)
@@ -237,7 +237,7 @@
 * Added projected completion date and Google Forms feedback form to Under Construction box
 * Updated Acknowledgments
 
-[[Lore of Barovia]]
+[[Storia e Folklore di Barovia]]
 * Removed reference to devil worship by Lady Wachter's cult
 
 [[History of Barovia]]
