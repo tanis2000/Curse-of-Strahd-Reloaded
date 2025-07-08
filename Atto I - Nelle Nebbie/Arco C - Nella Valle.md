@@ -1,24 +1,24 @@
 *Avventura per cinque personaggi di terzo livello.*
 
-In questo arco, i personaggi lasciano il villaggio di Barovia diretti verso lo Stagno di Tser e la città di Vallaki. Durante il viaggio attraverso i boschi, possono incontrare una coppia di sentinelle baroviane alla ricerca di una famiglia scomparsa, distrarre o affrontare un’orda di zombi e recuperare un deposito d’armi lasciato dal Dott. Rudolph van Richten.
+In questo arco, i personaggi lasciano il villaggio di Barovia diretti verso la Pozza di Tser e la città di Vallaki. Durante il viaggio attraverso i boschi, possono incontrare una coppia di sentinelle baroviane alla ricerca di una famiglia scomparsa, distrarre o affrontare un’orda di zombi e recuperare un deposito d’armi lasciato dal Dott. Rudolph van Richten.
 
-Al loro arrivo all'Incrocio del Fiume Ivlis, i personaggi incontrano Strahd von Zarovich per la prima volta, accompagnato da Escher, uno dei suoi consorti vampirici. Dopo un teso dialogo, i personaggi possono dirigersi a nord verso lo Stagno di Tser. 
+Al loro arrivo all'Incrocio del Fiume Ivlis, i personaggi incontrano Strahd von Zarovich per la prima volta, accompagnato da Escher, uno dei suoi consorti vampirici. Dopo un teso dialogo, i personaggi possono dirigersi a nord verso la Pozza di Tser.
 
-Durante il tragitto verso lo Stagno di Tser, i personaggi incontrano un corvo—il **corvo mannaro** Muriel Vinshaw in travestimento—che fugge da una mostruosa **strige** (vedi il Manuale dei Mostri) forgiata dalla strega delle paludi Baba Lysaga. Se i personaggi difendono Muriel dall'assalto della strige, lei si unirà a loro per il resto del viaggio verso Vallaki, pur mantenendo segreta la sua vera identità.
+Durante il tragitto verso la Pozza di Tser, i personaggi incontrano un corvo—il **corvo mannaro** Muriel Vinshaw in travestimento—che fugge da una mostruosa **strige** (vedi il Manuale dei Mostri) forgiata dalla strega delle paludi Baba Lysaga. Se i personaggi difendono Muriel dall'assalto della strige, lei si unirà a loro per il resto del viaggio verso Vallaki, pur mantenendo segreta la sua vera identità.
 
-Presto, i personaggi giungono all'accampamento dei Vistani dello Stagno di Tser. Lì ricevono una lettura magica dei Tarokka da Madam Eva, che predice la posizione di tre artefatti utili nella lotta contro Strahd e la presenza di un alleato destinato ad aiutarli. 
+Presto, i personaggi giungono all'accampamento dei Vistani della Pozza di Tser. Lì ricevono una lettura magica dei Tarokka da Madam Eva, che predice la posizione di tre artefatti utili nella lotta contro Strahd e la presenza di un alleato destinato ad aiutarli.
 
-Durante il soggiorno allo Stagno di Tser, i personaggi ascoltano racconti dei vistani sulla storia di Strahd e sul Santo Simbolo del Corvo, e incontrano anche Arturi Radanavich, una Vistana errante che sostiene di aver conosciuto una volta Rudolph van Richten. Al momento della partenza, i personaggi ricevono anche l’incarico, da parte di Madam Eva, di recarsi a Vallaki per acquistare un giocattolo da consegnare alla pronipote Arabelle.
+Durante il soggiorno alla Pozza di Tser, i personaggi ascoltano racconti dei vistani sulla storia di Strahd e sul Santo Simbolo del Corvo, e incontrano anche Arturi Radanavich, una Vistana errante che sostiene di aver conosciuto una volta Rudolph van Richten. Al momento della partenza, i personaggi ricevono anche l’incarico, da parte di Madam Eva, di recarsi a Vallaki per acquistare un giocattolo da consegnare alla pronipote Arabelle.
 
-Se i personaggi devono scortare Ireena verso la Chiesa di St. Andral a Vallaki, o se hanno altre ragioni per farlo, essi tornano poi sulla Vecchia Strada di Svalich passando per l'Incrocio del Fiume Ivlis, viaggiando verso ovest attraverso montagne. Lungo il tragitto incontreranno un insolito cavaliere scheletrico, un paio di tombe fresche, un'oscura apparizione, la **strega notturna** Morgantha in atteggiamento da mercante, due stormi di corvi amichevoli e un **lupo mannaro** accompagnato dal suo branco di lupi famelici. 
+Se i personaggi devono scortare Ireena verso la Chiesa di St. Andral a Vallaki, o se hanno altre ragioni per farlo, essi tornano poi sulla Vecchia Strada di Svalich passando per l'Incrocio del Fiume Ivlis, viaggiando verso ovest attraverso le montagne. Lungo il tragitto incontreranno un insolito cavaliere scheletrico, un paio di tombe fresche, un'oscura apparizione, la **strega notturna** Morgantha in atteggiamento da mercante, due stormi di corvi amichevoli e un **lupo mannaro** accompagnato dal suo branco di lupi famelici.
 
 Giunti a Vallaki, i personaggi possono trovare alloggio presso la Locanda dell’Acqua Azzurra. Qui incontreranno una schiera di personaggi pittoreschi, tra cui il presentatore Rictavio e i figli di Lady Fiona Wachter. All'alba, i personaggi avranno anche un fatale incontro con il Barone Vargas Vallakovich e il suo spietato esecutore, Izek Strazni...
 
-> [!warning]+ **La Strada dallo Stagno di Tser**
+> [!warning]+ **La Strada dalla Pozza di Tser**
 >
-> La mappa del modulo di Barovia mostra una linea tratteggiata che sembra collegare l'Accampamento dello Stagno di Tser alle Cascate di Tser. Nonostante l'apparenza, <span class="citation">Cascate del Tser (p. 37)</span> chiarisce che non si tratta di una scorciatoia. Invece, questa linea tratteggiata è un sentiero che conduce alla base delle Cascate di Tser, 300 metri sotto il ponte sovrastante. In nessun punto si ricollega effettivamente alla strada principale.
+> La mappa del modulo di Barovia mostra una linea tratteggiata che sembra collegare l'Accampamento della Pozza di Tser alle Cascate di Tser. Nonostante l'apparenza, <span class="citation">Cascate di Tser (p. 37)</span> chiarisce che non si tratta di una scorciatoia. Invece, questa linea tratteggiata è un sentiero che conduce alla base delle Cascate di Tser, 300 metri sotto il ponte sovrastante. In nessun punto si ricollega effettivamente alla strada principale.
 >
-> Per viaggiare dall'Accampamento dello Stagno di Tser a Vallaki, i personaggi dovranno invece viaggiare verso sud, tornando verso l'Incrocio del Fiume Ivlis, quindi prendere la Vecchia Strada di Svalich verso ovest.
+> Per viaggiare dall'Accampamento della Pozza di Tser a Vallaki, i personaggi dovranno invece viaggiare verso sud, tornando verso l'Incrocio del Fiume Ivlis, quindi prendere la Vecchia Strada di Svalich verso ovest.
 
 > [!info]+ **Nessun Incontro Casuale**
 > Questa guida incorpora il materiale del modulo originale *La Maledizione di Strahd* solo per riferimento. Pertanto, ogni volta che i personaggi viaggiano, dovresti ignorare la sezione <span class="citation">Incontri Casuali (p. 28)</span> tranne dove un particolare incontro è menzionato e incorporato direttamente.
@@ -27,14 +27,14 @@ Il viaggio dal villaggio di Barovia all'Incrocio del Fiume Ivlis è lungo 5 km e
 ## C1a. Le Sentinelle Baroviane
 Mentre i personaggi viaggiano, leggi:
 
-<div class="description"><p>Partite dal silenzioso villaggio di Barovia, la nebbia che si insinua intorno ai vostri piedi mentre vi avviate sulla Vecchia Strada di Svalich. Un mare di erbe alte e verde pallido si estende davanti a voi su entrambi i lati della strada, fino al bordo del Fiume Ivlis. Il cielo sopra di voi è di un grigio opaco, le nuvole pesanti con la promessa di pioggia.</p>
-<p>Non passa molto tempo prima che possiate vedere in lontananza il vecchio ponte di pietra ad arco che attraversa il fiume limpido e azzurro davanti a voi. Attraversandolo, vi trovate su una strada fangosa che si snoda tra gli alberi. L'aria è densa dell'odore di terra umida e foglie in decomposizione, e gli alberi si stringono intorno, proiettando ombre profonde che scavano solchi scuri sulla strada.</p></div>
+<div class="description"><p>Partite dal silenzioso villaggio di Barovia, la nebbia che si insinua intorno ai vostri piedi mentre vi avviate sulla Vecchia Strada di Svalich. Un mare di erba alta e verde pallido si estende davanti a voi su entrambi i lati della strada, fino al bordo del Fiume Ivlis. Il cielo sopra di voi è di un grigio opaco, le nuvole pesanti con la promessa di pioggia.</p>
+<p>Non passa molto tempo prima che possiate vedere in lontananza il vecchio ponte di pietra ad arco che attraversa il fiume limpido e azzurro davanti a voi. Attraversandolo, vi trovate su una strada fangosa che si snoda tra gli alberi. L'aria è densa dell'odore di terra umida e foglie in decomposizione, e gli alberi vi si stringono intorno, proiettando ombre profonde che scavano solchi scuri sulla strada.</p></div>
 
 Se uno dei personaggi ha un punteggio di Saggezza (Percezione) passivo di 16 o superiore, sente un rumore di fruscio e vede una sagoma accovacciata nella boscaglia nebbiosa. Altrimenti, i personaggi sentono semplicemente una voce chiamare, ovattata e diffusa nella nebbia: "Chi va là? Identificatevi."
 
-La voce appartiene a una sentinella baroviana di nome Kereza, che è accompagnata da un'altra sentinella, un uomo di nome Korga, che i personaggi hanno già incontrato in [[Atto I - Nelle Nebbie/Arco B - Benvenuti a Barovia|Arco B - Benvenuti a Barovia]]. Dopo aver confermato che i personaggi non stanno trasportando Ireena contro la sua volontà, le sentinelle avvertono i personaggi che le spie di Strahd sono numerose nei Boschi di Svalich, inclusi lupi, pipistrelli e, a volte, gli stessi alberi. (Se interrogate sugli alberi, le sentinelle possono descrivere di aver visto viti animate, giovani alberi e cespugli di rovi che vagano per i boschi con intenti ostili.)
+La voce appartiene a una sentinella baroviana di nome Kereza, che è accompagnata da un'altra sentinella, un uomo di nome Korga, che i personaggi hanno già incontrato in [[Atto I - Nelle Nebbie/Arco B - Benvenuti in Barovia|Arco B - Benvenuti in Barovia]]. Dopo aver confermato che i personaggi non stanno trasportando Ireena contro la sua volontà, le sentinelle avvertono i personaggi che le spie di Strahd sono numerose nei Boschi di Svalich, inclusi lupi, pipistrelli e, a volte, gli stessi alberi. (Se interrogate sugli alberi, le sentinelle possono descrivere di aver visto viti animate, giovani alberi e cespugli di rovi che vagano per i boschi con intenti ostili).
 
-Se [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] è con i personaggi, può aiutarli a rassicurare le sentinelle, che la riconoscono e la salutano con rispetto. Le sentinelle sono sorprese di vedere Ireena avventurarsi fuori dal villaggio, ma concordano che Vallaki è probabilmente un posto più sicuro di Barovia, a patto che riesca a raggiungerlo in sicurezza. (Ireena insiste ostinatamente che il suo viaggio è di natura diplomatica e umanitaria, e che i personaggi sono i suoi accompagnatori e guardie del corpo.)
+Se [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] è con i personaggi, può aiutarli a rassicurare le sentinelle, che la riconoscono e la salutano con rispetto. Le sentinelle sono sorprese di vedere Ireena avventurarsi fuori dal villaggio, ma concordano che Vallaki è probabilmente un posto più sicuro di Barovia, a patto che riesca a raggiungerlo in sicurezza. (Ireena insiste ostinatamente che il suo viaggio è di natura diplomatica e umanitaria, e che i personaggi sono i suoi accompagnatori e guardie del corpo).
 
 Le sentinelle stanno cercando la famiglia Lansten: due genitori e tre bambini piccoli—una ragazza e due ragazzi—che sono scomparsi durante l'attacco degli zombi al villaggio e non sono stati più visti. Dopo aver chiesto se i personaggi li hanno visti durante il viaggio, le sentinelle li avvertono di non allontanarsi dalla strada, notando che cose morte e oscure si nascondono sotto le cime degli alberi. Kereza e Korga poi si congedano rispettosamente.
 
@@ -49,10 +49,13 @@ Mentre attraversano questa sezione della Vecchia Strada di Svalich, i personaggi
 Se i personaggi hanno ricevuto la posizione del deposito di armi nascosto di Van Richten da Doru nella chiesa di Barovia, possono entrare nei boschi a sud per trovarlo. Se lo fanno, leggi:
 
 <div class="description">
-<p>Abbandonate la strada e vi immergete nei boschi, varcando la soglia silenziosa degli alberi. I vostri passi affondano nel fango intriso di umidità e nel terreno molle, carico di humus e decomposizione. La nebbia, fredda e spessa, si avvolge intorno a voi come dita spettrali, mentre gli alberi contorti protendono i loro rami nodosi sopra le vostre teste, come a volervi trattenere. Una luce grigia e smorzata filtra appena attraverso la chioma, facendo tremolare le ombre.</p>
-<p>Avanzate in silenzio per trecento passi, ogni movimento ovattato dal tappeto di foglie morte e dalla nebbia che sembra sussurrare antichi segreti. Infine, i boschi si aprono, rivelando una radura immersa in un silenzio irreale. Al centro, si erge una quercia solitaria, altissima e vetusta, il suo tronco scuro e rugoso come pelle bruciata dal tempo, torreggiante sopra le altre piante come un idolo dimenticato.</p>
-<p>Ma non siete soli.</p>
-<p>Cinque figure si muovono lentamente nella radura — o restano immobili, come dimenticate dal tempo. I loro abiti sono laceri, incrostati di fango, e la loro carne ha cominciato a perdere ogni parvenza di vita, sbiadendo in un grigiore malsano. Nessuna parola, nessun suono: solo una presenza inquietante che si insinua sotto la pelle, come un presagio.</p>
+  <p>Lasciate il sentiero e vi inoltrate nel cuore del bosco, varcando la soglia silenziosa degli alberi. I vostri passi affondano nel fango impregnato d’umidità, su un suolo molle e intriso dell’odore pungente di decomposizione. La nebbia, fredda e densa, si avvolge attorno a voi come mani spettrali, mentre i rami contorti degli alberi si curvano sopra le vostre teste, quasi a sbarrare il cammino. Una luce grigia e ovattata filtra a fatica tra le chiome, facendo danzare le ombre come presagi inquieti.</p>
+
+  <p>Procedete in silenzio per trecento passi, i suoni ovattati dal tappeto di foglie morte e dalla coltre nebbiosa che sembra bisbigliare parole dimenticate. Infine, il bosco si dirada, lasciando spazio a una radura avvolta in un silenzio irreale. Al centro, si staglia una quercia solitaria, antica e imponente: il suo tronco, scuro e solcato dal tempo, si erge come una reliquia di epoche perdute, dominando ogni altra forma di vita attorno a sé.</p>
+
+  <p>Ma non siete soli.</p>
+
+  <p>Cinque figure si aggirano nella radura — o forse restano ferme, pietrificate dal tempo. I loro abiti sono logori, imbrattati di fango, e la loro carne sbiadita tradisce una corruzione innaturale, virata al grigio della morte. Non un suono, non un respiro: soltanto quella presenza muta e sinistra, che si insinua nei vostri pensieri come un presagio oscuro.</p>
 </div>
 
 Le cinque figure sono **zombi**. Corrispondono anche alle descrizioni della famiglia Lansten fornite dalle sentinelle: due genitori, una giovane ragazza e due giovani ragazzi.
@@ -65,12 +68,15 @@ Se i personaggi raggiungono la quercia, possono trovare il deposito di armi di V
 
 Mentre i personaggi si avvicinano a questa area, la pioggerella si ferma. Leggi:
 
-<div class="description"><p>Presto il fiume svanisce dietro una curva, inghiottito ancora una volta dal fitto abbraccio dei boschi oscuri che tornano a chiudersi attorno alla strada, come mura vive di ombra e silenzio. Ma infine, quasi all’improvviso, gli alberi si diradano, ritraendosi come se temessero ciò che si cela oltre. Davanti a voi si apre una visione spettrale: una scogliera alta e frastagliata si erge alla base di un pendio montuoso avvolto dalla nebbia.</p>
-<p>L’aria è gelida, pregna di umidità, e ogni respiro si condensa come fumo nell’aria immobile. Sottili veli di nebbia serpeggiano ai piedi della scogliera, danzando lenti e inquieti come anime perdute, accarezzando la pietra con dita invisibili.</p></div>
+<div class="description">
+  <p>Il fiume scompare dietro una curva, inghiottito ancora una volta dall’abbraccio fitto dei boschi oscuri, che si richiudono attorno alla strada come mura vive fatte d’ombra e silenzio. Poi, quasi all’improvviso, gli alberi si aprono, ritraendosi come se esitassero a proseguire. Davanti a voi si spalanca una scena spettrale: una scogliera alta e irregolare si innalza ai piedi di un pendio montuoso, avvolto nella nebbia.</p>
+
+  <p>L’aria è fredda, carica d’umidità, e ogni respiro si trasforma in fumo nella quiete immobile. Filamenti di nebbia strisciano alla base della scogliera, danzando lenti e inquieti come spiriti smarriti, sfiorando la roccia con dita invisibili.</p>
+</div>
 
 I personaggi sono arrivati all'Incrocio del Fiume Ivlis, che è in gran parte come descritto in <span class="citation">Incrocio del Fiume Ivlis (p. 35)</span>. Non controllare per un incontro casuale quando i personaggi arrivano.
 
-Questa scena inizia in modo simile a <span class="citation">Incrocio del Fiume Ivlis (p. 35)</span>. Tuttavia, la prima volta che i personaggi si muovono per partire verso lo Stagno di Tser, invece di vedere **L'Impiccato**, possono sentire il suono di una carrozza trainata da cavalli o di un carro che si avvicina attraverso la nebbia. Quasi subito dopo il suono, appare la carrozza nera di Strahd, come descritto in <span class="citation">Carrozza Nera (p. 37)</span> e <span class="citation">Casa della Carrozza (p. 54)</span>.
+Questa scena inizia in modo simile a <span class="citation">Incrocio del Fiume Ivlis (p. 35)</span>. Tuttavia, la prima volta che i personaggi si muovono per partire verso la Pozza di Tser, invece di vedere **L'Impiccato**, possono sentire il suono di una carrozza trainata da cavalli o di un carro che si avvicina attraverso la nebbia. Quasi subito dopo il suono, appare la carrozza nera di Strahd, come descritto in <span class="citation">Carrozza Nera (p. 37)</span> e <span class="citation">Casa della Carrozza (p. 54)</span>.
 ## C2a. L'Arrivo di Strahd
 I personaggi possono vedere un conducente seduto sul sedile della carrozza: la **progenie vampirica** Escher, come descritto in <span class="citation">K49. Salotto (p. 70)</span>. Se presente, Ireena sussulta alla sua vista, sussurrando che pensava fosse morto.
 
@@ -81,7 +87,7 @@ I personaggi possono vedere un conducente seduto sul sedile della carrozza: la *
 La carrozza si ferma. Leggi il seguente passaggio, modificando il testo se Ireena non è presente, e facendo una breve pausa dopo ogni paragrafo per permettere ai personaggi di agire o reagire:
 
 <div class="description"><p>Il cocchiere lascia lentamente le redini, come se sciogliesse un vincolo invisibile, poi scende dal suo scranno con movimenti misurati. Senza dire una parola, si avvicina al fianco della carrozza e, con un gesto solenne, apre la portiera. Si inchina profondamente, il cappello abbassato, come davanti a qualcosa che non osa guardare. Segue un istante di silenzio sospeso—quasi irreale—prima che una figura emerga dall’oscurità dell’interno. Un uomo discende dalla carrozza, e con lui pare scendere anche un’ombra più densa, come se la notte stessa si fosse fatta carne.</p>
-<p>È alto e slanciato, con l’aspetto raffinato di un uomo dal portamento aristocratico, quasi regale. Un mantello nero, avvolto con cura attorno alle spalle, è fissato al collo da una spilla color sangue. Al suo fianco riposa una spada lunga, custodita nel fodero, la cui elsa lucente cattura i riflessi della luce fioca. Indossa una tunica scarlatta finemente decorata con motivi intricati, mentre i capelli, pettinati con precisione e tirati all'indietro, formano una perfetta V sulla fronte, quasi un marchio naturale.</p><p>I suoi occhi, scuri come pozzi senza fondo, osservano con calma predatoria. Quando solleva una mano per sistemare il rubino che gli adorna il collo, notate le dita affusolate, terminanti in unghie lunghe e affilate come artigli cesellati con cura. È solo allora che vi accorgete della sua pelle: incredibilmente pallida, quasi traslucida, come se la luce stessa esitasse a toccarla. E nei suoi occhi—quegli occhi abissali—brilla una fame antica, intelligente, affilata come una lama nascosta nel velluto.</p></div>
+<p>È alto e slanciato, con l’aspetto raffinato di un uomo dal portamento aristocratico, quasi regale. Un mantello nero, avvolto con cura attorno alle spalle, è fissato al collo da una spilla color sangue. Al suo fianco pende una spada lunga, custodita nel fodero, la cui elsa lucente cattura i riflessi della luce fioca. Indossa una tunica scarlatta finemente decorata con motivi intricati, mentre i capelli, pettinati con precisione e tirati all'indietro, formano una perfetta V sulla fronte, quasi un marchio naturale.</p><p>I suoi occhi, scuri come pozzi senza fondo, osservano con calma predatoria. Quando solleva una mano per sistemare il rubino che gli adorna il collo, notate le dita affusolate, terminanti in unghie lunghe e affilate come artigli cesellati con cura. È solo allora che vi accorgete della sua pelle: incredibilmente pallida, quasi traslucida, come se la luce stessa esitasse a toccarla. E nei suoi occhi—quegli occhi abissali—brilla una fame antica, intelligente, affilata come una lama nascosta nel velluto.</p></div>
 
 Se [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] è con il gruppo, aggiungi:
 
@@ -95,7 +101,7 @@ Che Ireena sia con il gruppo o meno, aggiungi:
 
 > [!lore]+ **La Predizione di Strahd**
 >
-> Al momento dell'incontro con i personaggi, Strahd sta tornando da una visita alla tenda di Madam Eva all'Accampamento dello Stagno di Tser. Trovando il potere del Fano della Foresta difficile da controllare a causa dell'interferenza di Baba Zelenna durante il suo sonno, ha cercato il consiglio di Madam Eva nei suoi preparativi per la Grande Congiunzione. Ha ricevuto la seguente predizione:
+> Al momento dell'incontro con i personaggi, Strahd sta tornando da una visita alla tenda di Madam Eva all'Accampamento della Pozza di Tser. Trovando il potere del Fano della Foresta difficile da controllare a causa dell'interferenza di Baba Zelenna durante il suo sonno, ha cercato il consiglio di Madam Eva nei suoi preparativi per la Grande Congiunzione. Ha ricevuto la seguente predizione:
 >
 > - "Il Signore Oscuro—il padrone delle ombre, la bestia nel labirinto che strappa le sue catene."
 > - "Il Sei di Stelle, l'Evocatore—il potere che brami, una forza non domata dalle mani mortali, cruda e selvaggia con furia ardente."
@@ -113,70 +119,72 @@ Che Ireena sia con il gruppo o meno, aggiungi:
 >Strahd può essere un villain difficile e ansiogeno da interpretare. Per goderti l'esperienza, piuttosto che temerla, considera i seguenti suggerimenti:
 >
 >* **Goditi l'Invincibilità.** Strahd è l'unico PNG in tutta la campagna che (fino a quando non ottengono la *Spada del Sole*) i tuoi giocatori non possono ferire in modo significativo. I loro attacchi più forti fanno poco più che solleticarlo. I loro insulti più crudeli lo divertono semplicemente. Entra nelle scene legate a Strahd senza paura delle azioni dei giocatori.
->* **Abbraccia l'Imprevedibilità.** In ogni scena prima di [[Arco R - Le Prove del Tiranno]], Strahd non ha un obiettivo particolare e non sarà deluso se gli eventi si svolgono diversamente da come si aspettava. Rilascia qualsiasi obbligo tu senta di far concludere la scena in un modo particolare.
+>* **Abbraccia l'Imprevedibilità.** In ogni scena prima di [[Arco R - Prove della Montagna]], Strahd non ha un obiettivo particolare e non sarà deluso se gli eventi si svolgono diversamente da come si aspettava. Rilascia qualsiasi obbligo tu senta di far concludere la scena in un modo particolare.
 >* **Esplora l'Oscurità.** Strahd offre un'opportunità senza rischi di esplorare e assaporare emozioni più oscure, come l'arroganza (giustificata), la crudeltà (silenziosa) e il disprezzo (sottile). Assapora quelle emozioni e l'impatto che hanno sui tuoi giocatori.
 
 > [!abstract]+ **I Personaggi si Comportano Male**
 >
 >  Se un personaggio si comporta in modo scortese verso Strahd, lui sospira e risponde: "La mancanza di rispetto è sconveniente, specialmente di fronte al Signore della terra di cui sei solo un ospite. Ma sei straniero, e non istruito, e confuso. Ti darò un avvertimento, questa volta. Ma temo che la mia misericordia non durerà per sempre."
->  
->  La prima volta che un personaggio manca di rispetto a Strahd dopo aver ricevuto il suo avvertimento, lui sorride, alza un dito e dice: "Uno." I lupi terribili di Strahd, se non sono già emersi, escono dall'ombra e fissano il personaggio scortese. 
->  
+>
+>  La prima volta che un personaggio manca di rispetto a Strahd dopo aver ricevuto il suo avvertimento, lui sorride, alza un dito e dice: "Uno." I lupi terribili di Strahd, se non sono già emersi, escono dall'ombra e fissano il personaggio scortese.
+>
 >  La seconda volta che un personaggio manca di rispetto a Strahd, lui scuote la testa, alza due dita e dice: "Due." I lupi terribili di Strahd si avvicinano al personaggio scortese e iniziano a salivare.
->  
+>
 >  La terza volta che un personaggio manca di rispetto a Strahd, lui si acciglia. Leggi il seguente:
->  
+>
 >  <hr>
->  
+>
 > "Sembri essere sotto l'errata convinzione di essere speciale," dice Strahd. "Non lo sei. Sei un estraneo nelle mie terre, senza un grammo di rispetto o di buon senso. Mi diverte, di tanto in tanto, prendere le misure di coloro che entrano nella valle da oltre le Nebbie."
-> 
-> I suoi occhi si stringono. "Ma ho preso le tue misure, e le ho trovate carenti. Non sei coraggioso. Non sei astuto. Inviti la morte, e non sono mai stato uno che nega ai suoi sudditi un tale desiderio, per quanto sciocco. Questa ultima possibilità, te la concederò, di salvare la tua stessa vita—perché non vedo alcun valore in essa, non più di quella della creatura più umile che striscia nel fango." 
-> 
+>
+> I suoi occhi si stringono. "Ma ho preso le tue misure, e le ho trovate carenti. Non sei coraggioso. Non sei astuto. Inviti la morte, e non sono mai stato uno che nega ai suoi sudditi un tale desiderio, per quanto sciocco. Questa ultima possibilità, te la concederò, di salvare la tua stessa vita—perché non vedo alcun valore in essa, non più di quella della creatura più umile che striscia nel fango."
+>
 > Alza un terzo dito. "La prossima volta che parlerai, i miei animali ti uccideranno. Chiunque ti difenda condividerà lo stesso destino."
-> 
+>
 > <hr>
-> 
-> Se il personaggio viola l'ultimatum di Strahd, metti in pausa il gioco e rivolgiti al giocatore fuori dal personaggio. Nota che Strahd ha promesso conseguenze chiare e che le azioni del giocatore invocheranno quelle conseguenze. Fai chiaro che il personaggio del giocatore morirà; che il giocatore non avrà la possibilità di impedirlo; che qualsiasi personaggio che tenti di proteggere quel giocatore morirà anche lui; che qualsiasi personaggio che muore non sarà resuscitato; e che se l'intero gruppo muore, la campagna finirà immediatamente. 
-> 
+>
+> Se il personaggio viola l'ultimatum di Strahd, metti in pausa il gioco e rivolgiti al giocatore fuori dal personaggio. Nota che Strahd ha promesso conseguenze chiare e che le azioni del giocatore invocheranno quelle conseguenze. Fai chiaro che il personaggio del giocatore morirà; che il giocatore non avrà la possibilità di impedirlo; che qualsiasi personaggio che tenti di proteggere quel giocatore morirà anche lui; che qualsiasi personaggio che muore non sarà resuscitato; e che se l'intero gruppo muore, la campagna finirà immediatamente.
+>
 > Se il giocatore conferma la sua decisione, riprendi il gioco. I lupi terribili di Strahd attaccano quindi quel giocatore. Se uno o tutti gli altri giocatori non interferiscono, Strahd continua la sua conversazione con loro, indisturbato.
 
 > [!abstract]+ **Fuga**
 > Se, in qualsiasi momento durante l'incontro, i personaggi si muovono per fuggire, leggi:
-> 
+>
 > <hr>
-> 
+>
 > Da dietro Strahd, sentite un coro di ringhi feroci e bassi. Più coppie di occhi brillano dalla boscaglia—ognuno all'altezza della spalla di un uomo.
-> 
-> Lentamente, dall'ombra, si avvicina un branco di lupi massicci, ognuno alto come un cavallo e due volte muscoloso, lungo nove piedi dalla testa ai fianchi. Il loro pelo è spesso, grigio maculato, e la saliva gocciola dai loro denti gialli e affilati.
-> 
+>
+> Lentamente, dall'ombra, si avvicina un branco di lupi massicci, ognuno alto come un cavallo e due volte muscoloso, lungo tre metri dalla testa ai fianchi. Il loro pelo è spesso, grigio maculato, e la saliva gocciola dai loro denti gialli e affilati.
+>
 > Prendono posizione dietro e intorno a Strahd, fiancheggiandolo come una guardia d'onore nobile.
-> 
+>
 > "Dovete perdonare i miei animali," dice Strahd. "Possono essere . . . **entusiasti** alla vista di nuovi amici."
-> 
+>
 > <hr>
-> 
+>
 > I lupi sono **lupi terribili**, come descritto in <span class="citation">Lupi Terribili (p. 30)</span>. (Il numero di lupi terribili nel branco è uguale al numero di giocatori nel gruppo.)
-> 
-> Se i personaggi sembrano aver bisogno di ulteriori persuasione, i lupi terribili avanzano, ringhiando con il pelo ritto. Se i personaggi procedono a fuggire, i lupi attaccano.
+>
+> Se i personaggi sembrano aver bisogno di ulteriore persuasione, i lupi terribili avanzano, ringhiando con il pelo ritto. Se i personaggi procedono a fuggire, i lupi attaccano.
 
 > [!abstract]+ **Sfida a Strahd**
 > Se, in qualsiasi momento durante l'incontro, un personaggio sfida Strahd o insiste che deve essere sconfitto, Strahd sorride, ammette di non essere mai stato uno che rifiuta una sfida, e invita il personaggio a sconfiggerlo—proprio qui, proprio ora—se può. Promette di non fare alcuno sforzo per fermarli per i primi trenta secondi del loro assalto.
-> 
+>
 > Se il personaggio rifiuta, Strahd lo liquida come un codardo, notando con delusione, "Un peccato. Avevo sperato in meglio." Se il personaggio accetta, Strahd permette loro di attaccarlo per cinque round completi. Durante questo tempo, ogni attacco che il personaggio fa contro Strahd colpisce automaticamente, e Strahd fallisce automaticamente tutti i tiri salvezza di Forza e Destrezza.
-> 
-> Quando i cinque round sono trascorsi, Strahd dice, "Determinazione impressionante—sebbene alla fine futile." Aggiunge, "Ora, vediamo come te la cavi quando il vero gioco inizia." 
-> 
-> Assumendo la sua forma di [[Strahd von Zarovich#Il Mago|Mago]], Strahd lancia ***presa telecinetica*** ogni round per sospendere il personaggio in aria sopra di lui, e lancia ***cecità/sordità*** come reazione ogni volta che il personaggio fa un attacco in mischia contro di lui. La prima volta che il personaggio fallisce il suo tiro salvezza contro ***presa telecinetica***, dice, "Scappa se puoi." Aggiunge poi, in tono più basso: "Ma se ti trovi mancante, una semplice supplica di misericordia ti libererà dalla tua situazione."
-> 
+>
+> Quando i cinque round sono trascorsi, Strahd dice, "Determinazione impressionante—sebbene alla fine futile." Aggiunge, "Ora, vediamo come te la cavi quando il vero gioco inizia."
+>
+> Assumendo la sua forma di [[Strahd von Zarovich#Il Mago|Mago]], Strahd lancia ***presa telecinetica*** ogni round per sospendere il personaggio in aria sopra di lui, e lancia ***cecità/sordità*** come reazione ogni volta che il personaggio fa un attacco in mischia contro di lui. La prima volta che il personaggio fallisce il suo tiro salvezza contro ***presa telecinetica***, dice, "Scappa se puoi." Aggiunge poi, in tono più basso: "Ma se ti senti mancare, una semplice supplica di misericordia ti libererà dalla tua situazione."
+>
 > La prima volta che il personaggio riesce nel suo tiro salvezza contro ***presa telecinetica***, Strahd applaude la sua tenacia, poi chiede se sceglierà di continuare a combattere. (Se lo fa, continua a combattere usando il suo intero blocco di statistiche da Mago.)
-> 
+>
 > Se il personaggio chiede di essere liberato dalla ***presa telecinetica*** di Strahd, lo fa senza indugio. "La saggezza sta nel riconoscere i propri limiti," nota. "Ricorda questo momento—perché la prossima volta, potrei non essere così generoso."
-> 
+>
 > Se il personaggio viene reso incosciente dalla ***presa telecinetica*** di Strahd, si accovaccia accanto a lui, sussurrando: "Hai combattuto coraggiosamente, ma anche il più grande guerriero non può resistere all'inevitabile. Riposa ora, confortato dalla consapevolezza che mi hai intrattenuto." Poi si rivolge al resto del gruppo e li invita a prendersi cura del loro compagno ferito.
+
 ## C2b. Inizia la Conversazione
+
 Se non distratto, [[Strahd von Zarovich#Il Gentiluomo|Strahd]] saluta ciascuno dei personaggi individualmente—per nome, se le sue spie hanno avuto la possibilità di impararli e riferirglieli. Mentre lo fa, fa un commento personale riguardo alla specie di ciascun personaggio, alla classe (se evidente dal loro equipaggiamento o abbigliamento) e/o alla personalità (se riportata dalle sue spie). Se possibile, incornicia ogni commento sotto forma di complimento, osservazione simpatica o (con parsimonia) minaccia eccezionalmente velata.
 
-Se [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] è presente, Strahd chiede poi se "Lady Kolyana" li ha presentati adeguatamente al suo dominio, e si scusa per eventuali "racconti popolari" che i suoi sudditi potrebbero aver condiviso su di lui. 
+Se [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] è presente, Strahd chiede poi se "Lady Kolyana" li ha presentati adeguatamente al suo dominio, e si scusa per eventuali "racconti popolari" che i suoi sudditi potrebbero aver condiviso su di lui.
 
 (Tuttavia, non nega il suo attacco al villaggio di Barovia, notando solo che gli abitanti del villaggio lo hanno sfidato in un atto di estremo tradimento. "Sono certo che possiate capire che la mia reazione è stata del tutto equilibrata," afferma.
 "In fondo, nessun signore potrebbe tollerare un villaggio che incoraggia la ribellione. La gente di Barovia aveva bisogno di una lezione. Imporre loro la disciplina è stato, in realtà, un atto di clemenza che pochi altri avrebbero concesso.")
@@ -189,7 +197,9 @@ Se i personaggi chiedono del conducente di Strahd, Strahd lo presenta come Esche
 
 > [!abstract]+ **Richiesta di Libertà**
 > Se i personaggi chiedono se Strahd li ha intenzionalmente intrappolati a Barovia, lui nega sinceramente di averlo fatto. Se gli viene chiesto di liberarli, tuttavia, rifiuta di farlo. "Perché dovrei liberarvi," dice, con un sorriso ironico, "quando mi diverte fare altrimenti?"
+
 ## C2c. Le Domande di Strahd
+
 Durante la conversazione, nei momenti in cui sembra naturale farlo, [[Strahd von Zarovich#Il Gentiluomo|Strahd]] pone ai personaggi le seguenti domande (in nessun ordine particolare):
 
 * "Ismark Kolyanovich mi ha sfidato ostacolando la giustizia che ho inflitto al suo villaggio. Perché dovrei, come suo signore, non punirlo per la sua slealtà?"
@@ -201,13 +211,15 @@ Se i personaggi hanno seppellito le ossa di Walter e hanno messo a riposo gli sp
 * "Immediatamente prima del vostro ingresso nelle mie terre, avete causato grandi danni a un gruppo dei miei servitori—gli occupanti di una particolare casa ai confini del mio dominio. Mi ero affidato a quei servitori per portarmi esemplari di interesse, ma le vostre attività li hanno lasciati indisposti a tempo indeterminato. Perché non dovrei punirvi per i vostri crimini contro di loro?"
 
 Strahd incornicia ciascuna di queste domande come un'ipotesi. Nel porle, il suo tono è inquisitivo, curioso e almeno in parte divertito. Se i personaggi disperano alla prospettiva di rispondere a queste domande, Strahd nota, "Non sono un uomo irragionevole. Se c'è qualche motivo o ragionamento che potrei aver perso, allora per favore illuminatemi."
+
 ## C2d. Le Concessioni di Strahd
+
 Mentre i personaggi tentano di rispondere alle sue domande, [[Strahd von Zarovich#Il Gentiluomo|Strahd]] si diverte a fare l'avvocato del diavolo, spingendo contro le loro risposte e sondando i buchi nel loro ragionamento. Alla fine, però, se i punti dei personaggi sono almeno ragionevolmente ben argomentati, Strahd è disposto ad accettarli. (Dovrebbe essere abbastanza chiaro ai personaggi, tuttavia, che li sta semplicemente assecondando accettando le loro risposte.)
 
 I personaggi possono spingere Strahd a fare le seguenti concessioni:
 
 * Accetta di trascurare le trasgressioni di Ismark, a patto che Ismark non lo sfidi o agisca contro la sua volontà di nuovo.
-* Accetta di permettere a Ireena di lasciare l'Incrocio del Fiume Ivlis in sicurezza. (Strahd non concederà un periodo di grazia più lungo di quello.) 
+* Accetta di permettere a Ireena di lasciare l'Incrocio del Fiume Ivlis in sicurezza. (Strahd non concederà un periodo di grazia più lungo di quello.)
 * Accetta di astenersi dal giudicare i personaggi a meno che non prendano azioni direttamente contro la sua persona.
 * Accetta di perdonare i personaggi per le loro trasgressioni contro il culto della Casa della Morte.
 
@@ -215,23 +227,27 @@ I personaggi potrebbero riuscire a ottenere queste concessioni utilizzando una v
 
 * I personaggi hanno promesso a Ismark che scorteranno Ireena a Vallaki e devono essere autorizzati a mantenere la loro parola.
 * I personaggi non hanno preso alcuna azione ostile contro Strahd e dovrebbero essere concessi una presunzione di innocenza.
-* Le azioni dei personaggi nella Casa della Morte sono state condotte per legittima difesa e quindi dovrebbero essere scusate. 
+* Le azioni dei personaggi nella Casa della Morte sono state condotte per legittima difesa e quindi dovrebbero essere scusate.
 
 Se i personaggi sembrano dubitare della fedeltà di Strahd alle sue concessioni, [promette](https://www.reddit.com/r/CurseofStrahd/comments/e99hko/an_anthology_of_strahds_taunts_and_quips/), "Non temete, cari bambini. Non sono un bugiardo. Sappiamo entrambi che l'inganno è per i deboli."
 
 Quando i personaggi hanno risposto a tutte le domande di Strahd a sua soddisfazione, li saluta e torna nella carrozza nera.
 
 Mentre lo fa, i **lupi terribili** di Strahd—compresi uno per ogni personaggio più Ireena—emergono dai boschi, se non l'hanno già fatto, e si muovono per fiancheggiare la carrozza. Strahd nota che lui e i suoi "amici" vedranno di nuovo i personaggi—forse molto presto. La carrozza e i lupi poi partono per il Castello Ravenloft.
+
 ## C2e. Partenza dall'Incrocio
+
 Mentre i personaggi si muovono per partire dall'Incrocio del Fiume Ivlis dopo che Strahd se n'è andato, incontrano <span class="citation">L'Impiccato (p. 35)</span>. Il personaggio impiccato dovrebbe essere quello che è stato più scortese con Strahd o il meno collaborativo con le sue domande.
+
 # C3. La Strige
-A metà strada dal sentiero dall'Incrocio del Fiume Ivlis all'Accampamento dello Stagno di Tser, i personaggi sentono il suono di un uccello in difficoltà che gracchia dall'alto. Un corvo con le ali blu—riconoscibile come lo stesso corvo che li ha incontrati nel villaggio di Barovia—si schianta sulla strada ai piedi dei personaggi, visibilmente ferito. Questo è, ancora una volta, il **corvo mannaro** Muriel, in travestimento con 1 punto ferita. Le sue ali e il suo torso sono stati penetrati da diverse dozzine di spine d'argento, lasciandola incapace di volare, rigenerarsi o trasformarsi fino a quando non vengono rimosse.
+
+A metà strada dal sentiero dall'Incrocio del Fiume Ivlis all'Accampamento della Pozza di Tser, i personaggi sentono il suono di un uccello in difficoltà che gracchia dall'alto. Un corvo con le ali blu—riconoscibile come lo stesso corvo che li ha incontrati nel villaggio di Barovia—si schianta sulla strada ai piedi dei personaggi, visibilmente ferito. Questo è, ancora una volta, il **corvo mannaro** Muriel, in travestimento con 1 punto ferita. Le sue ali e il suo torso sono stati penetrati da diverse dozzine di spine d'argento, lasciandola incapace di volare, rigenerarsi o trasformarsi fino a quando non vengono rimosse.
 
 > [!info]+ **NPG moribondi**
 >
 > Come indicato in Mostri e Morte (<span class="citation">Manuale del Giocatore, p. 198</span>), i personaggi non giocanti alleati—come Muriel Vinshaw e qualsiasi altro PNG che combatta al fianco dei giocatori—dovrebbero cadere proni e incoscienti quando vengono ridotti a 0 punti ferita. Quando ciò accade, seguono le stesse regole per i tiri salvezza contro la morte dei personaggi giocanti, descritte ulteriormente in Tiri Salvezza contro la Morte (<span class="citation">Manuale del Giocatore, p. 197</span>).
 
-L'arrivo del corvo è seguito poco dopo da un terribile stridio e dall'arrivo di una **strige maggiore**: un grande "uccello" artificiale fatto di legno, pelli di animali, iuta e centinaia di piume di corvo nere. 
+L'arrivo del corvo è seguito poco dopo da un terribile stridio e dall'arrivo di una **strige maggiore**: un grande "uccello" artificiale fatto di legno, pelli di animali, iuta e centinaia di piume di corvo nere.
 
 La **strige maggiore** usa le statistiche di una **manticora**, ma è di taglia Media e ha vulnerabilità ai danni da fuoco. Invece di vere e proprie spine caudali, l'attacco **_spine caudali_** della strige maggiore rilascia una raffica di dozzine di piccole spine d'argento dalle sue ali.
 
@@ -242,7 +258,7 @@ La strige maggiore è accompagnata da due **sciami di strigi minori** (ognuno us
 
 > [!combat]- **Bilanciamento della Strige**
 > Questo incontro di combattimento è un incontro **bruising** contro un gruppo di cinque personaggi di 3° livello e un alleato di CR 1 (Ireena Kolyana), e consumerà circa il 34% dei loro punti ferita massimi totali. Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue:
-> 
+>
 > * ***Tre Giocatori.*** Riduci i punti ferita della strige maggiore a 46. Riduci i danni degli attacchi ***spina caudale*** e ***morso*** a 5 (1d6+2) danni perforanti e i danni dell'attacco ***artiglio*** a 4 (1d4+2) danni taglienti. Riduci il numero di sciami di strigi minori a uno e riduci i punti ferita dello sciame a 16 e i danni dell'attacco ***morso*** a 5 (2d4) danni perforanti o 2 (2d4) danni perforanti se ha metà dei suoi punti ferita rimanenti o meno.
 > * ***Quattro Giocatori.*** Riduci il numero di sciami di strigi minori a uno.
 > * ***Sei Giocatori.*** Aumenta il numero di sciami di strigi minori a tre.
@@ -254,61 +270,61 @@ Queste abominazioni sono state costruite dalla strega Baba Lysaga per cacciare i
 
 Se salvata, Muriel rimane con i personaggi fino a quando non riesce a discernere le loro intenzioni. Un personaggio può rimuovere le spine d'argento dal suo corpo e dalle sue ali con una prova di Saggezza (Medicina) CD 15, riducendola a 0 punti ferita e facendola cadere priva di sensi in caso di fallimento. Una volta rimosse le spine, tuttavia, la rigenerazione di Muriel ritorna immediatamente, guarendo le sue ferite in pochi secondi.
 
-<div class="statblock"> 
-<h2>Muriel Vinshaw</h2> 
-<em>Umanoide Medio (umano, mutaforma), caotico buono</em> 
-<hr> 
-<strong>Classe Armatura</strong> 14 (armatura di cuoio) 
-<br> 
-<strong>Punti Ferita</strong> 63 (14d8) 
-<br> 
-<strong>Velocità</strong> 30 ft., volare 50 ft. in forma di corvo e ibrida 
-<hr> 
-<table class="ability-table"> 
-  <thead> 
-    <tr> 
-<th>FOR</th> 
-<th>DES</th> 
-<th>COS</th> 
-<th>INT</th> 
-<th>SAG</th> 
-<th>CAR</th> 
-</tr> 
-</thead> 
-<tbody> 
-<tr> 
-<td>10 (+0)</td> 
-<td>16 (+3)</td> 
-<td>11 (+0)</td> 
-<td>13 (+1)</td> 
-<td>15 (+2)</td> 
-<td>14 (+2)</td> 
-</tr> 
-</tbody> 
-</table> 
-<hr> 
+<div class="statblock">
+<h2>Muriel Vinshaw</h2>
+<em>Umanoide Medio (umano, mutaforma), caotico buono</em>
+<hr>
+<strong>Classe Armatura</strong> 14 (armatura di cuoio)
+<br>
+<strong>Punti Ferita</strong> 63 (14d8)
+<br>
+<strong>Velocità</strong> 30 ft., volare 50 ft. in forma di corvo e ibrida
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+<th>FOR</th>
+<th>DES</th>
+<th>COS</th>
+<th>INT</th>
+<th>SAG</th>
+<th>CAR</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10 (+0)</td>
+<td>16 (+3)</td>
+<td>11 (+0)</td>
+<td>13 (+1)</td>
+<td>15 (+2)</td>
+<td>14 (+2)</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <strong>Abilità</strong> Intuizione +4, Percezione +6
-<br> 
+<br>
 <strong>Sensi</strong> Percezione passiva 16
-<br> 
+<br>
 <strong>Linguaggi</strong> Comune (non può parlare in forma di corvo)
-<br> 
+<br>
 <strong>Grado di Sfida</strong> 2 (450 PE)
-<br> 
+<br>
 <strong>Bonus di Competenza</strong> +2
-<br> 
-<hr> 
-<p><strong><em>Rigenerazione.</em></strong>  Muriel recupera 10 punti ferita all'inizio del suo turno se non ha subito danni necrotici o danni contundenti, perforanti o taglienti da un'arma d'argento dall'ultimo turno.</p> 
-<p><strong><em>Imitazione.</em></strong> Muriel può imitare suoni semplici che ha sentito, come una persona che sussurra, un bambino che piange o un animale che cinguetta. Una creatura che sente i suoni può capire che sono imitazioni con una prova di Saggezza (Intuizione) CD 10.</p> 
+<br>
+<hr>
+<p><strong><em>Rigenerazione.</em></strong>  Muriel recupera 10 punti ferita all'inizio del suo turno se non ha subito danni necrotici o danni contundenti, perforanti o taglienti da un'arma d'argento dall'ultimo turno.</p>
+<p><strong><em>Imitazione.</em></strong> Muriel può imitare suoni semplici che ha sentito, come una persona che sussurra, un bambino che piange o un animale che cinguetta. Una creatura che sente i suoni può capire che sono imitazioni con una prova di Saggezza (Intuizione) CD 10.</p>
 <p><strong><em>Caduta.</em></strong> Se Muriel vola per almeno 6 metri dritta verso un bersaglio mentre scende di almeno 1,5 metri verso il suolo, e poi colpisce quel bersaglio con un attacco con spada corta nello stesso turno, il bersaglio subisce un danno perforante extra di 7 (2d6). Se il bersaglio è una creatura, deve superare un tiro salvezza di Forza CD 12 o essere atterrato prono.</p>
-<h3>Azioni</h3> 
-<p><strong><em>Multiattacco.</em></strong> Muriel effettua due attacchi con armi, uno dei quali può essere con la sua balestra a mano.</p> 
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Muriel effettua due attacchi con armi, uno dei quali può essere con la sua balestra a mano.</p>
 <p><strong><em>Spada corta.</em></strong> (Solo in forma umanoide o ibrida) <em>Attacco con Arma da Mischia</em>: +5 a colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti.</p>
 <p><strong><em>Balestra a mano.</em></strong> (Solo in forma umanoide o ibrida) <em>Attacco con Arma a Distanza</em>: +5 a colpire, portata 30/120 ft., un bersaglio. <em>Colpito:</em> 5 (1d6 + 3) danni perforanti.</p>
 <p><strong><em>Becco.</em></strong> (Solo in forma di corvo o ibrida) <em>Attacco con Arma da Mischia</em>: +5 a colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 1 danno perforante in forma di corvo, o 5 (1d4 + 3) danni perforanti in forma ibrida. Se il bersaglio è un umanoide, deve superare un tiro salvezza di Costituzione CD 10 o essere maledetto con la licantropia del corvo mannaro.</p>
-<h3>Azioni Bonus</h3> 
-<p><strong><em>Cambiamento di Forma.</em></strong> Muriel si trasforma in un ibrido corvo-umanoide o in un corvo, o torna alla sua forma umana. Le sue statistiche, a parte la sua taglia, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato. Torna alla sua forma umana se muore.</p> 
-<h3>Reazioni</h3> 
+<h3>Azioni Bonus</h3>
+<p><strong><em>Cambiamento di Forma.</em></strong> Muriel si trasforma in un ibrido corvo-umanoide o in un corvo, o torna alla sua forma umana. Le sue statistiche, a parte la sua taglia, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato. Torna alla sua forma umana se muore.</p>
+<h3>Reazioni</h3>
 <p><strong><em>Interposizione.</em></strong> Quando una creatura che Muriel può vedere colpisce un altro bersaglio entro 5 piedi da Muriel con un attacco, può usare la sua reazione per subire il danno al posto del bersaglio.</p>
 </div>
 
@@ -316,9 +332,9 @@ Se scopre che i personaggi intendono viaggiare verso Vallaki, Muriel viaggia con
 
 > [!info]+ **Muriel in Incognito**
 > Mentre viaggia con i personaggi, Muriel cerca di non dare nell'occhio, pur cercando di ingraziarsi il gruppo. Mentre è in forma di corvo, i personaggi possono comunicare con lei solo usando l'incantesimo *parlare con gli animali*, anche se nega qualsiasi conoscenza di Strahd o delle origini della strige, fingendosi un comune corvo dalla mente semplice, interessato solo al cibo e ad evitare i predatori. Se le viene chiesto il suo nome, si presenta con entusiasmo come  "Blu", e diventa sempre più ostinata se incalzata con ulteriori domande.
-> 
+>
 > Mentre accompagna il gruppo, Muriel può usare la sua caratteristica ***imitazione*** per produrre uno qualsiasi dei seguenti suoni per suggerire o reagire ai personaggi:
-> 
+>
 > * **Fischio.** Per segnalare segretezza o cautela.
 > * **Russare.** Per segnalare noia.
 > * **Risata.** Per segnalare divertimento.
@@ -326,21 +342,21 @@ Se scopre che i personaggi intendono viaggiare verso Vallaki, Muriel viaggia con
 > * **Clic (come una chiave che gira).** Per applaudire una soluzione a un problema.
 > * **Tromba.** Per celebrare una vittoria o un risultato.
 
-# C4. Lo Stagno di Tser
+# C4. La Pozza di Tser
 <span class="citation"><em>Questa scena si svolge nel Capitolo 2: Area G.</em></span>
 
-Il viaggio dall'Incrocio del Fiume Ivlis all'Accampamento di Stagno di Tser è lungo 2,5 km e dura trenta minuti.
+Il viaggio dall'Incrocio del Fiume Ivlis all'Accampamento della Pozza di Tser è lungo 2,5 km e dura trenta minuti.
 
 > [!warning]+ **Avviso di Nuovo Contenuto**
-> Nell'aggiornamento v2.0.8, aggiunto il **18 luglio 2024**, l'invito di Madam Eva in [[Atto I - Nelle Nebbie/Arco B - Benvenuti a Barovia]] è stato rimosso. Al suo posto, Ismark Kolyanovich ora chiede ai personaggi di recarsi allo Stagno di Tser e cercare la guida di Madam Eva su come sconfiggere Strahd. I Dungeon Master che hanno utilizzato la vecchia versione dell'Arco B dovrebbero invece utilizzare la [[Materiale Deprecato/Arco C - Nella Valle#C4. Stagno di Tser|versione deprecata di questa scena]]. (Tutte le altre scene in questo arco, a partire da [[#C5. Il Cavaliere Scheletrico]], rimangono invariate.)
-## C4a. Arrivo allo Stagno di Tser
-Quest'area è in gran parte come descritto in <span class="citation">G. Accampamento di Stagno di Tser (p. 36)</span>. Tuttavia, nessuno dei Vistani nel campo è ubriaco, e solo uno—una donna Vistana di nome Eliza—serve come spia per Strahd.
+> Nell'aggiornamento v2.0.8, aggiunto il **18 luglio 2024**, l'invito di Madam Eva in [[Atto I - Nelle Nebbie/Arco B - Benvenuti a Barovia]] è stato rimosso. Al suo posto, Ismark Kolyanovich ora chiede ai personaggi di recarsi alla Pozza di Tser e cercare la guida di Madam Eva su come sconfiggere Strahd. I Dungeon Master che hanno utilizzato la vecchia versione dell'Arco B dovrebbero invece utilizzare la [[Materiale Deprecato/Arco C - Nella Valle#C4. Pozza di Tser|versione deprecata di questa scena]]. (Tutte le altre scene in questo arco, a partire da [[#C5. Il Cavaliere Scheletrico]], rimangono invariate.)
+## C4a. Arrivo alla Pozza di Tser
+Quest'area è in gran parte come descritto in <span class="citation">G. Accampamento della Pozza di Tser (p. 36)</span>. Tuttavia, nessuno dei Vistani nel campo è ubriaco, e solo uno—una donna Vistana di nome Eliza—serve come spia per Strahd.
 
 Quando i personaggi entrano nel campo, vengono accolti da Stanimir, un vecchio Vistano che li informa che il leader del loro accampamento, Madam Eva, li sta aspettando e li indirizza verso la tenda di Eva. Stanimir, un vecchio gioviale e colorato con un luccichio negli occhi, è in gran parte come descritto in <span class="citation">Visitatori Misteriosi (p. 19)</span>. Tuttavia, ha preparato l'incantesimo *immagine maggiore* piuttosto che *tocco vampirico*.
 
 Stanimir è felice di rispondere a qualsiasi domanda che i personaggi possano avere sui Vistani o su Barovia, come descritto in <span class="citation">Lore dei Vistani (p. 27)</span>. Le uniche eccezioni sono le informazioni sui Baroviani senza anima, che non esistono, e il Vecchio Macinaossa, che Stanimir non menziona. Inoltre, Stanimir e gli altri Vistani non sanno che una congrega di **streghe notturne** ha recentemente preso dimora nel vecchio mulino a vento, che conoscono solo come il Vecchio Mulino Durst. I Vistani non menzionano nemmeno le maledizioni vistane, che sono solo superstizioni, e descrivono l'interesse di Strahd per Tatyana come "vero desiderio," piuttosto che "vero amore."
 
-Tuttavia, Stanimir non discuterà degli affari di Strahd allo Stagno di Tser. Invece, condivide la sua convinzione che Strahd non tornerà presto e rassicura i personaggi che qualsiasi cosa discussa durante il loro incontro con Madam Eva non raggiungerà le orecchie del vampiro. 
+Tuttavia, Stanimir non discuterà degli affari di Strahd alla Pozza di Tser. Invece, condivide la sua convinzione che Strahd non tornerà presto e rassicura i personaggi che qualsiasi cosa discussa durante il loro incontro con Madam Eva non raggiungerà le orecchie del vampiro.
 
 Se i personaggi chiedono se Strahd ha ottenuto una predizione da Madam Eva, Stanimir dice loro che Madam Eva condivide i suoi doni liberamente con tutti—ma che il futuro di ciascuno è diverso e spesso difficile da discernere.
 ## C4b. La Tenda di Madam Eva
@@ -365,9 +381,9 @@ Questa scena si svolge in gran parte come descritto in <span class="citation">La
 >
 > ***Relazioni.*** Solo Madam Eva sa di essere un avatar del Cercatore.
 
-Ringrazia i personaggi per aver fatto il viaggio allo Stagno di Tser. Se le viene chiesto della visita di Strahd, dice solo che il futuro di ciascuno è proprio da conoscere e che, mentre il suo dovere la obbliga a cercare i sussurri del Destino per chiunque invochi il suo nome, è vincolata a non rivelare ciò che vede a nessun altro.
+Ringrazia i personaggi per aver fatto il viaggio alla Pozza di Tser. Se le viene chiesto della visita di Strahd, dice solo che il futuro di ciascuno è proprio da conoscere e che, mentre il suo dovere la obbliga a cercare i sussurri del Destino per chiunque invochi il suo nome, è vincolata a non rivelare ciò che vede a nessun altro.
 
-Se Muriel è con i personaggi in forma di corvo, Madam Eva la guarda con un'emozione quasi simile all'affetto e chiede di ispezionarla. Accarezza le ali di Muriel e nota che una volta aveva un corvo domestico amato di nome Turul molto tempo fa.  
+Se Muriel è con i personaggi in forma di corvo, Madam Eva la guarda con un'emozione quasi simile all'affetto e chiede di ispezionarla. Accarezza le ali di Muriel e nota che una volta aveva un corvo domestico amato di nome Turul molto tempo fa.
 
 "Non l'ho visto che una volta negli ultimi dieci anni, tuttavia," aggiunge Eva, con un po' di tristezza. "Senza dubbio, è diventato selvaggio senza di me." (Madam Eva si riferisce al **Roc di Monte Ghakis**, che la serviva quando manteneva il manto del Cercatore delle Tre Signore.)
 
@@ -385,16 +401,16 @@ Uscendo dalla tenda di Madam Eva, i personaggi trovano altri due Vistani in atte
 
 A meno che i personaggi non intervengano, la conversazione si svolge come segue:
 
-* Eliza saluta immediatamente i personaggi, dando loro un caloroso benvenuto all'Accampamento dello Stagno di Tser. 
-* Mentre Stanimir si avvicina, Eliza schiocca la lingua e lo rimprovera per la sua mancanza di ospitalità, notando che i personaggi sembrano aver viaggiato a lungo. 
+* Eliza saluta immediatamente i personaggi, dando loro un caloroso benvenuto all'Accampamento della Pozza di Tser.
+* Mentre Stanimir si avvicina, Eliza schiocca la lingua e lo rimprovera per la sua mancanza di ospitalità, notando che i personaggi sembrano aver viaggiato a lungo.
 * Stanimir ricorda divertito a Eliza che il destino non aspetta nessuno, ma invita comunque i personaggi a riposare i loro piedi stanchi al fuoco centrale del campo, offrendo vino, cibo e canzoni se i personaggi si uniscono.
 * Se i personaggi accettano e si muovono per accompagnare Stanimir, Arturi esita, poi chiede se i personaggi avrebbero qualcosa in contrario se li accompagnasse. Nota che ha sentito che sono appena arrivati da Barovia e che è curioso di sentire notizie dal villaggio. (Aggiunge, un po' imbarazzato, che è passato un po' di tempo dall'ultima volta che ha condiviso un fuoco vistanico e si scusa per l'intrusione.)
 
 > [!profile]+ **Arturi ed Eliza**
 >
-> **Arturi Radanavich**, un Vistano maledetto, è arrivato all'accampamento dello Stagno di Tser due settimane dopo il risveglio di Strahd. (Vedi **La Maledizione di Arturi Radanavich** di seguito per ulteriori informazioni sulla presenza di Arturi a Barovia e sulla sua connessione con il Dott. Rudolph van Richten.) Arturi è un uomo tranquillo e di poche parole sulla trentina, con un contegno distante, quasi assente, e una sincerità quasi dolorosa.
+> **Arturi Radanavich**, un Vistano maledetto, è arrivato all'accampamento della Pozza di Tser due settimane dopo il risveglio di Strahd. (Vedi **La Maledizione di Arturi Radanavich** di seguito per ulteriori informazioni sulla presenza di Arturi a Barovia e sulla sua connessione con il Dott. Rudolph van Richten.) Arturi è un uomo tranquillo e di poche parole sulla trentina, con un contegno distante, quasi assente, e una sincerità quasi dolorosa.
 >
-> Nel frattempo, **Eliza**, una delle spie di Strahd, ha sentito che degli estranei sono arrivati allo Stagno di Tser da oltre le Nebbie e spera di ottenere informazioni sui loro obiettivi, capacità e debolezze. (Eliza sperava anche di origliare la lettura dei Tarokka dei personaggi, ma è stata sventata dalla preveggenza di Madam Eva.)
+> Nel frattempo, **Eliza**, una delle spie di Strahd, ha sentito che degli estranei sono arrivati alla Pozza di Tser da oltre le Nebbie e spera di ottenere informazioni sui loro obiettivi, capacità e debolezze. (Eliza sperava anche di origliare la lettura dei Tarokka dei personaggi, ma è stata sventata dalla preveggenza di Madam Eva.)
 >
 > In netto contrasto con Arturi, Eliza è una donna allegra ed eccitabile sulla trentina, sempre felice di inserirsi in una conversazione con un commento sfacciato o spiritoso.
 
@@ -415,10 +431,10 @@ A meno che i personaggi non intervengano, la conversazione si svolge come segue:
 > ***La Maledizione di Arturi.*** Arturi apprese presto, tuttavia, che le parole vendicative di Van Richten avevano preso vita propria, aggrappandosi a lui come un sudario funebre. "I non morti vi prendano," aveva promesso Van Richten—e così fecero, inseguendo Arturi ovunque andasse. I Vistani lo bandirono dai loro campi dopo il tramonto, chiamandolo *mortu*, o "reietto," una parola che può anche essere tradotta più direttamente come "morto vivente." Nessun villaggio diede ad Arturi rifugio; nessuna città lo avrebbe protetto.
 >
 > Per diciotto anni Arturi sfuggì ai suoi inseguitori eterni, mentre cercava disperatamente un modo per sfuggire alle grinfie della sua maledizione. Infine, poco dopo il risveglio di Strahd, tornò a Barovia, dove cercò il consiglio della veggente Vistana Madam Eva. "Trova l'uomo che ha forgiato le tue catene," gli disse. "Il suo ultimo respiro ti libererà."
-> 
+>
 > Arturi ha attraversato Barovia diverse volte da allora alla ricerca di Van Richten. In un'occasione, ha persino recuperato un deposito di armi, contenente un manoscritto a metà e un piccolo assortimento di armi. Tuttavia, non è riuscito a trovare il medico stesso.
-> 
-> Arturi è spesso tornato all'accampamento di Madam Eva per godere della sua ospitalità—ma non rimane mai più a lungo del tramonto ogni volta. Perché i morti che camminano non riposano mai, e Arturi non osa condurli allo Stagno di Tser . . . 
+>
+> Arturi è spesso tornato all'accampamento di Madam Eva per godere della sua ospitalità—ma non rimane mai più a lungo del tramonto ogni volta. Perché i morti che camminano non riposano mai, e Arturi non osa condurli alla Pozza di Tser . . .
 >
 > **Fonte:** Wise, David. _Van Richten's Guide to the Vistani._ Wizards of the Coast, 1995.
 
@@ -488,9 +504,9 @@ Il Signore dei Demoni fu bandito, la guerriera cadde, la ferita al fianco troppo
 <p>“Cantate, corvi, degli ultimi bagliori della luce, dell’ombra che scende da un fulgore celeste.
 Cantate dell’angelo, dalle piume nere e becco ricurvo, l’angelo del Signore del Mattino che reclamò il suo dono.
 Il Simbolo fu ripreso, artigliato dai corvi..</p>
-<p>“Cantate, corvi; siete i custodi, gli osservatori, i narratori di storie non raccontate. Cantate, corvi, della memoria di Lugdana, delle ombre che attendono e degli eroi che verranno.”</p></div> 
+<p>“Cantate, corvi; siete i custodi, gli osservatori, i narratori di storie non raccontate. Cantate, corvi, della memoria di Lugdana, delle ombre che attendono e degli eroi che verranno.”</p></div>
 
-Quando la sua storia è finita e tutti i partecipanti hanno fatto le loro ipotesi—Stanimir e Arturi per ultimi, con Stanimir che vota "Vero" e Arturi che vota "Falso"—Eliza rivela che la sua storia era mezza-vera. 
+Quando la sua storia è finita e tutti i partecipanti hanno fatto le loro ipotesi—Stanimir e Arturi per ultimi, con Stanimir che vota "Vero" e Arturi che vota "Falso"—Eliza rivela che la sua storia era mezza-vera.
 
 Lugdana era davvero una paladina del Signore del Mattino che portava il leggendario *Simbolo Sacro del Corvo*, che era un amuleto di platino a forma di sole, con un enorme rubino incastonato al centro. Secondo la leggenda, il simbolo fu dato a Lugdana da un angelo sotto le spoglie di un corvo. Eliza nota con una risata, tuttavia, che nessuno sa cosa sia successo al Simbolo dopo la caduta di Lugdana al Colle di Yester, né dove si trovi oggi.
 ### Il Racconto di Arturi
@@ -540,14 +556,14 @@ Un personaggio che riesce in una prova di Carisma (Persuasione) CD 12 può convi
 
 Arturi rifiuta qualsiasi offerta di difenderlo e si allontana nella notte, stabilendosi infine tra i rami di un albero alto a 3 km dall'accampamento. I non morti emergono poi come segue:
 
-* Trenta minuti dopo l'arrivo di Arturi, dodici **zombi** arrivano per aggirarsi alla base dell'albero. 
-* Due ore dopo, cinque **ghoul** arrivano per graffiare e ululare al tronco dell'albero. 
-* Due ore dopo, tre **ghast** arrivano per unirsi ai ghoul. 
+* Trenta minuti dopo l'arrivo di Arturi, dodici **zombi** arrivano per aggirarsi alla base dell'albero.
+* Due ore dopo, cinque **ghoul** arrivano per graffiare e ululare al tronco dell'albero.
+* Due ore dopo, tre **ghast** arrivano per unirsi ai ghoul.
 * Due ore dopo, quattro **wight** emergono silenziosamente per fare la guardia intorno alla base dell'albero.
 
 I non morti svaniscono nei boschi poco prima dell'alba.
 ## C4e. Ritorno all'Incrocio del Fiume Ivlis
-Il viaggio dall'Accampamento dello Stagno di Tser all'Incrocio del Fiume Ivlis è lungo 2,5 km e dura trenta minuti. I personaggi che tentano di nascondere i loro movimenti a Eliza, la spia di Strahd nel campo, devono riuscire in una prova di Destrezza (Furtività) CD 11 o prendere altre azioni segrete per farlo.
+Il viaggio dall'Accampamento della Pozza di Tser all'Incrocio del Fiume Ivlis è lungo 2,5 km e dura trenta minuti. I personaggi che tentano di nascondere i loro movimenti a Eliza, la spia di Strahd nel campo, devono riuscire in una prova di Destrezza (Furtività) CD 11 o prendere altre azioni segrete per farlo.
 ### Viaggio verso l'Incrocio
 Mentre i personaggi fanno il viaggio verso l'incrocio, leggi:
 
@@ -566,16 +582,16 @@ Il cespuglio frusciante nasconde la **bandita** Vistana Eliza. Se i personaggi l
 
 **Se i personaggi chiamano Eliza**, rimane nascosta e non risponde.
 
-**Se i personaggi trovano il nascondiglio di Eliza**, esce dalla boscaglia con le mani alzate in segno di pace. Rassicura i personaggi che non intendeva far loro del male e insiste che li ha seguiti per curiosità riguardo ai loro viaggi notturni. "Fuori e in giro a mezzanotte—quando tutti tranne i mostri temono di camminare?" sussurra, i suoi occhi che brillano. "Si potrebbe pensare che stiate *combinando* qualcosa—e a un cantastorie fanno comodo un po' di storie nuove." 
+**Se i personaggi trovano il nascondiglio di Eliza**, esce dalla boscaglia con le mani alzate in segno di pace. Rassicura i personaggi che non intendeva far loro del male e insiste che li ha seguiti per curiosità riguardo ai loro viaggi notturni. "Fuori e in giro a mezzanotte—quando tutti tranne i mostri temono di camminare?" sussurra, i suoi occhi che brillano. "Si potrebbe pensare che stiate *combinando* qualcosa—e a un cantastorie fanno comodo un po' di storie nuove."
 
-Eliza spera di viaggiare con i personaggi apertamente fino alla loro destinazione. Se rifiutata, "accetta" di tornare allo Stagno di Tser, ma segretamente torna indietro per seguire le tracce dei personaggi. Se i personaggi tentano di convincerla che qualsiasi tale impresa sarebbe inutile e riescono in una prova di Carisma (Intimidazione) CD 15, tuttavia, Eliza torna allo Stagno di Tser e rimane lì per la notte.
+Eliza spera di viaggiare con i personaggi apertamente fino alla loro destinazione. Se rifiutata, "accetta" di tornare alla Pozza di Tser, ma segretamente torna indietro per seguire le tracce dei personaggi. Se i personaggi tentano di convincerla che qualsiasi tale impresa sarebbe inutile e riescono in una prova di Carisma (Intimidazione) CD 15, tuttavia, Eliza torna alla Pozza di Tser e rimane lì per la notte.
 
 **Se i personaggi minacciano Eliza**, si arrende immediatamente, gettandosi alla loro mercé. Se riescono in una prova di Carisma (Intimidazione) CD 15, rivela che "riporta al signore del castello." Se le viene chiesto perché serve Strahd, i suoi occhi brillano con un accenno di fanatismo mentre afferma con fervore che Strahd è—o dovrebbe essere—il "re" dei Vistani. "È colui che ci ha riportato a casa," sussurra con riverenza. "Lo abbiamo liberato dalla morte, e, in gratitudine, ci ha liberato dall'esilio."
 
 > [!lore]+ **Il Fanatismo di Eliza**
 > Eliza ammette liberamente che pochi Vistani concordano con le sue convinzioni o la sua lealtà a Strahd—un fatto che la spinge a maledire gli "ingrati" e i "senza fede" tra loro. Sebbene non creda che Barovia sia la casa ancestrale dei Vistani, Eliza crede che sia una nuova casa che Strahd ha trovato per loro.
 
-**Se i personaggi attaccano Eliza**, ella tenta di fuggire nei boschi. Se le viene permesso di farlo, Eliza si dirige immediatamente verso il Castello Ravenloft e non torna allo Stagno di Tser quella notte. Se i personaggi la inseguono, gestisci l'inseguimento come descritto in <span class="citation">Inseguimenti (<em>Guida del Dungeon Master</em>, p. 252)</span>, utilizzando la tabella **Complicazioni dell'Inseguimento in Natura** come segue:
+**Se i personaggi attaccano Eliza**, ella tenta di fuggire nei boschi. Se le viene permesso di farlo, Eliza si dirige immediatamente verso il Castello Ravenloft e non torna alla Pozza di Tser quella notte. Se i personaggi la inseguono, gestisci l'inseguimento come descritto in <span class="citation">Inseguimenti (<em>Guida del Dungeon Master</em>, p. 252)</span>, utilizzando la tabella **Complicazioni dell'Inseguimento in Natura** come segue:
 
 * Usa uno **sciame di moscerini pungenti** (usando le statistiche di uno **sciame di vespe**) per lo **sciame di insetti**
 * Usa una mandria di **alci** spaventate per la mandria di animali spaventati
@@ -593,18 +609,18 @@ Quando i personaggi arrivano all'Incrocio del Fiume Ivlis, leggi:
 <p>Una figura tozza e incappucciata sta accanto al patibolo—ad aspettare.</p>
 </div>
 
-La sagoma è Madam Eva. Non risponde se chiamata e aspetta che i personaggi si avvicinino a lei. Quando lo fanno, sussurra loro, la sua voce che raschia come un vento freddo: "*Cosa vi ho detto prima di lasciare la mia tenda?*" Se i personaggi rispondono accuratamente, Madam Eva annuisce, assicurandosi delle loro identità. 
+La sagoma è Madam Eva. Non risponde se chiamata e aspetta che i personaggi si avvicinino a lei. Quando lo fanno, sussurra loro, la sua voce che raschia come un vento freddo: "*Cosa vi ho detto prima di lasciare la mia tenda?*" Se i personaggi rispondono accuratamente, Madam Eva annuisce, assicurandosi delle loro identità.
 
 > [!abstract]+ **La Fuga di Eliza**
-> Se i personaggi non sono riusciti a fermare Eliza dal seguirli, Eliza si nasconde dietro un cespuglio a nord dell'incrocio, osservandoli silenziosamente. Se è così, gli occhi di Madam Eva si spalancano e lei emette un respiro forte. "Sciocchi!" sussurra. "Siete stati seguiti—eliminatela, o tutto è perduto!" Poi indica il nascondiglio di Eliza. 
-> 
-> Una volta notata, Eliza tenta immediatamente di fuggire nei boschi, iniziando con un vantaggio di 9 metri. Se le viene permesso di farlo, Eliza si dirige immediatamente verso il Castello Ravenloft e non torna allo Stagno di Tser quella notte. Se i personaggi la inseguono, gestisci l'inseguimento come descritto in <span class="citation">Inseguimenti (<em>Guida del Dungeon Master</em>, p. 252)</span>, utilizzando la tabella **Complicazioni dell'Inseguimento in Natura** come segue:
+> Se i personaggi non sono riusciti a fermare Eliza dal seguirli, Eliza si nasconde dietro un cespuglio a nord dell'incrocio, osservandoli silenziosamente. Se è così, gli occhi di Madam Eva si spalancano e lei emette un respiro forte. "Sciocchi!" sussurra. "Siete stati seguiti—eliminatela, o tutto è perduto!" Poi indica il nascondiglio di Eliza.
+>
+> Una volta notata, Eliza tenta immediatamente di fuggire nei boschi, iniziando con un vantaggio di 9 metri. Se le viene permesso di farlo, Eliza si dirige immediatamente verso il Castello Ravenloft e non torna alla Pozza di Tser quella notte. Se i personaggi la inseguono, gestisci l'inseguimento come descritto in <span class="citation">Inseguimenti (<em>Guida del Dungeon Master</em>, p. 252)</span>, utilizzando la tabella **Complicazioni dell'Inseguimento in Natura** come segue:
 > * Usa uno **sciame di moscerini pungenti** (usando le statistiche di uno **sciame di vespe**) per lo **sciame di insetti**
 > * Usa una mandria di **alci** spaventate per la mandria di animali spaventati
 > * Usa un **ragno gigante** per la creatura indigena dell'area
-> 
+>
 > Mentre fugge attraverso i boschi, Eliza ha mezza copertura da qualsiasi personaggio a almeno 9 metri di distanza e tre quarti di copertura da qualsiasi personaggio a almeno 18 metri di distanza.
-> 
+>
 > Se Eliza viene catturata, Madam Eva insiste che venga uccisa e gettata nel Fiume Ivlis, "perché altrimenti riferirà ciò che ha visto e sentito al suo padrone." Se sfidata, Madam Eva risponde freddamente che "non può esserci alcuna ambiguità quando il Destino stesso è in bilico su un precipizio."
 
 Se ulteriormente interrogata, Madam Eva alza una mano, poi si gira silenziosamente per affrontare il cimitero senza nome vicino alla forca. La Marcia dei Morti, come descritto in <span class="citation">Marcia dei Morti (p. 48)</span>, inizia poco dopo.
@@ -617,7 +633,7 @@ Indipendentemente dalla risposta dei personaggi, Madam Eva condivide poi le info
 
 Indipendentemente dalla risposta dei personaggi, Madam Eva li fissa con uno sguardo fermo. "Se desiderate abbandonare questa missione, nessuna anima vi biasimerebbe. Non c'è vergogna nel fuggire da un nemico che nessun altro ha mai sconfitto. Se desiderate che legga il vostro futuro, posso leggere le vostre mani o guardare nella mia sfera di cristallo. Posso dirvi il volto del vostro vero amore, il percorso verso una buona salute negli anni della vecchiaia o il successo che potreste trovare in un mestiere o una professione." Fa una pausa, poi aggiunge, la sua voce che diventa quasi un sussurro: "Oppure posso leggere le carte—e mettervi su un percorso che finirà solo quando il vostro nemico sarà sconfitto—o lo sarete voi. La scelta è vostra."
 
-Se i personaggi insistono nel desiderio di sconfiggere Strahd, Madam Eva annuisce. "Molto bene," dice. "Allora iniziamo." 
+Se i personaggi insistono nel desiderio di sconfiggere Strahd, Madam Eva annuisce. "Molto bene," dice. "Allora iniziamo."
 ## C4f. La Lettura dei Tarokka
 Madam Eva inizia la lettura dei Tarokka sedendosi sulla terra del cimitero, infilando una mano nel mantello e rimuovendo tre vecchie candele, che pianta nel terreno e accende con un gesto della mano. Poi rimuove un mazzo di carte Tarokka, che posa a terra tra le candele. Leggi:
 
@@ -663,18 +679,18 @@ Se i personaggi accettano il compito di Madam Eva, lei annuisce con approvazione
 <p>Il suono del mondo naturale ritorna—il sussurro del vento tra gli alberi, il lontano ululato di un gufo e il placido sciabordio dell'acqua del Fiume Ivlis contro le sue sponde. La luce argentate della luna torna a filtrare lungo i margini del cimitero, e vi rendete conto di respirare di nuovo per la prima volta da quando la lettura è iniziata.</p>
 <p>Madam Eva non dice nulla. Vi osserva soltanto, in silenzio, con occhi scuri e pesanti.</p></div>
 
-Madam Eva rifiuta di elaborare ulteriormente le letture dei personaggi o di fornire ulteriori informazioni o assistenza. Se le viene chiesto di farlo, dice solo, "I fili del Destino non possono essere chiamati come un servo o evocati come un trucco di un mago. Vedo solo ciò che le carte mi mostrano e nient'altro." 
+Madam Eva rifiuta di elaborare ulteriormente le letture dei personaggi o di fornire ulteriori informazioni o assistenza. Se le viene chiesto di farlo, dice solo, "I fili del Destino non possono essere chiamati come un servo o evocati come un trucco di un mago. Vedo solo ciò che le carte mi mostrano e nient'altro."
 
-Madam Eva congeda i personaggi dalla sua presenza una volta completata la lettura dei Tarokka, istruendoli a tornare allo Stagno di Tser e a "non dire a nessun servitore di Strahd ciò che hanno appena sentito." 
+Madam Eva congeda i personaggi dalla sua presenza una volta completata la lettura dei Tarokka, istruendoli a tornare alla Pozza di Tser e a "non dire a nessun servitore di Strahd ciò che hanno appena sentito."
 
-Madam Eva rifiuta di tornare con i personaggi, preferendo invece rimanere all'incrocio. Se le viene chiesto perché, condivide solo che questo luogo ha "ricordi speciali" per lei e che tornerà allo Stagno di Tser quando sarà pronta. "Non temete," sussurra, un luccichio di divertimento nei suoi occhi. "Ho poco da temere dalle creature che si aggirano in questi boschi, ve lo assicuro." Se i personaggi lasciano l'incrocio e poi tornano, scoprono che Madam Eva è scomparsa.
+Madam Eva rifiuta di tornare con i personaggi, preferendo invece rimanere all'incrocio. Se le viene chiesto perché, condivide solo che questo luogo ha "ricordi speciali" per lei e che tornerà alla Pozza di Tser quando sarà pronta. "Non temete," sussurra, un luccichio di divertimento nei suoi occhi. "Ho poco da temere dalle creature che si aggirano in questi boschi, ve lo assicuro." Se i personaggi lasciano l'incrocio e poi tornano, scoprono che Madam Eva è scomparsa.
 
 > [!lore]+ **Perché Madam Eva Rimane**
 > Gli avventurieri che cercavano di uccidere Strahd non sono gli unici sepolti in questo cimitero. La madre di Madam Eva, la Vistana con cui il Re Barov II ebbe una relazione, è sepolta nei boschi a breve distanza dalla biforcazione. (È comune per i Vistani seppellire i loro morti agli incroci, credendo che farlo liberi lo spirito per guidare coloro che seguono i percorsi che una volta percorrevano.)
 
 **_Pietra Miliare_**. Ricevere la lettura dei Tarokka completa una pietra miliare della storia. Quando il gruppo lascia l'incrocio, assegna a ciascun giocatore 500 PE.
-## C4g. Partenza dallo Stagno di Tser
-Quando i personaggi si svegliano allo Stagno di Tser la mattina seguente, Stanimir li invita a fare colazione con lui intorno al fuoco spento. La colazione, a cui partecipa Arturi se possibile, include polenta di farina di mais, involtini di cavolo ripieni e pane fritto. (Se il suo tradimento non è stato rivelato la notte precedente, Eliza si unisce allegramente ai personaggi per la colazione.)
+## C4g. Partenza dalla Pozza di Tser
+Quando i personaggi si svegliano alla Pozza di Tser la mattina seguente, Stanimir li invita a fare colazione con lui intorno al fuoco spento. La colazione, a cui partecipa Arturi se possibile, include polenta di farina di mais, involtini di cavolo ripieni e pane fritto. (Se il suo tradimento non è stato rivelato la notte precedente, Eliza si unisce allegramente ai personaggi per la colazione.)
 
 Se i personaggi tentano di parlare di nuovo con Madam Eva prima di partire, Stanimir li avverte che "la vecchia donna" sta dormendo e non desidera essere disturbata. Se i personaggi tentano di entrare nella sua tenda, la trovano addormentata su un giaciglio accanto al suo tavolo.
 # C5. Il Cavaliere Scheletrico
@@ -701,7 +717,7 @@ La torre di guardia in rovina è stata costruita come posto di vedetta dall'Ordi
 
 Se i personaggi esplorano la torre di guardia, trovano un ciondolo d'argento rotto scolpito per assomigliare a un drago che giace a terra al primo piano, vicino all'ingresso. Il ciondolo è sempre freddo al tatto.
 
-Dalla cima dei merli della torre di guardia, i personaggi possono vedere le Cascate di Tser a nord-ovest e lo Stagno di Tser a nord-est. A sud, sopra e oltre i pendii del Monte Ghakis, possono vedere solo un muro impenetrabile di nebbia grigia fitta.
+Dalla cima dei merli della torre di guardia, i personaggi possono vedere le Cascate di Tser a nord-ovest e la Pozza di Tser a nord-est. A sud, sopra e oltre i pendii del Monte Ghakis, possono vedere solo un muro impenetrabile di nebbia grigia fitta.
 ## Le Tombe
 Le due tombe contengono i resti di due rifugiati baroviani che sono stati uccisi dai lupi durante il viaggio verso Vallaki qualche tempo fa. Una prova di Saggezza (Sopravvivenza) CD 12 rivela che le tombe hanno non più di qualche settimana.
 
@@ -744,11 +760,11 @@ Se i personaggi si fermano, procedono o attaccano, i cinque lupi nei boschi atta
 <div class="description">
 <p>Cinque ombre ringhianti si lanciano dalla boscaglia, zanne scoperte e artigli tesi!</p>
 </div>
-  
-> [!combat]- **Bilanciamento dei Lupi** 
-> Questo incontro di combattimento è un incontro sanguinoso contro un gruppo di cinque personaggi di 3° livello, un alleato di CR 1 (Ireena Kolyana) e un alleato di CR 0 (Muriel in forma di corvo), e consumerà circa il 58% dei loro punti ferita massimi totali. Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue: 
-> * **Tre Giocatori**. Riduci il numero di lupi a 3. 
-> * **Quattro Giocatori**. Riduci il numero di lupi a 4. 
+
+> [!combat]- **Bilanciamento dei Lupi**
+> Questo incontro di combattimento è un incontro sanguinoso contro un gruppo di cinque personaggi di 3° livello, un alleato di CR 1 (Ireena Kolyana) e un alleato di CR 0 (Muriel in forma di corvo), e consumerà circa il 58% dei loro punti ferita massimi totali. Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue:
+> * **Tre Giocatori**. Riduci il numero di lupi a 3.
+> * **Quattro Giocatori**. Riduci il numero di lupi a 4.
 > * **Sei Giocatori**. Riduci il numero di lupi a 1 e aumenta il numero di lupi mannari a 2.
 
 Sostituisci l'attacco ***morso*** dei lupi con le seguenti opzioni di azione:
@@ -756,7 +772,7 @@ Sostituisci l'attacco ***morso*** dei lupi con le seguenti opzioni di azione:
 * ***Sbranare.*** *Attacco con Arma da Mischia:* +4 a colpire, portata 1,5 metri., un bersaglio. *Colpito:* 7 (2d4 + 2) danni perforanti. Invece di infliggere danni, il lupo può afferrare il bersaglio (CD 11 per sfuggire).
 * ***Artigli.*** *Attacco con Arma da Mischia:* +4 a colpire, portata 1,5 metri., un bersaglio. *Colpito:* 6 (1d8 + 2) danni taglienti. Se il bersaglio è una creatura, deve fare un tiro salvezza di Forza CD 11. In caso di fallimento, viene atterrato prono o spinto di 1,5 metri (a scelta del lupo).
 
-In combattimento, i **lupi** mirano a un singolo personaggio alla volta, usando le loro ***tattiche di branco*** per ottenere vantaggio sui tiri per colpire e i loro attacchi ***artigli*** per tentare di far cadere un personaggio nel burrone. 
+In combattimento, i **lupi** mirano a un singolo personaggio alla volta, usando le loro ***tattiche di branco*** per ottenere vantaggio sui tiri per colpire e i loro attacchi ***artigli*** per tentare di far cadere un personaggio nel burrone.
 
 Un personaggio che cade nel burrone rotola per 15 metri verso il basso, subendo 17 (5d6) danni contundenti e cadendo prono. Il sesto lupo usa il suo ***sbranare*** per attaccare qualsiasi creatura che cade nel burrone, poi la trascina via nella speranza di un pasto facile. Una creatura che si aggrappa al bordo frastagliato alla base del burrone ha mezza copertura dalle creature in cima al burrone.
 
@@ -772,7 +788,7 @@ Mentre i personaggi lasciano quest'area, un personaggio con un punteggio di Sagg
 ## C7b. Cascate di Tser
 <span class="citation"><em>Questa scena si svolge nel Capitolo 2: Area H.</em></span>
 
-Quest'area è in gran parte come descritto in <span class="citation">Cascate di Tser (p. 37)</span>. Inoltre, quando i personaggi arrivano, possono vedere un <span class="citation">revenant (p. 31)</span> che sta da solo a metà del ponte con le mani appoggiate sul pomo della sua spada, la cui lama è piantata saldamente a terra. 
+Quest'area è in gran parte come descritto in <span class="citation">Cascate di Tser (p. 37)</span>. Inoltre, quando i personaggi arrivano, possono vedere un <span class="citation">revenant (p. 31)</span> che sta da solo a metà del ponte con le mani appoggiate sul pomo della sua spada, la cui lama è piantata saldamente a terra.
 
 ![[Bridge Revenant.png]]
 <span class="credit">"Bridge Revenant" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -789,13 +805,13 @@ Se i personaggi chiamano questo **revenant** senza nome o salgono sul ponte, li 
 
 Se i personaggi affermano di servire Strahd, il revenant si irrigidisce visibilmente, ma si fa da parte, dicendo freddamente, "Allora andate per la vostra strada, e che il vostro lavoro vile vi porti rovina e disperazione."
 
-Se i personaggi negano di servire Strahd, il revenant è visibilmente sollevato e li invita ad avvicinarsi in modo che possa "dare loro un'occhiata più da vicino." Si presenta come un cavaliere dell'Ordine del Drago d'Argento, ma afferma di aver a lungo dimenticato il suo nome in vita. 
+Se i personaggi negano di servire Strahd, il revenant è visibilmente sollevato e li invita ad avvicinarsi in modo che possa "dare loro un'occhiata più da vicino." Si presenta come un cavaliere dell'Ordine del Drago d'Argento, ma afferma di aver a lungo dimenticato il suo nome in vita.
 
 Se le armi dei personaggi sono chiaramente visibili, chiede ai personaggi se si oppongono al signore del Castello Ravenloft. Se i personaggi affermano di opporsi a Strahd, il revenant consiglia loro di viaggiare ad Argynvostholt a ovest, dove Sir Godfrey Gwilym attende coloro che alzerebbero le loro spade contro l'oscurità che si nasconde nelle profondità del castello.
 
 Se i personaggi chiedono dell'Ordine del Drago d'Argento, il revenant condivide solo che i cavalieri dell'Ordine si opposero al signore di Ravenloft in vita e suggerisce ai personaggi di parlare con Sir Godfrey per ottenere ulteriori informazioni. Se i personaggi hanno ottenuto il ciondolo d'argento nella torre di guardia all'Incrocio del Fiume Ivlis, il revenant lo riconosce, ma rifiuta di commentare ulteriormente il suo significato.
 
-Se i personaggi chiedono al revenant perché sta sorvegliando il ponte, dice solo, "Perché ho alzato la mia voce contro il mio comandante e sono stato bandito. Ora, sto come i miei fratelli e sorelle d'armi, osservando i luoghi oscuri di questa terra e aspettando un ordine che non arriverà mai." 
+Se i personaggi chiedono al revenant perché sta sorvegliando il ponte, dice solo, "Perché ho alzato la mia voce contro il mio comandante e sono stato bandito. Ora, sto come i miei fratelli e sorelle d'armi, osservando i luoghi oscuri di questa terra e aspettando un ordine che non arriverà mai."
 
 Se i personaggi chiedono perché non può prendere le armi contro Strahd stesso, dice solo, "Perché il mio comandante lo proibisce, e il mio spirito è vincolato a non disobbedire alla sua volontà." È disposto a condividere che il nome del suo comandante è Sir Vladimir Horngaard, ma non è disposto a condividere di più, consigliando ai personaggi di parlare con Sir Godfrey invece.
 
@@ -804,11 +820,11 @@ Se i personaggi chiedono perché non può prendere le armi contro Strahd stesso,
 
 > [!info]+ **Il Revenant Vincolato dal Giuramento**
 > Ogni revenant dell'Ordine del Drago d'Argento è stato vincolato dagli effetti della caratteristica ***vincolo del giuramento*** di Vladimir Horngaard, che li obbliga a obbedire agli ordini espressi di Vladimir. I revenant dell'Ordine, ad eccezione di Sir Godfrey Gwilym, hanno ricevuto i seguenti comandi:
-> 
+>
 > * Non tradire i segreti dell'Ordine del Drago d'Argento.
 > * Non alzare armi contro il vampiro Strahd von Zarovich, i suoi servitori o le sue creature.
 > * Non tornare ad Argynvostholt.
->   
+>
 > Un revenant che viola uno di questi comandi subisce gli effetti di un incantesimo *geas* e viene trattenuto fino all'inizio del suo prossimo turno da fili neri spinosi. (Questo effetto può attivarsi un numero qualsiasi di volte ogni giorno. Poiché i revenant sono vincolati dai giuramenti che hanno prestato a Vladimir in vita, questo effetto non può essere dissolto.)
 
 Se i personaggi chiedono indicazioni per Argynvostholt, il revenant consiglia loro di viaggiare "a ovest, oltre la città murata, poi a sud lungo il sentiero grigio cenere."
@@ -847,9 +863,9 @@ Se i personaggi rimangono in silenzio o continuano avanti, leggi:
 
 <div class="description"><p>La strada emerge presto di nuovo dai boschi, curvando tra due colline. Prima o poi, curva a nord, abbracciando la base di una montagna.</p></div>
 
-I personaggi emergono alla base della collina su cui si trova il **Vecchio Mulino**, come descritto in <span class="citation">Avvicinarsi al Mulino a Vento (p. 125)</span>. Non ci sono corvi al mulino o nelle sue vicinanze. 
+I personaggi emergono alla base della collina su cui si trova il **Vecchio Mulino**, come descritto in <span class="citation">Avvicinarsi al Mulino a Vento (p. 125)</span>. Non ci sono corvi al mulino o nelle sue vicinanze.
 
-Quando il mulino a vento appare in vista, i personaggi notano anche **Morgantha** che si avvicina dalla direzione opposta con il suo carro, come descritto in <span class="citation">Pasticcini dei Sogni (p. 48)</span>. 
+Quando il mulino a vento appare in vista, i personaggi notano anche **Morgantha** che si avvicina dalla direzione opposta con il suo carro, come descritto in <span class="citation">Pasticcini dei Sogni (p. 48)</span>.
 
 Questa scena si svolge in gran parte come descritto in <span class="citation">Pasticcini dei Sogni (p. 48)</span>, ma Morgantha sta tornando dalla città di Vallaki, non dal villaggio di Barovia, e non ha un bambino infilato in un sacco nel suo carro da venditore.
 
@@ -859,18 +875,18 @@ Questa scena si svolge in gran parte come descritto in <span class="citation">Pa
 > [!profile]+ **Morgantha, Venditrice di Sogni**
 > **Informazioni di Ruolo**
 > ***Risonanza.*** Al momento dell'incontro con i personaggi, Morgantha dovrebbe ispirare lusinghe e conforto con il suo fascino da nonna, gratitudine per la sua disponibilità a condividere complimenti e "campioni gratuiti," affetto per le sue lamentele sui problemi quotidiani della vita di una vecchia donna e un leggero disagio per la sua fiducia e comfort nel viaggiare da sola su una strada pericolosa.
-> 
+>
 > ***Emozioni.*** Morgantha appare più spesso allegra, divertita o pensierosa.
-> 
+>
 > ***Motivazioni.*** Morgantha vuole mantenere la sua copertura, mantenere la sua attività operativa pacificamente, far sentire gli estranei affezionati e a proprio agio con lei e incoraggiare gli altri a provare i suoi pasticcini dei sogni se sembrano inclini a farlo.
-> 
+>
 > ***Ispirazioni.*** Granny Weatherwax (*Discworld*), Minerva McGonagall (*Harry Potter*), Dr. Kureha (*One Piece*)
-> 
+>
 > **Informazioni sul Personaggio**
 > ***Persona.*** Al mondo, Morgantha è una vecchia allegra con un amore per i pettegolezzi e le lamentele. Solo Morgantha e le sue figlie sanno che è segretamente la matrona dal cuore nero di una congrega di streghe notturne.
-> 
+>
 > ***Morale.*** In un combattimento, Morgantha tenterebbe di negoziare per la pace, poi userebbe la sua abilità ***eterealità*** per fuggire nel Piano Etereo se sembra inutile.
-> 
+>
 > ***Relazioni.*** Morgantha è la madre delle **streghe notturne** Bella e Offalia e la venditrice di pasticcini dei sogni per il rifugiato baroviano [[Arco H - L'Anima Perduta#H3b. Tenda di Franz|Franz]].
 
 Morgantha saluta calorosamente i personaggi, chiamandoli "viaggiatori stanchi," e condivide la sua speranza che la strada non sia stata troppo dura per loro. Condivide liberamente le seguenti informazioni se le viene chiesto:
@@ -891,9 +907,9 @@ Prima di partire, Morgantha avverte i personaggi che le guardie ai cancelli di V
 
 > [!abstract]+ **Morgantha Rilevata**
 > Se un personaggio discerne la natura demoniaca di Morgantha, ad esempio usando il ***senso divino*** di un paladino, e la affronta a riguardo, si ferma, poi si congratula con loro per la loro perspicacia. Poi sorride dolcemente e nota che non sta infrangendo alcuna legge, chiedendo: "È un crimine essere come si è stati creati?" Se il personaggio insiste per attaccarla, aggiunge: "E un tale crimine richiede un'esecuzione immediata?"
-> 
-> Se i personaggi insistono che lo fa, si inginocchia immediatamente, supplicando sarcasticamente per misericordia e un'opportunità di pentirsi. "Permettetemi di tornare a casa mia e riflettere sui miei peccati," aggiunge, sorridendo. Se attaccata, scompare usando la sua caratteristica ***eterealità***, ridendo. 
-> 
+>
+> Se i personaggi insistono che lo fa, si inginocchia immediatamente, supplicando sarcasticamente per misericordia e un'opportunità di pentirsi. "Permettetemi di tornare a casa mia e riflettere sui miei peccati," aggiunge, sorridendo. Se attaccata, scompare usando la sua caratteristica ***eterealità***, ridendo.
+>
 > Se i personaggi si avvicinano al mulino a vento, avvisa Bella e Offalia, che si uniscono a lei nel Piano Etereo. Se i personaggi tentano di danneggiare o distruggere il mulino a vento, le streghe tornano quindi nel Piano Materiale e li avvertono di fermarsi a pena di morte. Vedi [[Arco H - L'Anima Perduta#Morgantha Diventa Sospettosa|Morgantha Diventa Sospettosa]] per ulteriori informazioni sul conflitto con le streghe. (Il mulino a vento attualmente non contiene bambini e non lo farà fino a quando non inizierà [[Arco H - L'Anima Perduta]].)
 # C10. I Boschi Profondi
 Il viaggio dal Vecchio Mulino alla **Città di Vallaki** è lungo cinque miglia e tre quarti e dura due ore. Mentre i personaggi fanno questo viaggio, leggi:
@@ -902,7 +918,7 @@ Il viaggio dal Vecchio Mulino alla **Città di Vallaki** è lungo cinque miglia 
 <p>Man mano che la strada continua, la foresta la inghiotte su entrambi i lati. Gli alberi torreggiano molto sopra le vostre teste, bloccando quasi tutta la luce grigia. L'aria diventa densa e pesante con l'odore di muschio e foglie in decomposizione; in lontananza, sentite il gracchiare gorgogliante di un corvo, seguito dal suono di ali che sbattono.</p>
 <p>Prima o poi, diventa chiaro che la vostra presenza in questa terra cupa non è passata inosservata. Un corvo vi segue per diversi minuti mantenendo una distanza rispettosa.</p></div>
 
-Questo incontro si svolge come descritto in <span class="citation">Sciami di Corvi (p. 32)</span>, con il gruppo accompagnato da due **sciami di corvi**. Se è con il gruppo e in grado di volare, Muriel in travestimento prende il volo insieme allo stormo, ma tiene d'occhio i personaggi mentre viaggiano. 
+Questo incontro si svolge come descritto in <span class="citation">Sciami di Corvi (p. 32)</span>, con il gruppo accompagnato da due **sciami di corvi**. Se è con il gruppo e in grado di volare, Muriel in travestimento prende il volo insieme allo stormo, ma tiene d'occhio i personaggi mentre viaggiano.
 
 Mentre i personaggi procedono lungo la strada, leggi:
 
@@ -910,7 +926,7 @@ Mentre i personaggi procedono lungo la strada, leggi:
 
 Se [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] è con il gruppo, si blocca e chiede ai personaggi se il gruppo può fare una breve deviazione attraverso il campo fino al lago. Se le viene chiesto, nota solo che il lago sembra stranamente familiare.
 
-Il Lago Zarovich è come descritto in <span class="citation">L. Lago Zarovich (p. 38)</span>, ma senza le barche a remi arenate o la barca di Bluto visibili. 
+Il Lago Zarovich è come descritto in <span class="citation">L. Lago Zarovich (p. 38)</span>, ma senza le barche a remi arenate o la barca di Bluto visibili.
 
 Arrivando sulla riva del lago, Ireena nota con trepidazione che sembra essere lo stesso lago che ha visto nei suoi sogni. (Se non ha già condiviso, Ireena racconta la storia del suo sogno, descritta in [[#C4d. Il Fuoco Danzante]] sopra.)
 
@@ -992,9 +1008,9 @@ Modifica i blocchi di statistiche dei lupi come descritto in [[#C7a. Il Burrone]
 
 In combattimento, i **lupi** lavorano insieme, usando i loro ***Artigli*** per atterrare i personaggi, poi usando i loro ***Sbranare*** per afferrare i bersagli atterrati. Una volta che i lupi hanno trascinato un personaggio afferrato lontano dal gruppo, i **lupi mannari** spostano la loro attenzione per attaccarli con il loro ***Morso***. Il primo personaggio preso di mira in questo modo nota che i lupi mannari sono leggermente più grandi degli altri due e hanno occhi intelligenti e disturbantemente umani.
 
-Un lupo mannaro fugge se inizia il suo turno con 20 punti ferita o meno e non si rigenera, o se inizia il suo turno con 0 punti ferita per tre turni consecutivi. Qualsiasi lupo sopravvissuto segue subito dopo. 
+Un lupo mannaro fugge se inizia il suo turno con 20 punti ferita o meno e non si rigenera, o se inizia il suo turno con 0 punti ferita per tre turni consecutivi. Qualsiasi lupo sopravvissuto segue subito dopo.
 
-Se i lupi mannari muoiono, tornano alla loro vera forma: un giovane uomo con pelle pallida e lentigginosa e una corporatura magra e muscolosa, e un giovane uomo robusto con un volto crudele e capelli scuri e untuosi. Ognuno porta una ferita sanguinante, cruda e infetta sul fianco—la fonte della loro afflizione licantropica. 
+Se i lupi mannari muoiono, tornano alla loro vera forma: un giovane uomo con pelle pallida e lentigginosa e una corporatura magra e muscolosa, e un giovane uomo robusto con un volto crudele e capelli scuri e untuosi. Ognuno porta una ferita sanguinante, cruda e infetta sul fianco—la fonte della loro afflizione licantropica.
 
 Qualsiasi personaggio che ha fallito il suo tiro salvezza contro la maledizione della licantropia scopre presto che, sebbene recuperi punti ferita normalmente, la ferita originale rimane esteticamente sanguinante e cruda—proprio come descritto nel manoscritto di Van Richten sulla maledizione del lupo mannaro. La prossima luna piena avrà luogo la notte del sesto giorno dopo l'arrivo dei personaggi a Vallaki.
 
@@ -1017,18 +1033,18 @@ Qualsiasi personaggio che ha fallito il suo tiro salvezza contro la maledizione 
 
 > [!abstract]+ **Curare la Licantropia dei Personaggi**
 > I personaggi possono apprendere dai Martikov della Locanda dell’Acqua Azzurra, dal Dott. Rudolph van Richten o da Kasimir Velikov dell'accampamento vistanico di Vallaki che la prossima luna piena avrà luogo la sesta notte dopo il loro primo ingresso a Vallaki. Man mano che la notte della luna piena si avvicina, i personaggi infetti dalla licantropia sperimentano incubi di crescente gravità, nonché un crescente appetito per la carne cruda.
-> 
+>
 > I personaggi infetti dalla licantropia del **lupo mannaro** saranno in grado di cercare una cura in [[Arco I - Le Mura di Krezk]] dopo aver incontrato il Dott. Rudolph van Richten in [[Arco E - La Vistana Scomparsa]]. I personaggi di una classe appropriata possono anche curare se stessi e gli altri dalla licantropia lanciando *rimuovi maledizione* al raggiungimento del 5° livello. (Padre Lucian della Chiesa di St. Andral a Vallaki non può lanciare l'incantesimo e quindi non può curare la licantropia.)
 
 > [!warning]+ **Abbracciare la Licantropia del Lupo Mannaro**
 > Come notato in [[Sessione Zero]], questa campagna è progettata per personaggi giocanti eroici, piuttosto che malvagi. Come tale, è incompatibile con i personaggi che scelgono di abbracciare la licantropia del **lupo mannaro** uccidendo e divorando un umanoide innocente. Se un giocatore esprime interesse a farlo, avvertilo che abbracciare la maledizione porterà il suo attuale personaggio a diventare un PNG malvagio, richiedendo loro di creare un nuovo personaggio.
 # C12. La Città di Vallaki
 ## C12a. I Cancelli di Vallaki
-La strada continua avanti verso la **Città di Vallaki**, in gran parte come descritto in <span class="citation">Avvicinarsi alla Città (p. 95)</span>. Tuttavia, rimuovi la prima frase del testo descrittivo e aggiungi il seguente testo alla fine del primo paragrafo: 
+La strada continua avanti verso la **Città di Vallaki**, in gran parte come descritto in <span class="citation">Avvicinarsi alla Città (p. 95)</span>. Tuttavia, rimuovi la prima frase del testo descrittivo e aggiungi il seguente testo alla fine del primo paragrafo:
 
 <div class="description"><p>Più di una dozzina di tende fatiscenti sono state allestite contro il muro di palizzata. Tra di loro, dozzine di persone stracciate e emaciate si aggirano o siedono accanto a fuochi da campo a bassa fiamma e sacchi a pelo, i loro sguardi vuoti che osservano silenziosamente mentre vi avvicinate.</p></div>
 
-Se i personaggi sono partiti dallo Stagno di Tser quella mattina, arrivano a Vallaki al crepuscolo.
+Se i personaggi sono partiti dalla Pozza di Tser quella mattina, arrivano a Vallaki al crepuscolo.
 
 Se [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] sta viaggiando visibilmente con il gruppo, aggiungi:
 
@@ -1048,7 +1064,7 @@ I membri del campo dei rifugiati, che includono Emeric, un uomo anziano malincon
 
 I rifugiati sono persi nella disperazione. Alcuni ricordano una superstizione secondo cui le donne baroviane dai capelli rossi portano sfortuna e suggeriscono che Ireena stessa abbia portato una maledizione sul loro popolo. Pochi hanno il desiderio di trattare ulteriormente con lei.
 
-Dopo la sua interazione con i rifugiati, Ireena è infuriata dalla callosità del Barone e giura di fare del suo meglio per garantire l'ingresso dei rifugiati a Vallaki. 
+Dopo la sua interazione con i rifugiati, Ireena è infuriata dalla callosità del Barone e giura di fare del suo meglio per garantire l'ingresso dei rifugiati a Vallaki.
 ### Le Guardie ai Cancelli
 Le guardie ai cancelli agiscono in gran parte come descritto in <span class="citation">Cancelli della Città (p. 95)</span>. Una ha una lancia d'argento, mentre l'altra ha una faretra contenente una dozzina di dardi di balestra, metà dei quali sono d'argento.
 
@@ -1082,7 +1098,7 @@ Quest'area è in gran parte come descritto in <span class="citation">N2. Locanda
 
 Quando i personaggi arrivano per la prima volta, l'inn contiene i seguenti PNG notevoli:
 
-* Danika Dorakova, che sta versando bevande e servendo i clienti in **N2c. Sala Comune**; 
+* Danika Dorakova, che sta versando bevande e servendo i clienti in **N2c. Sala Comune**;
 * Urwin Martikov, che sta cucinando pane e stufato di barbabietole in **N2e. Cucina**;
 * Brom e Bray Martikov, che stanno giocando con giocattoli in **N20. Camera dei Ragazzi**; e
 * Rictavio, che sta raccontando storie ai clienti in **N2c. Sala Comune**, tra cui Nikolai e Karl Wachter.
@@ -1145,14 +1161,14 @@ Urwin saluta calorosamente i personaggi e li accoglie alla Locanda dell’Acqua 
 
 Prima che Urwin possa rispondere ai personaggi, Danika torna e si scusa con i personaggi per il ritardo. Supponendo che i personaggi non interrompano, la conversazione procede come segue:
 
-* Danika accusa scherzosamente Urwin di pianificare di affittare stanze agli ospiti "gratuitamente" di nuovo, un'accusa che Urwin nega allegramente. 
-* Danika dice ai personaggi che Urwin ha già permesso a un altro ospite di soggiornare gratuitamente e che "manderebbe in bancarotta l'inn" con la sua generosità se non fosse lì a tenere i conti. (Urwin concede graziosamente il punto.) 
+* Danika accusa scherzosamente Urwin di pianificare di affittare stanze agli ospiti "gratuitamente" di nuovo, un'accusa che Urwin nega allegramente.
+* Danika dice ai personaggi che Urwin ha già permesso a un altro ospite di soggiornare gratuitamente e che "manderebbe in bancarotta l'inn" con la sua generosità se non fosse lì a tenere i conti. (Urwin concede graziosamente il punto.)
 * "Dopotutto," dice Urwin con un sorriso, "perché altro mi sono sposato con te?" Con un sorriso, Danika risponde, "Un raro caso di buon senso, immagino."
 * Danika bacia Urwin sulla guancia e dice, "Il tavolo vicino alla finestra ha fame." Urwin fa l'occhiolino ai personaggi, prende di nuovo il vassoio e esce dal bar per servire il cibo.
 
-Danika dice poi ai personaggi le tariffe per vitto e alloggio, come elencato in <span class="citation">N2. Locanda dell’Acqua Azzurra (p. 98)</span>. (Sia la grande camera degli ospiti, <span class="citation">N2m. Camera degli Ospiti (p. 102)</span>, sia le due piccole camere degli ospiti, <span class="citation">N2l. Camere degli Ospiti (p. 102)</span>, sono disponibili per l'affitto.) Quando Urwin torna, offre di prendere gli ordini dei personaggi per la cena, supponendo che abbiano fame. 
+Danika dice poi ai personaggi le tariffe per vitto e alloggio, come elencato in <span class="citation">N2. Locanda dell’Acqua Azzurra (p. 98)</span>. (Sia la grande camera degli ospiti, <span class="citation">N2m. Camera degli Ospiti (p. 102)</span>, sia le due piccole camere degli ospiti, <span class="citation">N2l. Camere degli Ospiti (p. 102)</span>, sono disponibili per l'affitto.) Quando Urwin torna, offre di prendere gli ordini dei personaggi per la cena, supponendo che abbiano fame.
 
-I personaggi hanno poi qualche minuto per parlare con Urwin e Danika o tra di loro. Durante questa conversazione, Urwin e Danika possono fornire ai personaggi informazioni su Rictavio, il Festival del Sole Splendente (che avrà luogo tra cinque giorni a mezzogiorno) e il vicino campo vistanico, come descritto in <span class="citation">Lore di Vallaki (p. 96)</span>. 
+I personaggi hanno poi qualche minuto per parlare con Urwin e Danika o tra di loro. Durante questa conversazione, Urwin e Danika possono fornire ai personaggi informazioni su Rictavio, il Festival del Sole Splendente (che avrà luogo tra cinque giorni a mezzogiorno) e il vicino campo vistanico, come descritto in <span class="citation">Lore di Vallaki (p. 96)</span>.
 
 Sia Urwin che Danika possono fornire indicazioni a qualsiasi punto di riferimento principale all'interno di Vallaki, inclusi **N1. Chiesa di St. Andral**, **N5. Magazzino di Arasek** e **N8. Piazza della Città**. Se i personaggi chiedono dell'altro ospite dell'inn, Urwin e Danika possono anche condividere informazioni su Rictavio, che è in gran parte come descritto in <span class="citation">N2c. Sala Comune (p. 100)</span>, tranne che Rictavio è arrivato quella stessa mattina.
 
@@ -1197,7 +1213,7 @@ Dopo aver schiarito la gola, Rictavio condivide la seguente storia:
 <p>Di solito, una delle vittime del Conte Belasco avrebbe urlato, fuggito o svenuto—eppure aveva commesso un solo, terribile errore.</p>
 <p>Aveva dimenticato che gli occhi affetti da cataratta di Olivenka non potevano vedere bene le sue zanne.</p>
 <p>"Uomo disgustoso!" strillò Olivenka, e fece roteare diciotto anni di rocce rare e minerali direttamente verso la sua testa. Ci fu un terribile tonfo—e un terribile schianto di legno—e il Conte Belasco cadde a terra. Quando aprì gli occhi, vide Olivenka che lo guardava con orrore, non lui, ma la sua <i>testa</i>—la sua <i>testa nuda</i>.</p>
-<p>Lì, appena sotto la finestra orientale, giaceva la sua amata parrucca. Si lanciò verso di essa, artigli tesi—e un raggio di sole lo sfiorò.</p> 
+<p>Lì, appena sotto la finestra orientale, giaceva la sua amata parrucca. Si lanciò verso di essa, artigli tesi—e un raggio di sole lo sfiorò.</p>
 <p>Ci fu un sibilo, un sibilo e un'esplosione di fumo e fiamme. Olivenka, borsa stretta al petto, guardò con stupore mentre il Conte Belasco soccombeva alla luce del mattino, fino a quando non rimase che un mucchio fumante di cenere e una parrucca bruciata e fumante.</p>
 </div>
 
@@ -1217,7 +1233,7 @@ Se i personaggi non intervengono, la seguente sequenza di eventi si verifica poi
 * La sala comune e la sala comune vicina diventano silenziose, con molti clienti che guardano Nikolai e Rictavio nervosamente.
 * Dal suo posto al bar, Szoldar rimbomba, "Meglio di no, ragazzo." (Dietro di lui, Yevgeni grugnisce, poi riecheggia, "Meglio di no.")
 * Karl sbuffa. "Codardi, tutti voi," dice, guardandosi intorno. "Non avete un osso divertente nei vostri corpi."
-* Rictavio si schiarisce la gola. "Ahimè, miei amici," dice, "ma la giornata è stata lunga e devo ritirarmi. Un altro giorno, forse." Mentre Nikolai e Karl gemono e tornano alle loro bevande, Rictavio si inchina con un gesto fiorito, poi sale le scale verso <span class="citation">N2n Camera degli Ospiti Privata (p. 102)</span>. 
+* Rictavio si schiarisce la gola. "Ahimè, miei amici," dice, "ma la giornata è stata lunga e devo ritirarmi. Un altro giorno, forse." Mentre Nikolai e Karl gemono e tornano alle loro bevande, Rictavio si inchina con un gesto fiorito, poi sale le scale verso <span class="citation">N2n Camera degli Ospiti Privata (p. 102)</span>.
 
 Qualsiasi personaggio che osserva mentre Rictavio si fa strada lungo **N2j. Grande Balcone** lo vede passare Brom e Bray, che sono accovacciati lungo il balcone di fronte a **N2o. Camera dei Ragazzi**. (I ragazzi stanno facendo penzolare il pipistrello di peluche descritto in <span class="citation">N2o. Camera dei Ragazzi (p. 102)</span> sopra il bar sottostante, ridacchiando mentre Nikolai e Karl lo colpiscono ubriacamente. I ragazzi hanno usato le <span class="citation">N2i. Scale e Corridoio Segreti (p. 101)</span> per scappare silenziosamente dalla cucina al balcone mentre i personaggi bevevano, non visti dai clienti dell'inn.)
 ### I Fratelli Wachter
@@ -1241,7 +1257,7 @@ A un certo punto durante la conversazione, Danika si avvicina al tavolo per rimu
 
 Se i personaggi chiedono a Urwin o Danika dei fratelli Wachter, Urwin può dire loro le informazioni elencate in <span class="citation">N2c. Sala Comune (p. 100)</span>. Se i personaggi chiedono della loro madre o delle loro parole su un "Barone stupido," Urwin diventa visibilmente a disagio e promette di parlare ulteriormente con i personaggi al mattino.
 ### Mangiare la Cena
-Poco dopo la conclusione della storia di Rictavio, se i personaggi hanno ordinato la cena, [[Personaggi Non Giocanti#Danika Dorakova|Danika]] si avvicina al loro tavolo con un vassoio di cibo. Mentre serve loro, viene improvvisamente urtata da dietro, facendo cadere una delle ciotole di zuppa dalle sue mani. I due personaggi seduti all'estremità nord del tavolo devono fare tiri salvezza di Destrezza CD 10, afferrando la ciotola in caso di successo. (Se entrambi i personaggi riescono, il personaggio con il risultato più alto afferra la ciotola per primo. Se nessuno dei due personaggi riesce, la ciotola cade a terra, rovesciando la zuppa.) 
+Poco dopo la conclusione della storia di Rictavio, se i personaggi hanno ordinato la cena, [[Personaggi Non Giocanti#Danika Dorakova|Danika]] si avvicina al loro tavolo con un vassoio di cibo. Mentre serve loro, viene improvvisamente urtata da dietro, facendo cadere una delle ciotole di zuppa dalle sue mani. I due personaggi seduti all'estremità nord del tavolo devono fare tiri salvezza di Destrezza CD 10, afferrando la ciotola in caso di successo. (Se entrambi i personaggi riescono, il personaggio con il risultato più alto afferra la ciotola per primo. Se nessuno dei due personaggi riesce, la ciotola cade a terra, rovesciando la zuppa.)
 
 Danika si gira, rivelando il colpevole: un Brom Martikov dalle guance rosse che indossa una delle maschere da clown dipinte descritte in <span class="citation">N2o. Camera dei Ragazzi (p. 102)</span>. (Bray Martikov, che indossa l'altra maschera della coppia, si nasconde dietro una delle sedie del tavolo più vicino.)
 
@@ -1291,12 +1307,12 @@ Una volta dentro, Rictavio rimuove il pacco dal mantello, estrae due mele e proc
 
 > [!abstract]+ **Rilevare la Magia**
 > Se un personaggio lancia _rileva magia_ mentre è in presenza di Rictavio, può notare immediatamente:
-> 
+>
 > * l'aura di magia di illusione che circonda il suo _cappello del travestimento_,
 > * l'aura di magia di incantamento che circonda il suo _anello di schermatura mentale_, e
 > * l'aura di magia di abiurazione che circonda il suo _amuleto di protezione contro il rilevamento e la localizzazione_, che indossa nascosto sotto la camicia.
 
-Se rileva qualsiasi personaggio, Rictavio li chiama e nota, divertito, che è scortese nascondersi in luoghi bui. Poi li interroga scherzosamente, facendo del suo meglio per scoprire il loro scopo nel seguirlo mentre evita di rivelare la sua vera identità. 
+Se rileva qualsiasi personaggio, Rictavio li chiama e nota, divertito, che è scortese nascondersi in luoghi bui. Poi li interroga scherzosamente, facendo del suo meglio per scoprire il loro scopo nel seguirlo mentre evita di rivelare la sua vera identità.
 
 Se gli viene chiesto per chi è il cibo, Rictavio insiste che è per "il mio amico, il giocattolaio indigente." (Si riferisce a Gadof Blinsky, descritto ulteriormente in <span class="citation">N7. Blinsky Toys (p. 118)</span>.)
 
@@ -1307,20 +1323,20 @@ Se affrontato riguardo ai suoi oggetti magici o alla sua vera identità, Rictavi
 
 Queste sono bugie. Una prova di Saggezza (Intuizione) CD 18 indica che gli occhi di Rictavio si spostano verso l'alto per un momento prima di dare il nome dei Custodi o di Arthur. Se ulteriormente affrontato, Rictavio nega ulteriori accuse. "Credete ciò che volete," concede, scrollando le spalle. "Ciò che pensate non è una mia preoccupazione."
 
-Rictavio rifiuta di condividere ulteriori informazioni per paura che gli agenti di Strahd possano rubarle da loro. 
+Rictavio rifiuta di condividere ulteriori informazioni per paura che gli agenti di Strahd possano rubarle da loro.
 
-Se non riesce a rilevare i personaggi, Rictavio usa il suo *cappello del travestimento* per assumere la forma di un comune vallakiano casuale, poi scivola fuori dalla stalla sulla strada. Procede poi a intrecciarsi tra le strade e i vicoli di Vallaki in un tentativo paranoico di perdere eventuali inseguitori. Un personaggio che tenta di seguirlo deve riuscire in una prova di Saggezza (Percezione) CD 18 o perderlo nella folla. 
+Se non riesce a rilevare i personaggi, Rictavio usa il suo *cappello del travestimento* per assumere la forma di un comune vallakiano casuale, poi scivola fuori dalla stalla sulla strada. Procede poi a intrecciarsi tra le strade e i vicoli di Vallaki in un tentativo paranoico di perdere eventuali inseguitori. Un personaggio che tenta di seguirlo deve riuscire in una prova di Saggezza (Percezione) CD 18 o perderlo nella folla.
 
 > [!abstract]+ **Seguire Rictavio**
 > Una volta che lascia la stalla della Locanda dell’Acqua Azzurra, Rictavio si dirige verso il Magazzino di Arasek, dove infila il pacco di cibo attraverso le fessure della porta posteriore del suo carro. Fornisce poi ad Arabelle un breve aggiornamento sulle attività della città mentre mangia, inginocchiandosi davanti al carro come descritto in [[Arco E - La Vistana Scomparsa#E8b. Seguire Rictavio|Arco E - La Vistana Scomparsa]].
 ### Uscire dall'Inn
 Mentre i personaggi lasciano la Locanda dell’Acqua Azzurra la loro prima mattina a Vallaki, trovano la strada piena di cittadini. Supponendo che i personaggi non interferiscano, la seguente scena si svolge poi:
 
-* I personaggi sentono il suono di un cavallo che nitrisce dalla strada—e i cittadini si bloccano e cadono in silenzio. Una piccola processione si trova a sud: il Barone Vargas Vallakovich (come descritto in <span class="citation">Interpretare la Famiglia Vallakovich, p. 105</span>) che cavalca il suo cavallo castano, fiancheggiato dai suoi due **mastini** di nome Artiglio e Zanna, e seguito da tre **guardie**. Izek Strazni guida la processione. 
+* I personaggi sentono il suono di un cavallo che nitrisce dalla strada—e i cittadini si bloccano e cadono in silenzio. Una piccola processione si trova a sud: il Barone Vargas Vallakovich (come descritto in <span class="citation">Interpretare la Famiglia Vallakovich, p. 105</span>) che cavalca il suo cavallo castano, fiancheggiato dai suoi due **mastini** di nome Artiglio e Zanna, e seguito da tre **guardie**. Izek Strazni guida la processione.
 * I personaggi possono vedere che una vecchia donna dall'aspetto spaventato che indossa abiti comuni logori è appena inciampata lontano dal cavallo ed è caduta in una pozzanghera di fango a pochi piedi dal cavallo. Il cavallo si è fermato bruscamente e la processione si è fermata con esso. Il braccio diavolesco di Izek è teso, suggerendo che ha appena spinto—o lanciato—la vecchia donna nel fango. (La donna è Willemina Rikalova, la madre del calzolaio imprigionato Udo Lukovich.)
-* Il Barone rimprovera furiosamente la donna per aver sporcato il suo mantello con le sue "mani sporche di contadina." La vecchia donna, con la voce tremante, si scusa e implora il Barone di liberare suo figlio, Udo, affermando che non intendeva fare del male con il suo "sciocco scherzo." 
-* Il Barone insiste che Udo ha bisogno di "riabilitazione" per la sua "infelicità maliziosa" e suggerisce che anche la donna ne ha bisogno. Ordina a Izek di afferrarla e metterla nelle stalle, suggerendo che "qualche giorno nelle stalle dovrebbe stringere la sua lingua." Izek avanza, flettendo il suo braccio diavolesco con un luccichio crudele nei suoi occhi. 
-* Izek afferra la donna, la solleva in piedi e la spinge rudemente nelle braccia delle guardie in attesa. Due delle guardie tirano indietro le braccia della vecchia donna e iniziano a trascinarla a sud mentre lei si dibatte, piange e implora la libertà di suo figlio. Nessun cittadino osa aiutarla. 
+* Il Barone rimprovera furiosamente la donna per aver sporcato il suo mantello con le sue "mani sporche di contadina." La vecchia donna, con la voce tremante, si scusa e implora il Barone di liberare suo figlio, Udo, affermando che non intendeva fare del male con il suo "sciocco scherzo."
+* Il Barone insiste che Udo ha bisogno di "riabilitazione" per la sua "infelicità maliziosa" e suggerisce che anche la donna ne ha bisogno. Ordina a Izek di afferrarla e metterla nelle stalle, suggerendo che "qualche giorno nelle stalle dovrebbe stringere la sua lingua." Izek avanza, flettendo il suo braccio diavolesco con un luccichio crudele nei suoi occhi.
+* Izek afferra la donna, la solleva in piedi e la spinge rudemente nelle braccia delle guardie in attesa. Due delle guardie tirano indietro le braccia della vecchia donna e iniziano a trascinarla a sud mentre lei si dibatte, piange e implora la libertà di suo figlio. Nessun cittadino osa aiutarla.
 * Mentre la vecchia donna viene trascinata via, il Barone si rivolge ai cittadini circostanti e annuncia: "Che questo sia un insegnamento sui pericoli dell'infelicità maliziosa! La mano del Diavolo è lunga, ma la nostra gioia supererà la sua ombra."
 ![[Izek Strazni.png]]
 <span class="credit">"Izek Strazni" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -1361,11 +1377,11 @@ Mentre i personaggi lasciano la Locanda dell’Acqua Azzurra la loro prima matti
 >
 > ***Relazioni.*** Izek è il "figlio" adottivo del Barone Vargas Vallakovich, il capitano della guardia di Vallaki, un cliente frequente del giocattolaio Gadof Blinsky e (senza che nessuno dei due lo sappia) il fratello biologico di Ireena Kolyana.
 
-Se i personaggi interrompono l'arresto di Willemina, il Barone li saluta come estranei e chiede, con divertimento, se cercano di assumersi la responsabilità della "riabilitazione" della "vecchia sciocca" da soli. 
+Se i personaggi interrompono l'arresto di Willemina, il Barone li saluta come estranei e chiede, con divertimento, se cercano di assumersi la responsabilità della "riabilitazione" della "vecchia sciocca" da soli.
 
-***Diplomazia.*** Se i personaggi riescono in una prova di Carisma (Persuasione) CD 10 o fanno un argomento che lusinga sufficientemente l'ego del Barone, dirige le guardie a rilasciarla sotto la loro custodia. Li accoglie a Vallaki e comanda pomposamente loro di assicurarsi di educarsi adeguatamente alle regole e alle tradizioni della città. 
+***Diplomazia.*** Se i personaggi riescono in una prova di Carisma (Persuasione) CD 10 o fanno un argomento che lusinga sufficientemente l'ego del Barone, dirige le guardie a rilasciarla sotto la loro custodia. Li accoglie a Vallaki e comanda pomposamente loro di assicurarsi di educarsi adeguatamente alle regole e alle tradizioni della città.
 
-***Ostilità.*** Se i personaggi indicano una volontà di iniziare un combattimento, gli occhi del Barone si stringono e i suoi mastini iniziano a ringhiare. Nel frattempo, il braccio di Izek brucia con una fiamma cremisi, la sua presa che si stringe intorno al manico della sua ascia da battaglia d'argento. 
+***Ostilità.*** Se i personaggi indicano una volontà di iniziare un combattimento, gli occhi del Barone si stringono e i suoi mastini iniziano a ringhiare. Nel frattempo, il braccio di Izek brucia con una fiamma cremisi, la sua presa che si stringe intorno al manico della sua ascia da battaglia d'argento.
 
 Il Barone chiede prima di sapere se i personaggi sono "spie del Diavolo Strahd." I personaggi possono tentare di calmare la situazione e garantire l'arresto di Willemina pacificamente, ma qualsiasi successiva prova di Carisma fatta per influenzare il Barone viene fatta con svantaggio.
 
@@ -1374,7 +1390,7 @@ Se sembra che il combattimento sia imminente, [[Personaggi Non Giocanti#Padre Lu
 > [!lore]+ **Cosa Sta Facendo Lucian Qui?**
 > Dopo aver scoperto [[Atto I - Nelle Nebbie/Arco C - Nella Valle|le ossa mancanti di St. Andral]] e aver mandato Yeska a reclutare Henrik per lasciare materiali per riparare la cripta, Padre Petrovich ha cercato il Barone Vallakovich nella speranza di ottenere il suo aiuto nel trovare le ossa. Ha deciso di non farlo, tuttavia, dopo aver osservato l'umore e il comportamento del Barone per le strade. (Lucian non condivide questo a meno che non abbia già detto ai personaggi delle ossa mancanti in [[Arco D - La Festa di St. Andral]]. Condividerà, tuttavia, che sperava di chiedere al Barone qualcosa, ma ha deciso di non farlo dopo aver visto l'umore attuale dell'uomo.)
 
-Il Barone si chiede anche ad alta voce se dovrebbe punire i personaggi per la loro insolenza. Padre Petrovich assicura al Barone che sono semplicemente estranei, non istruiti nei modi di Vallaki, e che vedrà che vengono adeguatamente educati. 
+Il Barone si chiede anche ad alta voce se dovrebbe punire i personaggi per la loro insolenza. Padre Petrovich assicura al Barone che sono semplicemente estranei, non istruiti nei modi di Vallaki, e che vedrà che vengono adeguatamente educati.
 
 Il Barone ordina imperiosamente che lo faccia, poi informa i personaggi che lo hanno colto "di buon umore" e che dovrebbero essere grati per "la misericordia del Signore del Mattino." Li avverte, tuttavia, che future violazioni della legge saranno punite severamente.
 
