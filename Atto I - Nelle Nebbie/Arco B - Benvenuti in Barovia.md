@@ -53,7 +53,7 @@ La mano di Dalvan che tiene la bussola è aperta nella direzione di un albero vi
 > Madam Eva rimpiange il destino di Dalvan—ma in quanto avatar della Ricercatrice, è obbligata a rivelare il futuro quando viene interpellata, e sa che nessuno sforzo per fuggire può annullare un destino da lei previsto.
 
 >[!info]+ **La Bussola di Dalvan**
->Come tutte le bussole di Barovia, la Bussola di Dalvan si comporta in modo anomalo quando si avvicina ai confini della valle di Barovia—come presso Yester Hill ([[Arco J - La Gemma Rubata]]) o verso la vetta del Monte Ghakis ([[Arco T - Il Tempio d'Ambra]]). Poiché non esiste un vero "nord magnetico" al di là della Nebbia che circonda Barovia, l’ago di una bussola che si avvicina ai margini della valle inizia a tremare e infine a girare vorticosamente quanto più si avvicina. (Questo strano comportamento cessa quando la bussola viene allontanata dal confine).
+>Come tutte le bussole di Barovia, la Bussola di Dalvan si comporta in modo anomalo quando si avvicina ai confini della valle di Barovia—come presso Yester Hill ([[Arco J - La Gemma Rubata]]) o verso la vetta del Monte Ghakis ([[Arco S - La Spada del Sole]]). Poiché non esiste un vero "nord magnetico" al di là della Nebbia che circonda Barovia, l’ago di una bussola che si avvicina ai margini della valle inizia a tremare e infine a girare vorticosamente quanto più si avvicina. (Questo strano comportamento cessa quando la bussola viene allontanata dal confine).
 
 Se i giocatori seguono il sentiero nella direzione indicata dalla freccia, raggiungono presto un secondo albero, che reca altri tredici segni di conteggio e una freccia che punta più avanti lungo il sentiero. Ai margini del sentiero qui giace la carcassa di un **cavallo**, in uno stato di decomposizione simile a quello di Dalvan.
 
@@ -61,7 +61,7 @@ Se i giocatori continuano a seguire il sentiero nella direzione delle frecce, ra
 
 La nebbia fa parte della Nebbia che intrappola Barovia. Se i giocatori hanno portato con sé la Bussola di Dalvan, l’ago ora gira vorticosamente in cerchi.
 
-Se i giocatori attraversano la nebbia seguendo il sentiero, riemergono dopo 2d4 minuti in una zona sconosciuta delle Foreste Svalich. Ogni volta che i giocatori emergono dalla parete di nebbia attorno a Barovia, devono effettuare un TS su Costituzione CD 5 o subire 1 livello di esaurimento, poiché la nebbia prosciuga la loro energia e forza vitale. (La CD aumenta di 5 ogni volta che i giocatori attraversano nuovamente la nebbia).
+Se i giocatori attraversano la nebbia seguendo il sentiero, riemergono dopo 2d4 minuti in una zona sconosciuta delle Foreste Svalich. Ogni volta che i giocatori emergono dalla parete di nebbia attorno a Barovia, devono effettuare un TS su Costituzione CD 5 o subire 1 livello di esaurimento, poiché la nebbia prosciuga la loro energia e forza vitale. (La CD aumenta di 5 ogni volta che i giocatori attraversano nuovamente la nebbia, e si azzera con un riposo lungo).
 
 Una volta emersi dalla nebbia, i giocatori possono vedere un quarto albero, sul quale sono incisi altri tredici segni di conteggio e una freccia che indica la direzione da seguire lungo il sentiero. Inoltre, il quarto albero sembra avere un’incisione e un oggetto che sporge dal suo tronco. Se i giocatori lo ispezionano, leggi:
 
@@ -194,6 +194,7 @@ Ismark può condividere le seguenti informazioni:
 [[Personaggi Non Giocanti#Ismark Kolyanovich|Ismark]] può anche condividere la storia recente del villaggio, così come la maggior parte delle informazioni in <span class="citation">Interpretare Ismark (p. 43)</span> e <span class="citation">Leggende Baroviane (p. 26)</span>. Tuttavia, Ismark non menziona un "mago pazzo" e non suggerisce che i Vistani servano Strahd. (Nota che il padre di Ismark, il Borgomastro Kolyan Indirovich, è ancora vivo—anche se ferito—nella dimora del borgomastro, e la sorella di Ismark, Ireena Kolyana, non è ancora stata morsa da Strahd.)
 
 ### La Furia di Bildrath
+
 Poco dopo che Ismark inizia a rispondere alle domande dei giocatori, leggete:
 
 <div class="description">
@@ -213,14 +214,15 @@ Se uno o più dei giocatori si uniscono a lui, Bildrath può rivelare ulteriori 
 •	Quando si è ripreso, Bildrath ammonisce i giocatori: il villaggio (e forse tutta Barovia) è condannato. "Non c’è sole che possa tornare," sputa, "né scampo dalle Nebbie. Qui è l'Inferno, ora e per sempre. Prima accettate la vostra sorte, tanto meglio per voi."
 
 ### Le Notizie di Mary
+
 Mentre le conversazioni dei giocatori con [[Personaggi Non Giocanti#Ismark Kolyanovich|Ismark]] e Bildrath si avviano alla conclusione, leggete:
 
 <div class="description">
 <p>La porta della taverna si apre e una donna entra, avvolta in un mantello logoro e sfilacciato. I suoi capelli, legati in due code che le cadono intorno al collo, sono spettinati e arruffati, e i suoi occhi spalancati scattano attraverso la stanza tradendo il suo spavento.</p>
-<p>Il suo sguardo cade su Ismark, e si avvicina tremante. Quando i suoi lineamenti emergono alla luce, vedete che il suo volto è pallido, gli occhi macchiati di lacrime secche che le rigano le guance. La sua voce è un sussurro rauco e inquietante mentre dice: "Maestro Kolyanovich—mi scuso per aver interrotto voi e i vostri ospiti. Ma non vedo Gertruda da ieri sera, e Nori non è nella stalla. Penso che Gertruda sia andata al castello—da sola."</p>
+<p>Il suo sguardo cade su Ismark, e si avvicina tremante. Quando i suoi lineamenti emergono alla luce, vedete che il suo volto è pallido, gli occhi macchiati di lacrime secche che le rigano le guance. La sua voce è un sussurro rauco e inquietante mentre dice: "Maestro Kolyanovich—mi scuso per aver interrotto voi e i vostri ospiti. Ma non vedo Gertruda da ieri sera, e Nori non è nella stalla. Penso che Gertruda sia andata a Vallaki—da sola."</p>
 </div>
 
-La taverna cade immediatamente nel silenzio, e gli occhi di Ismark si increspano di preoccupazione. Dà le sue condoglianze a Mary e promette che organizzerà una squadra di ricerca per cercarla. "Se non è arrivata al castello, la troveremo—e la riporteremo a casa sana e salva."
+La taverna cade immediatamente nel silenzio, e gli occhi di Ismark si increspano di preoccupazione. Dà le sue condoglianze a Mary e promette che organizzerà una squadra di ricerca per cercarla. "Se non è arrivata a Vallaki, la troveremo—e la riporteremo a casa sana e salva."
 
 > [!abstract]+ **La Squadra di Ricerca**
 > Se i giocatori si offrono di aiutare la squadra di ricerca a trovare Gertruda, Ismark li ringrazia per la loro generosità, ma assicura loro che i cacciatori che intende organizzare conoscono le strade e i boschi locali molto meglio di loro, e dovrebbero essere in grado di aggirare i bordi dell'orda di non morti senza rischiare troppi problemi. "Tuttavia, più persone li accompagnano," dice scusandosi, "più è probabile che l'orda noti i loro movimenti e attacchi."
@@ -240,8 +242,8 @@ A meno che i giocatori non intervengano, la seguente sequenza si svolge:
 
 Se i giocatori chiedono, Mary può condividere le seguenti informazioni:
 
-* Gertruda è sua figlia ventunenne. Da quando Doru, il suo promesso sposo, marciò su Castel Ravenloft e non tornò, Gertruda si è fissata sul castello, credendo che, se solo potesse raggiungere Castel Ravenloft e parlare con il Diavolo, potrebbe convincerlo a liberare Doru dalla prigione in cui è stato gettato.
-* Mary ha ripetutamente proibito a Gertruda di viaggiare verso il castello. Con l'inizio dell'assedio, tuttavia, Gertruda è diventata ostinatamente convinta che una soluzione diplomatica sia l'unico modo per porre fine alla sofferenza del villaggio.
+* Gertruda è sua figlia ventunenne. Da quando Doru, il suo promesso sposo, marciò su Castel Ravenloft e non tornò, Gertruda si è fissata sulla città di Vallaki, credendo che, se solo potesse raggiungere Vallaki e parlare con il Borgomastro, potrebbe convincerlo ad aiutarla.
+* Mary ha ripetutamente proibito a Gertruda di andarsene dal villaggio. Con l'inizio dell'assedio, tuttavia, Gertruda è diventata ostinatamente convinta che l'aiuto di Vallaki sia l'unico modo per porre fine alla sofferenza del villaggio.
 * La scorsa notte, Mary e Gertruda hanno avuto un acceso litigio che si è concluso con entrambe in cattivi rapporti. Questa mattina, Mary si è svegliata per trovare il loro vecchio cavallo, Nori, mancante dalla stalla—e Gertruda introvabile. (Mary crede che Gertruda abbia preso Nori nel tentativo di sfuggire all'orda di zombi.)
 
 Pochi istanti dopo che Bildrath se n'è andato, se i giocatori non l'hanno già fatto, Ismark si rivolge a Mary per confortarla. "Ti prometto," dice, con la voce rotta, "che farò *tutto* ciò che posso per assicurarmi che Gertruda torni a casa sana e salva."
@@ -249,16 +251,24 @@ Pochi istanti dopo che Bildrath se n'è andato, se i giocatori non l'hanno già 
 Una volta calmata, Mary si asciuga gli occhi, ringrazia Ismark (e i giocatori, se l'hanno confortata), e lascia la taverna.
 
 > [!lore]+ **Dov'è Gertruda?**
-> Gertruda, disperata per lo stato del villaggio e determinata a mostrare lo stesso coraggio di Doru, ha lasciato Barovia per Castel Ravenloft la mattina dell'arrivo dei giocatori, cercando di implorare la misericordia di Strahd. Quando è arrivata al castello, una tremante Gertruda ha chiesto a Strahd di adempiere ai suoi obblighi come signore di Barovia, fornendo la sicurezza e le riparazioni di cui il villaggio aveva disperatamente bisogno. Impressionato dalla sua audacia, Strahd l'ha invitata a Castel Ravenloft per discutere ulteriormente la questione—e da allora è rimasta lì.
+> Gertruda, disperata per le condizioni del villaggio e determinata a mostrare lo stesso coraggio di Doru, lasciò Barovia per Vallaki la mattina dell’arrivo dei personaggi, nella speranza di ottenere aiuto dal Borgomastro. Gertruda, tuttavia, non arrivò mai a Vallaki. Mentre attraversava la Foresta di Svalich, la carrozza nera di Strahd la raggiunse—e il Diavolo in persona ne discese. Terrorizzata, ma decisa a non mostrare paura, Gertruda chiese educatamente a Strahd di permettere che provviste venissero consegnate a Barovia affinché i villaggi potessero ricostruire.
+> Strahd parve divertito dal coraggio di Gertruda e la invitò a Castello Ravenloft per “discutere ulteriormente i risarcimenti”. Rendendosi conto che era un invito a cui non poteva rifiutare, Gertruda accettò a malincuore di accompagnarlo.
+> Da allora, Gertruda è rimasta un’“ospite d’onore” al castello, sebbene sia ormai chiaro che Strahd non abbia alcuna intenzione di permetterle di lasciare le sue stanze—e tanto meno la fortezza stessa.
+
 ### La Richiesta di Ismark
+
 Dopo che Mary se ne va, Ismark chiede loro di aiutare a difendere la barricata orientale del villaggio quella notte. “Che ci piaccia o no, siamo tutti in questo insieme," dice con tono cupo. “Più mani ci sono, meglio è. Non so se posso promettere monete, ma posso promettere che aiuterà tutti noi a sopravvivere alla notte—voi compresi." In cambio dell'aiuto dei giocatori, Ismark è felice di offrire loro vitto e alloggio nella casa della sua famiglia. (La Taverna Sangue della Vigna non ha stanze in affitto.)
 
 Se i giocatori accettano di aiutare nella difesa del villaggio, Ismark è profondamente grato. Chiede loro di recuperare prima una cassa di "bottiglie incendiarie" da sua sorella, Ireena, che sta supervisionando la difesa del perimetro meridionale del villaggio dalla loro casa, <span class="citation">E4. Dimora del Borgomastro (p. 44)</span>. (Ismark, che deve tornare alle barricate occidentali per prepararsi al ritorno dei morti, non può prendersi il tempo per farlo lui stesso.) Se gli viene chiesto, Ismark può spiegare che una "bottiglia incendiaria" è una bottiglia di vino distillato con uno stoppino di stoffa, destinata a essere accesa e lanciata contro i non morti in avvicinamento.
 
 Una volta che i giocatori hanno recuperato la cassa di bottiglie incendiarie e hanno avuto l'opportunità di riposare nella dimora, Ismark dice loro di portare le bottiglie incendiarie alla barricata orientale—il luogo in cui sono entrati per la prima volta nel villaggio—dove saranno di stanza per tutta la notte.
+
 ## B5d. La Dimora del Borgomastro
+
 Questa area è in gran parte come descritto in <span class="citation">Villa del Borgomastro (p. 44)</span>. Tuttavia, il Borgomastro Kolyan Indirovich non è ancora stato ucciso, e Ireena non è ancora stata morsa.
+
 ### La Folla Arrabbiata
+
 Quando i giocatori arrivano, trovano una folla di dieci **comuni** baroviani che si è formata fuori dalla dimora. Aggiungi quanto segue alla fine della descrizione di quest'area:
 
 <div class="description">
@@ -336,11 +346,15 @@ Se i giocatori riescono a disperdere la folla, Kolyan e Ireena li invitano nella
 
 > [!design]- **Nota di Design: La Folla**
 > Questa scena è stata aggiunta per comunicare le origini di Ireena ai giocatori, prefigurare l'interesse di Strahd per lei, offrire una domanda drammatica mentre i giocatori visitano la dimora e far affezionare Ireena e Kolyan ai giocatori prima dell'arrivo di Strahd durante l'assedio quella notte.
+
 ### All'interno della Dimora
+
 Questa area è in gran parte come descritto in <span class="citation">E4. Villa del Borgomastro (p. 44)</span>. Tuttavia, rimuovi l'ultima frase nella descrizione di quest'area (riferita al cadavere di Kolyan).
 
 Se i giocatori hanno aiutato a disperdere la folla, Kolyan e Ireena li accolgono calorosamente, specialmente se i giocatori menzionano il nome di Ismark. Che i giocatori menzionino o meno che Ismark ha concesso loro vitto e alloggio nella dimora, Kolyan li invita a rimanere per il pranzo in segno di gratitudine per il loro aiuto nel trattare con Alenka.
+
 #### Pranzo con il Borgomastro
+
 Il pranzo, che sta già cuocendo in una pentola sopra il focolare della cucina, è uno stufato di rape e carne di coniglio. Ireena si scusa per il pasto scarso, ma i giocatori possono chiaramente vedere che la dispensa della famiglia è quasi vuota.
 
 Durante il pasto, Kolyan e Ireena chiedono ai giocatori dei loro interessi e delle loro vite al di fuori di Barovia. Ireena è particolarmente affascinata dai racconti del mondo oltre le nebbie.
@@ -357,7 +371,9 @@ Se i giocatori chiedono della ribellione di Doru, Ireena può condividere le seg
 * Doru era un loro amico e il figlio del prete del villaggio, Padre Donavich. Era un giovane allegro e solare, con una disposizione solare e un entusiasmo per tutto ciò che faceva.
 * Poco più di tre mesi fa, senza preavviso, Doru annunciò una crociata contro Castel Ravenloft, proclamando che avrebbe liberato Barovia dalle nebbie e riportato la luce del sole nella valle. Più di due dozzine di giovani Baroviani lo accompagnarono, così come uno studioso di terre lontane di nome Alanik Ray, che era stato ospite nella casa di Ismark e Ireena per diverse settimane mentre studiava la storia e l'ecologia di Barovia.
 * Ireena non ricorda molto di Alanik, se non che era un uomo curioso e un po' intenso che tendeva a stare per conto suo, faceva lunghe passeggiate nei Boschi di Svalich e possedeva una scimmia da compagnia. Ricorda, tuttavia, che ebbe una furiosa discussione con Doru a un certo punto, il che la confuse quando accompagnò Doru a Castel Ravenloft poco dopo.
+
 #### Il Dilemma di Kolyan
+
 Durante il pranzo, Kolyan invita i giocatori ad aiutarlo a deliberare su un dilemma che sta cercando di risolvere, notando che troverebbe utile avere “una prospettiva esterna" sulla questione. Se i giocatori accettano di farlo, leggete:
 
 <div class="description">
@@ -385,7 +401,9 @@ La lettera è sigillata con il sigillo di cera del borgomastro di Barovia: una s
 
 > [!item]+ **Lettera di Presentazione**
 > I giocatori che presentano la lettera di presentazione di Kolyan al Barone Vargas Vallakovich, alla Signora Fiona Wachter di Vallaki, al Borgomastro Dmitri Krezkov di Krezk entro i primi dieci minuti dall'incontro con loro, o ai loro servitori o familiari, hanno vantaggio su qualsiasi prova di Carisma (Persuasione) effettuata entro quei dieci minuti, a condizione che sia possibile che la prova riesca.
+
 #### Camere nella Dimora
+
 Se i giocatori menzionano l'offerta di Ismark di fornire loro delle stanze, Ireena li accompagna nelle due camere degli ospiti della dimora e fornisce loro provviste di base. "Non posso dire quanto sonno riuscirete a fare, o quando," dice scusandosi, con occhiaie scure sotto gli occhi. "Ma se non altro, dovrebbero fornire un posto tranquillo per riposare."
 
 Se i giocatori chiedono dei suoi genitori, Ireena condivide liberamente le seguenti informazioni mentre chiede delle famiglie dei giocatori:
@@ -416,7 +434,9 @@ Quando i giocatori sono pronti a partire, Ireena recupera una cassa di legno con
 
 > [!abstract]+ **Visitare la Chiesa**
 > I giocatori che insistono per visitare <span class="citation">E5. Chiesa (p. 45)</span> la trovano in gran parte come descritto in [[#B5i. La Chiesa di Barovia]] di seguito. Tuttavia, Parriwimple non è presente in chiesa in questo momento, e Padre Donavich non menziona il destino di Doru senza la presenza di Ireena o Ismark.
+
 ## B5e.Il Mercantile di Bildrath
+
 <span class="citation"><em>Questa scena si svolge nel Capitolo 3: Area E1.</em></span>
 
 Se i giocatori scelgono di visitarlo prima di procedere a [[#B5f. La Barricata Orientale]], questa area è in gran parte come descritto in <span class="citation">Mercantile di Bildrath (p. 43)</span>. Tuttavia, invece di vendere oggetti a dieci volte il prezzo elencato nel _Manuale del Giocatore_, Bildrath li vende solo al doppio del prezzo, citando i recenti sconvolgimenti economici.
@@ -426,9 +446,12 @@ Se uno dei giocatori è stato gentile con lui nella taverna, vende invece quegli
 Durante la conversazione dei giocatori con Bildrath, Parriwimple entra nella stanza portando una scatola di merci che Bildrath gli ha chiesto di recuperare. È curiosamente entusiasta della presenza dei giocatori, ma Bildrath gli ordina di tornare nella sua camera per evitare di "disturbare i clienti."
 
 Se Bildrath ordina a Parriwimple di rimuovere i giocatori dal negozio, Parriwimple tenta di afferrarli e tirarli fuori dalla porta, preferendo evitare la violenza se possibile.
+
 ## B5f. La Barricata Orientale
+
 ### Preparare la Barricata
-Poco dopo essere tornati alla barricata all'ingresso orientale del villaggio, i giocatori incontrano Bildrath e Parriwimple, che sono in gran parte come descritto in <span class="citation">E1. Mercantile di Bildrath (p. 43)</span>. Tuttavia, Bildrath porta anche una balestra leggera (bonus +2 al tiro per colpire, gittata 24/96 metri, un bersaglio. *Colpito:* 4 (1d8 + 0) danni perforanti).
+
+Poco dopo essere tornati alla barricata all'ingresso orientale del villaggio, i giocatori incontrano Bildrath e Parriwimple, che sono in gran parte come descritto in <span class="citation">E1. Mercantile di Bildrath (p. 43)</span>. Tuttavia, Parriwimple possiede le statistiche di un **berserker** con una lancia (+5 al tiro per colpire, portata 1,5 m, un bersaglio. *Colpo:* 6 (1d6 + 3) danni perforanti) invece di un’ascia a due mani. Bildrath porta anche una balestra leggera (bonus +2 al tiro per colpire, gittata 24/96 metri, un bersaglio. *Colpito:* 4 (1d8 + 0) danni perforanti).
 
 Quando i giocatori incontrano per la prima volta Parriwimple, leggete:
 
@@ -469,6 +492,7 @@ Se uno dei giocatori lo ha trattato gentilmente alla Taverna Sangue della Vigna 
 <span class="credit">"La Barricata Orientale" di DM Andy Maps. Versioni ad alta risoluzione disponibili <a href="https://ko-fi.com/s/ef507db2df">qui!</a></span>
 
 ### L'Assedio
+
 Il crepuscolo cala poco dopo che i giocatori completano i loro preparativi. Leggete:
 
 <div class="description">
@@ -479,7 +503,7 @@ Il crepuscolo cala poco dopo che i giocatori completano i loro preparativi. Legg
 Se è presente, il volto di Bildrath si fa cupo e stringe saldamente la sua balestra. “Inizia," mormora, mentre il frastuono svanisce di nuovo nella fredda notte. Parriwimple annuisce con determinazione, stringendo la sua lancia più vicino al petto.
 
 > [!info]+ **Una Notte Senza Luna**
-> Di notte, le torce montate a intervalli di tre metri lungo la barricata illuminano l'area circostante fino a una distanza di 12 metri. Nella notte dell'assedio, una spessa copertura nuvolosa oscura la luce della luna, impedendo ai difensori senza visione crepuscolare di vedere eventuali creature in avvicinamento nell'oscurità.
+> Di notte, torce montate a intervalli di tre metri lungo le barricate illuminano l’area circostante fino a una distanza di dodici metri. Nella notte dell’assedio, una fitta nebbia si solleva insieme ai non morti fino all’area illuminata, impedendo ai difensori con visione nel buio di avvistare le creature in arrivo per tempo.
 
 > [!abstract]+ **Tenere la Linea**
 > Se gli zombi riescono a sfondare la barricata, Parriwimple tenta di tenere il punto di strozzatura con la sua lancia, sebbene sia grato per qualsiasi aiuto che i giocatori possano fornire.
@@ -487,10 +511,10 @@ Se è presente, il volto di Bildrath si fa cupo e stringe saldamente la sua bale
 > [!info]+ **Fortitudine Non Morta**
 > Rivedi la caratteristica ***fortitudine non morta*** di ogni **zombi** e **diffusore di piaghe zombi** come segue:
 >
-> * ***Fortitudine Non Morta (1/giorno).*** Se i danni riducono lo zombi a 0 punti ferita, lo zombi scende a 1 punto ferita invece. Lo zombi non può usare questa abilità se i danni sono radianti o da un colpo critico, o se i danni subiti sono 15 o più.
+> * ***Fortitudine Non Morta (1/giorno).*** Se i danni riducono lo zombi a 0 punti ferita, lo zombi scende a 1 punto ferita invece. Lo zombi non può usare questa abilità se i danni sono radianti o da un colpo critico, se i danni subiti sono 15 o più, o se ha solo 1 punto ferita rimanente.
 
   
-> [!combat]- **Bilanciare l'Assedio** 
+> [!combat]- **Bilanciare l'Assedio**
 > A causa della meccanica delle ondate, questo incontro di combattimento è una serie di due incontri di combattimento **lievi** consecutivi e un terzo incontro di combattimento **sanguinoso** contro un gruppo di cinque giocatori di 3° livello, un alleato CR 0 (Bildrath) e un alleato CR 5 (Parriwimple), il primo dei quali consumerà circa il 15% dei loro punti ferita massimi totali, il secondo consumerà circa il 17% dei loro punti ferita massimi totali e il terzo consumerà circa il 34% dei loro punti ferita massimi (per un totale del 66% dei loro punti ferita massimi). Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue: 
 > * **Tre Giocatori**. Riduci il numero di zombi nella prima ondata a 5. Rimuovi gli zombi nella seconda ondata. Sostituisci il wight nella terza ondata con un ghoul. 
 > * **Quattro Giocatori**. Riduci il numero di zombi nella prima ondata a cinque. Riduci il numero di zombi nella seconda ondata a uno. Sostituisci il wight nella terza ondata con tre zombi. 
@@ -565,8 +589,11 @@ I **diffusori di piaghe zombi** vengono usati come strumenti di terrore e contag
 Il diffusore di piaghe si avvicina prima ai giocatori il più possibile, quindi rilascia la sua ***miasma virulenta***, tentando di colpire il maggior numero possibile di creature. (Se possibile, cerca di assicurarti che la miasma colpisca Bildrath, per far capire ai giocatori la natura del suo attacco. Né Bildrath né Parriwimple hanno mai visto o sentito parlare di un diffusore di piaghe zombi prima, e entrambi ignorano il virus che trasporta.) Dopo che il diffusore di piaghe usa la sua miasma, la nebbia rossa smette di fuoriuscire dalla sua bocca.
 
 Nel frattempo, il wight attacca dall'oscurità oltre la luce delle torce, effettuando attacchi con ***arco lungo*** da 60 piedi di distanza. Se i giocatori ingaggiano il diffusore di piaghe in combattimento corpo a corpo o lo riducono a 90 punti ferita o meno, il wight estrae la sua ***spada lunga*** e ingaggia i giocatori direttamente.
+
 ## B5g. La Barricata Occidentale
+
 ### La Guida del Corvo
+
 Poco dopo che i giocatori hanno eliminato l'ultima ondata, il **licantropo corvo** Muriel appare loro in forma di **corvo**. Leggete:
 
 <div class="description">
@@ -580,6 +607,7 @@ Sebbene non possa parlare in forma di corvo, Muriel tenta di avvisare i giocator
 </div>
 
 ### L'Ultima Resistenza di Ismark
+
 Se i giocatori la seguono, Muriel li guida verso ovest verso la piazza del paese, poi li conduce attraverso una serie di vicoli dietro e intorno alla Taverna Sangue della Vigna, emergendo infine sul lato nord della strada appena a ovest della piazza del paese. Quando i giocatori arrivano, leggete:
 
 <div class="description">
@@ -605,7 +633,9 @@ Il diffusore di piaghe, che inizia a 120 piedi dal centro della piazza del paese
 > [!info]+ **NPC Morenti**
 >
 > Come notato in Mostri e Morte (<span class="citation">Manuale del Giocatore, p. 198</span>), i personaggi non giocanti alleati—come Ismark Kolyanovich e qualsiasi altro PNG che combatta insieme ai giocatori—dovrebbero cadere incoscienti quando vengono ridotti a 0 punti ferita. Quando lo fanno, seguono le stesse regole per i tiri salvezza per la morte dei personaggi giocanti, descritte ulteriormente in Tiri Salvezza per la Morte (<span class="citation">Manuale del Giocatore, p. 197</span>).
+
 ### La Proclamazione di Rahadin
+
 Poco dopo che i giocatori sconfiggono il diffusore di piaghe, un cavaliere solitario affiancato da dodici **zombi** si avvicina alla piazza del paese da ovest. Leggete:
 
 <div class="description">
@@ -775,7 +805,9 @@ Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una cr
 </div>
 
 ## B5h. Ritorno alla Dimora
+
 ### Le Conseguenze di Strahd
+
 Se i giocatori seguono Ismark alla dimora del borgomastro, trovano i suoi terreni abbandonati e la porta d'ingresso socchiusa. All'arrivo, Ismark si precipita all'interno, gridando per suo padre e Ireena.
 
 Ismark e i giocatori possono trovare Kolyan e Ireena nel salotto al primo piano. Leggete:
@@ -797,7 +829,9 @@ Poco dopo l'arrivo dei giocatori, Ireena si risveglia, urlando di disperazione q
 Ireena è inorridita dalla morte di suo padre e dalla prospettiva che la loro casa sia stata visitata dal Diavolo, Strahd von Zarovich. È sconcertata sul perché Strahd possa aver ucciso suo padre ma risparmiato lei, ed è profondamente turbata dalla prospettiva di essere in qualche modo responsabile del destino di Kolyan.
 
 Una volta che i giocatori hanno sufficientemente confortato i fratelli, Ismark chiede esausto ai giocatori di rimanere alla dimora con Ireena mentre lui torna alla piazza del paese per assicurarsi che eventuali Baroviani feriti siano curati. “Ci occuperemo della sepoltura di nostro padre domani," aggiunge, quietamente. "E se potete—cercate di dormire un po'. Ve lo siete più che guadagnato."
+
 ### La Discussione
+
 Ismark torna alla dimora poco prima di mezzanotte. Poco dopo, qualsiasi giocatore che rimane sveglio, o che ha una Saggezza (Percezione) passiva di 15 o più, sente una discussione soffocata provenire dalla cucina sottostante.
 
 I giocatori possono origliare questa conversazione con una prova di Destrezza (Furtività) con CD 13 riuscita o una prova di Saggezza (Percezione) con CD 15 riuscita. Leggete:
@@ -809,7 +843,7 @@ I giocatori possono origliare questa conversazione con una prova di Destrezza (F
 <p>Un sussulto di sfida echeggia dall'altra parte della sottile parete di legno. "Non sono una codarda, Ismark, e non abbandonerò i nostri amici e vicini nella loro ora del bisogno."</p>
 <p>C'è una pausa. Poi, Ismark dice, quietamente, "Gertruda ha lasciato il villaggio questa mattina. Da sola."</p>
 <p>Sentite un respiro irregolare provenire dalla direzione di Ireena. "<em>Perché?</em>"</p>
-<p>"Sua madre pensa che sia andata al castello—probabilmente per cercare clemenza per il villaggio dal Diavolo," mormora Ismark.</p>
+<p>"Sua madre pensa che sia andata a si è convinta che l'aiuto di Vallaki sia l'unico modo per porre fine alla sofferenza del nostro villaggio" mormora Ismark.</p>
 <p>C'è un lungo, sofferto silenzio. Poi—</p>
 <p>Ismark sembra esitare, le sue parole leggermente confuse. "Non ti sto chiedendo di abbandonarli. Ma ci sono altri che hanno bisogno del tuo aiuto. Pensa ai nostri vicini che sono fuggiti a Vallaki. Hanno bisogno di guida, di sostegno—e forse di un leader per riportarli a casa un giorno."</p>
 <p>C'è una lunga pausa. La voce di Ireena è bassa quando finalmente parla—quasi impercettibile. "Non mi convinci."</p>
@@ -825,7 +859,9 @@ Se confrontato, Ismark può riluttantemente condividere le seguenti informazioni
 * Invece, Ismark intende che Ireena viaggi verso Vallaki, una città fortificata a ovest. La Chiesa di Sant'Andral a Vallaki è detta essere terra consacrata, proteggendo i suoi congregati dai vampiri e altri non morti.
 
 Quando il giocatore torna nella sua stanza, può vedere due **sciami di pipistrelli**—spie di Strahd—radunati sulle gronde di una casa vicina, osservando silenziosamente dall'oscurità.
+
 ### Mattina alla Dimora
+
 Il riposo dei giocatori alla dimora passa senza incidenti. Quando si svegliano la mattina seguente, possono trovare il cadavere del borgomastro giacente in una bara nel soggiorno come descritto in <span class="citation">E4. Dimora del Borgomastro (p. 44)</span>. Ismark e Ireena sono nella sala da pranzo, bevendo tranquillamente tè.
 
 Quando i giocatori scendono al piano principale, Ireena li saluta e insiste per preparare loro ciotole di porridge di latte di capra e tazze di tè alla camomilla per colazione. Mentre Ireena si occupa in cucina, Ismark chiede solennemente e scusandosi ai giocatori tre favori.
@@ -891,7 +927,7 @@ Doru non grida a suo padre quando i giocatori entrano nella cappella. Invece, qu
 >
 > Padre Donavich non era un sostenitore della marcia di Doru su Castel Ravenloft. Un uomo mite e pacato, Donavich temeva che Doru avrebbe incontrato solo la sua fine oltre le mura della fortezza. Per tenere al sicuro suo figlio, tuttavia, e come segno del suo amore, Donavich diede a Doru il suo simbolo sacro, così come la sua benedizione.
 >
-> Il simbolo sacro di Donavich, tuttavia, fece ben poco per proteggere suo figlio. Quando Strahd iniziò il suo assedio al villaggio di Barovia due settimane fa, le sue forze non morte non erano sole: Strahd inviò anche Doru, ora una **progenie vampirica** appena trasformata, per terrorizzare la chiesa e tormentare suo padre. Donavich riuscì a malapena a attirare e intrappolare Doru nella cripta, dove rimane ancora imprigionato.
+> Il simbolo sacro di Donavich, tuttavia, fece ben poco per proteggere suo figlio. Quando Strahd iniziò il suo assedio al villaggio di Barovia sei notti fa, le sue forze non morte non erano sole: Strahd inviò anche Doru, ora una **progenie vampirica** appena trasformata, per terrorizzare la chiesa e tormentare suo padre. Donavich riuscì a malapena a attirare e intrappolare Doru nella cripta, dove rimane ancora imprigionato.
 >
 > Da quando Doru è tornato, Padre Donavich non è stato in grado di lanciare incantesimi e non sente più la presenza del Signore del Mattino quando prega. Quando Strahd inviò Doru a Barovia, gli permise di continuare a indossare il simbolo sacro di suo padre come uno scherzo crudele. Di conseguenza, Donavich crede erroneamente che la natura non morta di Doru abbia corrotto il suo simbolo—e, quindi, il suo rapporto con il Signore del Mattino—e così impedito di raggiungere la grazia divina del Signore del Mattino.
 >
@@ -1000,8 +1036,8 @@ Doru può anche condividere le seguenti informazioni con i giocatori se gli vien
 * Sedici settimane fa, uno studioso straniero che si faceva chiamare Alanik Ray arrivò a Barovia e affittò una stanza nella dimora del borgomastro. Quando un enorme lupo terribile non morto attaccò un gruppo di bambini che si erano allontanati troppo dal villaggio, tuttavia, solo Doru vide "Alanik" respingerlo con abilità esperta—e quando il lupo fece cadere il cappello dalla testa di "Alanik", il suo aspetto cambiò magicamente, rivelandolo come il leggendario cacciatore di vampiri Dr. Rudolph van Richten.
 * Doru lo affrontò e insistette affinché Van Richten guidasse il villaggio in una rivolta contro Castel Ravenloft. Sebbene Van Richten fosse riluttante all'inizio, alla fine accettò—a condizione che Doru gli permettesse di mantenere il suo travestimento. Due giorni dopo, Doru, aiutato da un uomo di nome Escher—il bardo del villaggio e il più vecchio amico di Doru—aveva radunato più di due dozzine di combattenti per marciare sulla fortezza.
 * Con l'aiuto di Van Richten, la folla abbatté qualsiasi guardia non morta che cercasse di ostacolarli. Tuttavia, quando finalmente aprirono la cripta di Strahd, Escher non si trovava da nessuna parte—e la bara di Strahd era vuota. (Se gli viene chiesto, Doru nega con forza che Escher li abbia traditi.)
-* Poco dopo, Strahd emerse dalle ombre e attaccò la folla con forza spietata. La maggior parte dei compagni di Doru furono uccisi. Doru stesso fu trasformato in una progenie vampirica e in seguito apprese che anche Escher lo era stato. Doru non sa cosa sia successo a Van Richten, ma fu costretto a confessare l'identità del vecchio quando Strahd lo interrogò più tardi. 
-* Doru trascorse quasi tre mesi a Castel Ravenloft, durante i quali Strahd lo costrinse ripetutamente a bere il sangue dei suoi ex compagni. Due settimane fa, Strahd ordinò a Doru di tornare alla chiesa e a suo padre. 
+* Poco dopo, Strahd emerse dalle ombre e attaccò la folla con forza spietata. La maggior parte dei compagni di Doru furono uccisi. Doru stesso fu trasformato in una progenie vampirica e in seguito apprese che anche Escher lo era stato. Doru non sa cosa sia successo a Van Richten, ma fu costretto a confessare l'identità del vecchio quando Strahd lo interrogò più tardi.
+* Doru trascorse quasi tre mesi a Castel Ravenloft, durante i quali Strahd lo costrinse ripetutamente a bere il sangue dei suoi ex compagni. Sei notti fa, Strahd ordinò a Doru di tornare alla chiesa e a suo padre.
 * Doru non può disobbedire agli ordini diretti di Strahd e può sentire la sua presenza in ogni momento. La sua sete di sangue vampirica è una distrazione costante ed è difficile controllare i suoi impulsi e istinti predatori. Quando tornò per la prima volta alla chiesa, fu quasi grato che suo padre lo avesse rinchiuso nella cripta, dove non poteva fare del male.
 * Doru non sa se la sua anima o il suo corpo possano essere salvati, ma ha tenuto il simbolo sacro di suo padre per ricordargli la sua fede e la sua famiglia e per rafforzare la sua volontà contro le dipendenze della sua nuova forma. Se non fosse per quello, sospetta che avrebbe perso il controllo giorni o addirittura settimane fa. (Doru non sa perché Strahd gli abbia permesso di tenerlo, ma sospetta che Strahd lo vedesse come una forma di divertimento ironico.)
 
@@ -1013,7 +1049,9 @@ Mentre la conversazione continua, Doru potrebbe chiedere ai giocatori:
 * se la promessa sposa di Doru, Gertruda, è sopravvissuta all'assedio.
 
 Se gli viene detto che Gertruda ha lasciato il villaggio da sola per Vallaki—probabilmente in un maldestro tentativo di salvare Doru stesso—Doru diventa visibilmente sconvolto, ma spera ad alta voce che abbia fatto il viaggio in sicurezza. Chiede ai giocatori di cercarla e aiutarla a tornare a casa se la trovano. Doru sente di aver meritato il suo destino, ma crede che Gertruda, una donna buona e compassionevole, meriti molto di più.
+
 ### La Prova di Doru
+
 Se i giocatori accettano di soddisfare la richiesta di Doru esponendolo al sangue fresco, chiede loro di rimanere in silenzio mentre resiste—e di abbatterlo se soccombe. Quando inizia la prova, leggete quanto segue:
 
 <div class="description">
@@ -1039,7 +1077,9 @@ Doru avverte i giocatori che Strahd probabilmente prenderà un interesse attivo 
 Se i giocatori sembrano interessati a saperne di più sui vampiri, Doru può condividere le informazioni contenute in **Nati dalla Morte** e **Incatenati alla Tomba** in <span class="citation">Vampiro (Manuale dei Mostri, p. 297)</span>, così come i dettagli generali delle caratteristiche **mutaforma***, **rigenerazione*** e **debolezze dei vampiri*** del blocco di statistiche del **vampiro**. Doru nota, tuttavia, che il Diavolo è diverso da qualsiasi altro vampiro. "Possiede poteri al di là della comprensione di un normale vampiro. È... insondabile." Rabbrividisce, gli occhi che si chiudono dolorosamente in ricordo. (Doru non può condividere dettagli specifici riguardanti le capacità di Strahd, solo che sembrava massacrare i compagni di Doru "in pochi istanti.")
 
 Prima che i giocatori partano, Doru chiede loro ancora una volta di dire a Padre Donavich che suo figlio è ancora vivo. Se gli viene chiesto di accompagnarli al piano di sopra, rifiuta di farlo. "Ho peccato con la mia arroganza e questa è la mia penitenza," dice dolcemente. "Lascerò questa prigione solo quando mio padre lo permetterà."
+
 ### La Sepoltura
+
 Se i giocatori tornano da Padre Donavich con il suo simbolo sacro in mano, lo accetta con gratitudine.
 
 Se i giocatori dicono a Padre Donavich che hanno ucciso Doru per ottenere il simbolo, leggete:
@@ -1096,15 +1136,19 @@ Con la sepoltura conclusa, i pipistrelli di Strahd si alzano in volo, scomparend
 Donavich prende la presenza dei pipistrelli come un cattivo presagio. In un momento sorprendentemente lucido, avverte i giocatori e Ismark di una superstizione baroviana secondo cui le giovani donne dai capelli rossi spesso trovano che la sfortuna viaggia accanto a loro, e chiede se Ireena intende rimanere a Barovia ora che il Diavolo si è risvegliato. Se gli viene detto che Ireena e i giocatori intendono partire, Donavich suggerisce l'Abbazia di San Markovia a Krezk come destinazione finale. Nota che una volta era un bastione del bene e potrebbe ancora offrire qualche protezione.
 
 > [!lore] **Chi Conosce l'Abbazia?**
-> Tutti i Baroviani sanno che l'Abbazia di San Markovia si trova nel villaggio di Krezk. La maggior parte al di fuori di Krezk non è sicura se sia ancora operativa, sebbene abbondino le voci secondo cui Strahd l'ha distrutta molto tempo fa, lasciando solo fantasmi a infestare i suoi corridoi. Alcuni Vallakiani, tra cui Padre Lucian Petrovich della Chiesa di Sant'Andral, sanno che l'Abbazia è stata riaperta più di cento anni fa, ma nessuno al di fuori di Krezk sa che l'attuale abate dell'Abbazia è lo stesso uomo che ha riaperto le sue porte oltre un secolo fa. 
+> Tutti i Baroviani sanno che l'Abbazia di San Markovia si trova nel villaggio di Krezk. La maggior parte al di fuori di Krezk non è sicura se sia ancora operativa, sebbene abbondino le voci secondo cui Strahd l'ha distrutta molto tempo fa, lasciando solo fantasmi a infestare i suoi corridoi. Alcuni Vallakiani, tra cui Padre Lucian Petrovich della Chiesa di Sant'Andral, sanno che l'Abbazia è stata riaperta più di cento anni fa, ma nessuno al di fuori di Krezk sa che l'attuale abate dell'Abbazia è lo stesso uomo che ha riaperto le sue porte oltre un secolo fa.
+
 ### Ritorno alla Dimora
+
 Quando i giocatori tornano alla dimora del borgomastro dopo la sepoltura, Ismark prepara loro razioni per tre giorni in sacche di stoffa per il viaggio a venire. Mentre lo fa, Ireena dice ai giocatori che sarà pronta a partire a mezzogiorno. Fino ad allora, i giocatori sono liberi di esplorare il villaggio, fare acquisti al Mercantile di Bildrath o passare il tempo in altro modo.
 
 Mentre Ismark prepara le razioni, può condividere le seguenti informazioni:
 
 * Il viaggio verso Vallaki è più di un giorno di viaggio se i giocatori intendono visitare prima Tser Pool, e che Ireena e i giocatori dovranno probabilmente passare una notte sulla strada. Raccomanda di farlo a Tser Pool stesso.
 * Tser Pool è a poco meno di due ore di viaggio da Barovia. (Sebbene alcuni Vistani siano ritenuti alleati di Strahd, Tser Pool è noto per essere un luogo sicuro per i viaggiatori per passare la notte, specialmente data la reputazione di Madam Eva.)
+
 ## B5j. La Collina di Lugdana
+
 Circa un'ora prima di mezzogiorno, [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] scivola silenziosamente fuori dalla dimora, camminando verso la Collina di Lugdana, una piccola collina tranquilla a nord di Barovia. (La collina prende il nome dalla paladina Lugdana, che, secondo la leggenda, incontrò per la prima volta il Borgomastro Ismark Antonovich il Grande su quella collina.)
 
 Poco prima di mezzogiorno, se i giocatori non hanno tenuto traccia di lei, [[Personaggi Non Giocanti#Ismark Kolyanovich|Ismark]]—che sta attualmente ascoltando il rapporto di una coppia di **esploratori** baroviani riguardo alla loro ricerca infruttuosa di Gertruda—nota l'assenza di Ireena con lieve preoccupazione e chiede ai giocatori di trovarla e riportarla a casa.
@@ -1144,7 +1188,7 @@ Quando i giocatori sono pronti a partire, Ireena saluta Ismark con affetto e si 
 
 > [!info]+ **Ireena si Unisce al Gruppo**
 >
-> Ireena ha le statistiche di un **compagno esperto (Tasha's Cauldron of Everything, p. 142)**, utilizzando il blocco di statistiche base di un **nobile.** Ha anche il talento <span class="citation">Guaritore (Manuale del Giocatore, p. 167)</span> e inizia con due *kit del guaritore*.
+> Ireena ha le statistiche di un **compagno esperto (Tasha's Cauldron of Everything, p. 142)**, utilizzando il blocco di statistiche base di un **nobile** e porta con se una balestra leggera (+3 per colpire, portata 24/96m, un bersaglio. _Colpo:_ 5 (1d8 + 1) danni perforanti). Ha anche il talento <span class="citation">Guaritore (Manuale del Giocatore, p. 167)</span> e inizia con due *kit del guaritore*.
 >
 > Il livello iniziale di Ireena è lo stesso del livello medio del gruppo al momento in cui si unisce per la prima volta. Inizia con competenze aggiuntive in Storia, Investigazione, Medicina, Percezione e Furtività, e competenza nei tiri salvezza di Destrezza. Quando si unisce per la prima volta al gruppo al 3° livello, ha 25 (5d8) punti ferita.
 >

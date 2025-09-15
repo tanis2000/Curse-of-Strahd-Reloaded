@@ -22,9 +22,13 @@ Giunti a Vallaki, i personaggi possono trovare alloggio presso la Locanda dell�
 
 > [!info]+ **Nessun Incontro Casuale**
 > Questa guida incorpora il materiale del modulo originale *La Maledizione di Strahd* solo per riferimento. Pertanto, ogni volta che i personaggi viaggiano, dovresti ignorare la sezione <span class="citation">Incontri Casuali (p. 28)</span> tranne dove un particolare incontro è menzionato e incorporato direttamente.
+
 # C1. I Boschi di Svalich
+
 Il viaggio dal villaggio di Barovia all'Incrocio del Fiume Ivlis è lungo 5 km e dura un'ora.
+
 ## C1a. Le Sentinelle Baroviane
+
 Mentre i personaggi viaggiano, leggi:
 
 <div class="description"><p>Partite dal silenzioso villaggio di Barovia, la nebbia che si insinua intorno ai vostri piedi mentre vi avviate sulla Vecchia Strada di Svalich. Un mare di erba alta e verde pallido si estende davanti a voi su entrambi i lati della strada, fino al bordo del Fiume Ivlis. Il cielo sopra di voi è di un grigio opaco, le nuvole pesanti con la promessa di pioggia.</p>
@@ -39,7 +43,9 @@ Se [[Personaggi Non Giocanti#Ireena Kolyana|Ireena]] è con i personaggi, può a
 Le sentinelle stanno cercando la famiglia Lansten: due genitori e tre bambini piccoli—una ragazza e due ragazzi—che sono scomparsi durante l'attacco degli zombi al villaggio e non sono stati più visti. Dopo aver chiesto se i personaggi li hanno visti durante il viaggio, le sentinelle li avvertono di non allontanarsi dalla strada, notando che cose morte e oscure si nascondono sotto le cime degli alberi. Kereza e Korga poi si congedano rispettosamente.
 
 Poco dopo che i personaggi riprendono il loro cammino lungo la Vecchia Strada di Svalich, inizia a cadere una leggera pioggerella, sollevando una sottile nebbia che si diffonde tra la boscaglia.
+
 ## C1b. Il Deposito di Van Richten
+
 Mentre i personaggi continuano lungo la strada, leggi:
 
 <div class="description"><p>Vi addentrate sempre più nel cuore della foresta, lungo un sentiero fangoso che vi conduce lontano dalla civiltà. La strada curva lentamente, e il fiume torna a farsi vicino. Ora si presenta più ampio, con acque scure e placide, su cui si riflettono gli alberi e la nebbia sospesa. L’unico suono è quello dell’acqua che scivola silenziosa, accompagnato dal lieve fruscio delle foglie e dal ticchettio della pioggia sottile. Nessun canto d’uccello disturba la quiete profonda che avvolge il bosco.</p></div>
@@ -62,8 +68,15 @@ Le cinque figure sono **zombi**. Corrispondono anche alle descrizioni della fami
 
 I personaggi possono tentare di attirare gli zombi lontano dalla radura; data la bassa intelligenza degli zombi, farlo dovrebbe essere ragionevolmente facile. In alternativa, i personaggi possono tentare di tendere un'imboscata e attaccare gli zombi per distruggerli completamente.
 
+> [!info]+ **Resilienza dei Non Morti**
+> Rivedere ogni tratto **Resilienza dei Non Morti** dei **zombi** in questo modo:
+>
+> * ***Resilienza dei Non Morti (1/giorno).*** Se i danni riducono lo zombi a 0 punti ferita, lo zombi scende invece a 1 punto ferita. Lo zombi non può usare questa abilità se i danni sono radianti o derivano da un colpo critico, se i danni subiti sono 15 o più, oppure se aveva rimasto solo 1 punto ferita.
+
 Se i personaggi raggiungono la quercia, possono trovare il deposito di armi di Van Richten dove Doru ha detto loro: in una cavità nascosta sotto le radici dell'albero. Il deposito stesso è un piccolo forziere di legno non chiuso a chiave contenente 20 dardi d'argento per balestra, una balestra leggera, due *kit del guaritore*, due fiale di *acqua santa* e una *pozione di guarigione*.
+
 # C2. Incrocio del Fiume Ivlis
+
 <span class="citation"><em>Questa scena si svolge nel Capitolo 2: Area F.</em></span>
 
 Mentre i personaggi si avvicinano a questa area, la pioggerella si ferma. Leggi:
@@ -77,7 +90,9 @@ Mentre i personaggi si avvicinano a questa area, la pioggerella si ferma. Leggi:
 I personaggi sono arrivati all'Incrocio del Fiume Ivlis, che è in gran parte come descritto in <span class="citation">Incrocio del Fiume Ivlis (p. 35)</span>. Non controllare per un incontro casuale quando i personaggi arrivano.
 
 Questa scena inizia in modo simile a <span class="citation">Incrocio del Fiume Ivlis (p. 35)</span>. Tuttavia, la prima volta che i personaggi si muovono per partire verso la Pozza di Tser, invece di vedere **L'Impiccato**, possono sentire il suono di una carrozza trainata da cavalli o di un carro che si avvicina attraverso la nebbia. Quasi subito dopo il suono, appare la carrozza nera di Strahd, come descritto in <span class="citation">Carrozza Nera (p. 37)</span> e <span class="citation">Casa della Carrozza (p. 54)</span>.
+
 ## C2a. L'Arrivo di Strahd
+
 I personaggi possono vedere un conducente seduto sul sedile della carrozza: la **progenie vampirica** Escher, come descritto in <span class="citation">K49. Salotto (p. 70)</span>. Se presente, Ireena sussulta alla sua vista, sussurrando che pensava fosse morto.
 
 > [!abstract]+ **E se i personaggi fuggono?**
@@ -204,7 +219,7 @@ Durante la conversazione, nei momenti in cui sembra naturale farlo, [[Strahd von
 
 * "Ismark Kolyanovich mi ha sfidato ostacolando la giustizia che ho inflitto al suo villaggio. Perché dovrei, come suo signore, non punirlo per la sua slealtà?"
 * "Ho rivendicato Ireena Kolyana, e l'ho segnata come mia. Perché non dovrei portarla con me a Castello Ravenloft proprio ora?"
-* "Siete intrusi nelle mie terre, e l'ultimo estraneo che è entrato a Barovia ha favorito la sedizione e il tradimento. Perché non dovrei eliminarvi ora, proprio come ho eliminato lui?" (La domanda di Strahd si riferisce al Dott. Rudolph van Richten.)
+* "Siete intrusi nelle mie terre, e l'ultimo estraneo che è entrato a Barovia ha favorito la sedizione e il tradimento. Perché non dovrei eliminarvi ora, per evitare che facciate lo stesso?" (La domanda di Strahd si riferisce al Dott. Rudolph van Richten.)
 
 Se i personaggi hanno seppellito le ossa di Walter e hanno messo a riposo gli spiriti della Casa della Morte, Strahd pone una domanda aggiuntiva:
 
@@ -249,17 +264,17 @@ A metà strada tra il sentiero dall'Incrocio del Fiume Ivlis all'Accampamento de
 
 L'arrivo del corvo è seguito poco dopo da un terribile stridio e dall'arrivo di una **strige maggiore**: un grande "uccello" artificiale fatto di legno, pelli di animali, iuta e centinaia di piume di corvo nere.
 
-La **strige maggiore** usa le statistiche di una **manticora**, ma è di taglia Media e ha vulnerabilità ai danni da fuoco. Invece di vere e proprie spine caudali, l'attacco **_spine caudali_** della strige maggiore rilascia una raffica di dozzine di piccole spine d'argento dalle sue ali.
+La **strige maggiore** usa le statistiche di una **manticora**, ma è un costrutto Medio e ha vulnerabilità ai danni da fuoco. Invece di vere e proprie spine caudali, l'attacco **_spine caudali_** della strige maggiore rilascia una raffica di dozzine di piccole spine d'argento dalle sue ali.
 
 ![[Greater Strix.png]]
 <span class="credit">"Greater Strix" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-La strige maggiore è accompagnata da due **sciami di strigi minori** (ognuno usa le statistiche di uno **sciame di corvi**). Ogni strige minore è un "corvo" artificiale leggermente più grande di un corvo, fatto di iuta, paglia, ramoscelli e denti di pietra affilati.
+La strige maggiore è accompagnata da due **sciami di strigi minori** (ognuno usa le statistiche di uno **sciame di corvi**, ma con vulnerabilità ai danni da fuoco). Ogni strige minore è un "corvo" artificiale leggermente più grande di un corvo, fatto di iuta, paglia, ramoscelli e denti di pietra affilati.
 
 > [!combat]- **Bilanciamento della Strige**
 > Questo incontro di combattimento è un incontro **difficile** contro un gruppo di cinque personaggi di 3° livello e un alleato di CR 1 (Ireena Kolyana), e consumerà circa il 34% dei loro punti ferita massimi totali. Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue:
 >
-> * ***Tre Giocatori.*** Riduci i punti ferita della strige maggiore a 46. Riduci i danni degli attacchi ***spina caudale*** e ***morso*** a 5 (1d6+2) danni perforanti e i danni dell'attacco ***artiglio*** a 4 (1d4+2) danni taglienti. Riduci il numero di sciami di strigi minori a uno e riduci i punti ferita dello sciame a 16 e i danni dell'attacco ***morso*** a 5 (2d4) danni perforanti o 2 (2d4) danni perforanti se ha metà dei suoi punti ferita rimanenti o meno.
+> * ***Tre Giocatori.*** Riduci i punti ferita della strige maggiore a 46. Riduci i danni degli attacchi ***spina caudale*** e ***morso*** a 5 (1d6+2) danni perforanti e i danni dell'attacco ***artiglio*** a 4 (1d4+2) danni taglienti. Riduci il numero di sciami di strigi minori a uno e riduci i punti ferita dello sciame a 16 e i danni dell'attacco ***morso*** a 5 (2d4) danni perforanti o 2 (1d4) danni perforanti se ha metà dei suoi punti ferita rimanenti o meno.
 > * ***Quattro Giocatori.*** Riduci il numero di sciami di strigi minori a uno.
 > * ***Sei Giocatori.*** Aumenta il numero di sciami di strigi minori a tre.
 
@@ -665,7 +680,7 @@ Se i personaggi accettano il compito di Madam Eva, lei annuisce con approvazione
 <p>Passa alla terza carta, il braccio destro della croce. Le sue palpebre si chiudono in una sorta di trance, le labbra serrate in contemplazione. La luce delle candele svanisce per un battito di ciglia—e poi ritorna in una nova di bianco puro, tanto intenso da bruciare lo sguardo—</p>
 <p>Madam Eva spalanca gli occhi, infiammati da una determinazione ardente.</p>
 <p>"Questa è una carta di potere e forza. Parla di un'arma di vendetta: una spada di luce solare." Gira la carta.</p>
-<p>La luce rivela una terza illustrazione: un uomo dal volto solenne vestito con paramenti sacri, una mano che stringe la catena di un turibolo di bronzo che emette un fumo ardente. “L'Otto di Glifi—Il Vescovo.” La voce della veggente è forte di determinazione. "Ciò che cercate si trova in una prigione di oscurità, oltre un portale d'ambra," intona, socchiudendo gli occhi. "Quest'arma è nascosta da lungo tempo. La casa del drago caduto potrà condurvi ad essa."</p>
+<p>La luce rivela una terza illustrazione: un uomo dal volto solenne vestito con paramenti sacri, una mano che stringe la catena di un turibolo di bronzo che emette un fumo ardente. “L'Otto di Glifi—Il Vescovo.” La voce della veggente è forte di determinazione. "Ciò che cercate si trova in una prigione d'ambra, dove il diavolo non osa avventurarsi," intona, socchiudendo gli occhi. "Quest'arma è nascosta da lungo tempo. La casa del drago caduto potrà condurvi ad essa."</p>
 <p>Sposta poi la mano sulla quarta carta, alla base della croce, tracciando piccoli cerchi sulla sul dorso mentre canticchia con fare riflessivo. Le fiamme magiche saltano e danzano sugli stoppini, lanciando nell'aria scintille violette, mentre le tombe brillano di un bagliore crepuscolare.</p>
 <p>"Questa carta fa luce su qualcuno che vi aiuterà molto nella battaglia contro l'oscurità."</p>
 <p>Gira la carta.</p>
@@ -688,17 +703,27 @@ Madam Eva rifiuta di tornare con i personaggi, preferendo invece rimanere all'in
 > [!lore]+ **Perché Madam Eva Rimane**
 > Gli avventurieri che cercavano di uccidere Strahd non sono gli unici sepolti in questo cimitero. La madre di Madam Eva, la Vistana con cui il Re Barov II ebbe una relazione, è sepolta nei boschi a breve distanza dalla biforcazione. (È comune per i Vistani seppellire i loro morti agli incroci, credendo che farlo liberi lo spirito per guidare coloro che seguono i percorsi che una volta percorrevano.)
 
+> [!warning]+ **Giocatori Erranti**
+>
+> L’esplorazione in questa campagna è intenzionale. I personaggi non troveranno molto vagando senza meta; senza indizi chiari, scoperte significative come il *Simbolo Sacro dei Ravenkind* o il Tempio d’Ambra possono richiedere giorni o addirittura settimane. Per progredire, i personaggi devono raccogliere indizi e riconoscere i segni che indicano la via.
+
 **_Pietra Miliare_**. Ricevere la lettura dei Tarokka completa una pietra miliare della storia. Quando il gruppo lascia l'incrocio, assegna a ciascun giocatore 500 PE.
+
 ## C4g. Partenza dalla Pozza di Tser
+
 Quando i personaggi si svegliano alla Pozza di Tser la mattina seguente, Stanimir li invita a fare colazione con lui intorno al fuoco spento. La colazione, a cui partecipa Arturi se possibile, include polenta di farina di mais, involtini di cavolo ripieni e pane fritto. (Se il suo tradimento non è stato rivelato la notte precedente, Eliza si unisce allegramente ai personaggi per la colazione.)
 
 Se i personaggi tentano di parlare di nuovo con Madam Eva prima di partire, Stanimir li avverte che "la vecchia donna" sta dormendo e non desidera essere disturbata. Se i personaggi tentano di entrare nella sua tenda, la trovano addormentata su un giaciglio accanto al suo tavolo.
+
 # C5. Il Cavaliere Scheletrico
+
 Quando i personaggi tornano all'Incrocio del Fiume Ivlis dopo aver ricevuto la lettura dei Tarokka, incontrano un cavaliere scheletrico, come descritto in <span class="citation">Cavaliere Scheletrico (p. 31)</span>, che si avvicina dalla strada occidentale e continua verso il villaggio di Barovia. Se i personaggi hanno visto il cadavere di Dalvan Olensky entrando a Barovia, notano che l'abbigliamento del cavaliere è riconoscibilmente simile al suo.
 
 > [!abstract]+ **Seguire il Cavaliere**
 > Se seguito, il cavaliere continua a ignorare i personaggi. Dopo aver viaggiato per una breve distanza lungo la strada, svolta a sud lungo un vecchio sentiero di caccia nei boschi, che segue verso est verso il confine orientale di Barovia. (Il cavaliere vaga a caso e non ha una destinazione particolare.)
+
 # C6. La Torre di Guardia
+
 Mentre i personaggi viaggiano verso ovest dall'Incrocio del Fiume Ivlis, leggi:
 
 <div class="description"><p>Vi lasciate alle spalle il crocevia e riprendete il vostro viaggio verso ovest. Seguite la strada mentre curva e poi sale lungo la scogliera, arrancando su per l’inclinazione ripida e rocciosa.</p>
@@ -707,7 +732,9 @@ Mentre i personaggi viaggiano verso ovest dall'Incrocio del Fiume Ivlis, leggi:
 <p>Le vecchie mura di pietra della torre sono coperte di muschio e rampicanti, e la sua porta di legno marcito pende dai cardini. Poco distante, due tombe fresche giacciono accanto alla strada. Tra l’erba alta, non lontano, sembra trovarsi il cadavere di un animale.</p></div>
 
 Fermati per permettere ai personaggi di agire o reagire. Se i personaggi rimangono in silenzio, continua a [[#C7. La Strada Alta]] di seguito. Altrimenti, permetti ai personaggi di esplorare l'area.
+
 ## La Torre di Guardia
+
 La torre di guardia in rovina è stata costruita come posto di vedetta dall'Ordine del Drago d'Argento molto tempo fa. Ha la stessa struttura della <span class="citation">Torre di Guardia (p. 157)</span> al Passo di Tsolenka, con le seguenti modifiche:
 
 * La porta della torre è stata mezza strappata dai cardini e può essere aperta facilmente.
@@ -718,15 +745,22 @@ La torre di guardia in rovina è stata costruita come posto di vedetta dall'Ordi
 Se i personaggi esplorano la torre di guardia, trovano un ciondolo d'argento rotto scolpito per assomigliare a un drago che giace a terra al primo piano, vicino all'ingresso. Il ciondolo è sempre freddo al tatto.
 
 Dalla cima dei merli della torre di guardia, i personaggi possono vedere le Cascate di Tser a nord-ovest e la Pozza di Tser a nord-est. A sud, sopra e oltre i pendii del Monte Ghakis, possono vedere solo un muro impenetrabile di nebbia grigia fitta.
+
 ## Le Tombe
+
 Le due tombe contengono i resti di due rifugiati baroviani che sono stati uccisi dai lupi durante il viaggio verso Vallaki qualche tempo fa. Una prova di Saggezza (Sopravvivenza) CD 12 rivela che le tombe hanno non più di qualche settimana.
 
 Piccoli ciottoli sono stati disposti nel terreno sopra ciascuna tomba per formare la forma di un sole nascente.
+
 ## Il Cadavere
+
 Il cadavere appartiene a un lupo ucciso da lance e dardi di balestra, ed è per lo più decomposto. I rifugiati baroviani lo hanno lasciato qui dopo averlo ucciso e aver scacciato gli altri membri del suo branco.
+
 # C7. La Strada Alta
+
 Il viaggio dall'Incrocio del Fiume Ivlis alle Cascate di Tser è lungo 12 km e dura due ore e mezza.
 ## C7a. Il Burrone
+
 Mentre i personaggi continuano lungo la strada, leggi:
 
 <div class="description"><p>Continuate lungo la strada di montagna tortuosa, le cime frastagliate che incombono minacciose attraverso la nebbia molto sopra di voi. </p>
@@ -736,7 +770,7 @@ Se uno dei personaggi ha un punteggio di Saggezza (Percezione) passivo di 14 o s
 
 <div class="description"><p>Mentre i vostri passi affondano nella vecchia strada fangosa, intravedete un movimento nella boscaglia: un lampo di pelliccia grigia, occhi ambrati e denti bianchi affilati. Poi, così come è apparso, scompare, nascondendosi di nuovo nelle ombre.</p></div>
 
-Il movimento appartiene a un **lupo**, che si ritira rapidamente nei boschi. I suoi quattro **compagni di branco** non sono lontani, mantenendo una distanza di 60 metri mentre seguono i personaggi attraverso i boschi.
+Il movimento appartiene a un **lupo**, che si ritira rapidamente nei boschi. I suoi cinque **compagni di branco** non sono lontani, mantenendo una distanza di 60 metri mentre seguono i personaggi attraverso i boschi.
 
 Se i personaggi continuano, leggi:
 
@@ -746,20 +780,22 @@ Se i personaggi continuano, leggi:
 Se uno dei personaggi ha un punteggio di Saggezza (Percezione) passivo di 14 o superiore, o se uno dei personaggi riesce in una prova di Saggezza (Percezione) CD 14, aggiungi:
 
 <div class="description">
-<p>Vedi tre ombre dal pelo grigiastro sfrecciare tra il sottobosco davanti a te. Altre due guizzano appena oltre il limite del tuo campo visivo, alle tue spalle.</p>
+<p>Vedi tre ombre dal pelo grigiastro sfrecciare tra il sottobosco davanti a te. Altre tre guizzano appena oltre il limite del tuo campo visivo, alle tue spalle.</p>
 </div>
 
 Se uno dei personaggi ha un punteggio di Saggezza (Percezione) passivo di 18 o superiore, o se uno dei personaggi riesce in una prova di Saggezza (Percezione) CD 18, aggiungi:
 
 <div class="description">
-<p>Una sesta figura si aggira nella gola quasi quindici metri più in basso, mantenendo il passo con i vostri movimenti mentre si confonde con le ombre delle rocce.</p>
+<p>Altri due si aggirano nella gola quasi quindici metri più in basso, mantenendo il passo con i vostri movimenti mentre si confondono con le ombre delle rocce.</p>
 </div>
 
-Se i personaggi si fermano, procedono o attaccano, i cinque lupi nei boschi attaccano. Leggi:
+Se i personaggi si fermano, procedono o attaccano, i sei lupi nei boschi attaccano. Leggi:
 
 <div class="description">
-<p>Cinque ombre ringhianti si lanciano dalla boscaglia, zanne scoperte e artigli tesi!</p>
+<p>Sei ombre ringhianti si lanciano dalla boscaglia, zanne scoperte e artigli tesi!</p>
 </div>
+
+![[wolf_ravine.jpg]]
 
 > [!combat]- **Bilanciamento dei Lupi**
 > Questo incontro di combattimento è un incontro sanguinoso contro un gruppo di cinque personaggi di 3° livello, un alleato di CR 1 (Ireena Kolyana) e un alleato di CR 0 (Muriel in forma di corvo), e consumerà circa il 58% dei loro punti ferita massimi totali. Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue:
@@ -772,11 +808,11 @@ Sostituisci l'attacco ***morso*** dei lupi con le seguenti opzioni di azione:
 * ***Sbranare.*** *Attacco con Arma da Mischia:* +4 a colpire, portata 1,5 metri., un bersaglio. *Colpito:* 7 (2d4 + 2) danni perforanti. Invece di infliggere danni, il lupo può afferrare il bersaglio (CD 11 per sfuggire).
 * ***Artigli.*** *Attacco con Arma da Mischia:* +4 a colpire, portata 1,5 metri., un bersaglio. *Colpito:* 6 (1d8 + 2) danni taglienti. Se il bersaglio è una creatura, deve fare un tiro salvezza di Forza CD 11. In caso di fallimento, viene atterrato prono o spinto di 1,5 metri (a scelta del lupo).
 
-In combattimento, i **lupi** mirano a un singolo personaggio alla volta, usando le loro ***tattiche di branco*** per ottenere vantaggio sui tiri per colpire e i loro attacchi ***artigli*** per tentare di far cadere un personaggio nel burrone.
+I **lupi** partono dal fianco della montagna, con i personaggi tra loro e il burrone. In combattimento, i **lupi** prendono di mira un singolo personaggio alla volta con i loro attacchi ***artiglio***, sfruttando le ***tattiche di branco*** per ottenere vantaggio ai tiri per colpire, nella speranza di spingere il personaggio nel dirupo.
 
-Un personaggio che cade nel burrone rotola per 15 metri verso il basso, subendo 17 (5d6) danni contundenti e cadendo prono. Il sesto lupo usa il suo ***sbranare*** per attaccare qualsiasi creatura che cade nel burrone, poi la trascina via nella speranza di un pasto facile. Una creatura che si aggrappa al bordo frastagliato alla base del burrone ha mezza copertura dalle creature in cima al burrone.
+Un personaggio che cade nel burrone rotola per circa 15 metri, subendo 17 (5d6) danni da contundente e cadendo prono. I due lupi alla base usano il loro ***mazzolare*** per attaccare qualsiasi creatura cada nel burrone, quindi la trascinano via nella speranza di un pasto facile. Una creatura che si aggrappa al bordo frastagliato in fondo al burrone gode di mezza copertura contro le creature che si trovano in cima al burrone.
 
-Una volta che un personaggio cade nel burrone, il resto del branco fugge nei boschi, poi scende nel burrone per un altro sentiero per aiutare il sesto lupo a trascinare via la sua preda. Il branco fugge se quattro dei sei lupi vengono uccisi.
+Una volta che un personaggio cade nel burrone, il resto del branco fugge nel bosco, per poi scendere nel burrone attraverso un altro sentiero per aiutare il sesto lupo a trascinare via la preda. Il branco fugge se sei degli otto lupi vengono uccisi.
 
 > [!info]+ **Scendere nel Burrone**
 > Un personaggio che tenta di salire o scendere dal bordo del burrone deve fare una prova di Forza (Atletica) CD 10. Se la prova riesce, il personaggio si muove a metà velocità su o giù dal bordo del burrone, come desiderato. Con un risultato della prova di 6-9, il personaggio non guadagna né perde terreno; con un risultato di 5 o meno, il personaggio cade e subisce 1d6 danni contundenti per ogni 3 metri caduti, atterrando prono alla base del burrone.
@@ -785,7 +821,9 @@ Mentre i personaggi lasciano quest'area, un personaggio con un punteggio di Sagg
 
 > [!lore]+ **I Lupi Osservatori**
 > I due lupi sono **lupi mannari** in forma di lupo. Bruti assetati di sangue fedeli a Kiril Stoyanovich e Strahd von Zarovich, riappariranno per seguire i personaggi in [[#C11. La Caccia dei Lupi Mannari]].
+
 ## C7b. Cascate di Tser
+
 <span class="citation"><em>Questa scena si svolge nel Capitolo 2: Area H.</em></span>
 
 Quest'area è in gran parte come descritto in <span class="citation">Cascate di Tser (p. 37)</span>. Inoltre, quando i personaggi arrivano, possono vedere un <span class="citation">revenant (p. 31)</span> che sta da solo a metà del ponte con le mani appoggiate sul pomo della sua spada, la cui lama è piantata saldamente a terra.
@@ -1003,12 +1041,12 @@ Modifica i blocchi di statistiche dei lupi come descritto in [[#C7a. Il Burrone]
 <p><strong><em>Multiattacco.</em></strong> Il lupo mannaro effettua due attacchi: due con la sua lancia (forma umanoide) o uno con il suo morso e uno con i suoi artigli (forma di lupo o ibrida).</p>
 <p><strong><em>Morso (Solo in Forma di Lupo o Ibrida).</em></strong> Attacco con Arma da Mischia: +5 a colpire, portata 1,5 metri., un bersaglio. Colpito: 7 (1d8 + 3) danni perforanti. Invece di infliggere danni, il lupo mannaro può afferrare il bersaglio (CD 11 per sfuggire). Inoltre, se il bersaglio è un umanoide, deve superare un tiro salvezza di Costituzione CD 13 o essere maledetto con la licantropia del lupo mannaro.</p>
 <p><strong><em>Artigli (Solo in Forma di Lupo o Ibrida).</em></strong> Attacco con Arma da Mischia: +5 a colpire, portata 1,5 metri., una creatura. Colpito: 8 (2d4 + 3) danni taglienti. Se il bersaglio è una creatura, deve superare un tiro salvezza di Forza CD 13 o essere atterrato prono.</p>
-<p><strong><em>Lancia (Solo in Forma Umanoide).</em></strong> Attacco con Arma da Mischia o a Distanza: +5 a colpire, portata 1,5 metri. o gittata 20/60 ft., una creatura. Colpito: 6 (1d6 + 3) danni perforanti, o 6 (1d8 + 3) danni perforanti se usata con due mani per effettuare un attacco in mischia.</p>
+<p><strong><em>Lancia (Solo in Forma Umanoide).</em></strong> Attacco con Arma da Mischia o a Distanza: +5 a colpire, portata 1,5 metri. o gittata 20/60 ft., una creatura. Colpito: 6 (1d6 + 3) danni perforanti, o 7 (1d8 + 3) danni perforanti se usata con due mani per effettuare un attacco in mischia.</p>
 <h3>Azioni Bonus</h3>
 <p><strong><em>Cambiamento di Forma.</em></strong> Il lupo mannaro si trasforma in un ibrido lupo-umanoide o in un lupo, o torna alla sua vera forma, che è umanoide. Le sue statistiche, a parte la sua CA, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossa o trasporta si fonde nella nuova forma. Torna alla sua vera forma se muore.</p>
 </div>
 
-In combattimento, i **lupi** lavorano insieme, usando i loro ***Artigli*** per atterrare i personaggi, poi usando i loro ***Sbranare*** per afferrare i bersagli atterrati. Una volta che i lupi hanno trascinato un personaggio afferrato lontano dal gruppo, i **lupi mannari** spostano la loro attenzione per attaccarli con il loro ***Morso***. Il primo personaggio preso di mira in questo modo nota che i lupi mannari sono leggermente più grandi degli altri due e hanno occhi intelligenti e disturbantemente umani.
+In combattimento, i **lupi** lavorano insieme, usando i loro ***Artigli*** per atterrare i personaggi, poi usando i loro ***Sbranare*** per afferrare i bersagli atterrati. Una volta che i lupi hanno trascinato un personaggio afferrato lontano dal gruppo, i **lupi mannari** spostano la loro attenzione per attaccarli con il loro ***Morso***. Il primo personaggio preso di mira in questo modo nota che i lupi mannari sono leggermente più grandi degli altri tre e hanno occhi intelligenti e disturbantemente umani.
 
 Un lupo mannaro fugge se inizia il suo turno con 20 punti ferita o meno e non si rigenera, o se inizia il suo turno con 0 punti ferita per tre turni consecutivi. Qualsiasi lupo sopravvissuto segue subito dopo.
 
