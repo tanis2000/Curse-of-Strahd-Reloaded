@@ -360,9 +360,9 @@ Volenta usa i due vampiri spawn con lei come copertura, mettendoli tra lei e i g
 * Osserva che è fortunato che si trovino in un negozio di bare, aggiungendo: "Dopotutto, avranno *qualche posto* dove mettere le tue parti quando avrò finito con te." Poi dirige gli altri vampiri ad attaccare.
 
 > [!combat]- **Bilanciare la Prima Sposa**
-> A causa della meccanica delle fasi e del punto di strozzatura, questa è una serie di tre incontri consecutivi **brutali** contro un gruppo di cinque giocatori di 4° livello e un alleato di GS 3 (Padre Lucian), con ciascuno che consuma circa il 24% dei punti ferita massimi totali dei giocatori (per un totale del 72% dei loro punti ferita massimi). Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue:
+> A causa della meccanica delle fasi e del punto di strozzatura, questa è una serie di due incontri consecutivi **brutali** contro un gruppo di cinque giocatori di 4° livello e un alleato di GS 3 (Padre Lucian), con ciascuno che consuma circa il 24% dei punti ferita massimi totali dei giocatori (per un totale del 48% dei loro punti ferita massimi). Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue:
 > 
-> * ***Tre Giocatori.*** Rimuovi i vampiri spawn. Volenta fugge una volta che la sua seconda forma è sanguinante.
+> * ***Tre Giocatori.*** Rimuovi i vampiri spawn.
 > * ***Quattro Giocatori.*** Riduci il numero di vampiri spawn a uno.
 > * ***Sei Giocatori.*** Aumenta il numero di vampiri spawn a tre.
 
@@ -481,6 +481,7 @@ Volenta usa i due vampiri spawn con lei come copertura, mettendoli tra lei e i g
 <p><strong><em>Balzo.</em></strong> Volenta si muove fino alla sua velocità senza provocare attacchi di opportunità. Mentre lo fa, può sostituire 10 piedi di movimento con un salto in alto di 10 piedi.</p>
 <p><strong><em>Dislocare.</em></strong> Volenta disloca le sue articolazioni, sfuggendo automaticamente a qualsiasi restrizione non magica, come manette o una creatura che la tiene afferrata.
 <h3>Reazioni</h3>
+<p>Volenta può effettuare fino a tre reazioni per round, ma solo una per turno. Se Volenta dovesse perdere le sue reazioni, ne perde solo una alla volta.</p>
 <p><strong><em>Sputare Sangue.</em></strong> In risposta a subire danni da un attacco in mischia, Volenta sputa un grumo di sangue negli occhi della creatura attaccante, costringendola a effettuare un tiro salvezza di Destrezza CD 15. In caso di fallimento, la creatura è accecata fino alla fine del suo prossimo turno.</p>
 <p><strong><em>Aggressione.</em></strong> In risposta a subire danni da un attacco o incantesimo, Volenta si muove fino alla sua velocità verso una creatura ostile che può vedere senza provocare attacchi di opportunità.</p>
 <p><strong><em>Fuga.</em></strong> In risposta a sfuggire a una presa, Volenta usa la sua caratteristica <strong><em>balzo</em></strong>.
@@ -612,7 +613,7 @@ Una volta che Rahadin è soddisfatto che la giustizia sia stata fatta, evoca di 
 <hr>
 <strong>Classe Armatura</strong> 18 (cuoio borchiato)
 <br>
-<strong>Punti Ferita</strong> 180 (34d8 + 72)
+<strong>Punti Ferita</strong> 180 (24d8 + 72)
 <br>
 <strong>Velocità</strong> 35 ft.
 <hr>

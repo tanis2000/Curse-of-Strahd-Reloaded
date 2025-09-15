@@ -460,6 +460,7 @@ Mentre i giocatori escono dalla capanna di Szoldar, un personaggio con un punteg
 
 La silhouette è Arrigal, che ha deciso di spiare i giocatori per conto di Strahd e di assicurarsi che Arabelle venga riportata sana e salva se i giocatori la trovano. Sebbene rimanga fuori vista per il resto del viaggio, Arrigal continua a seguire i giocatori da lontano.
 ## E5a. Ponte del Fiume Luna
+
 Il viaggio da Vallaki all'Incrocio del Fiume Luna è lungo un miglio e richiede venti minuti. Mentre i giocatori attraversano il ponte sul fiume Luna, leggi quanto segue:
 
 <div class="description">
@@ -468,8 +469,10 @@ Il viaggio da Vallaki all'Incrocio del Fiume Luna è lungo un miglio e richiede 
 <p>A metà del ponte, notate qualcosa di strano: un piccolo pezzo di materiale bianco che svolazza sulla superficie del lato opposto del fiume, impigliato in una radice d'albero a una dozzina di iarde a valle.</p>
 </div>
 
-Se i giocatori recuperano il pezzo di materiale, scoprono che è un piccolo fazzoletto bianco inzuppato, monogrammato con le iniziali rosse ricamate "R.V.R."
+Se i giocatori recuperano il pezzo di materiale, scoprono che è un piccolo fazzoletto bianco inzuppato, monogrammato con le iniziali rosse ricamate "R.V.R." (Arabelle ha lasciato questo indizio mentre viaggiava verso Vallaki con Van Richten)
+
 ## E5b. Incrocio del Fiume Luna
+
 <span class="citation"><em>Questa scena si svolge nel Capitolo 2: Area P.</em></span>
 
 L'Incrocio del Fiume Luna è descritto in <span class="citation">P. Incrocio del Fiume Luna (p. 40)</span>. 
@@ -800,6 +803,65 @@ Una volta che lui e i giocatori sono soli nella sua suite, Rictavio estrae il su
 
 <span class="credit">"Dr. Rudolph van Richten" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
+<div class="statblock">
+<h2>Rudolph Van Richten</h2>
+<em>Umano medio, legale buono</em>
+<hr>
+<strong>Classe Armatura</strong> 13 (armatura di cuoio)
+<br>
+<strong>Punti Ferita</strong> 77 (14d8 + 14)
+<br>
+<strong>Velocità</strong> 9 m
+<hr>
+<table class="ability-table">
+  <thead>
+    <tr>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
+      <th>INT</th>
+      <th>SAG</th>
+      <th>CAR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9 (–1)</td>
+      <td>14 (+2)</td>
+      <td>13 (+1)</td>
+      <td>19 (+4)</td>
+      <td>18 (+4)</td>
+      <td>16 (+3)</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<strong>Tiri Salvezza</strong> Cos +4, Sag +7<br>
+<strong>Abilità</strong> Arcana +10, Intuito +7, Medicina +10, Percezione +7, Religione +7, Destrezza Manuale +5<br>
+<strong>Sensi</strong> Percezione Passiva 17<br>
+<strong>Lingue</strong> Abissale, Comune, Elfico, Infernale<br>
+<strong>Grado di Sfida</strong> 5 (1.800 PE)<br>
+<strong>Bonus Competenza</strong> +3
+<hr>
+<p><strong><em>Equipaggiamento Speciale.</em></strong> Van Richten possiede un <em>cappello dell’inganno</em> e un <em>anello di protezione mentale</em>.</p>
+<p><strong><em>Attacco Furtivo.</em></strong> Una volta per turno, Van Richten può infliggere 17 (5d6) danni extra a una creatura colpita da un suo attacco se ha vantaggio al tiro per colpire. Non ha bisogno del vantaggio se il bersaglio è un non morto, oppure se almeno uno dei suoi alleati si trova entro 1,5 m dal bersaglio, l’alleato non ha la condizione di incapacitato e Van Richten non ha svantaggio sul tiro per colpire.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Van Richten effettua due attacchi con il suo bastone-spada argentato o con la balestra argentata.</p>
+<p><strong><em>Bastone-Spada Argentato.</em></strong> Attacco con arma da mischia: +5 al tiro per colpire, portata 1,5 m, un bersaglio. Colpo: 5 (1d6 + 2) danni perforanti.</p>
+<p><strong><em>Balestra Argentata.</em></strong> Attacco con arma a distanza: +5 al tiro per colpire, portata 24/97 m, un bersaglio. Colpo: 6 (1d8 + 2) danni perforanti.</p>
+<p><strong><em>Bracciale Incantato.</em></strong> Van Richten usa il suo bracciale incantato per lanciare uno dei seguenti incantesimi, usando la Saggezza come abilità di incantesimo (CD TS 15):<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>1/giorno ciascuno</strong> Cecità/Cecità, Guardia contro la Morte, Libertà di Movimento</p>
+<p><strong><em>Cappello dell’Inganno.</em></strong> Van Richten usa il suo <em>cappello dell’inganno</em> per lanciare <em>Mutare Aspetto</em>.</p>
+<p><strong><em>Lente Lucida.</em></strong> Van Richten usa la sua <em>lente lucida</em> per lanciare <em>Individuazione Magia</em> o <em>Individuazione del Bene e del Male</em> (1/giorno ciascuno).</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Azione Astuta.</em></strong> Van Richten compie l’azione Scatto, Disimpegno o Nascondersi.</p>
+<p><strong><em>Maestro di Tattiche (Aiuto).</em></strong> Van Richten usa l’azione Aiuto per favorire l’attacco di un alleato contro una creatura entro 9 m che possa vederlo o sentirlo.</p>
+<p><strong><em>Combattimento Perspicace.</em></strong> Van Richten effettua un tiro Saggezza (Intuito) contro una creatura che può vedere e che non sia incapacitata, contestato dalla Carisma (Inganno) del bersaglio. Se riesce, ha vantaggio per attaccare quella creatura e quella creatura ha svantaggio per attaccarlo per 1 minuto. Questo beneficio dura 1 minuto o fino a quando Van Richten non usa con successo questa abilità contro un altro bersaglio.</p>
+<h3>Reazioni</h3>
+<p><strong><em>Bracciale Incantato.</em></strong> <em>Attivazione:</em> Una creatura ostile attacca Van Richten o termina il suo turno. <em>Effetto:</em> Van Richten lancia un incantesimo usando il suo <em>bracciale incantato</em>.</p>
+<p><strong><em>Schivata Incredibile.</em></strong> <em>Attivazione:</em> Un attaccante colpisce Van Richten con un tiro per colpire. <em>Effetto:</em> Van Richten dimezza i danni dell’attacco (arrotondando per difetto).</p>
+</div>
+
 Van Richten può condividere le seguenti informazioni:
 
 * Fino a poco tempo fa, si era nascosto nella torre al Lago Baratok. Tuttavia, ciò è cambiato quando ha visto un uomo Vistana portare un sacco che si dimenava a un vampiro biondo sulle rive del fiume Luna. (Van Richten ha riconosciuto il vampiro come un uomo di nome Escher, un bardo di Barovia che si era unito alla rivolta dei Baroviani.)
@@ -819,7 +881,9 @@ Se i giocatori chiedono a Van Richten del suo arrivo a Barovia o della rivolta c
 * Conoscendo bene la reputazione di Eva, Van Richten ha intrapreso con riluttanza il viaggio verso il Lago Baratok, piangendo lacrime amare per i figli e le figlie di Barovia. 
 
 Se i giocatori lo richiedono, Van Richten accetta di portarli al suo carro nel Deposito Arasek per vedere Arabelle di persona. Procedi a [[#E8b. Seguire Rictavio]] di seguito.
+
 ## E8b. Seguire Rictavio
+
 <span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N5.</em></span>
 
 Se i giocatori seguono [[Personaggi Non Giocanti#Disguised (as Rictavio)|Rictavio]] al Deposito Arasek anziché aspettarlo alla Locanda dell'Acqua Blu, possono trovarlo inginocchiato vicino al carro, dove sembra stia regolando i raggi della ruota posteriore sinistra di legno del carro. Un giocatore con un punteggio di Saggezza (Percezione) passivo di 16 o superiore nota che Rictavio sta regolando ripetutamente lo stesso raggio e che le labbra di Rictavio si muovono, come se stesse parlando con qualcuno. Se i giocatori lo osservano, continua il suo compito per cinque minuti interi, molto più a lungo di quanto un tale compito dovrebbe normalmente richiedere, prima di alzarsi e muoversi per partire.
@@ -827,7 +891,9 @@ Se i giocatori seguono [[Personaggi Non Giocanti#Disguised (as Rictavio)|Rictavi
 Se i giocatori lo affrontano, Rictavio li saluta calorosamente, ma finge ignoranza delle loro accuse e affermazioni. Se i giocatori insistono che vogliono aiutare Arabelle, mostrano la pagina bruciata del diario o minacciano di rivelare la sua copertura, lo sguardo di Rictavio si indurisce, il suo pugno si stringe intorno al bastone e la sua voce si abbassa a un sussurro quasi impercettibile. Chiede di sapere se sono spie di Strahd e minaccia con calma di "eliminarli" se servono la volontà del Diavolo.
 
 Se i giocatori forniscono prove sufficienti della loro buona fede o superano una prova di Carisma (Persuasione) con CD 15, Rictavio sospira e comanda ai giocatori di formare un muro protettivo intorno alla parte posteriore del carro. Se i giocatori antagonizzano Rictavio invece, o non riescono a convincerlo, una voce di una giovane ragazza risuona tranquillamente dal carro: "Non mi vogliono fare del male. Per favore, apri la porta."
+
 ## E8c. Il Carro di Rictavio
+
 <span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N5</em></span>
 
 Una volta che i giocatori o Arabelle lo hanno convinto a farlo, [[Personaggi Non Giocanti#Disguised (as Rictavio)|Rictavio]] estrae una chiave dalla manica e apre la porta. Quando lo fa, i giocatori possono vedere che il carro contiene un morbido letto di paglia, una coperta di lana confortevole, alcuni libri e una giovane ragazza Vistana, Arabelle, che stringe un peluche di tigre dai denti a sciabola al petto e indossa una collana di perline con un amuleto di rame scolpito.
@@ -836,6 +902,7 @@ Una volta che i giocatori o Arabelle lo hanno convinto a farlo, [[Personaggi Non
 <span class="credit">"Arabelle" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### Incontrare Arabelle
+
 A meno che non venga deviata dai giocatori, la conversazione si svolge come segue:
 
 * Arabelle saluta calorosamente i giocatori, li ringrazia per i loro sforzi per trovarla e condivide il suo rammarico per le ferite che hanno subito lungo il percorso. 
@@ -963,7 +1030,7 @@ La trama che coinvolge l'anello con sigillo è stata aggiunta per fornire a Luva
 
 ***Capanne degli Elfi Crepuscolari.*** Per scoraggiare i giocatori dall'esplorare il Tempio d'Ambra troppo presto (e perché i giocatori sono estranei che ha appena incontrato, senza qualifiche evidenti che li aiuteranno a raggiungere i suoi obiettivi), Kasimir Velikov non condivide più i sogni di Patrina o il suo interesse per il Tempio d'Ambra al loro primo incontro. 
 
-Kasimir guiderà successivamente i giocatori al Tempio d'Ambra in [[Arco U - Il Tempio d'Ambra]] dopo che i giocatori apprenderanno del suo interesse per il tempio alla conclusione di [[Arco Q - Un Faro Splendente]]. Per ora, tuttavia, le ferite di Kasimir dal suo recente viaggio sul Monte Ghakis sono state mostrate per prefigurare il suo coinvolgimento in quell'arco futuro.
+Kasimir guiderà successivamente i giocatori al Tempio d'Ambra in [[Arco S - La Spada del Sole]] dopo che i giocatori apprenderanno del suo interesse per il tempio alla conclusione di [[Arco Q - Un Faro Splendente]]. Per ora, tuttavia, le ferite di Kasimir dal suo recente viaggio sul Monte Ghakis sono state mostrate per prefigurare il suo coinvolgimento in quell'arco futuro.
 
 I simboli sull'anello con sigillo sono stati aggiunti per fornire ai giocatori la soluzione alla porta a puzzle all'ingresso della Torre di Van Richten.
 

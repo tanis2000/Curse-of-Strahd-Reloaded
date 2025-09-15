@@ -146,7 +146,7 @@ Incontrando per la prima volta Izek Strazni e il Barone Vargas Vallakovich, i gi
 
 I giocatori e Ireena accompagnano Padre Petrovich alla Chiesa di Sant'Andral, dove ricevono l'aggancio per [[Arco D - La Festa di Sant'Andral]]. Dopo aver indagato e interrogato Milivoj, i giocatori reclutano Padre Petrovich e si recano al negozio del fabbricante di bare, dove combattono con Volenta Popofsky e recuperano le ossa rubate.
 
-Più tardi quello stesso pomeriggio, i giocatori visitano Blinsky Toys per acquistare un giocattolo per Arabelle, seguito dall'accampamento Vistani. Lì, apprendono di [[Arco E - La Vistana Scomparsa]] e accettano l'anello con sigillo da Kasimir Velikov.
+Più tardi quello stesso pomeriggio, i giocatori visitano Blinsky Toys per acquistare un giocattolo per Arabelle, seguito dall'accampamento Vistani. Lì, apprendono di [[Arco H - L'Anima Perduta]] e accettano l'anello con sigillo da Kasimir Velikov.
 
 Quella notte, i giocatori irrompono nella dimora del Barone, sperando di indagare sulla storia dell'anello—solo per essere catturati da Victor Vallakovich, che li conduce nella sua stanza di lavoro e li informa della torre di Khazan al Lago Baratok. Una vista casuale della silhouette di Stella Wachter nello *specchio degli spiriti* di Victor accende una conversazione e i giocatori iniziano [[Arco H - L'Anima Perduta]].
 
