@@ -1117,7 +1117,7 @@ Le guardie ai cancelli agiscono in gran parte come descritto in <span class="cit
 
 Le guardie richiedono che ogni persona si identifichi per prima. Una volta identificati, ogni personaggio deve mostrare i denti ("Per dimostrare che non siete vampiri.") e essere brevemente esposto a una collana di bulbi d'aglio ("Per dimostrare che non siete lupi mannari"). (Il Barone ha, erroneamente, informato le sue guardie che i lupi mannari sono gravemente allergici all'aglio.)
 
-Le guardie richiedono quindi che ogni personaggio paghi 1 moneta d'oro come pedaggio per entrare nel villaggio. Le guardie rifiutano di accettare il pagamento per conto dei rifugiati, che il Barone ha specificamente vietato dall'ingresso, affermando preoccupazioni di "malattia, indisciplina e infelicità maliziosa."
+Le guardie richiedono quindi che ogni personaggio paghi 1 moneta d'oro come pedaggio per entrare nel villaggio. Le guardie rifiutano di accettare il pagamento per conto dei rifugiati, a cui il Barone ha specificamente vietato dall'ingresso, affermando preoccupazioni di "malattia, indisciplina e infelicità maliziosa."
 
 Se i personaggi pagano il pedaggio, le guardie insistono anche che ogni entrante apra la sua borsa (o equivalente) e consegni qualsiasi moneta d'argento in loro possesso. (Se i personaggi si lamentano, le guardie assicurano loro che l'argento è necessario per produrre le armi d'argento necessarie per difendere la città dai lupi mannari.) In cambio di qualsiasi moneta d'argento che danno, i personaggi ricevono una quantità di monete di rame di pari valore—meno una tassa del dieci percento.
 
