@@ -1,3 +1,83 @@
+# Hotfix 2.1.0.6 (October 13, 2025)
+* Resolved formatting issues in [[Bestiary]]
+# Patch 2.1.0.5 (September 22, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Added ***Close Quarters Fighter*** to all bosses, removing their disadvantage from ranged attacks whilst in melee
+* Added *abjure spell* to Victor's spellbook, an alternative to a 5th-level *counterspell* for those using 2024 rules.
+* Added a verbal component to Ezmerelda's *runeguard stone* in [[Arc K - The Fallen Abbey]]
+* Added Henrik to the castle cells in [[Arc P - Ravenloft Heist]], if he was imprisoned in Arc D
+* Added a zombie operating the rack in [[Arc P - Ravenloft Heist]]
+* Amended or removed various skill checks concerning the Abbot in [[Arc Q - A Shining Beacon]] to allow for justifiable social solutions to not get stuck behind a poor roll
+* Added reminders in arcs R and S for DMs to add the effects of *Beacon of Protection* to allies as well as PCs once the beacon is lit in [[Arc Q - A Shining Beacon]]
+* Clarified Godfrey's resonance level in [[Arc S - A Sword of Sunlight]]
+* Removed the outdated text regarding a lit *Sunsword* in the [[Arc T - The Three Fanes#T2c. The Tyrant’s Final Trial|Tyrant's Final Trial]]
+* Added further information on mechanics and roleplay advice for the carrionettes in [[Arc T - The Three Fanes]]
+* Ensured parity across descriptions of the *Spear of the Huntress* in [[Arc T - The Three Fanes]]
+* Added balancing information for combat in [[Arc U - Dreams of Dawn]]
+* Added a [[Bestiary]] for monster statblocks from throughout the guide
+* Added statblocks for various NPCs into [[Non-Player Characters]] 
+# Hotfix 2.1.0.4 (July 6, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Added an image of Argynvost's Ghost to [[Arc Q - A Shining Beacon]]
+* Added an updated, labelled image of Bodak's Lair to [[Arc R - Trials of the Mountain]]
+# Patch 2.1.0.3 (June 18, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Clarified fog and vision limitations in the siege in [[Arc B - Welcome to Barovia]]
+* Changed Parriwimple's statblock to that of a berserker with a spear in [[Arc B - Welcome to Barovia]]
+* Added a light crossbow to Ireena's equipment in [[Arc B - Welcome to Barovia]]
+* Ensured parity between stats and balancing of Izek in [[Arc F - Lady Wachter's Wish]] and [[Arc G - The Strazni Siblings]]
+* Removed the refugees' coldness to Ireena and Ismark in [[Arc H - The Lost Soul]], on account of their father being alive at time of the refugees leaving
+* Ensured parity of the Order of the Silver Dragon's oath across [[Arc M - The Dragon's Manor]]
+* Added a short scene with disinterested wolves in [[Arc O - Dinner with the Devil]] to show that Strahd is honoring his word
+* Updated reconsecration information for the *Spear of the Huntress* in [[Arc P - Ravenloft Heist]]
+* Added clarifying information on where in the mausoleum the black flames erupt in [[Arc Q - A Shining Beacon]]
+* Added balancing encounters in [[Arc R - Trials of the Mountain]]
+* Added balancing encounters in [[Arc S - A Sword of Sunlight]]
+* Added roleplaying guidance for those possessed by Dorina in [[Arc S - A Sword of Sunlight]]
+* Added balancing encounters in [[Arc T - The Three Fanes]]
+* Added stat block for Animated Minor Object in [[Arc T - The Three Fanes]]
+* Updated amber shard locations in [[Amber Shards]]
+
+# Hotfix 2.1.0.2 (June 12, 2025)
+* Changed Strahd's dying words in [[Arc U - Dreams of Dawn]]
+# Hotfix 2.1.0.1 (May 30, 2025)
+* Fixed ravine battlemap not rendering in [[Arc C - Into the Valley]]
+# Update 2.1 (May 23, 2025)
+* Added [[Arc U - Dreams of Dawn]]
+* Removed Strahd's Castle Ravenloft lair actions
+# Hotfix 2.0.12.4 (May 19, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Clarified that the coven's concentration spells stop when they change to phase 2 in [[Arc H - The Lost Soul]]
+* Added fire vulnerability to the **lesser strix** in line with the **greater strix** in [[Arc C - Into the Valley]]
+# Hotfix 2.0.12.3 (May 16, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Updated chapter name "Dreams of Dawn" to [[Arc T - The Three Fanes#T5. A Light in the Dark|T5. A Light in the Dark]]
+* Updated the *Indomitable* feature across all relevant statblocks
+# Patch 2.0.12.2 (May 12, 2025)
+* Revised the Tyrant's final trail in [[Arc T - The Three Fanes]]
+* Added a sequence for igniting the *Sunsword* in [[Arc S - A Sword of Sunlight]]
+# Patch 2.0.12.1 (May 10, 2025)
+* Amended various typos, broken links, and errors in formatting
+* Clarified that the siege of Barovia village has been for six days in Arc B
+* Clarified that players wake shortly before dawn in the Village of Barovia to ensure they can participate in Kolyan's funeral in Arc B
+* Aligned Gertruda's journey to be towards Vallaki, but intercepted by Strahd in Arc B
+* Changed the tarot reading to refer to Vampyr's sarcophagus in Arc C
+* Clarified when Victor gifts the Spirit Mirror in Arc H
+* Clarified that the Abbot is bringing forward Anna's deadline to one week in Arc I
+* Added further details to and removed ambiguities in Varushka's nightmare in Arc O
+* Refine and simplified the rooftop mechanic in Varushka's nightmare in Arc O
+* Clarified that Rahadin locks the door to the guest suite as a whole in Arc O
+* Clarified that Tasha Petrovna's holy symbol is worn by Father Lucien and not in her crypt in Arc P
+* Amended contradictions regarding Cyrus and his presence in Ravenloft in Arc P
+* Added information on how Icon of Dawn's Grace retains its magical abilities but loses sentience once the Abbot is redeemed in Arc Q
+* Amended lore contradictions in History of Barovia
+* Added information in Lore of Barovia, the Tarokka reading, and Act II summary stating that players cannot wander randomly and discover things
+* Updated the NPCs appendices with missing content for Old Bonegrinder 
+* Updated Amber Shards with locations of all mentioned shards
+* Added a Barovian relic sidebar for each location that a unique relic responds to a location.
+* Added an infobox detailing that if creative players bring a silverthorn collar to the anti-magic field of the tower, that it will nullify the magic.
+# Update 2.0.12 (May 8, 2025)
+* Added [[Arc T - The Three Fanes]]
 # Hotfix 2.0.11.2 (March 23, 2025)
 * Tweaked the history of the Amber Temple and the answer to Meda's riddle in [[Arc S - A Sword of Sunlight]] to clarify that the amber vestiges are not the Dark Powers.
 # Hotfix 2.0.11.1 (March 22, 2025)

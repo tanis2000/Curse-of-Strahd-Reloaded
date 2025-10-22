@@ -5,13 +5,18 @@ In questo arco narrativo, dopo aver appreso che l'elfo del crepuscolo Kasimir Ve
 L'unico rifugio per i giocatori si presenta sotto forma di Soldav, il rifugio nascosto del Popolo della Montagna. Qui, i giocatori scoprono che Strahd ha profanato le tre Fane della valle—la Fana della Foresta di Yester Hill, la Fana della Palude a Berez e la Fana della Montagna vicino a Vecchio Tritacarne—e, così facendo, ha reclamato il loro potere come proprio.
 
 Se i giocatori sopravvivono all'ultima tappa del loro viaggio, si trovano davanti alla grande facciata del Tempio d'Ambra. Tuttavia, ogni notte durante il loro riposo, Strahd fa loro visita personalmente, sperando di prosciugare il sangue di una vittima e avvicinarla all'abisso del vampirismo. I giocatori riusciranno a fermare i piani oscuri di Strahd—o uno di loro si ritroverà incatenato per sempre alla tomba?
+
+> [!warning]+ **Faro di Protezione**
+> Non dimenticare: finché il faro di Argynvost è acceso, tutti i PNG che si oppongono a Strahd ottengono anche un bonus di +1 alla CA e ai tiri salvezza.
+
 # R1. Reclutare Kasimir
+
 Dopo aver appreso dallo spirito di Sir Godfrey in [[Arc Q - A Shining Beacon#Q6c. Il Ritorno di Argynvost|Arc Q - A Shining Beacon]] che l'elfo del crepuscolo Kasimir conosce la posizione del Tempio d'Ambra, i giocatori possono trovare Kasimir nella sua capanna presso l'accampamento Vistani di Vallaki, descritto in [[Arc E - La Vistana Scomparsa|#E2. L'Accampamento dei Vistani|Arc E - La Vistana Scomparsa]].
 
 > [!info]+ **Il Libro degli Incantesimi di Kasimir**
 > Il libro degli incantesimi di Kasimir contiene principalmente gli incantesimi descritti in <span class="citation">N9a. La Capanna di Kasimir (p. 121)</span>. Tuttavia, rimuovi *metamorfosi*, *controincantesimo*, *suggestione*, *non rivelato* e *volare* dagli incantesimi del suo libro.
 
-Quando i giocatori arrivano, Kasimir sta bevendo tè e leggendo un libro intitolato *Le Creste del Monte Ghakis* di Finderway Ulbrek. Se i giocatori bussano alla porta, Kasimir segna la pagina, lo posa sulla sua mappa di meditazione accanto al camino e va ad accoglierli.
+Quando i giocatori arrivano, Kasimir sta bevendo tè e leggendo un libro intitolato *Le Creste del Monte Ghakis* di Finderway Ulbrek. Se i giocatori bussano alla porta, Kasimir segna la pagina, lo posa sul suo tappeto da meditazione accanto al camino e va ad accoglierli.
 
 Quando apre la porta, i giocatori possono osservare che il [[Arc E - La Vistana Scomparsa#E2c. La Capanna di Kasimir|livido e i tagli]] di Kasimir sembrano essersi rimarginati, anche se un giocatore con un punteggio passivo di Saggezza (Intuizione) di 15 o superiore nota che Kasimir sembra essere di umore cupo e malinconico. Tuttavia, alla vista dei giocatori, Kasimir si illumina e li invita calorosamente a entrare, promettendo di preparare una nuova tazza di tè mentre parlano.
 
@@ -269,7 +274,7 @@ Se uno qualsiasi dei giocatori lo attacca o tenta di impedirgli di infliggere le
 Prima di partire, che i giocatori nominino penalità sufficienti o meno, Strahd li informa che hanno "esaurito la sua pazienza." "Una volta trovavo il vostro coraggio divertente," aggiunge, "ma il filo delle vostre vite si assottiglia." Informa i giocatori che avrà bisogno di nuovi servitori per rimpiazzare quelli che ha perso nel raid dei giocatori; a tal fine, li visiterà ogni notte per vedere chi tra loro è degno di un posto nella sua corte e chi "è degno solo di un posto tra le mie legioni—o i vermi che si contorcono nella terra." La sua forma poi esplode in uno sciame di migliaia di pipistrelli, che ascendono nel cielo e volano verso Castello Ravenloft a est.
 
 > [!info]+ **Le Prove del Tiranno**
-> Da questo momento in poi, fino alla fine di [[Arco T - Una Spada di Luce Solare]], Strahd visita i giocatori ogni notte per tormentarli, come descritto in [[#R3b. La Prima Prova del Tiranno]] e oltre. Mentre la maggior parte dei giocatori lotterà per resistere alle macchinazioni di Strahd—e non sarà in grado di prevenirle fino a quando non avranno ottenuto la *Spada del Sole* alla fine di [[Arco T - Una Spada di Luce Solare]]—giocatori intelligenti, intraprendenti e (occasionalmente) spietati potrebbero essere in grado di impedire a Strahd di entrare nel loro luogo di riposo—o, meglio ancora, di rintracciarli del tutto. (Vedi [[#R3b. La Prima Prova del Tiranno]] per maggiori informazioni su come Strahd tenta di farlo.)
+> Da questo momento in poi, fino alla fine di [[Arco S - La Spada del Sole]], Strahd visita i giocatori ogni notte per tormentarli, come descritto in [[#R3b. La Prima Prova del Tiranno]] e oltre. Mentre la maggior parte dei giocatori lotterà per resistere alle macchinazioni di Strahd—e non sarà in grado di prevenirle fino a quando non avranno ottenuto la *Spada del Sole* alla fine di [[Arco S - La Spada del Sole]]—giocatori intelligenti, intraprendenti e (occasionalmente) spietati potrebbero essere in grado di impedire a Strahd di entrare nel loro luogo di riposo—o, meglio ancora, di rintracciarli del tutto. (Vedi [[#R3b. La Prima Prova del Tiranno]] per maggiori informazioni su come Strahd tenta di farlo.)
 
 # R3. Città di Vallaki
 
@@ -653,6 +658,13 @@ Tre **assalitori druidi**, tre **berserker** e due **triadi di spine radice** si
 *   Una triade di spine radice a ovest del sentiero del lago
 *   Una triade di spine radice a ovest del sentiero di montagna
 
+> [!combat]+ **Bilanciamento della Vendetta dei Druidi**
+> Questo incontro di combattimento è un incontro di combattimento sanguinoso contro un gruppo di cinque personaggi di 8° livello, un alleato CR 2 (Ireena Kolyana), un alleato CR 4 (Ezmerelda d’Avenir) e un alleato CR 6 (Kasimir Velikov), e consumerà circa il 58% dei loro punti ferita massimi totali. Per gruppi di dimensioni inferiori o superiori, modifica l'incontro come segue:
+>
+> * _**Tre giocatori.**_ Riduci il numero di **druidi assalitori** a uno. Riduci il numero di **berserker** a due.
+> * _**Quattro giocatori.**_ Riduci il numero di **druidi assalitori** a due.
+> * _**Sei giocatori.**_ Aumenta il numero di **berserker** a quattro.
+
 > [!lore]+ **Triade di Spine Radice**
 > Dopo la vittoria dei giocatori sui Forest Folk in [[Arc J - La Gemma Rubata]], diversi **druidi naturalisti** si recarono alle rovine di Berez, cercando l'aiuto della strega della palude Baba Lysaga per potenziare la loro magia. Le **triadi di spine radice** furono il risultato finale: terzetti di druidi naturalisti con spine di legno conficcate negli occhi, rune insanguinate incise nella carne e una copertura simile a corteccia sulla pelle.
 
@@ -674,9 +686,6 @@ In combattimento, i druidi e i berserker agiscono come segue:
 <strong>Classe Armatura</strong> 16 (armatura naturale)<br>
 <strong>Punti Ferita</strong> 120 (16d10 + 32)<br>
 <strong>Velocità</strong> 9 metri<br>
-<strong>Sensi</strong> vista cieca 90 metri (cieco oltre questo raggio), Percezione passiva 13<br>
-<strong>Sfida</strong> 5<br>
-<strong>Bonus di Competenza</strong> +3
 <hr>
 <table class="ability-table">
   <thead>
@@ -705,12 +714,13 @@ In combattimento, i druidi e i berserker agiscono come segue:
 <strong>Abilità</strong> Percezione +8, Natura +4<br>
 <strong>Sensi</strong> vista cieca 90 metri (cieco oltre questo raggio), Percezione passiva 13<br>
 <strong>Linguaggi</strong> comprende il Comune ma non può parlare, telepatico entro 18 metri<br>
+<strong>Sfida</strong> 5<br>
 <strong>Bonus di Competenza</strong> +3
 <hr>
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> La triade lancia <em>frusta spinosa</em> o <em>fiamma prodotta</em> due volte.</p>
-<p><strong><em>Frusta Spinosa.</em></strong> La triade lancia <em>frusta spinosa</em>, infliggendo 10 (3d6) danni perforanti con un colpo.</p>
-<p><strong><em>Fiamma Prodotta.</em></strong> La triade lancia <em>fiamma prodotta</em>, infliggendo 13 (3d8) danni da fuoco con un colpo.</p>
+<p><strong><em>Frusta di spine.</em></strong> La triade lancia <em>Frusta di spine</em> (+8 per colpire), infliggendo 10 (3d6) danni perforanti in caso di successo.</p>
+<p><strong><em>Crea fiamma.</em></strong> La triade lancia <em>Crea fiamma</em> (+8 per colpire), infliggendo 13 (3d8) danni da fuoco in caso di successo.</p>
 <p><strong><em>Onda Tonante.</em></strong> La triade lancia <em>onda tonante</em> (CD 16) in un cubo di 6 metri. Una creatura che fallisce il tiro salvezza subisce 18 (4d8) danni da tuono invece.</p>
 <p><strong><em>Deperimento (3/giorno).</em></strong> La triade lancia <em>deperimento</em> (CD 16).</p>
 <p><strong><em>Muro di Fuoco (1/giorno, richiede concentrazione).</em></strong> La triade lancia <em>muro di fuoco</em> (CD 16).</p>
@@ -834,6 +844,13 @@ Le tre ancelle che brandiscono lance sono montate su **peryton di neve**, che ha
 
 In combattimento, le ancelle che brandiscono lance e le loro cavalcature prendono di mira i membri del gruppo più resistenti o dall'aspetto più sano, mentre le ancelle smontate prendono di mira i più deboli.
 
+> [!combat]+ **Bilanciamento del Monumento**
+> Questo incontro di combattimento è un incontro sanguinoso contro un gruppo di cinque personaggi di 8° livello, un alleato CR 2 (Ireena Kolyana), un alleato CR 4 (Ezmerelda d’Avenir) e un alleato CR 6 (Kasimir Velikov), e consumerà circa il 53% dei loro punti ferita massimi totali. Per gruppi di dimensioni inferiori o superiori, modifica l'incontro come segue:
+>
+> - _**Tre giocatori.**_ Riduci il numero di **donne della neve** a otto. Riduci il numero di **peryton** e delle **donne della neve** armate di lancia a due ciascuno.
+> - _**Quattro giocatori.**_ Riduci il numero di **donne della neve** a sei.
+> - _**Sei giocatori.**_ Riduci il numero di **donne della neve** a otto. Aumenta il numero di **peryton** e delle **donne della neve** armate di lancia a quattro ciascuno.
+
 > [!abstract]+ **La Benedizione del Roc**
 > Al conteggio dell'iniziativa 20 del secondo round di combattimento, se i giocatori hanno riparato le ali del monumento (ad esempio, tramite l'uso di un incantesimo *riparare*) o altrimenti gli hanno reso omaggio, un giocatore con un punteggio di Saggezza (Percezione) passiva di 13 o superiore nota che gli occhi della statua brillano di un blu ceruleo freddo. I giocatori ottengono quindi i benefici di un incantesimo *muro di vento*, posizionato in modo tale da ostruire o ferire il maggior numero possibile di ancelle della neve.
 >
@@ -899,6 +916,13 @@ L'ululato appartiene al capobranco di una muta di otto **lupi invernali** , uno 
 
 In combattimento, i lupi combattono in coppia, sperando di usare le loro ***tattiche del branco*** per ottenere vantaggio sui loro attacchi e usando il loro ***soffio gelido*** ogni volta che possono intrappolare almeno due vittime nella sua area di effetto. (Come servitori di Strahd, tuttavia, i lupi si assicurano che il loro soffio gelido non danneggi mai Ireena.) I lupi combattono fino alla morte.
 
+> [!combat]+ **Bilanciamento della Bufera di Neve**
+> Questo incontro di combattimento è un incontro **brutale** contro un gruppo di cinque personaggi di 8° livello, un alleato CR 2 (Ireena Kolyana), un alleato CR 4 (Ezmerelda d’Avenir) e un alleato CR 6 (Kasimir Velikov), e consumerà circa il 75% dei loro punti ferita massimi totali. Per gruppi di dimensioni inferiori o superiori, modifica l'incontro come segue:
+>
+> - _**Tre giocatori.**_ Riduci il numero di **lupi invernali** a cinque.
+> - _**Quattro giocatori.**_ Riduci il numero di **lupi invernali** a sei.
+> - _**Sei giocatori.**_ Aumenta il numero di **lupi invernali** a otto.
+
 > [!info]+ **Riposi Brevi nella Tormenta**
 > I giocatori che cercano di fare un riposo breve dopo l'attacco dei lupi possono comunque cercare riparo dalla tempesta per la durata, come descritto in [[#Seeking Shelter]] sopra. Tuttavia, i giocatori che ottengono un risultato di 20 o superiore alla prova di Saggezza (Sopravvivenza) per trovare riparo non trovano la caverna del Popolo della Montagna.
 ## R4e. La Porta
@@ -912,9 +936,15 @@ L'arrivo dei giocatori alla porta è in gran parte come descritto in <span class
 
 Inoltre, aumenta il numero di vrock pietrificati a quattro. (Se presente, Kasimir può identificare le statue dei demoni come guardiani che lo hanno attaccato l'ultima volta che è venuto qui, animandosi e inseguendolo quando ha cercato di aggirare la porta tramite un incantesimo *volare*.)
 
+> [!combat]+ **Bilanciamento della Porta d'Ingresso**
+> Questo incontro di combattimento è un incontro **sanguinoso** contro un gruppo di cinque personaggi di 8° livello, un alleato CR 2 (Ireena Kolyana), un alleato CR 4 (Ezmerelda d’Avenir) e un alleato CR 6 (Kasimir Velikov), e consumerà circa il 54% dei loro punti ferita massimi totali. Per gruppi di dimensioni inferiori o superiori, modifica l'incontro come segue:
+>
+> - _**Tre giocatori.**_ Riduci il numero di **vrock pietrificati** a tre.
+> - _**Quattro giocatori.**_ Riduci il numero di **vrock pietrificati** a tre.
+
 Un giocatore che pensa di presentare l'*amuleto del passaggio del cavaliere* mentre si trova entro 9 metri dalla saracinesca può sopprimere la cortina di fiamme per 1 minuto, come descritto in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 
-La torre di guardia della porta è come descritta in <span class="citation">T4. Torre di Guardia, Piano Terra (p. 157)</span>, <span class="citation">T4. Torre di Guardia, Piano Superiore (p. 159)</span> e <span class="citation">T6. Tetto della Torre di Guardia (p. 159)</span>.
+La torre di guardia della porta è come descritta in <span class="citation">T4. Torre di Guardia, Piano Terra (p. 157)</span>, <span class="citation">T5. Torre di Guardia, Piano Superiore (p. 159)</span> e <span class="citation">T6. Tetto della Torre di Guardia (p. 159)</span>.
 ## R4f. La Seconda Prova del Tiranno
 Non importa dove i giocatori scelgano di riposare, la tormenta giunge al termine poco dopo che hanno iniziato il loro riposo lungo. Leggi:
 
@@ -1281,7 +1311,7 @@ Fai tirare l'iniziativa ai giocatori. Imposta la posizione iniziale dei giocator
 * Per ogni round in cui i giocatori hanno camminato verso la grotta, iniziano a 4,5 metri più vicino alla grotta. (Ad esempio, se i giocatori hanno iniziato a camminare dopo aver sentito lo schianto, iniziano a 25,5 metri dalla grotta.)
 * Per ogni round in cui i giocatori hanno corso verso la grotta, iniziano a nove metri più vicino alla grotta. (Ad esempio, se i giocatori hanno iniziato a correre dopo aver sentito lo schianto, iniziano a 21 metri dalla grotta.)
 
-Un giocatore che supera una prova di Intelligenza (Percezione) con CD 10 prevede che la valanga probabilmente avrà un impatto su una sezione della strada da novanta metri dietro di loro a sessanta metri davanti a loro. Un giocatore che supera una prova di Intelligenza (Sopravvivenza) con CD 10 prevede che, a causa dell'angolazione della montagna sopra di loro, la grotta probabilmente fornirà un rifugio sicuro dal percorso della valanga, anche se è probabile che la valanga bloccherà questo ingresso alla grotta una volta che avrà avuto un impatto.
+Un giocatore che supera una prova di Intelligenza (Investigazione) con CD 10 prevede che la valanga probabilmente avrà un impatto su una sezione della strada da novanta metri dietro di loro a sessanta metri davanti a loro. Un giocatore che supera una prova di Intelligenza (Sopravvivenza) con CD 10 prevede che, a causa dell'angolazione della montagna sopra di loro, la grotta probabilmente fornirà un rifugio sicuro dal percorso della valanga, anche se è probabile che la valanga bloccherà questo ingresso alla grotta una volta che avrà avuto un impatto.
 
 > [!info]+ **Fuggire dalla Valanga**
 > A causa della larghezza e del posizionamento della valanga, non si può sfuggire fuggendo nella direzione da cui sono venuti i giocatori. Per evitarla, i giocatori devono cercare rifugio nella grotta, superare la valanga o sfuggire alla valanga con mezzi magici (ad esempio, il volo).
@@ -1320,7 +1350,7 @@ Durante l'inseguimento, i PNG compagni dei giocatori agiscono come segue, modifi
 * **Ezmerelda.** Ezmerelda effettua l'azione Scattare ogni turno. Se finisce gli Scatti, lancia *colpo di vento* come azione bonus, quindi usa la sua azione per attaccare l'"aria" di fronte a lei per aumentare la sua velocità di movimento.
 * **Kasimir.** Kasimir lancia _passo velato_ come azione bonus ogni turno.
 
-Se i giocatori superano la valanga o vi sfuggono con mezzi magici (ad esempio, il volo), continua a [[#R5. Soldav]]. Se i giocatori hanno cercato rifugio nella grotta, continua a [[#R4k. Le Grotte di Ghiaccio]].
+Se i giocatori superano la valanga o vi sfuggono con mezzi magici (ad esempio, il volo), continua a [[#R5. Soldav]]. Se i giocatori hanno cercato rifugio nella grotta, continua a [[#R4j. La Tana di Bodaks]].
 
 > [!abstract]+ **Intrappolati nella Valanga**
 > Se dei giocatori sono stati intrappolati nella valanga e sono caduti dalla scogliera al precipizio sottostante, i loro corpi giacciono sepolti sotto 4,5 metri di neve e detriti. Mentre è sepolta in questo modo, una creatura è accecata, immobilizzata, assordata e non può respirare. (Vedi <span class="citation">Soffocamento (<em>Manuale del Giocatore</em>, p. 183)</span>.
@@ -1347,6 +1377,8 @@ Se i giocatori entrano nella caverna, leggi:
 </div>
 
 ![[Bodak_Lair_4k_NoGrid_60x40_68PPI_Gloom.png]]
+
+![[Bodak_Lair_Labeled.jpg]]
 <span class="credit">"Bodak Lair" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/public-version-120933240">here!</a></span>
 
 > [!lore]+ **I Bodak**
@@ -1361,7 +1393,7 @@ Se i giocatori entrano nella caverna, leggi:
 > *Vestiti sporchi e laceri avvolgono la struttura scheletrica e curva di questa creatura. Le sue braccia e gambe sono lunghe, sottili e ossute, terminando in dita allungate simili ad artigli e piedi contorti e nodosi. La sua testa è un volto cavo, simile a una maschera, la sua bocca una fauce nera spalancata e i suoi occhi un paio di orbite vuote.*
 
 > [!info]+ **Disturbare i Bodak**
-> Se i giocatori dichiarano l'intenzione di muoversi silenziosamente lungo il corridoio e superano una prova di Destrezza (Furtività) di gruppo con CD 15, i due **bodak** in [[#Il Labirinto Nero]] sono dormienti quando i giocatori entrano per la prima volta. Se i giocatori non dichiarano tale intenzione, o se i giocatori falliscono la prova, i bodak sono attivi quando i giocatori entrano per la prima volta.
+> Se i giocatori dichiarano l'intenzione di muoversi silenziosamente lungo il corridoio e riescono in una prova di Destrezza (Furtività) di gruppo CD 15, i due **bodak** sono dormienti quando i giocatori entrano per la prima volta. Se i giocatori non dichiarano tale intenzione, oppure falliscono la prova, i bodak sono attivi quando i giocatori entrano per la prima volta.
 
 > [!info]+ **I Bodak Inseguitori**
 > Quando dormiente, il bodak che una volta era Cassius dimora in [[#Il Nido Occidentale]], mentre il bodak che una volta era Deirdre dimora in [[#La Stanza del Rimpianto]].
@@ -1394,6 +1426,14 @@ Se i giocatori entrano nella caverna, leggi:
 > *La stanza si oscura, la temperatura precipita mentre un ronzio sordo e basso risuona nell'aria. Un freddo innaturale e agghiacciante improvvisamente rode la tua carne, anche mentre gli odori amari di cenere e decadimento artigliano le tue gole e i tuoi polmoni.*
 >
 > *Le ombre si radunano, strisciando sul terreno e arrampicandosi sui muri mentre i colori svaniscono in tonalità di grigio pallido e senza vita. Tutto intorno a te, il calore e la luce del mondo sembrano svanire, come se fossero attratti in un vuoto freddo e distante.*
+
+> [!combat]+ **Bilanciamento della Tana dei Bodak**
+> Questo incontro di combattimento è un incontro di combattimento difficoltoso contro un gruppo di cinque personaggi di 8° livello, un alleato CR 2 (Ireena Kolyana), un alleato CR 4 (Ezmerelda d’Avenir) e un alleato CR 6 (Kasimir Velikov), e consumerà approssimativamente il 30% dei loro punti ferita massimi totali. Per gruppi di dimensioni inferiori o superiori, modifica l'incontro come segue:
+>
+> - _**Tre giocatori.**_ Riduci i punti ferita di ciascun **bodak** a 103. Riduci i danni del loro attacco Pugno a 4 (1d4 + 2) danni contundenti più 5 (2d4) danni necrotici. Riduci i danni del loro ***sguardo mortale*** a 12 (5d4) danni psichici. Riduci i danni del loro ***sguardo disseccante*** a 17 (5d6) danni necrotici.
+> - _**Quattro giocatori.**_ Riduci i punti ferita di ciascun **bodak** a 119. Riduci i danni del loro attacco Pugno a 4 (1d4 + 2) danni contundenti più 7 (2d6) danni necrotici. Riduci i danni del loro ***sguardo mortale*** a 14 (4d6) danni psichici. Riduci i danni del loro ***sguardo disseccante*** a 18 (4d8) danni necrotici.
+> - _**Sei giocatori.**_ Aumenta i punti ferita di ciascun **bodak** a 153. Aumenta i danni del loro attacco Pugno a 4 (1d4 + 2) danni contundenti più 11 (2d10) danni necrotici. Aumenta i danni del loro ***sguardo mortale*** a 18 (4d8) danni psichici. Aumenta i danni del loro ***sguardo disseccante*** a 24 (5d8) danni necrotici.
+
 ### L'Incrocio
 Se un giocatore segue il corridoio, leggi:
 
@@ -1497,7 +1537,7 @@ Altrimenti, se i giocatori sono entrati tramite [[#La Stanza del Rimpianto]], ag
 
 Questo tunnel conduce a [[#La Discarica]].
 
-***Tesoro.*** Un giocatore che indaga il nido trova un vecchio *zaino da avventuriero* contenente, oltre al suo contenuto ordinario, 12 pezzi di platino macchiati di sangue e 56 pezzi d'oro. Lo zaino contiene anche una vecchia lettera di pergamena strappata. Recita:
+***Tesoro.*** Un giocatore che indaga il nido trova un vecchio *zaino da esploratore* contenente, oltre al suo contenuto ordinario, 12 pezzi di platino macchiati di sangue e 56 pezzi d'oro. Lo zaino contiene anche una vecchia lettera di pergamena strappata. Recita:
 
 <div class="description">
 <p>Cassius,</p>
@@ -1722,12 +1762,12 @@ Se un personaggio ha un punteggio di Saggezza (Percezione) passiva di 15 o super
 <p>Scorgi diverse ombre scure e immobili sotto il ghiaccio della superficie del lago ghiacciato.</p>
 </div>
 
-Le ombre sono tredici **guerrieri abbandonati** (vedi sotto) e sono posizionate come raffigurato nella mappa sottostante, con l'arancione che rappresenta la terra solida, il blu che rappresenta il ghiaccio scivoloso, il bianco che rappresenta il ghiaccio sottile e le stelle verdi che rappresentano i **guerrieri abbandonati** sotto il ghiaccio:
+Le ombre sono tredici **soldati abbandonati** (vedi sotto) e sono posizionate come raffigurato nella mappa sottostante, con l'arancione che rappresenta la terra solida, il blu che rappresenta il ghiaccio scivoloso, il bianco che rappresenta il ghiaccio sottile e le stelle verdi che rappresentano i **soldati abbandonati** sotto il ghiaccio:
 
 ![[The Frozen Lake.png]]
 
 > [!info]+ **Ghiaccio Scivoloso**
-> Una creatura che gattona sul ghiaccio scivoloso supera automaticamente il suo tiro salvezza contro la caduta prona.
+> Una creatura che gattona sul ghiaccio scivoloso non deve effettuare un tiro  salvezza contro la caduta prona.
 >
 > Per saltare da un quadrato coperto di ghiaccio scivoloso, una creatura deve effettuare una prova di Destrezza (Acrobazia) con CD 10. In caso di fallimento, la creatura salta solo metà della distanza e atterra prona. (Una creatura o un oggetto che atterra sul ghiaccio sottile in questo modo viene trattato come se il suo peso fosse cinque volte più pesante. Una creatura o un oggetto che sfonda il ghiaccio sottile genera un rumore forte, come descritto in **cascata di ghiaccioli** sopra.)
 
@@ -1809,12 +1849,16 @@ Fermati un momento per dare ai giocatori l'opportunità di intervenire. Se nessu
 Un giocatore che indaga sulla fondazione rettangolare della sala principale trova un focolare fatiscente incastonato nell'unica parete rimanente, così come un assortimento di travi di legno crollate marcite in lunghi cumuli, un certo numero di raccordi e cerniere di ferro arrugginiti e un assortimento di pietre che sono cadute dal muro dove la neve e il vento hanno eroso la malta che le collegava.
 
 L'indagine sulla fila di pietra rivela alcuni fori per i pali dove un tempo si trovavano i supporti principali della stalla. Nient'altro rimane del capannone.
+
+![[The-Twin-Falls_4k_NoGrid_40x50_82PPI_Frozen_Snow.jpg]]
+<span class="credit">"Twin Falls" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/901b225d88">here!</a></span>
+
 ### Il Santuario
 Quando un giocatore si avvicina al santuario, leggi:
 
 <div class="description">
 <p>Attraverso il ruscello ghiacciato, tra e sotto le sorgenti delle cascate ghiacciate molto più in alto, questo piccolo santuario di pietra sembra essere stato scolpito dal bordo della parete della montagna stessa. Due serie di scale salgono su entrambi i lati di una piattaforma pentagonale, che reca un altare triangolare che punta verso sud, nel cuore della montagna stessa.</p>
-<p>Lungo le facce superiori sinistra e superiore destra della piattaforma, una coppia di pannelli di pietra liscia di circa 2 metri si erge sopra l'altare sottostante. Sul pannello di sinistra, rivolto a nord-est, l'orgoglioso sigillo del sole radioso del Signore del Mattino è scolpito nella pietra. Sul pannello di destra, rivolto a nord-ovest, è inciso una stella a tre punte circondata da una serie di nove incisioni più piccole.</p>
+<p>Lungo le facce superiori sinistra e superiore destra della piattaforma, una coppia di pannelli di pietra liscia di circa 2 metri si erge sopra l'altare sottostante. Sul pannello di destra, rivolto a nord-est, l'orgoglioso sigillo del sole radioso del Signore del Mattino è scolpito nella pietra. Sul pannello di sinistra, rivolto a nord-ovest, è inciso una stella a tre punte circondata da una serie di nove incisioni più piccole.</p>
 <p>Una serie di impronte attraversa il ruscello qui, sale le scale di destra della piattaforma, quindi scende le scale di sinistra, continuando attraverso la neve sotto la cascata sul lato sinistro.</p>
 </div>
 
@@ -1884,7 +1928,7 @@ Uno shoosuva anziano ha le stesse statistiche di uno **shoosuva** ordinario (<sp
 * Ha una velocità di 15 metri.
 * Ha un punteggio di Forza di 20 e un punteggio di Costituzione di 19.
 * Ha +10 a colpire e la CD del suo pungiglione caudale è 17.
-* Il danno del suo ***morso*** aumenta a 31 (4d12 + 4) e il danno del suo pungiglione caudale aumenta a 16 (2d10 + 5) danni perforanti più 14 (4d6) danni da veleno.
+* Il danno del suo ***morso*** aumenta a 31 (4d12 + 5) e il danno del suo pungiglione caudale aumenta a 16 (2d10 + 5) danni perforanti più 14 (4d6) danni da veleno.
 * La portata del suo ***morso*** aumenta a 3 metri e la portata del suo ***pungiglione caudale*** aumenta a 6 metri.
 * Ottiene la seguente azione aggiuntiva: ***Artigli.*** *Attacco con Arma da Mischia:* +10 a colpire, portata 3 m, una creatura. *Colpisce:* 14 (2d8 + 5) danni taglienti e il bersaglio deve superare un tiro salvezza su Forza con CD 18 o essere spinto indietro di 1,5 metri e cadere prono.
 * Ottiene la seguente azione aggiuntiva: ***Nube Fetida (1/giorno).*** Lo shoosuva espira una nube di fumo giallo maleodorante in un cono di 6 metri. Ogni creatura all'interno di quel cono deve superare un tiro salvezza su Costituzione con CD 17 o essere avvelenata fino alla fine del turno successivo dello shoosuva. Mentre è avvelenata in questo modo, una creatura è anche accecata.
@@ -1910,6 +1954,13 @@ Altrimenti, il Popolo della Montagna interviene al conteggio dell'iniziativa 0 d
 > A seguito di segnalazioni dell'arrivo di estranei fuori Soldav da avamposti di vedette che utilizzano spioncini sulla scogliera sopra, il contingente di Scorilo è raggiunto dal suo fratello gemello Como (usa le statistiche di un **gladiatore** con una Destrezza di 10 (+0), una Saggezza di 15 (+2) e un Carisma di 16 (+3)) e tre degli amici **berserker** di Como. Nonostante il sospetto e la paranoia di Scorilo che i giocatori possano essere spie di Strahd o altrimenti mettere in pericolo Soldav, il più amichevole Como lo esorta ad ammettere i giocatori all'interno per concedere loro riparo dai balrgura e dagli shoosuva.
 >
 > I compagni dei giocatori (cioè, Kalaris, Zia o Corylla), i possedimenti (cioè, la leggendaria *lancia della Cacciatrice*) o la familiarità con la fede del Popolo della Montagna (cioè, la loro abilità nel risolvere l'enigma delle incisioni) dettano la facilità con cui Como può convincere le guardie di Scorilo ad aprire la porta. Como convince anche con successo le guardie a radunarsi se i giocatori sembrano essere a chiaro rischio di morire a causa dei barlgura e degli shoosuva.
+
+> [!combat]+ **Bilanciamento dei Toccati dall'Ambra**
+> A causa del combattimento tra tre fazioni, questo incontro è un incontro **difficoltoso** contro un gruppo di cinque personaggi di 8° livello, due alleati CR 1/2 (due **scout**), quattro alleati CR 2 (Ireena Kolyana e tre **berserker**), un alleato CR 4 (Ezmerelda d’Avenir), due alleati CR 5 (due **gladiatori**) e un alleato CR 6 (Kasimir Velikov), e consumerà circa il 31% dei loro punti ferita massimi totali. Per gruppi di dimensioni inferiori o superiori, modifica l'incontro come segue:
+>
+> - _**Tre giocatori.**_ Aumenta il numero di **berserker** a cinque. Aumenta il numero di **scout** a cinque.
+> - _**Quattro giocatori.**_ Aumenta il numero di **berserker** a quattro. Aumenta il numero di **scout** a quattro.
+> - _**Sei giocatori.**_ Riduci il numero di **berserker** a due. Riduci il numero di **scout** a uno.
 
 > [!profile]+ **Scorilo & Como**
 > **Informazioni sul Gioco di Ruolo**
@@ -2098,10 +2149,12 @@ Diegia, Oroles o uno dei loro figli possono condividere le seguenti informazioni
 Se i giocatori indicano un interesse a viaggiare verso il Tempio d'Ambra, Diegia li avverte che le Sale dell'Ombra d'Ambra ospitano pericoli profondi e terribili, di cui i toccati dall'ambra—come i diavoli che i giocatori hanno affrontato fuori dalle mura di Soldav—sono i meno. "L'attrazione dell'ambra è rimasta a lungo su queste montagne," dice, "il suo canto un sussurro mielato che attira sciocchi e pazzi da tutti gli angoli della valle—e anche oltre le stesse Nebbie."
 
 Se i giocatori chiedono a Diegia informazioni sul Tempio d'Ambra, lei si rifiuta di condividere ciò che sa a meno che non condividano prima le loro ragioni per viaggiare lì e superino una prova di Carisma (Persuasione o Inganno) CD 15. (La CD diminuisce a 5 se i giocatori condividono onestamente che stanno viaggiando al Tempio in cerca di un'arma in grado di sconfiggere Strahd.) In caso di successo, Diegia promette di condividere ciò che sa prima che i giocatori lascino Soldav.
+
 ### L'Invito di Diegia
+
 In un momento adatto dopo aver accolto i giocatori nella casa lunga, Diegia li invita espressamente a trascorrere la notte come ospiti al suo focolare, aggiungendo: "Potete stendere i vostri sacchi a pelo accanto al nostro fuoco, condividere la nostra carne e il nostro idromele e fidarvi che nessun male vi accadrà all'interno delle nostre mura." Se i giocatori accettano, si rivolge a Como e Scorilo (se presenti) o a Oroles e chiede loro di preparare dei posti per i giocatori vicino al focolare dopo il pasto serale.
 
-Se i giocatori hanno chiesto a Diegia informazioni sui Fanes, o se lo fanno ora, chiede a Kaldur (se non si è fatto male alla gamba, o se la sua gamba è stata guarita) o a Como di informare Anziano Burebis che degli estranei desiderano vederlo. Dopo essersi lamentato brevemente, Kaldur riserva un ultimo sguardo timido verso i giocatori prima di correre fuori dalla porta principale. (Dopo essere partito, il messaggero di Diegia si dirige verso [[#R5f. Il Santuario della Rozana]], dove informa Anziano Burebis dell'arrivo dei giocatori. Il messaggero ritorna alla casa lunga di Diegia poco prima di [[#Il Focolare]].)
+Se i giocatori hanno chiesto a Diegia informazioni sui Fanes, o se lo fanno ora, chiede a Kaldur (se non si è fatto male alla gamba, o se la sua gamba è stata guarita) o a Como di informare Anziano Burebis che degli estranei desiderano vederlo. Dopo essersi lamentato brevemente, Kaldur riserva un ultimo sguardo timido verso i giocatori prima di correre fuori dalla porta principale. (Dopo essere partito, il messaggero di Diegia si dirige verso [[#R5f. Il Santuario della Rozana]], dove informa Anziano Burebis dell'arrivo dei giocatori. Il messaggero ritorna alla casa lunga di Diegia poco prima di [[#R5e. La Notte del Cielo Limpido]].)
 
 Diegia informa inoltre i giocatori che sono arrivati "in un'occasione fortuita"—alla celebrazione annuale della Notte dei Cieli Limpidi. Diegia rifiuta di condividere ulteriori informazioni sulla festa, ma promette ai giocatori con un sorriso che riceveranno un'istruzione approfondita durante i festeggiamenti della serata.
 
@@ -2149,7 +2202,7 @@ Dopo la storia, Oroles ritorna al tavolo del capo Diegia, rimuovendo il suo copr
 Oroles e Diegia possono condividere le seguenti informazioni sulla storia di Oroles se richiesto:
 
 * Millenni fa, i Tauta erano un gruppo di tribù nomadi in cerca di un santuario in mezzo a un mondo dilaniato dalla guerra e dal conflitto. Secondo la leggenda, le Tre Signore li guidarono nella valle—Girvisa, ora chiamata Barovia—dove i Tauta trovarono una casa di pace e abbondanza.
-* Secondo la storia, la valle nascondeva un'oscurità nascosta: il Divoratore, un'entità di nebbia oscura e fame infinita. Infuriato dall'arrivo dei Tauta, il Divoratore si sollevò e oscurò i cieli, minacciando di estinguere tutta la luce nella valle. Solo le Signore
+* Secondo la storia, la valle nascondeva un'oscurità nascosta: il Divoratore, un'entità di nebbia oscura e fame infinita. Infuriato dall'arrivo dei Tauta, il Divoratore si sollevò e oscurò i cieli, minacciando di estinguere tutta la luce nella valle. Solo le Signore possedevano il potere per fermarlo; insieme si sollevarono per distruggerlo, restituendo così vita e luce alla valle.
 * Nessuno tra i Tauta conosce pienamente la vera natura delle Signore, che sia fatata, divina, primordiale o qualcos'altro del tutto. Tuttavia, per tutto il tempo in cui i Tauta hanno dimorato nella valle o tra le montagne circostanti, hanno riposto la loro fede nelle Signore per guidarli—"anche ora", dice Diegia solennemente, "secoli dopo che abbiamo sentito per l'ultima volta le loro voci."
 * Nessuno sa cosa fosse il Divoratore, da dove venisse o da dove venisse la sua fame infinita. Tuttavia, secondo la leggenda, il Muro Sussurrante che da tempo si erge sul lato ovest di Yester Hill si è sollevato da—o è tutto ciò che rimane di—il cadavere del Divoratore. (Oroles continua a chiedere, con noncuranza, se i giocatori hanno visto Yester Hill e il Muro Sussurrante.)
 
@@ -2341,7 +2394,7 @@ Quando i giocatori sono pronti a partire, Diegia e la sua famiglia augurano loro
 ## R6a. La Prova di Sangzor
 Dopo aver lasciato Soldav, Kasimir può guidare i giocatori al sentiero nascosto che conduce dall'altopiano al Tempio Ambrato.
 
-Questo sentiero nascosto è in gran parte come descritto in <span class="citation">Carica di Bloodhorn (p. 160)</span>. Tuttavia, circa 800 metri lungo il sentiero, notano automaticamente Sangzor su una rupe sopra di loro.
+Questo sentiero nascosto è per lo più come descritto in <span class="citation">Bloodhorn's Charge (p. 160)</span>. Tuttavia, a circa 4,8 km lungo il sentiero, i giocatori notano automaticamente Sangzor su uno sperone roccioso sopra di loro.
 
 Modifica le statistiche di Sangzor come segue:
 
@@ -2365,8 +2418,3 @@ Se Sangzor non rileva alcuna intenzione di cercare il potere delle vestigia nel 
 Oltre la rupe di Sangzor, la stretta strada continua per altri 800 metri prima di passare tra due alte scogliere incombenti. Mentre i giocatori passano tra le scogliere, arrivano al Tempio Ambrato, il cui esterno è come descritto in <span class="citation">X1. Facciata del Tempio (p. 183)</span>. I giocatori iniziano quindi [[Arc S - Una Spada di Luce Solare]].
 
 ***Pietra Miliare.*** Raggiungere il Tempio Ambrato raggiunge una pietra miliare della storia. Quando i giocatori arrivano fuori dal Tempio Ambrato, assegna a ogni giocatore 5.000 XP.
-
-> [!tip] **Hai Raggiunto la Fine delle Nebbie**
-> Hai raggiunto la fine dell'attuale rilascio pubblico della guida _Curse of Strahd: Reloaded_.
-> 
-> Per dare una sbirciatina alle bozze di [[Arc S - Una Spada di Luce Solare]], così come agli schemi e alle note aggiuntive per _**Atto IV: Segreti degli Antichi**_ e il resto dell'avventura, supporta la guida unendoti al [Patreon](https://www.patreon.com/DragnaCarta) dell'autore.

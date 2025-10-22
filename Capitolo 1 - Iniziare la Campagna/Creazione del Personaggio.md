@@ -201,7 +201,7 @@ Sconosciuto al giocatore, la *scheggia d'ambra* era un tempo parte del sarcofago
 
 Il giocatore che possiede la *scheggia d'ambra* dovrebbe avere forti e vivide ragioni per voler svelare i suoi segreti e la magia che possiede.
 
-***Sviluppi.*** In **Atto I, Arco A: Fuga dalla Casa della Morte**, il giocatore riconosce la *scheggia d'ambra* di Elisabeth Durst come simile alla propria. In [[Arco G - I Fratelli Strazni]], il giocatore riconosce la *scheggia d'ambra* di Izek Strazni in modo simile. In *Atto V, Arco U*, l'Anziano Burebis di Soldav può riconoscere la *scheggia d'ambra* come un frammento di male preso dal Tempio dell'Ambra, e il giocatore può riconoscere le *schegge d'ambra* tenute dai **shoosuva** e dai **bodak** come simili alla propria.
+***Sviluppi.*** In [[Arco A - Fuga dalla Casa della Morte]], il giocatore riconosce la *scheggia d'ambra* di Elisabeth Durst come simile alla propria. In [[Arco G - I Fratelli Strazni]], il giocatore riconosce la *scheggia d'ambra* di Izek Strazni in modo simile. In [[Arco R - Prova della Montagna]], l'Anziano Burebis di Soldav può riconoscere la *scheggia d'ambra* come un frammento di male preso dal Tempio dell'Ambra, e il giocatore può riconoscere le *schegge d'ambra* tenute dai **shoosuva** e dai **bodak** come simili alla propria.
 
 Se il personaggio del giocatore viene ridotto a 0 punti ferita a Barovia mentre è in possesso della sua *scheggia d'ambra*, si comporta come descritto in [[Schegge d'Ambra]] offrendo al giocatore l'opportunità di stringere un patto con un vestigio del Tempio dell'Ambra che si adatta alla personalità, ai difetti e alle tentazioni del personaggio del giocatore. Entrando nel Tempio dell'Ambra, la *scheggia d'ambra* del giocatore brilla e tira nello stesso modo in cui ha fatto percependo la Casa della Morte, guidando il giocatore verso un sarcofago ambrato adatto.
 
@@ -262,7 +262,7 @@ Sconosciuto al giocatore, il dente apparteneva un tempo a un wolfir, un **licant
 
 Il giocatore che possiede il *dente di lupo* dovrebbe avere forti e vivide ragioni per credere che il dente sia la chiave per curare una particolare ferita, malattia o maledizione che li affligge.
 
-***Sviluppi.*** Se il giocatore mostra il *dente di lupo* a Kavan in [[Arco J - La Gemma Rubata]] o all'Anziano Burebis in **Atto V, Arco W: Le Signore dei Fanes**, il dente viene riconosciuto come un artefatto e simbolo della Cacciatrice. Quando il giocatore si avvicina per la prima volta al cerchio di pietre al Fane della Foresta in **Atto V, Arco W: Le Signore dei Fanes**, il dente si allunga e brilla di luce lunare come ha fatto percependo la Casa della Morte.
+***Sviluppi.*** Se il giocatore mostra il *dente di lupo* a Kavan in [[Arco J - La Gemma Rubata]] o all'Anziano Burebis in [[Arco R - Prove della Montagna]], il dente viene riconosciuto come un artefatto e simbolo della Cacciatrice. Quando il giocatore si avvicina per la prima volta al cerchio di pietre al Fane della Foresta in [[Arco T - I Tre Templi]], il dente si allunga e brilla di luce lunare come ha fatto percependo la Casa della Morte.
 
 ## Dovere—La Piuma di Corvo
 
@@ -275,7 +275,7 @@ Il giocatore che possiede la *piuma di corvo* dovrebbe avere forti e vivide ragi
 
 ***Sviluppi.*** Se il giocatore mostra la *piuma di corvo* a Madam Eva in [[Atto I - Nelle Nebbie/Arco C - Nella Valle]], lei la ispeziona con riverenza e la restituisce al giocatore, affermando misteriosamente di aver conosciuto l'uccello che l'ha persa. Se il giocatore mostra la piuma a Urwin Martikov, Danika Dorakova, Muriel Vinshaw o a qualsiasi altro membro dei Custodi della Piuma, quel membro diventa più caloroso e amichevole verso quel giocatore.
 
-Quando il giocatore entra per la prima volta nel cerchio di pietre al Fane della Montagna in **Atto V, Arco W: Le Signore dei Fanes**, la piuma trema e l'aria intorno ad essa si riempie brevemente dell'odore di pioggia e ozono come ha fatto percependo la Casa della Morte. Se il giocatore mostra la piuma al Roc del Monte Ghakis dopo aver consacrato il Fane della Montagna nello stesso arco, il roc appoggia la punta del becco sulla fronte del giocatore come segno di gratitudine e approvazione prima di partire.
+Quando il giocatore entra per la prima volta nel cerchio di pietre al Fane della Montagna in [[Arco T - I Tre Templi]], la piuma trema e l'aria intorno ad essa si riempie brevemente dell'odore di pioggia e ozono come ha fatto percependo la Casa della Morte. Se il giocatore mostra la piuma al Roc del Monte Ghakis dopo aver consacrato il Fane della Montagna nello stesso arco, il roc appoggia la punta del becco sulla fronte del giocatore come segno di gratitudine e approvazione prima di partire.
 
 ## Potere—La Pagina Stropicciata
 
@@ -286,7 +286,7 @@ Sconosciuto al giocatore, la pagina è stata presa dalla biblioteca di Exethante
 
 Il giocatore che possiede la *pagina stropicciata* dovrebbe avere forti e vivide ragioni per voler trovare e reclamare il potere che la pagina promette.
 
-***Sviluppi.*** Quando il giocatore si avvicina per la prima volta alla biblioteca di Exethanter in **Atto V, Arco U: Il Tempio dell'Ambra**, l'inchiostro brilla di luce ambrata come ha fatto percependo la Casa della Morte, e le rune si trasformano in una mappa delle camere di Exethanter e dei punti di accesso vicini. Se il giocatore mostra la pagina a Exethanter dopo aver ripristinato i suoi ricordi nello stesso arco, Exethanter diventa più caloroso e amichevole verso quel giocatore.
+***Sviluppi.*** Quando il giocatore si avvicina per la prima volta alla biblioteca di Exethanter in [[Arco S - La Spada del Sole]], l'inchiostro brilla di luce ambrata come ha fatto percependo la Casa della Morte, e le rune si trasformano in una mappa delle camere di Exethanter e dei punti di accesso vicini. Se il giocatore mostra la pagina a Exethanter dopo aver ripristinato i suoi ricordi nello stesso arco, Exethanter diventa più caloroso e amichevole verso quel giocatore.
 
 ## Ambizione—Lo Stendardo Logoro
 
@@ -299,7 +299,7 @@ Il giocatore che possiede lo *stendardo logoro* dovrebbe avere forti e vivide ra
 
 ***Sviluppi.*** Quando il giocatore sperimenta per la prima volta il campo di battaglia infestato a nord di Berez in [[Arco I - Le Mura di Krezk]], lo stendardo sventola nel vento, che riecheggia con il suono dei tamburi di guerra.
 
-Se il giocatore mostra lo stendardo al revenant alle Cascate di Tser in [[Atto I - Nelle Nebbie/Arco C - Nella Valle]], Sir Godfrey Gwilym o Sir Vladimir Horngaard in [[Arco M - La Magione del Drago]], o Kasimir Velikov in [[Arco E - Il Vistano Scomparso]] o **Atto V, Arco U: Il Tempio dell'Ambra**, il suo aspetto è accolto con ripugnanza e disgusto amaro.
+Se il giocatore mostra lo stendardo al revenant alle Cascate di Tser in [[Atto I - Nelle Nebbie/Arco C - Nella Valle]], Sir Godfrey Gwilym o Sir Vladimir Horngaard in [[Arco M - La Magione del Drago]], o Kasimir Velikov in [[Arco E - Il Vistano Scomparso]] o [[Arco S - La Spada del Sole]], il suo aspetto è accolto con ripugnanza e disgusto amaro.
 
 Se il giocatore mostra lo stendardo a Strahd, lo guarda con pensierosa affettuosità, ma rifiuta di elaborare il suo significato. Se il giocatore mostra lo stendardo al Dr. Rudolph van Richten in **Arco M: Il Nemico di Strahd** o a qualsiasi Vistano, lo riconoscono immediatamente come l'araldica del Castello Ravenloft.
 
@@ -323,9 +323,9 @@ Sconosciuto al giocatore, l'emblema apparteneva un tempo a un leader spirituale 
 
 Il giocatore che possiede l'*emblema di pietra* dovrebbe avere forti e vivide ragioni per credere che i simboli su di esso rappresentino un potere primordiale o divino di armonia e natura e che l'emblema possa aiutarli a ripristinare la sacralità dei luoghi selvaggi.
 
-***Sviluppi.*** Quando il giocatore si avvicina per la prima volta all'esterno di Soldav in **Atto V, Arco W: Le Signore dei Fanes**, l'*emblema di pietra* ronza e rilascia un odore di aghi di pino e terra umida come ha fatto percependo la Casa della Morte, entrambi diventano più forti man mano che il giocatore si avvicina al Santuario delle Rozana a Soldav.
+***Sviluppi.*** Quando il giocatore si avvicina per la prima volta all'esterno di Soldav in [[Arco R - Prove della Montagna]], l'*emblema di pietra* ronza e rilascia un odore di aghi di pino e terra umida come ha fatto percependo la Casa della Morte, entrambi diventano più forti man mano che il giocatore si avvicina al Santuario delle Rozana a Soldav.
 
-Se il giocatore mostra l'*emblema di pietra* a Kavan in [[Arco J - La Gemma Rubata]] o all'Anziano Burebis in **Atto V, Arco W: Le Signore dei Fanes**, l'emblema viene riconosciuto come un artefatto e simbolo delle Signore dei Fanes.
+Se il giocatore mostra l'*emblema di pietra* a Kavan in [[Arco J - La Gemma Rubata]] o all'Anziano Burebis in [[Arco R - Prove della Montagna]], l'emblema viene riconosciuto come un artefatto e simbolo delle Signore dei Fanes.
 
 ## Giustizia—La Lama Spezzata
 
