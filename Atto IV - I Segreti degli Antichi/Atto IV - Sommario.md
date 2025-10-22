@@ -6,6 +6,6 @@ L'unico rifugio dei giocatori si trova nel villaggio nascosto del Popolo della M
 
 In [[Arc S - A Sword of Sunlight]], i giocatori si addentrano nell'oscurità del Tempio dell'Ambra, cercando di resistere alle sue ombre e alla corruzione abbastanza a lungo da ottenere l'elsa nascosta della *Spada Solare*, che Patrina Velikovna sigillò molto tempo fa nel sarcofago d'ambra del Vampyr. Dopo aver recuperato l'elsa e sconfitto lo spirito furioso di Patrina, i giocatori dovranno potenziare la spada spezzata evocando lo spirito di Sergei von Zarovich dalla nebbia.
 
-Dopo aver appreso dal fantasma di Exethanter come contattare gli spiriti delle Tre Signore, i giocatori tornano a Soldav in [[Arc T - The Cavern of Lights]]. Qui, gli spiriti della Tessitrice e della Cacciatrice rivelano che i tre Fani possono essere riconsacrati ottenendo le tre gemme incantate della cantina del Mago dei Vini e riaccendendo la magia che riposa al loro interno.
+Dopo aver appreso dal fantasma di Exethanter come contattare gli spiriti delle Tre Signore, i giocatori tornano a Soldav in [[Arco T - I Tre Tempi]]. Qui, gli spiriti della Tessitrice e della Cacciatrice rivelano che i tre Fani possono essere riconsacrati ottenendo le tre gemme incantate della cantina del Mago dei Vini e riaccendendo la magia che riposa al loro interno.
 
 Questo atto si conclude quando i giocatori discendono dal Monte Ghakis e ritornano nella valle sottostante.

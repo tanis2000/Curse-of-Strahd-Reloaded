@@ -82,6 +82,11 @@ Potete [[Using This Guide|cliccare qui]] per imparare come usare e leggere quest
 
 # Indice
 
+> [!info]+ **Una guida vivente**
+> Curse of Strahd: Reloaded è un progetto in corso, e nuovi aggiornamenti agli archi esistenti vengono rilasciati regolarmente. Puoi iscriverti per ricevere notifiche di aggiornamento nella tua casella di posta elettronica entrando nella community gratuita dell'autore su [Patreon](https://www.patreon.com/DragnaCarta).
+>
+> In alternativa, se vuoi leggere bozze, schemi e note per le uscite future — come l'Epilogo non pubblicato, l'arco opzionale per il tempo libero ***Arc N: Racconti di Vallaki***, o modifiche sostanziali agli archi esistenti — puoi farlo diventando un sostenitore a pagamento del [Patreon](https://www.patreon.com/DragnaCarta) di DragnaCarta. Facendo così potrai anche entrare in una community Discord esclusiva di DM nuovi ed esperti che stanno gestendo Reloaded, ricevere regolari blog di sviluppo che analizzano il design degli archi di Reloaded e ottenere consigli e aiuto personale per la campagna dall'autore.
+
 ## Capitolo 1 - Iniziare la Campagna
 
 [[Sessione Zero]]. Stabilire le aspettative e chiarire i trigger dei giocatori.
@@ -131,24 +136,9 @@ Potete [[Using This Guide|cliccare qui]] per imparare come usare e leggere quest
 
 [[Atto IV - Sommario]]. Prossimamente.
 [[Arco R - Prove della Montagna]]. I giocatori salgono sul pericoloso Passo di Tsolenka sopravvivendo alle predazioni di Strahd.
-[[Arco S - La Spada del Sole]]. Prossimamente.
-[[Arco T - Le Caverne della Luce]]. Prossimamente.
-
-> [!tip]+ **In Costruzione**
-> *Curse of Strahd: Reloaded* è un progetto in corso. Nuove uscite, inclusi archi aggiuntivi e modifiche agli archi esistenti, vengono rilasciate regolarmente. Potete iscrivervi per ricevere notifiche di aggiornamento nella vostra casella di posta elettronica unendovi alla comunità gratuita dell'autore su [Patreon](https://www.patreon.com/DragnaCarta).
->
-> In alternativa, se desiderate leggere bozze, schemi e note per le prossime uscite, potete farlo diventando un sostenitore a pagamento del [Patreon](https://www.patreon.com/DragnaCarta) di DragnaCarta. In questo modo potrete anche unirvi a un'esclusiva comunità Discord di DM nuovi ed esperti che gestiscono *Reloaded* in prima persona.
->
-> La guida è attualmente prevista per essere completata nella primavera del 2025, con aggiunte e revisioni regolari rilasciate circa una volta al mese. Se desiderate leggere un elenco degli aggiornamenti più recenti, potete anche consultare il [[Changelog|changelog]] della guida. Se desiderate fornire suggerimenti, feedback o critiche sulla versione attuale della guida, potete farlo [qui](https://docs.google.com/forms/d/e/1FAIpQLSc3Sfz-BBrJSNnqd327mAXznr0Bx3lBzGe7mUCO69KnH88kjA/viewform).
-
-## Atto V - La Maledizione di Strahd
-
-[[Atto 5 - Sommario]]. Prossimamente.
-[[Arco U - Il Cacciatore di Mostri]]. Prossimamente.
-[[Arco V - La Strega di Berez]]. Prossimamente.
-[[Arc W - The Ladies of the Fanes]]. Prossimamente.
-[[Arc V - The Whispering Wall]]. Prossimamente.
-[[Arc X - The Curse of Strahd]]. Prossimamente.
+[[Arc S - Una Spada di Luce Solare]]. I giocatori recuperano la *Spada del Sole* rotta dal Tempio d'Ambra.
+[[Arc T - I Tre Fanes]]. I giocatori aiutano i loro amici baroviani per purificare la terra dalla corruzione di Strahd.
+[[Arc U - Sogni dell'Alba]]. I giocatori devono sconfiggere il vampiro Strahd von Zarovich, una volta per tutte.
 [[Epilogo]]. Prossimamente.
 
 ## Appendici
@@ -169,7 +159,7 @@ Questo lavoro include materiale tratto dal System Reference Document 5.1 (“SRD
 
 ***Arte.*** Copertina e sfondi di [JamesRPGArt](https://jamesrpgart.com/), disponibile su [Patreon](https://www.patreon.com/jamesrpgart). Illustrazioni aggiuntive di [Caleb Cleveland](https://calebisdrawing.com/). Diagrammi delle mappe di battaglia realizzati con [Dungeon Scrawl](https://app.dungeonscrawl.com/).
 
-***Un ringraziamento speciale a*** **Twi**, la cui riflessione e creatività hanno reso possibile questa revisione; **Ziopliukas** e **Paintknight** per il loro incoraggiamento e supporto; **Cheese** e **Nancy** per la loro assistenza nel bilanciamento e nel playtesting degli incontri; **Friendly**, **Faisal**, **shmamy**, **yaboicorny**, **Busdriver**, **Eliza** e **Scarfe** per la loro frequente consulenza e feedback; e [**GPT-4**](https://chat.openai.com/) e [Claude 3.5 Sonnet](https://claude.ai/) per l'assistenza nel brainstorming e nella revisione.
+***Un ringraziamento speciale a*** **Twi**, la cui riflessione e creatività hanno reso possibile questa revisione; **Ziopliukas** e **Paintknight** per il loro incoraggiamento e supporto; **Cheese** e **Nancy** per la loro assistenza nel bilanciamento e nel playtesting degli incontri; e a **Friendly**, **Faisal**, **shmamy**, **yaboicorny**, **Busdriver**, **Eliza** e **Scarfe** per la loro frequente consulenza e feedback.
 
 ***Un ringraziamento aggiuntivo a*** a_Kyrill, ActualPaperweight, Aeristria, aevinpaos, Alantes, Alcibiades, AlexanderThulin, Alfie, alfie104, Allnightlight, Anp117, Aonbarr, Aquilon, arkansandragoness, Arkayne, Arow-Remade, Autumn, AvengingBlowfish, Awox, Az, beau_motion, BeaverBoy99, BenD, Berzingh, BetaMax-Arcana, boganlanks, Booyahg, Bous237, boxfriend, Bruuneri, calebisdrawing, cesargm, chroma900, ClanRedHead, cleo, continuity, corrinisacat, CrackedSkeleton, CrazyEnough1757, Crazymajor, Crimson-1, Cryptid, CSEngineAlt, Daeplin, Dakota Official, DanPrime, DarthHarambae, dead_dads, DerkLucas, Dice, DND Ravenloftenjoyer, Draziray, Dumaka, DumpsterFireMaster, Eban921, Ebonhawk, ElderDovah, Elijah, Elijah-Rafael, Ella, ELQUEMANDA4, Ep, Eradu, ericthealfabee1, Eve, Exdeth, Faisal, farlet10, Ferrisderby, Fezznick, FinRingil, Franz, FriendlyInstance5722, FrozenEcho, Fugi, Fugicara, Galahadred, glorious-blue, gloriouslarper, gmbenjamin, GodSpeeD, Goldorgh, gr4v3dgr, Gray, greenglowstix, GreenTie, Guilhermo, hakich, hashtagpuglife, Helan, Howard, InconditeCullion, IneptHackberry, InsideNervous, Ishna, Ispanicos, jabberdoot, JaeOnasi, Jakers, Jeby, JehutyPT, JoeyGrizzle, joshuacc, JRL, justadmhero, kaitlin, Kaiya, Knight of the Nine, KrempelRitter, le_ptit_lulu, LFrog, Lif, LiquidAnalog, Llewinidas, LordMordor, Lucky Actor, LususNaturae, Lyrics42, madelineblack, Massiah, mattjanor, Maurycy-skell, Merfie, Miata07, MikaFirefly, Milvus, Mon5teRico, Mr_Gelan, MSD, murdoc, Murhapuro, Naro-Alk'arin, Neokke, NerfWesPls, Nessa, NobodyJustBrad, nultra, Numerous-Ad-1357, nyletak, nyrafernvale, Ostheim, pgsmith2000, pirate_femme, PJ, PM_me_your_PhDs, pookmeister, presley, Pugs, Pyrosophy, QueenOfThorns, RaePi, rave98, rawnan, redhavirr, RickymQrk, Rofeletan, Rustyroo, Schelling, shananigans, ShapKees, Shard, Sherlock, Sigmarius, sigmarius, Silent Scribe, Silver, SkroxiousDM, SnackoSaurusRex, snarkycatboy, snickduck, sodneu, Søren, Starless, stevexec, StoRmVoRtex, styx, sunirgerep, szemere, taffer, TehBestAtGames, terrible_boots, terribleOpera, Theatretech37, Timetheif, Tirrigon, UniquelyDefined, Unyielding_Capybara, Ur, Walui, Werben, whatistheancient, Windsock, Wolkensieger, XeroChance0, xxItsAJackalxx, Yakei, Yazstromo, Zifbox e Zumarius per feedback, playtesting e revisione.
 

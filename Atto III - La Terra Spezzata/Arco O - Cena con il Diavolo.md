@@ -7,7 +7,9 @@ Arrivati al crocevia del castello, i giocatori vengono accolti dalla carrozza ne
 Durante i festeggiamenti, i giocatori devono indagare sulle vere lealtà di Sasha evitando conflitti con le altre spose di Strahd. Dopo aver cenato con Strahd stesso, i giocatori hanno l'opportunità di interrogare Sasha riguardo ai segreti del castello—e scoprire che Strahd sarà assente da Castello Ravenloft la notte successiva.
 
 Dopo un tour del castello e una prova della capacità dei giocatori di affrontare la violenza, un fulmine improvviso disabilita il ponte levatoio del castello, costringendo i giocatori a rimanere a Castello Ravenloft durante una potente tempesta. Dopo essere saliti nella loro stanza, tuttavia, il fantasma di Varushka, un ex servitore di Castello Ravenloft, trascina i giocatori in un incubo a più livelli, costringendoli a confrontarsi con il passato sanguinoso di Castello Ravenloft—o a non svegliarsi mai più...
+
 # O1. L'Invito
+
 Al tramonto della notte immediatamente successiva alla luna piena, Strahd—usando informazioni ottenute dalle sue spie e una posizione determinata dal suo incantesimo *scrutare*—manda Rahadin, il suo ciambellano, a consegnare loro una lettera.
 
 > [!info]+ **Quando Arriva l'Invito?**
@@ -66,6 +68,7 @@ Se i giocatori non fanno nulla per fermarlo, Rahadin si dirige verso la porta, s
 > Ezmerelda nota, tuttavia, che *non* è stata invitata alla cena e quindi non può partecipare apertamente. Tuttavia, è disposta a perseguire il proprio corso d'azione indipendente mentre i giocatori cenano con Strahd. Su suggerimento dei giocatori, potrebbe passare la serata a proteggere Ireena, sorvegliando segretamente i terreni del castello per ingressi alternativi e possibili guardie (anche se non entrerà nel castello da sola), o intraprendere qualche altra azione per promuovere gli interessi del gruppo.
 
 # O2. L'Intuizione di Arrigal
+
 Un giorno prima della cena programmata, se i giocatori hanno salvato Arabelle in [[Arco E - La Vistana Scomparsa]], Arrigal di <span class="citation">N9. Campo dei Vistani (p. 119)</span> trova i giocatori poco dopo il tramonto. (Se i giocatori passano la notte lontano da Vallaki, Arrigal li trova mentre attraversano o girano intorno a Vallaki quando si dirigono a Castello Ravenloft il giorno successivo.)
 
 Incontrando il gruppo, Arrigal—riconoscibile, anche se indossa un pesante mantello e cappuccio per nascondere le sue caratteristiche agli osservatori—"accidentalmente" urta uno dei giocatori, preferendo un bersaglio con un punteggio di Saggezza (Percezione) passivo più alto. Un giocatore con un punteggio di Saggezza (Percezione) passivo di 14 o superiore nota la sensazione di qualcosa che scivola nella loro tasca durante il breve momento di contatto.
@@ -93,7 +96,9 @@ Se Ezmerelda viene a conoscenza del biglietto, consiglia entusiasticamente ai gi
 > Arrigal non conosce i nomi o le descrizioni di nessuna delle spose vampiriche tranne Anastrasya. A sua insaputa, il traditore è Sasha Ivliskova, la sua prima sposa vampirica. Vedi sotto per ulteriori informazioni su Sasha.
 
 # O3. La Vecchia Strada di Svalich
+
 ## O3a. Doru & Donavich
+
 Mentre i giocatori si preparano a partire da Vallaki per Castello Ravenloft il giorno della cena, se in precedenza hanno risparmiato il **vampiro progenie** Doru e lo hanno aiutato a superare la sua sete di sangue in [[Atto I - Nelle Nebbie/Arco B - Benvenuti a Barovia]], incontrano Doru e suo padre, il sacerdote Donavich (usando le statistiche di un **accolito**) al Cancello del Mattino orientale di Vallaki mentre si avvicinano alla Vecchia Strada di Svalich. Leggi:
 
 <div class="description">
@@ -122,8 +127,16 @@ Se si sono separati dai giocatori in buoni rapporti, Doru (le cui zanne sono nas
 I giocatori possono convincere Gorek e Drilvia a permettere l'ingresso a Donavich e Doru garantendo per il controllo di Doru e riuscendo in una prova di Carisma (Persuasione o Intimidazione) CD 14. In alternativa, i giocatori possono convincere Gorek e Drilvia che Doru non è un vampiro facendo un argomento convincente—ad esempio, che è un elfo con una condizione oculare—e riuscendo in una prova di Carisma (Inganno) CD 11, fatta con vantaggio se i giocatori hanno incoraggiato Gorek a fidarsi dei suoi dubbi.
 
 Se i giocatori li aiutano a ottenere l'ingresso a Vallaki, Doru e Donavich sono profondamente grati per il loro aiuto, così come per qualsiasi indicazione che i giocatori possono fornire alla locanda più vicina.
+
 ## O3b. La Guida del Cavaliere
+
 Il viaggio da Vallaki a <span class="citation">I. Carrozza Nera (p. 37)</span> è lungo tredici chilometri e richiede due ore e quarantacinque minuti.
+
+Mentre i giocatori raggiungono il tratto di strada che conduce al Vecchio Macinaossa, un branco di lupi emerge dal bosco. Fedele alla parola di Strahd, non mostrano aggressività. Leggi:
+
+<div class="description">
+<p>Il suono di ululati più avanti attira la vostra attenzione. Più su per la strada, un branco di lupi emerge dalla nebbia, gli occhi luccicanti. Si fermano, annusano l’aria, notando la vostra presenza sul sentiero. Indifferenti, voltano la testa e si infilano noncuranti nella foresta.</p>
+</div>
 
 Circa quattrocento metri e cinque minuti prima che i giocatori raggiungano il <span class="citation">B. Cancelli di Barovia (p. 33)</span> occidentale, se non hanno ucciso il <span class="citation">Cavaliere Scheletrico (p. 31)</span> in [[Atto I - Nelle Nebbie/Arco C - Nella Valle]], lo incontrano di nuovo. Leggi:
 
@@ -187,7 +200,9 @@ L'oggetto nel nido è una piccola scatola di legno vecchia con una chiusura d'ar
 
 > [!lore]+ **L'Eredità di Katarina**
 > Katarina—l'alter ego di Madam Eva—e il suo compagno servitore Varushka venivano spesso a questo affioramento insieme nei giorni liberi quando servivano insieme a Castello Ravenloft. Quando fuggì dalla furia di Strahd il giorno della sua trasformazione in vampiro, Katarina venne prima in questo luogo, sperando invano che Varushka la incontrasse. Fu qui che Katarina fece il suo patto con il Cercatore per diventare Madam Eva in cambio di un'opportunità per un giorno mettere a riposo Strahd e riportare il sole a Barovia.
+
 ## O3c. La Carrozza Nera
+
 Dopo aver attraversato il <span class="citation">B. Cancelli di Barovia (p. 33)</span> occidentale, i giocatori arrivano al crocevia che conduce a Castello Ravenloft. La carrozza nera di Strahd è ora presente ed è descritta in <span class="citation">I. Carrozza Nera (p. 37)</span>.
 
 Mentre i giocatori si avvicinano o si muovono per passare la carrozza, notano un piccolo rotolo di pergamena legato alla maniglia interna della porta della carrozza. Il rotolo, che è legato con un nastro rosso sangue e sigillato con il familiare sigillo di cera di Castello Ravenloft, è scritto con la calligrafia di Strahd e recita come segue:
@@ -538,6 +553,8 @@ L'uomo è il **mongrelfolk** Cyrus Belview, ed è per lo più come descritto in 
 >
 > ***Emozioni.*** Cyrus prova spesso curiosità, interesse, determinazione, agitazione, impazienza o scetticismo.
 >
+> ***Motivazioni.*** Cyrus desidera aiutare Strahd a restaurare il Castello Ravenloft, credendo che Strahd gli fornirà le conoscenze necessarie per riportare la sua famiglia alle loro forme originali.
+> 
 > ***Ispirazioni.*** Quando interpreti Cyrus, canalizza Ebenezar Scrooge (*A Christmas Carol*), Nonno Simpson (*The Simpsons*), e Gran Maestro Pycelle (*Game of Thrones*).
 >
 > **Informazioni sul Personaggio**
@@ -993,7 +1010,12 @@ L'Incubo di Varushka esiste su cinque copie quasi identiche della suite degli os
 
 Quest'area è per lo più come descritta in <span class="citation">K49. Salotto (p. 70)</span>, <span class="citation">K50. Stanza degli Ospiti (p. 70)</span> e <span class="citation">K51. Armadio (p. 70)</span>.
 
-Quando i giocatori arrivano per la prima volta nell'Incubo, si svegliano nelle stesse posizioni e luoghi in cui si sono addormentati o sono diventati incoscienti. Tuttavia, qualsiasi giocatore con un punteggio di Saggezza (Percezione) passivo di 13 o superiore nota che l'orologio a forma di castello sul muro della stanza degli ospiti ora ticchetta.
+Quando i giocatori si risvegliano nell'incubo, leggi:
+
+<div class="description">
+<p>Vi risvegliate nella suite degli ospiti. La stanza, però, è pervasa da una luce grigia e nebbiosa, e l'orologio della stanza degli ospiti ticchetta con un'eco sonora.</p>
+</div>
+Quando i giocatori arrivano per la prima volta nell'Incubo, si risvegliano nelle stesse posizioni e negli stessi luoghi in cui si trovavano quando sono caduti addormentati o privi di sensi.
 
 Poco dopo che i giocatori riprendono i loro sensi, leggi:
 
@@ -1018,7 +1040,11 @@ Un giocatore che sale attraverso la botola emerge in <span class="citation">K47.
 
 Se un giocatore ispeziona la porta nel salotto che esce in <span class="citation">K47. Ritratto di Strahd (p. 68)</span>, trova che la porta è chiusa a chiave, la sua serratura sostituita con un ornato buco della serratura dorato. La porta non può essere abbattuta e la serratura non può essere scassinata.
 
+> [!info]+ **Salire e scendere i piani**
+> I giocatori possono scendere ai livelli precedenti se lo desiderano, fino a quando non trovano la chiave dorata ornata in [[#O8f. Il Castello Insanguinato]]. Una volta trovata, qualsiasi tentativo di scendere a un livello precedente li riporterà a [[#O8a. Il Primo Livello]].
+
 ## O8b. Il Secondo Livello
+
 <span class="citation"><em>Questa scena si svolge nel Capitolo 4, Aree K49, K50 e K51.</em></span>
 
 Quest'area è per lo più come descritta in <span class="citation">K49. Salotto (p. 70)</span>, <span class="citation">K50. Stanza degli Ospiti (p. 70)</span> e <span class="citation">K51. Armadio (p. 70)</span>. Tuttavia, questo livello sembra leggermente meno trasandato e sporco rispetto al primo livello. Inoltre, la porta che conduce a <span class="citation">K49. Salotto (p. 70)</span> non ha la serratura dorata ornata del [[#O8a. Il Primo Livello]].
@@ -1052,7 +1078,7 @@ Inoltre, quando una creatura tenta per la prima volta di aprire la porta dell'Ar
 * il letto a baldacchino (**oggetto animato grande**),
 * le due sedie (**oggetti animati medi**),
 * il pouf (**oggetto animato piccolo**), e
-* il tappeto (**tappeto soffocante**, <span class="citation">Manuale del Giocatore, p. 20</span>, con 63 punti ferita, un punteggio di Forza di 18 (+4), +5 per colpire, una CD di fuga di 14, e infliggendo 18 (4d6 + 4) danni a colpo).
+* il tappeto (**tappeto soffocante**, <span class="citation">Manuale dei Mostri, p. 20</span>, con 63 punti ferita, un punteggio di Forza di 18 (+4), +5 per colpire, una CD di fuga di 14, e infliggendo 18 (4d6 + 4) danni a colpo).
 
 Ismark e Livius combattono al fianco dei giocatori se presenti, Livius rimanendo nella sua forma di **corvo**. (Poiché sta portando una torcia, Ismark non può usare la sua spada corta e deve brandire la sua spada lunga con una mano.)
 
@@ -1085,21 +1111,13 @@ Un giocatore che tratta Pidlwick II gentilmente e riesce in una prova di Carisma
 
 La botola conduce a una copia della suite degli ospiti per lo più come descritta in <span class="citation">K49. Salotto (p. 70)</span>, <span class="citation">K50. Stanza degli Ospiti (p. 70)</span> e <span class="citation">K51. Armadio (p. 70)</span>. Quest'area sembra un po' trasandata, ma priva di gran parte della sporcizia e dell'età che ha segnato i livelli superiori. Inoltre, la porta che conduce a <span class="citation">K49. Salotto (p. 70)</span> non ha la serratura dorata ornata del [[Arc O - Cena con il Diavolo#O8a. Il Primo Livello|Il Primo Livello]].
 
-Invece di aprirsi nell'armadio, la porta dell'armadio nella suite degli ospiti si apre su un muro di pietra vuoto. Quando la porta dell'armadio viene aperta per la prima volta, le finestre sud-occidentali nel Salotto si spalancano, permettendo alla tempesta di ululare all'interno e rivelando una copia del tetto del castello, che è per lo più come descritto in <span class="citation">K53. Tetto (p. 71)</span>. Tuttavia, il resto del castello è assente, lasciando i tetti circondati solo da un vuoto nebbioso infinito. Quando un personaggio apre la porta per la prima volta, leggi:
+Invece di aprirsi nell'armadio, la porta dell'armadio nella suite degli ospiti si apre su un muro di pietra vuoto. Quando la porta dell'armadio viene aperta per la prima volta, le finestre sud-occidentali nel Salotto si spalancano, permettendo alla tempesta di ululare all'interno e rivelando una copia del tetto del castello, che è per lo più come descritto in <span class="citation">K53. Tetto (p. 71)</span>. Tuttavia, il resto del castello è assente, lasciando i tetti circondati solo da un vuoto nebbioso infinito. Quando un personaggio guarda fuori dalla finestra per la prima volta, leggi:
 
 <div class="description">
-<p>La porta si apre su un lungo tetto buio avvolto da nebbie turbinanti. La pioggia schizza contro il tetto cedevole e inclinato mentre lampi di fulmini illuminano gargoyle appollaiati sui picchi terminali del tetto, i loro sguardi orribili fissati per sempre sul buio abisso infinito sottostante. Sul lato opposto del tetto, un piccolo armadio buio e aperto si trova tranquillamente su un parapetto in mezzo alla tempesta.</p>
+<p>La finestra si apre su un lungo tetto buio avvolto da nebbie turbinanti. La pioggia schizza contro il tetto cedevole e inclinato mentre lampi di fulmini illuminano gargoyle appollaiati sui picchi terminali del tetto, i loro sguardi orribili fissati per sempre sul buio abisso infinito sottostante. Sul lato opposto del tetto, un piccolo armadio buio e aperto si trova tranquillamente su un parapetto in mezzo alla tempesta.</p>
 </div>
 
-Un personaggio deve riuscire in tre prove cumulative di Destrezza (Acrobazia) CD 10 per attraversare con successo il tetto e raggiungere l'armadio dall'altra parte. (Fare una tale prova richiede l'azione del personaggio.) Un personaggio che striscia, o che ha una velocità di arrampicata, viaggia a metà della distanza ma riesce automaticamente come descritto in <span class="citation">K53. Tetto (p. 71)</span>.
-
-> [!warning]+ **Prove Cumulative**
-> Ogni personaggio deve riuscire in tre prove totali per attraversare il tetto. Un personaggio che fallisce una prova non fa progressi in quel turno, ma non perde i progressi fatti attraverso il tetto.
-
-> [!info]+ **Usare Equipaggiamento**
-> I giocatori che si legano insieme usando una corda o prendono precauzioni simili ottengono vantaggio su ogni prova di Destrezza (Acrobazia) e tiro salvezza di Destrezza effettuato per attraversare il tetto o evitare di cadere. I giocatori che usano un kit di arrampicata per attraversare il tetto riescono automaticamente in ogni prova di questo tipo.
-
-Un personaggio che fallisce una prova di Destrezza (Acrobazia) per attraversare il tetto di 5 o più inizia a scivolare verso il bordo del tetto. Se ciò accade, il personaggio può afferrarsi al bordo del tetto riuscendo in un tiro salvezza di Destrezza CD 5, riuscendo automaticamente se è assicurato ad altri personaggi tramite una corda o altri mezzi. (Un personaggio adiacente a un personaggio scivolante può anche afferrarlo riuscendo in un tiro salvezza di Destrezza CD 10.) In caso di fallimento, il personaggio cade per 15 piedi su un cornicione che corre sotto il bordo del tetto. Per arrampicarsi di nuovo sul tetto dal cornicione, un personaggio deve riuscire in una prova di Forza (Atletica) CD 15.
+Un personaggio che tenta di attraversare il tetto deve effettuare una prova di Destrezza (Acrobatica) CD 10. Se la prova ha successo, il personaggio si muove attraverso il tetto a metà velocità. Con un risultato della prova di 6–9, il personaggio non avanza né arretra; con un risultato di 5 o meno, il personaggio cade e subisce 1d6 danni contundenti, cadendo per circa 4,6 metri su una sporgenza che corre sotto il bordo del tetto. Per risalire sul tetto dalla sporgenza, il personaggio deve riuscire in una prova di Forza (Atletica) CD 15.
 
 Quando tutti i giocatori sono usciti dalla finestra, sei **sciami di pipistrelli** scendono per attaccare qualsiasi personaggio che non ha ancora raggiunto il lato opposto. I personaggi hanno svantaggio sulle prove effettuate per attraversare il tetto mentre condividono uno spazio con uno sciame di pipistrelli. Se qualche personaggio sta concentrando su un incantesimo che consente il volo, tre **sciami di pipistrelli** attaccano quel personaggio simultaneamente, sperando di interrompere la loro concentrazione.
 
@@ -1127,7 +1145,7 @@ Il drago, che agisce al conteggio di iniziativa 0 di ogni round, agisce come seg
 **Nel suo secondo turno**, inizia a stringersi attraverso la porta della suite degli ospiti, poi usa il suo ***soffio acido***, colpendo qualsiasi giocatore meno di metà strada attraverso il tetto. Leggi:
 
 <div class="description">
-<p>Una testa rettiliana mostruosa, squamosa e nera si spinge nella suite, il suo cranio da solo largo quanto e alto metà del telaio della porta. Corna che somigliano a orecchie elfiche appuntite si ergono dai lati della sua testa, e i suoi occhi brillano di uno scopo crudele e malevolo.</p>
+<p>Un acuto coro di urla si intensifica mentre una testa mostruosa, rettiliana e ricoperta di scaglie nere, si spinge nella suite; il suo cranio, da solo, è largo quanto il telaio della porta e alto la metà. Una lunga e sinistra cicatrice gli solca la fronte. Corna simili a orecchie elfiche appuntite spuntano ai lati della testa, e i suoi occhi luccicano con un intento crudele e malevolo.</p>
 <p>Lentamente, inizia a spingere le sue spalle muscolose e larghe attraverso il telaio della porta della suite degli ospiti, la muratura antica si spezza sotto il suo peso ponderoso. Mentre lo fa, il suo collo serpentino si avvolge, il suo petto si gonfia grottescamente mentre le sue scaglie si allungano e si gonfiano.</p>
 <p>Un ringhio gutturale si costruisce profondamente nella sua gola, crescendo in un ruggito assordante mentre le fauci della bestia si spalancano, rivelando fila dopo fila di denti affilati come aghi. Un torrente di acido nero-viola erutta dalle fauci del drago, riempiendo l'aria con un odore acre e caustico.</p>
 </div>
@@ -1274,7 +1292,7 @@ Al momento dell'arrivo dei giocatori, questa camera è attualmente abitata da un
 </div>
 
 > [!info]+ **Ricordo di Strahd**
-> Questo ricordo di Strahd ha le statistiche descritte in <span class="citation">Strahd von Zarovich (p. 240)</span>, ma senza la caratteristica ***incantesimi***, la caratteristica ***fascino***, la caratteristica ***figli della notte*** o qualsiasi azione di tana. Inoltre, invece delle azioni leggendarie, Strahd può prendere fino a tre reazioni per round, ma solo una per turno. (Se Strahd perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.) Ottiene anche le seguenti reazioni:
+> Questo ricordo di Strahd ha le statistiche descritte in <span class="citation">Strahd von Zarovich (p. 240)</span>, ma senza la caratteristica ***incantesimi***, la caratteristica ***fascino***, la caratteristica ***figli della notte*** o qualsiasi azione di tana. Inoltre, invece delle azioni leggendarie, Strahd può prendere fino a tre reazioni per round, ma solo una per turno. (Se Strahd dovesse perdere le sue reazioni, perde una reazione invece.) Ottiene anche le seguenti reazioni:
 >
 > * ***Muovere.*** In risposta a subire danni da un incantesimo o abilità a distanza, Strahd si muove fino alla sua velocità senza provocare attacchi di opportunità verso l'attaccante.
 > * ***Colpo Disarmato.*** In risposta a un personaggio entro 5 piedi che lo colpisce o manca con un attacco, Strahd fa un attacco ***colpo disarmato***.
@@ -1303,7 +1321,7 @@ Se i giocatori non hanno precedentemente incontrato Strahd, aggiungi:
 La voce è riconoscibile come quella di Strahd, ma più piena di emozione e vita.
 
 #### Ufficio del Ciambellano
-L'ufficio di Rahadin è per lo più come descritto in <span class="citation">K72. Ufficio del Ciambellano (p. 79)</span>, tranne che i giocatori che scoprono la porta segreta trovano che è stata murata.
+L'ufficio di Rahadin è per lo più come descritto in <span class="citation">K72. Ufficio del Ciambellano (p. 79)</span>, tranne che Rahadin e il **demone d'ombra** non ci sono, e i giocatori che scoprono la porta segreta trovano che è stata murata.
 
 Inoltre, una chiave dorata ornata che corrisponde al motivo del buco della serratura della stanza degli ospiti giace sul tavolo. La chiave sblocca la porta chiusa del salotto nel [[#O8a. Il Primo Livello]].
 
@@ -1335,6 +1353,8 @@ Una volta che Varushka appare, l'orologio della stanza degli ospiti suona una vo
 Varushka condivide liberamente che ha preso i giocatori come suoi prigionieri, come ha fatto con tutti coloro che cercano il riposo che le è stato negato. "Potreste aver trovato la chiave dove l'ho sepolta," ringhia, le lacrime che scorrono sulle sue guance, "ma finché la mia anima persiste qui, non vi lascerò mai andare."
 
 Se i giocatori attaccano Varushka, procedi a [[La Rabbia di Varushka]] sotto. Se i giocatori tentano di negoziare con Varushka, procedi a [[Il Dolore di Varushka]] invece.
+
+Se i giocatori offrono a Varushka la collana, lei li ringrazia ma rifiuta di tenerla. Con mestizia, chiede ai giocatori di cercare Katarina, se è ancora viva, oppure la sua tomba, e li prega di «custodirla in suo ricordo».
 
 ### Il Dolore di Varushka
 I giocatori possono tentare di persuadere Varushka a permettere loro di andarsene facendo qualsiasi argomento ragionevole e riuscendo in una prova di Carisma (Persuasione) CD 10, fatta con vantaggio se i giocatori hanno confortato il ricordo di Varushka in [[#O8e. Il Quinto Livello]]. La prova riesce automaticamente se i giocatori informano Varushka che possiedono la metà del ciondolo di Katarina.
@@ -1423,7 +1443,8 @@ Se i giocatori riescono in questa prova, Varushka rinuncia lacrimosa alla sua pr
 <p><strong><em>Taglio di Carta.</em></strong> Varushka strappa le pagine dai libri nel Salotto e crea un vortice di carta tagliente centrato su un punto che può vedere entro 30 piedi. Ogni creatura in un cilindro di 5 piedi di raggio e 15 piedi di altezza centrato su quel punto deve riuscire in un tiro salvezza di Destrezza CD 15 o subire 18 (4d8) danni da taglio.</p>
 <p><strong><em>Viso Orribile (1/giorno).</em></strong> Ogni creatura non morta entro 60 piedi da Varushka che può vederla deve riuscire in un tiro salvezza di Saggezza CD 15 o essere spaventata fino all'inizio del prossimo turno di Varushka. Se il tiro salvezza di un bersaglio fallisce di 5 o più, il bersaglio è anche scacciato mentre è spaventato in questo modo. (Una creatura scacciata deve prendere l'azione di Scatto e allontanarsi dalla fonte della sua paura per la via più sicura disponibile in ciascuno dei suoi turni, a meno che non ci sia nessun posto dove muoversi.)</p>
 <h3>Reazioni</h3>
-<p>Varushka può prendere fino a tre reazioni per round, ma solo una per turno. Se perderebbe le sue reazioni e non è incapacitata, perde una reazione invece.</p>
+<p>Varushka può effettuare fino a tre reazioni per round, sebbene non più di una per turno. Se un effetto o una condizione le impedirebbe di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Scatenante:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> Varushka può ripetere il tiro salvezza contro un effetto o una condizione che la sta attualmente influenzando. (Questa reazione non ha effetto se l'effetto o la condizione non richiedeva originariamente un tiro salvezza per avere effetto.)</p>
 <p><strong><em>Scambio.</em></strong> In risposta a essere bersagliata da un attacco o incantesimo, o a essere posizionata nell'area di effetto di un incantesimo, Varushka costringe una creatura che può vedere entro 30 piedi diversa dall'attaccante o incantatore a fare un tiro salvezza di Carisma CD 15. In caso di fallimento, lei e il bersaglio si scambiano di posto, e il bersaglio subisce gli effetti dell'attacco o incantesimo invece.</p>
 <p><strong><em>Adesione.</em></strong> In risposta a essere mancata da un attacco in mischia, Varushka costringe la creatura a fare un tiro salvezza di Forza CD 15. In caso di fallimento, l'arma o l'arto usato nell'attacco viene aderito a una superficie vicina fino all'inizio del prossimo turno di Varushka.</p>
 <p><strong><em>Eruttare (1/giorno).</em></strong> In risposta a essere ridotta a 0 punti ferita, Varushka costringe ogni creatura entro 30 piedi a riuscire in un tiro salvezza di Forza CD 15 o subire 11 (2d10) danni da forza e essere spinta di 20 piedi lontano. Se il bersaglio non può muoversi per tutta la distanza, subisce 1d6 danni da contusione per ogni 5 piedi non mossi e cade prono.</p>
@@ -1553,14 +1574,14 @@ Se i giocatori riescono in questa prova, Varushka rinuncia lacrimosa alla sua pr
 </table>
 <hr>
 <strong>Tiri Salvezza</strong> Sag +6<br>
-<strong>Immunità ai Danni</strong> veleno
+<strong>Immunità ai Danni</strong> veleno<br>
 <strong>Immunità alle Condizioni</strong> affascinato, esausto, paralizzato, pietrificato, avvelenato<br>
 <strong>Sensi</strong> Scurovisione 60 ft.<br>
 <strong>Linguaggi</strong> Comune<br>
 <strong>Sfida</strong> 10<br>
 <strong>Bonus di Competenza</strong> +4<br>
 <hr>
-<p><strong><em>Resistenza Leggendaria (1/giorno).</em></strong> Se Varushka fallirebbe un tiro salvezza, può scegliere di riuscire invece.</p>
+<p><strong><em>Combattente in spazi ristretti.</em></strong> Varushka non subisce svantaggio alle prove di attacco a distanza quando si trova entro circa 1,5 metri da una creatura ostile.</p>
 <p><strong><em>Movimento Incorporeo.</em></strong> Varushka può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni da forza se termina il suo turno all'interno di un oggetto.
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> Varushka fa due attacchi con i suoi attacchi <strong><em>risucchio di vita</em></strong> e/o <strong><em>garrota di nebbia</em></strong>.</p>
@@ -1570,16 +1591,17 @@ Se i giocatori riescono in questa prova, Varushka rinuncia lacrimosa alla sua pr
 <p><strong><em>Nebbia Vampirica.</em></strong> Tentacoli di nebbia rosso sangue estrudono da Varushka, toccando ogni creatura entro 5 piedi da lei. Un bersaglio deve riuscire in un tiro salvezza di Costituzione CD 15 o subire 9 (2d8) danni necrotici e avere svantaggio sul prossimo tiro salvezza che effettua prima dell'inizio del prossimo turno di Varushka. Varushka recupera punti ferita pari alla metà dei danni subiti (arrotondati per eccesso), e il massimo di punti ferita del bersaglio viene ridotto di un ammontare pari ai danni necrotici subiti. Questa riduzione dura fino a quando il bersaglio termina un riposo lungo. Il bersaglio muore se il suo massimo di punti ferita viene ridotto a 0.</p>
 <p><strong><em>Sussurri Oscuri.</em></strong> Sussurri dissonanti e dolorosi riempiono l'aria intorno a Varushka, costringendo ogni creatura entro 30 piedi a riuscire in un tiro salvezza di Saggezza CD 15 o subire 3 (1d6) danni psichici e ottenere svantaggio sul primo tiro per colpire o tiro salvezza che effettua prima dell'inizio del prossimo turno di Varushka.</p>
 <h3>Reazioni</h3>
-<p>Varushka può prendere fino a tre reazioni per round, ma solo una per turno. Se perderebbe le sue reazioni e non è incapacitata, perde una reazione invece.</p>
-<p><strong><em>Passo Nebbioso.</em></strong> In risposta a subire danni, Varushka si teletrasporta fino a 30 piedi in uno spazio non occupato. Può poi immediatamente fare un attacco <strong><em>risucchio di vita</em></strong> contro una creatura entro portata.</p>
+<p>Varushka può effettuare fino a tre reazioni per round, sebbene non più di una per turno. Se un effetto o una condizione le impedirebbe di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Scatenante:</strong> una creatura ostile termina il suo turno. <strong>Effetto:</strong> Varushka può ripetere il tiro salvezza contro un effetto o una condizione che la sta attualmente influenzando. (Questa reazione non ha effetto se l'effetto o la condizione non richiedeva originariamente un tiro salvezza.)</p>
+<p><strong><em>Misty Step.</em></strong> In risposta al subire danno, Varushka si teletrasporta fino a 9 metri in uno spazio non occupato. Può quindi immediatamente effettuare un attacco di <strong><em>life drain</em></strong> contro una creatura a portata.</p>
 <p><strong><em>Sussurri Calmanti.</em></strong> In risposta a una creatura che può vedere entro 10 piedi che la bersaglia con un attacco o incantesimo, Varushka costringe quella creatura a riuscire in un tiro salvezza di Saggezza CD 15. In caso di fallimento, la creatura subisce 5 (2d4) danni psichici e ottiene un livello di affaticamento per il prossimo minuto. Se la creatura non era già affaticata, può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni tranne questo, diminuendo il suo affaticamento di un livello in caso di successo.
 </div>
 
 # O9. Risveglio
-Che i giocatori placano Varushka o la sconfiggano, sbloccare e uscire dalla versione dell'incubo della porta della suite degli ospiti li fa risvegliare nei loro corpi fisici nella suite degli ospiti fisica a Castello Ravenloft circa venti minuti prima dell'alba con tutti i benefici di un riposo lungo. Qualsiasi giocatore che è morto nel sogno si risveglia anche nei loro corpi fisici. Se tutti i membri del gruppo muoiono nell'incubo, muoiono nella realtà e non si risvegliano.
+Che i giocatori placano Varushka o la sconfiggano, sbloccare e uscire dalla versione dell'incubo della porta della suite degli ospiti li fa risvegliare nei loro corpi fisici nella suite degli ospiti fisica a Castello Ravenloft circa venti minuti prima dell'alba con tutti i benefici di un riposo lungo. Qualsiasi giocatore che è morto nel sogno si risveglia anche nei loro corpi fisici, con tutti i benefici di un riposo lungo. Se tutti i membri del gruppo muoiono nell'incubo, muoiono nella realtà e non si risvegliano.
 
 ### O9a. L'Ultimo Desiderio di Varushka
-Quando i giocatori si svegliano, se hanno riunito Varushka con il ciondolo di Katarina nel sogno, il ciondolo non è più tra i loro possedimenti. Inoltre, se i giocatori hanno riunito Varushka con il ciondolo, Varushka appare anche a loro come un **ombra** sul muro della suite degli ospiti. Leggi:
+Quando i giocatori si svegliano, Varushka appare anche a loro come un **ombra** sul muro della suite degli ospiti. Leggi:
 
 <div class="description">
 <p>L'ombra di una donna appare sul muro, ma senza alcuna fonte per proiettarla. La figura è snella, con le silhouette di un abito e un grembiule familiari.</p>

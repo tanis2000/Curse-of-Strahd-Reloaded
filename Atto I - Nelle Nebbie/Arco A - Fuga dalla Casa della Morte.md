@@ -332,7 +332,7 @@ La pergamena è un pezzo di spartito scritto a mano per il clavicembalo intitola
 
 Un giocatore che ispeziona le figurine cadute scopre che la figurina rovesciata si è incrinata sul viso, sulle braccia e sul torso, e raffigura una giovane ballerina snella. La figurina frantumata si è rotta in dozzine di pezzi e sembra aver raffigurato un uomo attraente e più anziano. Una terza figurina di ballerina femminile rimane ostinatamente in piedi sopra il camino dove una volta si trovavano tutte e tre.
 
-Suonare *Valzer per Klara* fa anche sì che la libreria nella [[#Biblioteca]] si apra, esponendo la porta segreta chiusa oltre. (Il suono di graffio è il suono della libreria che si gratta contro il pavimento.)
+Suonare *Valzer per Klara* fa anche sì che la libreria-non la porta che c'è dietro-nella [[#Biblioteca]] si apra, esponendo la porta segreta chiusa oltre. (Il suono di graffio è il suono della libreria che si gratta contro il pavimento.)
 
 ### Biblioteca
 
@@ -1069,7 +1069,7 @@ Una creatura inghiottita dalla prima forma dell'ammasso può sentire il debole s
 <p><strong><em>Rottura.</em></strong> L'ammasso di carne espelle una pustola di carne marcia, che colpisce un punto entro 6 metri dall'ammasso e scoppia, spruzzando ogni creatura entro 1,5 metri con sangue e pus caustici. Un bersaglio deve superare un tiro salvezza di Costituzione CD 13 o essere avvelenato fino all'inizio del prossimo turno dell'ammasso di carne.</p>
 <p><strong><em>Scuotimento.</em></strong> L'ammasso di carne colpisce il pavimento, causando un terremoto nella stanza. Ogni creatura entro 3 metri dall'ammasso deve superare un tiro salvezza di Forza CD 13 o cadere prona.</p>
 <h3>Reazioni</h3>
-<p>L'ammasso di carne può effettuare fino a tre reazioni per round, ma non più di una per turno. Se perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p>L'ammasso di carne può effettuare fino a tre reazioni per round, ma non più di una per turno. Se dovesse perdere tutte le sue reazioni, invece perde una sola reazione.</p>
 <p><strong><em>Schizzo.</em></strong> In risposta a subire danni da un attacco in mischia, l'ammasso di carne tenta di afferrare l'attaccante usando il suo attacco <strong><em>colpo</em></strong>.</p>
 <p><strong><em>Rotolare.</em></strong> In risposta a subire danni da un attacco a distanza o incantesimo, l'ammasso di carne si muove fino alla sua velocità direttamente verso o lontano dall'attaccante senza provocare attacchi di opportunità. Se si muove verso l'attaccante, può quindi tentare immediatamente di spingerlo.</p>
 </div><br>
@@ -1124,7 +1124,7 @@ Una creatura inghiottita dalla prima forma dell'ammasso può sentire il debole s
 <p><strong><em>Spruzzo di Sangue.</em></strong> L'ammasso spruzza sangue e carne in un cono di 4,5 metri. Ogni creatura in quell'area deve effettuare un tiro salvezza di Destrezza CD 13. In caso di fallimento, una creatura subisce 7 (2d6) danni necrotici ed è accecata fino alla fine del prossimo turno dell'ammasso. In caso di successo, una creatura subisce la metà dei danni e non è accecata. Usare questa abilità espone il cuore dell'ammasso, permettendo che venga attaccato.</p>
 <p><strong><em>Urlo.</em></strong> Il cadavere infantile di Walter Durst emette un urlo acuto. Ogni creatura che può sentire l'urlo entro 9 metri dall'ammasso deve superare un tiro salvezza di Costituzione CD 10 o subire 2 (1d4) danni psichici ed essere assordata fino alla fine del prossimo turno dell'ammasso. Usare questa abilità espone il cuore dell'ammasso, permettendo che venga attaccato.</p>
 <h3>Reazioni</h3>
-<p>L'ammasso di carne può effettuare fino a tre reazioni per round, ma non più di una per turno. Se perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p>L'ammasso di carne può effettuare fino a tre reazioni per round, ma non più di una per turno. Se dovesse perdere tutte le sue reazioni, invece perde una sola reazione.</p>
 <p><strong><em>Ritirarsi.</em></strong> In risposta a un attacco o incantesimo dannoso che colpisce o manca il suo cuore, l'ammasso ritira il suo cuore nel suo corpo, nascondendolo alla vista e proteggendolo dagli attacchi.</p>
 <p><strong><em>Colpo di Tentacolo.</em></strong> In risposta a subire danni da un attacco in mischia, l'ammasso colpisce l'attaccante con un tentacolo. L'attaccante deve superare un tiro salvezza di Destrezza CD 13 o essere spinto di 3 metri indietro. Se l'attaccante fallisce il tiro salvezza di 5 o più, cade anche prono.</p>
 <p><strong><em>Rotolare.</em></strong> In risposta a subire danni da un attacco a distanza o incantesimo, l'ammasso si muove fino alla sua velocità direttamente verso o lontano dall'attaccante senza provocare attacchi di opportunità. Se si muove verso l'attaccante, può quindi immediatamente tentare di spingerlo.</p>

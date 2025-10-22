@@ -132,8 +132,10 @@ Se i giocatori esprimono interesse, Victor è felice di prestare loro la sua cop
 > Per combattere la loro natura intrinsecamente egoistica, le megere di una congrega devono stipulare un contratto scritto con le altre, firmato con il vero nome di ciascuna megera. Le megere di una congrega custodiscono gelosamente il loro contratto, spesso sigillandolo nel cuore della loro tana, sempre attente a tenere i loro nomi lontani dalle mani dei nemici.
 
 > [!info]+ **Raccolta di Ragni Fase**
-> I giocatori incontreranno successivamente **ragni fase** ad Argynvostholt e avranno l'opportunità di raccogliere le loro zanne e il loro veleno per combattere i **guerrieri fantasma** che si nascondono lì. Vedi [[Arc M - Il Maniero del Drago#M4c. Sala da Ballo dei Ragni|Arc M - Il Faro di Argynvost]] per ulteriori informazioni sulla raccolta e l'uso delle parti di ragno fase.
+> I giocatori incontreranno successivamente **ragni fase** ad Argynvostholt e avranno l'opportunità di raccogliere le loro zanne e il loro veleno per combattere i **guerrieri fantasma** che si nascondono lì. Vedi [[Arc M - Il Maniero del Drago#M4c. Sala da Ballo dei Ragni|Arc M - Il Maniero del Drago]] per ulteriori informazioni sulla raccolta e l'uso delle parti di ragno fase.
+
 # H3. Il Campo Profughi
+
 Se sono passate almeno sei ore dall'inaugurazione di Lady Wachter in [[Arc F - Il Desiderio di Lady Wachter]], il campo profughi è stato trasferito a <span class="citation">N8. Piazza della Città (p. 119)</span>. (I rifugiati vivono ancora in tende, tuttavia, mentre Lady Wachter lavora per trovare loro alloggi adeguati.)
 
 Se Lady Wachter non ha ancora trasferito i rifugiati, quando i giocatori entrano per la prima volta nel campo profughi, leggi:
@@ -145,6 +147,7 @@ Se Lady Wachter non ha ancora trasferito i rifugiati, quando i giocatori entrano
 </div>
 
 ## H3a. Dentro il Campo
+
 Se i giocatori entrano nel campo, vengono presto accolti con cautela da Emeric, un uomo anziano malinconico con capelli grigi, e Magda, una giovane donna afflitta dal dolore con profonde occhiaie. (Sebbene il campo non abbia una leadership ufficiale, Emeric e Magda facevano parte della prima ondata di rifugiati da Barovia e hanno guidato gli sforzi per accogliere e organizzare i nuovi arrivati dopo l'assedio di Strahd.)
 
 Emeric e Magda sono cauti nei confronti degli estranei, ma curiosi di sapere perché i giocatori sono venuti nel loro campo. (Magda spera brevemente che i giocatori siano servitori del Barone Vallakovich e che siano venuti a invitare i rifugiati a entrare a Vallaki - una speranza che Emeric, indicando le strane apparenze dei giocatori, presto disillude.)
@@ -157,12 +160,12 @@ Emeric e Magda possono condividere le seguenti informazioni generali sul campo (
 * A causa delle perdite subite lungo la strada e della minaccia del Diavolo nel Castello Ravenloft, i rifugiati non sono disposti a rischiare il viaggio di ritorno a casa, sperando invece di aspettare finché il Barone non vedrà ragione e permetterà loro di entrare nelle mura.
 * Circa un quarto dei rifugiati è diventato dipendente dai "pasticcini dei sogni", un alimento venduto dalla venditrice ambulante Morgantha. Questi rifugiati cercano una fuga dalla miseria e dalla disperazione della loro situazione. Coloro che mangiano un pasticcino dei sogni cadono in trance come descritto in <span class="citation">Pasticcini dei Sogni (p. 125)</span>. (Emeric e Magda possono aggiungere che Morgantha non è stata al campo da alcuni giorni.)
 
-Se i giocatori menzionano Ismark o Ireena, Emeric e Magda possono dire loro che molti sono freddi nei confronti di Ireena e tutti sono riluttanti ad accettare le sue offerte di aiuto. Alcuni la incolpano, così come Ismark "il Minore" e il defunto Borgomastro di Barovia, per il loro fallimento nel proteggerli dal risveglio e dall'invasione di Strahd. Altri ricordano una superstizione secondo cui le donne baroviane dai capelli rossi portano sfortuna e suggeriscono che Ireena stessa abbia portato una maledizione sul loro popolo. Nessuno ha alcun desiderio di avere ulteriori rapporti con lei.
-
 Se i giocatori chiedono della **megera della notte**, Emeric e Magda si scambiano sguardi e informano che la loro descrizione corrisponde a quella di un incubo ricorrente che Franz, un altro rifugiato, ha sofferto nelle ultime due notti.
 
 Emeric e Magda sono felici di portare i giocatori a vederlo, ma avvertono che Franz, un vedovo, ha recentemente perso anche i suoi figli e probabilmente è ancora in lutto o disturbato. Magda aggiunge inoltre che Franz ha sofferto di una strana malattia debilitante da quando sono iniziati gli incubi e offre la sua speranza che i giocatori possano essere in grado di curarlo.
+
 ## H3b. La Tenda di Franz
+
 Emeric e Magda conducono i giocatori a una piccola tenda solitaria situata alla fine del viale fangoso del campo. Quando i giocatori entrano, leggi:
 
 <div class="description">
@@ -559,7 +562,7 @@ Le megere combattono per autodifesa o se i giocatori chiariscono che non restitu
 <p><strong><em>Resistenza Magica.</em></strong> La congrega ha vantaggio sui tiri salvezza contro incantesimi ed effetti magici.</p>
 <p><strong><em>Lancio di Incantesimi.</em></strong> La capacità di lancio di incantesimi della congrega è Intelligenza (CD tiro salvezza incantesimi 17, +9 a colpire con attacchi con incantesimi).
 <p><strong><em>Lancio Complesso.</em></strong> Se una megera lancia un incantesimo nel suo turno usando un'azione bonus, può anche usare la sua azione per lanciare un incantesimo non cantrip nello stesso turno.</p>
-<p><strong><em>Seconda Fase.</em></strong> Se la congrega viene ridotta a 0 punti ferita, le sue statistiche vengono immediatamente sostituite da quelle delle **Tre dell'Incubo**. La sua iniziativa rimane la stessa. I danni in eccesso non si trasferiscono alla sua nuova forma, ma mantiene qualsiasi condizione avesse nella sua forma precedente.</p>
+<p><strong><em>Seconda Fase.</em></strong> Se la congrega viene ridotta a 0 punti ferita, le sue statistiche vengono immediatamente sostituite da quelle delle <strong>Tre dell'Incubo</strong>. La sua iniziativa rimane la stessa. I danni in eccesso non si trasferiscono alla sua nuova forma, ma mantiene qualsiasi condizione avesse nella sua forma precedente. Qualsiasi incantesimo che richiede concentrazione termina.</p>
 <h3>Azioni</h3>
 <p><strong><em>Cecità/Sordità (Solo Bella).</em></strong> Bella lancia <em>cecità/sordità</em>. Un bersaglio subisce 7 (2d6) danni necrotici aggiuntivi se fallisce il tiro salvezza, o metà danni in caso di successo.</p>
 <p><strong><em>Radianza Putrida (Solo Bella).</em></strong> <em>2° livello di necromanzia</em>, 30 piedi, componenti V S M, istantaneo. <em>Effetto:</em>: Una luce verde e fioca esplode all'interno di una sfera di 10 piedi di raggio centrata su un punto scelto da Bella entro il raggio. Ogni creatura all'interno di quell'area deve superare un tiro salvezza di Costituzione CD 17 o subire 2d6 danni radianti e essere avvelenata fino alla fine del suo prossimo turno.</p>
@@ -1130,7 +1133,7 @@ Quando l'oratore del patibolo muore, il *Tomo di Strahd* cade a terra. Vedi [[#H
 <p><strong><em>Movimento Incorporeo.</em></strong> L'oratore del patibolo può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni da forza se termina il suo turno all'interno di un oggetto.</p>
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> L'oratore del patibolo effettua due attacchi.</p>
-<p><strong><em>Pugnale dei Ba'al Verzi.</em></strong> <em>Attacco con Arma a Distanza:</em> +8 a colpire, portata 30 piedi, una creatura. <em>Colpito:</em> 7 (1d6 + 4) danni perforanti e il bersaglio deve effettuare un tiro salvezza di Saggezza CD 16, subendo 14 (4d6) danni necrotici e diventando maledetto fino all'inizio del prossimo turno dell'oratore del patibolo in caso di fallimento. In caso di successo, il bersaglio subisce metà dei danni necrotici e non è maledetto. Mentre è maledetto in questo modo, una creatura si muove a metà velocità e non può recuperare punti ferita, e l'oratore del patibolo ha vantaggio sui tiri per colpire effettuati contro di essa. Leo non ottiene svantaggio su un tiro per colpire effettuato con questo attacco a causa della presenza di una creatura ostile entro 5 piedi.</p>
+<p><strong><em>Pugnale dei Ba'al Verzi.</em></strong> <em>Attacco con Arma a Distanza:</em> +8 a colpire, portata 30 piedi, una creatura. <em>Colpito:</em> 7 (1d6 + 4) danni perforanti e il bersaglio deve effettuare un tiro salvezza di Saggezza CD 16, subendo 14 (4d6) danni necrotici e diventando maledetto fino all'inizio del prossimo turno dell'oratore del patibolo in caso di fallimento. In caso di successo, il bersaglio subisce metà dei danni necrotici e non è maledetto. Mentre è maledetto in questo modo, una creatura si muove a metà velocità e non può recuperare punti ferita, e l'oratore del patibolo ha vantaggio sui tiri per colpire effettuati contro di essa. L'oratore del patibolo non ottiene svantaggio su un tiro per colpire effettuato con questo attacco a causa della presenza di una creatura ostile entro 5 piedi.</p>
 <p><strong><em>Presa della Tomba.</em></strong> <em>Attacco con Incantesimo da Mischia:</em> +8 a colpire, portata 5 ft., una creatura. <em>Colpito:</em> 18 (4d8) danni necrotici e il bersaglio è afferrato fino a quando l'oratore del patibolo perde la sua concentrazione (come se si concentrasse su un incantesimo) o fino a quando il bersaglio usa la sua azione per liberarsi (CD fuga 16). (Trascinare questo bersaglio non rallenta l'oratore del patibolo.) Fino a quando questa afferrata non termina, il bersaglio è trattenuto e subisce 9 (2d8) danni necrotici aggiuntivi all'inizio di ciascuno dei suoi turni, e l'oratore del patibolo non può usare <strong><em>presa della tomba</em></strong> su un altro bersaglio.</p>
 <h3>Azioni Bonus</h3>
 <p><strong><em>Anime Urlanti.</em></strong> Un sudario di spiriti lamentosi circonda ciascuna creatura entro 5 piedi dall'oratore del patibolo. Ogni creatura in quell'area deve effettuare un tiro salvezza di Costituzione CD 16 o subire 9 (2d8) danni necrotici e essere stordita fino all'inizio del prossimo turno dell'oratore del patibolo. (Una creatura stordita può muoversi o compiere un'azione nel suo turno, non entrambe. Non può nemmeno compiere un'azione bonus o una reazione.)</p>
@@ -1192,8 +1195,10 @@ In segno di gratitudine per gli sforzi dei giocatori, Lady Wachter concede loro 
 > Una volta al giorno, puoi usare un'azione per farlo ridurre alle dimensioni di uno specchio a mano o crescere alle dimensioni di uno specchio a figura intera.
 
 > [!abstract]+ **Van Richten e lo Specchio Spiritico**
-> La maledizione del Dr. Rudolph van Richten gli impedisce di percepire suo figlio, Erasmus, nello *specchio spiritico*. Vedi [[Arc S - Gli Omicidi al Chiaro di Luna]] per ulteriori informazioni sulla rimozione della maledizione di Van Richten.
+> La maledizione del Dr. Rudolph van Richten gli impedisce di percepire suo figlio, Erasmus, nello *specchio spiritico*. Vedi [[Arco T - Le Tre Sacrestie]] per ulteriori informazioni sulla rimozione della maledizione di Van Richten.
+
 # H9. Il Tomo di Strahd
+
 Il *Tomo di Strahd* è tenuto chiuso da una chiusura in acciaio bloccata incantata con un incantesimo *blocco arcano* lanciato al 5° livello. La parola d'ordine per sopprimerlo è "Vengo in memoria di Dostron." (Solo Strahd e la sua sposa più anziana, Sasha Ivliskova, conoscono questa parola d'ordine. Vedi [[Arc O - Cena con il Diavolo]] per ulteriori informazioni su Sasha Ivliskova.) Il _blocco arcano_ può anche essere soppresso come di consueto con un incantesimo _knock_, un incantesimo _dispel magic_ o magia simile (ad esempio, il *campo antimagia* che circonda <span class="citation">Capitolo 11. Torre di Van Richten (p. 167)</span>).
 
 La chiusura richiede normalmente una prova di Forza CD 15 per essere rotta, ma richiede una prova di Forza CD 25 invece mentre è sotto gli effetti dell'incantesimo. Allo stesso modo, la serratura stessa richiede normalmente una prova di Destrezza (Strumenti da Scasso) CD 15 per essere aperta, ma richiede una prova di Destrezza (Strumenti da Scasso) CD 25 invece mentre è sotto gli effetti dell'incantesimo. Un tentativo di scassinare la serratura richiede 1 minuto per essere completato.
@@ -1214,9 +1219,13 @@ Una volta aperto con successo, il contenuto del *Tomo* ora recita come segue: <s
 <p>Scrivo questo ora per cristallizzare la mia rabbia di fronte ai venti amari del tempo. Mentre il freddo della tomba afferra il mio cuore, sento tutto ciò che ero lasciarmi - la morte dell'uomo e la nascita dell'immortale. Tuttavia, questo ricordo persisterà, un rampollo di quella giusta furia. Seppellirò il passato e così inizierò di nuovo.</p>
 <p>Ora risiedo molto al di sotto di Ravenloft. Vivo tra i morti e dormo sotto le stesse pietre di questo castello vuoto di disperazione. Ho abbandonato le ricchezze delle mie conquiste sotto il suono della campana, sigillate dietro un promemoria del tesoro che ho perso una volta. Tuttavia, un giorno, risorgerò dalle ceneri della mia gloria e reclamerò ciò che è giustamente mio.</p></div>
 
-Le pagine successive al testo leggibile sono piene di diagrammi, equazioni e migliaia di strani simboli. I simboli non sono una lingua scritta, ma un cifrario ideato da Strahd per nascondere i suoi piani segreti. (Solo il **lich** Exethanter conosce la chiave per decifrare il cifrario di Strahd. Vedi [[Arc T - Il Tempio d'Ambra]] per ulteriori informazioni su Exethanter.) Diversi diagrammi sembrano raffigurare un grande cuore umano cristallino, mentre altri raffigurano cerchi di pietre erette.
+Le pagine successive al testo leggibile sono piene di diagrammi, equazioni e migliaia di strani simboli. I simboli non sono una lingua scritta, ma un cifrario ideato da Strahd per nascondere i suoi piani segreti. (Solo il **lich** Exethanter conosce la chiave per decifrare il cifrario di Strahd. Vedi [[Arco S - La Spada del Sole]] per ulteriori informazioni su Exethanter.) Diversi diagrammi sembrano raffigurare un grande cuore umano cristallino, mentre altri raffigurano cerchi di pietre erette.
 
 I giocatori che leggono queste sezioni trovano numerose annotazioni che fanno riferimento (in Comune) a un individuo di nome Exethanter. Più istanze del nome di Exethanter sono accompagnate dal simbolo del Tempio d'Ambra: un triangolo equilatero a bordo spesso contenente un triangolo equilatero invertito, che a sua volta contiene una linea ondulata verticale. (Il triangolo rappresenta il dio dei segreti, il triangolo invertito i sarcofagi d'ambra e la linea ondulata i vestigi sigillati all'interno.)
+
+traduici 
+
+***Milestone***. Ottenere il *Tomo di Strahd* completa un punto di svolta della storia. Quando i giocatori ottengono il tomo, assegnare a ciascun giocatore 750 PE
 
 > [!abstract]+ **Il Simbolo**
 >

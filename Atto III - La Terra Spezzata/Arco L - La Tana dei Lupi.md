@@ -256,7 +256,7 @@ Azianka e Davanka sono annoiate, disattente e irritate per non essere state auto
 
 Azianka e Davanka sono irrequiete e possono essere facilmente attirate fuori dalla bocca della caverna da un'illusione, un fastidioso **wereraven** in forma di corvo evocato dal *fischietto del Custode* o qualsiasi altra distrazione non minacciosa. (Se i giocatori usano il *Fischietto del Custode* per evocare un **wereraven** per assisterli, un **wereraven** socievole ed eccitabile di nome Stefan Zalenski appare due minuti dopo per assisterli.) A meno che non siano distratte, le donne tornano alla caverna dopo dieci minuti.
 
-Se i giocatori entrano nella bocca della caverna mentre Azianka e Davanka sono presenti, le due donne chiedono loro di identificarsi, poi li ringraziano per aver portato "carne fresca" direttamente alla loro porta. (A causa delle caratteristiche ***udito e olfatto acuti*** dei lupi mannari, le creature invisibili non possono nascondersi dai lupi mannari a meno che non siano schermate anche da *passare senza traccia* o magia simile.) I due lupi mannari quindi gettano via le loro lance, assumono le loro forme ibride e attaccano. Al conteggio dell'iniziativa 20 del combattimento, entrambe le donne ululano per dare l'allarme, evocando i due **lupi mannari rissosi** e sei **lupi** da [[#L4d. Caverne Profonde]], che arrivano dopo 1 round.
+Se i giocatori entrano nella bocca della caverna mentre Azianka e Davanka sono presenti, le due donne chiedono loro di identificarsi, poi li ringraziano per aver portato "carne fresca" direttamente alla loro porta. (A causa delle caratteristiche ***udito e olfatto acuti*** dei lupi mannari, le creature invisibili non possono nascondersi dai lupi mannari a meno che non siano schermate anche da *passare senza traccia* o magia simile.) I due **lupi mannari** (come descritti nel [[Bestiario]]) quindi gettano via le loro lance, assumono le loro forme ibride e attaccano. Al conteggio dell'iniziativa 20 del combattimento, entrambe le donne ululano per dare l'allarme, evocando i due **lupi mannari rissosi** e sei **lupi** da [[#L4d. Caverne Profonde]], che arrivano dopo 1 round.
 
 I suoni del combattimento qui, o entro sei metri dalla bocca della caverna, allertano i lupi e i **lupi mannari rissosi** in [[#L4d. Caverne Profonde]], che arrivano dopo 1 round per indagare.
 
@@ -419,6 +419,9 @@ I giocatori che hanno visto il disegno di Ilya di Zuleika in [[Arco K - L'Abbazi
 >
 > Gli incantesimi *dissolvi magie* e *bussa* non hanno effetto su nessuno dei due collari. Inoltre, se un prigioniero si teletrasporta mentre indossa il collare, il collare si teletrasporta con il portatore.
 
+> [!info]+ Collari e Anti-Magia
+> Un collare di spina d'argento è influenzato normalmente da <span class="citation">Drenaggio degli Incantesimi di Khazan (p. 167)</span> al <span class="citation">Capitolo 11: Torre di Van Richten (p. 167)</span>. Se il suo collare viene rimosso, Zuleika sarà lieta di aiutare i giocatori a salvare Emil da Castel Ravenloft in [[Arco P - Rapina a Ravenloft]].
+
 > [!info]+ **Le Catene**
 > Le catene che collegano i collari di Ilya e Zuleika alla parete della caverna hanno le statistiche di una *catena (3 metri)*, come descritto nel <span class="citation">Manuale del Giocatore, p. 151)</span>, con una CA di 19.
 
@@ -470,7 +473,7 @@ Se viene chiesto del santuario, dei cadaveri, del tesoro o del *Simbolo Sacro di
 * Zuleika non sa cosa sia il *Simbolo Sacro di Ravenkind*—sa solo che la statua della Madre Notte lo indossa da decenni.
 
 > [!info]+ **La Maledizione della Madre Notte**
-> Gli oggetti nel tesoro della Madre Notte, incluso il *Simbolo Sacro di Ravenkind* e la statua della Madre Notte, non possono essere spostati o rimossi senza permesso. Inoltre, una creatura che tenta di recuperare fisicamente un oggetto dal tesoro senza permesso, deve effettuare un tiro salvezza di Saggezza CD 25 o essere incapacitata finché non rilascia l'oggetto.
+> Gli oggetti nel tesoro della Madre Notte, incluso il *Simbolo Sacro di Ravenkind* e la statua della Madre Notte, non possono essere spostati o rimossi senza permesso. Inoltre, una creatura che tenta di recuperare fisicamente un oggetto dal tesoro senza permesso, deve effettuare un tiro salvezza di Saggezza CD 25 o essere incapacitata finché non rilascia l'oggetto. (Una creatura che tenti di recuperare un oggetto in modo indiretto, ad esempio usando un attrezzo, un incantesimo o un'altra creatura, subisce un effetto simile. In tal caso, l'effetto non termina finché l'oggetto non viene restituito al tesoro di Madre Notte.)
 >
 > Mentre è incapacitata in questo modo, la creatura non può muovere alcuna parte del suo corpo tranne le mani e il viso e non può rimuovere la mano dal tesoro se non rilasciando l'oggetto preso. Inoltre, la creatura deve effettuare un tiro salvezza di Costituzione CD 25 alla fine di ogni turno in cui rimane incapacitata, subendo 8d8 danni necrotici in caso di fallimento o la metà in caso di successo.
 > 

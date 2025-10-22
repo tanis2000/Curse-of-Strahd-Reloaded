@@ -79,6 +79,9 @@ Quando i giocatori entrano dalla porta d'ingresso del cottage, leggi:
 
 Entrando, il Barone Krezkov—che insiste che i giocatori lo chiamino Dmitri mentre sono ospiti nella sua casa—appende il suo cappotto su uno dei ganci sul muro e si toglie gli stivali. Poi chiama sua moglie, la Baronessa Anna Krezkova, che esce dalla cucina per salutare calorosamente i giocatori.
 
+![[Anna_and_Dmitri_Krezkov_transparent.png]]
+<span class="credit">"Anna and Dmitri Krezkov" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 > [!profile]+ **Profilo: Baronessa Anna Krezkova**
 > **Informazioni di Interpretazione**
 > ***Risonanza.*** Anna dovrebbe ispirare gratitudine e conforto con la sua gentilezza e ospitalità, lieve irritazione con il suo atteggiamento senza fronzoli, e (quando i giocatori ne vengono a conoscenza) simpatia e affetto per la sua promessa all'Abate.
@@ -591,7 +594,7 @@ Questa è Ezmerelda d’Avenir. Le sue statistiche sono fornite di seguito.
     <li>1° livello (4 slot): longstrider, snare, zephyr strike</li>
     <li>2° livello (2 slot): darkvision, cordon of arrows</li>
     </ul>
-    <p><strong><em>Pietra di Guardia Runica (1/giorno).</em></strong> Ezmerelda possiede una <em>pietra di guardia runica</em>. Mentre tiene la pietra, può lanciare l'incantesimo <em>cerchio magico</em> senza componenti. (L'incantesimo mantiene il suo tempo di lancio usuale.)</p>
+    <p><strong><em>Pietra di Guardia Runica (1/giorno).</em></strong> Ezmerelda possiede una <em>pietra di guardia runica</em>. Mentre tiene la pietra, può lanciare l'incantesimo <em>cerchio magico</em> solo con un componente verbale. (L'incantesimo mantiene il suo tempo di lancio usuale.)</p>
     <p><strong><em>Adepta dei Rotoli.</em></strong> Ezmerelda può lanciare incantesimi dai rotoli di incantesimi come se fossero incantesimi da ranger.
     <h3>Azioni</h3>
     <p><strong><em>Multiattacco.</em></strong> Ezmerelda effettua tre attacchi in mischia: due con il suo +1 stocco e uno con la sua +1 ascia o la sua spada corta d'argento. Può sostituire due attacchi con un attacco effettuato con la sua balestra a mano.</p>

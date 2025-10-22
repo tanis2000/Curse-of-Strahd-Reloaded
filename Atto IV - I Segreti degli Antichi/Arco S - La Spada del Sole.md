@@ -4,10 +4,13 @@ In this arc, the players delve into the depths of the frozen Amber Temple in sea
 
 As the players uncover the temple's ancient secrets, one question dominates their minds: Where did Patrina Velikovna, the dusk elf archmage and failed lich, hide the *Sunsword*'s hilt? Their search will take them to a group of meditating Mountain Folk, a maddened nothic, a table of wary spirits, and—eventually—the amber sarcophagus of the vestige of the Vampyr, where Strahd first accepted the dark gift of vampirism. But the *Sunsword*'s hilt, hidden in a secret demiplane within the Vampyr's prison, conceals a deadly secret: the disembodied spirit of Patrina Velikovna, who sought to use it as her phylactery. Can the players defeat Patrina and reignite the *Sunsword*—before Strahd's trials defeat them first?
 
+> [!warning]+ **Beacon of Protection**
+> Don’t forget: whilst Argynvost’s beacon is lit, any NPCs who oppose Strahd also gain a +1 bonus to AC and saving throws. 
+
 > [!lore]+ **Operations of the Amber Temple**
 > More than two thousand years ago, a secret society of good-aligned wizards built the Amber Temple as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>. The society, first founded by an **archmage** and three **mages**, eventually came to include twenty-four **apprentice wizards** (<span class="citation"><em>Monsters of the Multiverse</em>, p. 259</span>), whom the founders trained to expand and continue their work.
 > 
-> In the temple’s early days, the senior members of the society frequently departed its walls to capture and transport additional vestiges, described further in [[Storia e Folklore di Barovia#Amber Vestiges|Lore of Barovia]]. Once brought to the temple, vestiges were taken to [[#S7d. Ritual Chamber]], where they were sealed inside amber sarcophagi. Once sealed, vestiges were locked away in the [[#East Vaults]], [[#West Vaults]], or—for vestiges of considerable lingering power—the [[#Amber Vault]].
+> In the temple’s early days, the senior members of the society frequently departed its walls to capture and transport additional vestiges, described further in [[Lore of Barovia#Amber Vestiges|Lore of Barovia]]. Once brought to the temple, vestiges were taken to [[#S7d. Ritual Chamber]], where they were sealed inside amber sarcophagi. Once sealed, vestiges were locked away in the [[#East Vaults]], [[#West Vaults]], or—for vestiges of considerable lingering power—the [[#Amber Vault]].
 >
 > While residing at the temple, the society’s **archmage** stayed in [[#S7. Archmage’s Quarters]], while its senior **mages** kept separate chambers in the [[#West Quarters]] and [[#East Quarters]]. One senior **mage** was always present to supervise the society’s **apprentice wizards**, who slept in bunk beds in the [[#West Barracks]] and [[#East Barracks]]. Senior **mages** and the **archmage** took meals in their own rooms.
 >
@@ -18,7 +21,7 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 > [!lore]+ **Downfall of the Temple**
 > The first generation of wizards within the Amber Temple dedicated themselves not only to the vestiges’ imprisonment, but also to the study of their essence and power, such that the wizards could continue to devise and improve rituals to capture, transport, and imprison them. As they died, the first generation—who knew too much dangerous information to risk interrogation under a *speak with dead* spell—were buried in [[#S3. Catacombs]], many beside treasures, relics, or magic items they had obtained in life.
 >
-> The second generation of wizards at the temple included many recruits raised from youth to fear the vestiges’ power, as well as several mages born and raised in the Amber Temple itself. With the temple’s amber vaults now largely filled, the second generation grew far more zealous than the first, withdrawing from study of the vestiges in favor of strict imprisonment. Any member suspected of studying the vestiges was strictly punished.
+> The second generation of wizards at the temple included many recruits raised from youth to fear the vestiges’ power, as well as several mages born and raised in the Amber Temple itself. With the temple’s amber vaults now largely filled, the second generation grew far more zealous than the first, withdrawing from study of the vestiges in favor of strict imprisonment. Any member suspected of studying the vestiges was severely punished.
 >
 > As the third generation of temple wizards came into power, a number of rising members secretly rejected the second generation’s zealotry. Instead, their curiosity drove them to seek out knowledge of the beings they had long imprisoned, yet rarely seen. Study of the vestiges resumed sparingly, and in secret, with only a few members daring to take advantage of growing lapses in security. 
 >
@@ -53,7 +56,7 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 > The founding generation, however, failed to realize that they had sown the seeds of the later generations’ undoing—for, as the vestiges’ corruption seeped slowly from their amber prisons, the temple’s amber walls trapped those energies within the wizards’ living spaces, forming a “greenhouse effect" that, over time, exposed the wizards to increasing amounts of vestige corruption. By the time of the third generation, this corruption had congealed into a dark, invisible miasma that suffused the very air of the temple itself—one that twisted the minds of the wizards that dwelled there. Like primordial soup, it was this miasma that—as the society tore itself apart—birthed the Dark Powers. Now, more than two thousand years later, this miasma has thickened and grown so much that the temple itself is inimical to natural life.
 
 > [!info]+ **Rests in the Amber Temple**
-> Due to the dark miasma, humanoid or beast that takes a long rest in the Amber Temple has dreadful visions and hears the vestiges’ whispers as it rests. That creature gains no benefit from its rest and, when it finishes its rest, must succeed on a DC 15 Constitution saving throw or gain 1 level of exhaustion.
+> Due to the dark miasma, any humanoid or beast that takes a long rest in the Amber Temple has dreadful visions and hears the vestiges’ whispers as it rests. That creature gains no benefit from its rest and, when it finishes its rest, must succeed on a DC 15 Constitution saving throw or gain 1 level of exhaustion.
 
 > [!info]+ **Following the Shards**
 > Each amber shard longs to return to the sarcophagus from whence it came. While within the Amber Temple, or while within 100 feet of the temple, an amber shard glows and gently pulls in the direction of its parent sarcophagus. Both effects end when the shard comes within 5 feet of its sarcophagus.
@@ -87,7 +90,7 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 >
 > Strahd then turns to the players. “You seem to have made interesting allies indeed," he remarks. “Do not mistake this inconvenience for might—but I presume you know that you cannot stay atop this mountain forever." He smiles coldly, and, for a moment, his crimson eyes seem to glow in the darkness. “Such a shame it would be, of course, if your friends at lower altitudes required your assistance, and you were not there to aid them."
 >
-> Unless the players intervene, Strahd then inclines his head in a mocking bow—first to the roc, then to the players. “Another time, then," he says. He then mounts Beucephalus, bids the players and roc “good evening," and vanishes into the Ethereal Plane. (Strahd doesn’t again return while the players are at Mt. Ghakis. See [[Arc T - The Ladies of the Fanes]] for more information about Strahd’s further machinations.)
+> Unless the players intervene, Strahd then inclines his head in a mocking bow—first to the roc, then to the players. “Another time, then," he says. He then mounts Beucephalus, bids the players and roc “good evening," and vanishes into the Ethereal Plane. (Strahd doesn’t again return while the players are at Mt. Ghakis. See [[Arc T - The Three Fanes]] for more information about Strahd’s further machinations.)
 >
 > Once Strahd departs, the roc can confirm the following information using nods and shakes of its head (though it won’t volunteer information the players don’t already know or suspect):
 >
@@ -209,7 +212,7 @@ The first time the players make any move to depart <span class="citation">X4. Ov
 <p>You hear the sound of footsteps echoing across the frozen floor.</p>
 </div>
 
-Provide the players a moment to respond. If none do, or if any call out to the source of the footsteps, “Heirich" exits onto the overlook to greet the players. When he emerges into view, read:
+Provide the players a moment to respond. If none do, or if any call out to the source of the footsteps, “Heinrich" exits onto the overlook to greet the players. When he emerges into view, read:
 
 <div class="description">
 <p>An elderly, wizened man steps onto the overlook. He wears a pale, white robe decorated with numerous colorful patches, each depicting a different object. A pair of gold spectacles with pink crystal lenses rests atop the bridge of his nose, just above a long, white beard that descends past his chest.</p>
@@ -269,7 +272,7 @@ If the players refuse to carry out “Heinrich’s" task, he responds as describ
 > [!info]+ **Neferon's Eye**
 > Through the use of his truesight and *dimension door*, Neferon has deciphered the spellbooks held in <span class="citation">X30. Preserved Library (p. 189)</span>, and so replaced his *banishment* spell (which he has correctly deduced won’t work in Barovia—especially after it failed to banish the death slaad to its home plane of Limbo) with the *arcane eye* spell. 
 >
-> If he sees or hears the players enter <span class="citation">X15. Southwest Annex (p. 186)</span>, <span class="citation">X14. North Staircase (p. 186)</span>, or any area within [[#S3. Catacombs]], [[#S6. Amber Vaults]], or [[#S7. Archmage’s Quarters]], Neferon casts *arcane eye* to follow them, taking careful note of their strengths, weaknesses, capabilities, interests, and discoveries. (Given his Intelligence score of 20, +7 bonus to Perception checks, and +11 bonus to Insight checks, Neferon is able to use his *arcane eye* to read lips, and can therefore “hear" the players’ spoken words if the *arcane eye* can see their lips.) Neferon renews the spell as-needed, but doesn’t renew it while the players are resting, or if he has only one 4th-level spell slot remaining.
+> If he sees or hears the players enter <span class="citation">X15. Southwest Annex (p. 186)</span>, <span class="citation">X14. North Staircase (p. 186)</span>, or any area within [[#S3. Catacombs]], [[#S6. Temple Vaults]], or [[#S7. Archmage’s Quarters]], Neferon casts *arcane eye* to follow them, taking careful note of their strengths, weaknesses, capabilities, interests, and discoveries. (Given his Intelligence score of 20, +7 bonus to Perception checks, and +11 bonus to Insight checks, Neferon is able to use his *arcane eye* to read lips, and can therefore “hear" the players’ spoken words if the *arcane eye* can see their lips.) Neferon renews the spell as-needed, but doesn’t renew it while the players are resting, or if he has only one 4th-level spell slot remaining.
 
 > [!lore]+ **Neferon's Arrival**
 > A native of the plane of Gehenna, home of the yugoloths, Neferon was whisked away to Barovia by the Mists ten days before the players’ arrival at the Amber Temple as he sought to travel from Gehenna to Avernus for a potential business deal. Irritated at the detour, but determined to seek opportunities in this new realm, Neferon swiftly moved to explore his surroundings, learn about its inhabitants, and loot any of its knowledge, riches, and magic for himself.
@@ -307,7 +310,7 @@ If the players refuse to carry out “Heinrich’s" task, he responds as describ
 > [!abstract]+ **Neferon's Deals**
 > If the players ask, Neferon is glad to strike additional bargains with the players, including (but not limited to) the following.
 >
-> ***Temple Layout.*** Neferon can provide a simple map of the temple (excluding [[#S6. Temple Vaults]] and [[#S7. Archmage's Quarters]], which he pretends not to know of) in exchange for one **rare** magic item in the players' possession, or three useful secrets that they know about the land or people of Barovia.
+> ***Temple Layout.*** Neferon can provide a simple map of the temple (excluding [[#S6. Temple Vaults]] and [[#S7. Archmage’s Quarters]], which he pretends not to know of) in exchange for one **rare** magic item in the players' possession, or three useful secrets that they know about the land or people of Barovia.
 > 
 > ***Temple Inhabitants.*** Neferon can warn the players about the temple’s other inhabitants in exchange for one **rare** magic item in the players’ possession, or two useful secrets that they know about the land or people of Barovia. Specifically, Neferon can warn the players of the **amber golem** in <span class="citation">X8. Upper East Hall (p. 185)</span>, the **poltergeists** in <span class="citation">X38. Haunted Room (p. 194)</span> and <span class="citation">X39. Plundered Treasury (p. 194)</span>, the spirits in [[#Dining Hall]], and the "dreary apparition" that dwells in <span class="citation">X9. Lecture Hall (p. 185)</span>. 
 >
@@ -489,6 +492,18 @@ Dorina’s **ghost** still haunts this room from the Ethereal Plane, and has the
 
 Once she emerges, Dorina immediately attempts to use her ***possession*** to possess a member of the party, preferring to target a player that has already noticed her. If her attempt fails, she sullenly drifts back into the floor, her teeth bared in a defiant snarl.
 
+> [!info]+ **Roleplaying Dorina**
+> If Dorina successfully gains control of a player’s body, provide that player the following information: 
+> 
+> ---
+>  
+> You have been possessed by Dorina's ghost. While your body is possessed, you should roleplay as follows: 
+> * You want to deceive your companions into believing that you have not been possessed. 
+> * You want to slip away unseen, to head further into the Temple via the upper east hall. 
+> * You are ill-tempered, with a distaste for the Mountain Folk of Soldav. 
+> * You have a visceral aversion to the cold. If your deception fails, you attempt to flee.
+   
+
 > [!abstract]+ **Dorina’s Unfinished Business**
 If Dorina successfully possesses a character, she pretends to be that character but slips away at the first opportunity. If she does so successfully, or if confronted, she attempts to reach Khirad’s sarcophagus in <span class="citation">X33c. Ghastly Vault (p. 192)</span>. 
 >
@@ -561,7 +576,14 @@ A player with a passive Intelligence (Investigation) score of 15 or greater who 
 
 Bluetspur attacks any creature that passes through the illusion, perceives it, or attacks it. If it attacks, the **death slaad** Nardag in [[#S3b. West Catacombs]] removes its disguise and joins it in battle. Both slaad fight to the death.
 
-> [!info]+ **Curing Chaos Phase**
+> [!combat]+ **Balancing the East Catacombs** 
+> This combat encounter is a **bruising** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Change Nardag to a **green slaad**.
+> - _**Four Players.**_ Change Bluetspur to a **red slaad**, except that its ***claw*** attack inflicts a **blue slaad's** Chaos Phage instead of a **red slaad's** egg.
+> - _**Six Players.**_ Change Bluetspur to a **gray slaad**.
+
+> [!info]+ **Curing Chaos Phage**
 > The players can cure the **blue slaad's** ***chaos phage*** disease by using Ithuriel's ***healing touch*** feature, a *lesser restoration* spell, or any other means of curing a disease.
 # S4. Western Temple
 ## S4a. Western Temple, Main Floor
@@ -578,7 +600,7 @@ In addition, replace the *tome of understanding* with a set of *eyes of minute s
 
 The first scroll contains a precise sketch of three amber sarcophagus, whose fronts are engraved with the following designs from left to right: (1) a gnarled tree encircled by a canal; (2) a tome upon a pedestal; and (3) an eye upon a hill. An arrow points to a circle around the leftmost sarcophagus (the one depicting the tree) from several lines of complex runes and arcane formulae. (A player who succeeds on a DC 18 Intelligence (Arcana) check identifies the runes and formulae as notes regarding some kind of conjuration magic—specifically, magic similar to the *demiplane* spell.) A scrawled note beneath the formulae reads: “Integrity parameter + duplication runes + inversion function = hidden physical demiplane within psychic manifestation. But who altered it, and why?"
 
-The second scroll contains a similar sketch of Castle Ravenloft's <span class="citation">K60. North Tower Peak (p. 74)</span>, including<span class="citation">K20. Heart of Sorrow (p. 59)</span> below. A scrawled note at the bottom reads: “Composition: crystallized blood. Means of suspension: Unknown (nonmagical). Notes: Highly conductive to arcane energies, with potentially exceptional storage capacities. Arcane signature resonates with the mists around the valley. Why?" (The last word is underlined three times.)
+The second scroll contains a similar sketch of Castle Ravenloft's <span class="citation">K60. North Tower Peak (p. 74)</span>, including <span class="citation">K20. Heart of Sorrow (p. 59)</span> below. A scrawled note at the bottom reads: “Composition: crystallized blood. Means of suspension: Unknown (nonmagical). Notes: Highly conductive to arcane energies, with potentially exceptional storage capacities. Arcane signature resonates with the mists around the valley. Why?" (The last word is underlined three times.)
 
 > [!lore]+ **Khazan’s Notes**
 > In the years between Strahd’s fall and Khazan’s own death, Khazan returned to the Amber Temple multiple times to investigate the secrets of lichdom and delve deeper into the knowledge that dwelled there. It was on one such visit that Khazan detected the subtle magical energies emanating from the amber sarcophagus of the Vampyr in <span class="citation">X42. Amber Vault (p. 195)</span>. Further investigation revealed the sarcophagus bore a complex and powerful enchantment—one capable of duplicating a sealed vestige’s psychic “mindspace," stabilizing it as a physical demiplane, and hiding it away within the vestige’s psychic link. However, Khazan never learned of the enchantment’s maker (Patrina) or purpose (to hide the hilt of the broken *Brightblade*).
@@ -593,7 +615,7 @@ This area is as described in <span class="citation">X18. Hallway (p. 187)</span>
 
 This area is largely as described in <span class="citation">X22. Northwest Annex (p. 187)</span>. However, there are two ewers on the table: the green copper ewer described in <span class="citation">X22. Northwest Annex (p. 187)</span>, and an ordinary wooden pitcher. When the *programmed illusion* spell activates, the green copper ewer is disguised to resemble the wooden pitcher, and vice-versa.
 
-In addition, replace two of the **specters** with **wraiths**. The spirits don’t attack if the players pick up the ewer. Instead, safter entering this room, a player with a passive Wisdom (Perception) score of 15 or greater feels a prickling on the back of their neck, and feels as though they are being watched. A player with a passive Wisdom (Perception) score of 20 or greater senses an ethereal presence in the room with them. A player who attempts to sense this presence’s disposition and succeeds on a DC 20 Wisdom (Insight) check receives a feeling of wariness and curiosity.
+In addition, replace two of the **specters** with **wraiths**. The spirits don’t attack if the players pick up the ewer. Instead, after entering this room, a player with a passive Wisdom (Perception) score of 15 or greater feels a prickling on the back of their neck, and feels as though they are being watched. A player with a passive Wisdom (Perception) score of 20 or greater senses an ethereal presence in the room with them. A player who attempts to sense this presence’s disposition and succeeds on a DC 20 Wisdom (Insight) check receives a feeling of wariness and curiosity.
 
 The spirits emerge if a player picks up the ewer or greets the unseen presence and succeeds on a DC 10 Charisma (Persuasion) check. A player makes the check with advantage if they mention the *Sunsword* or forswear any interest in accepting the vestiges’ gifts. When the spirits appear, read:
 
@@ -669,7 +691,7 @@ The first time a player picks up the *staff of frost*, if they did so at Vilnius
 ### West Hall
 <span class="citation">This scene takes place in Chapter 13, Areas X5d and X36.</span>
 
-This area is largely as described in <span class="citation">X5d. Amber Reflections (p. 184)</span> and <span class="citation">X36. Lower West Hall (p.194)</span>. However, if any player inspects their reflection, read:
+This area is largely as described in <span class="citation">X5d. Amber Reflections (p. 184)</span> and <span class="citation">X36. Lower West Hall (p.194)</span>. However, remove the **death slaad**, and if any player inspects their reflection, read:
 
 <div class="description">
 <p>For a brief instant, a silhouette flickers across the reflection, mere inches behind yours.</p>
@@ -731,7 +753,7 @@ This area is largely as described in <span class="citation">X33d. Breached Vault
 >
 > * **Stage Four.** The player gains a +3 bonus to their Constitution score and the flaw: “I burn with frigid fury at the meaningless of life." Their eyes emit a bright, spectral light, and the temperature is always frigid around them. 
 > * **Stage Five.** The player gains a **coldlight walker**’s (<span class="citation"><em>Icewind Dale: Rime of the Frostmaiden</em>, p. 284)</span> ***blinding light***, ***icy doom***, ***unusual nature***, and ***cold ray*** features, and the flaw: “I delight in reminding mortals of the fragility of their pathetic lives."
-> * **Stage Six.** The player transforms into a **coldlight walker**.
+> * **Stage Six.** The player transforms into a **coldlight walker** under the DM's control.
 
 If the player passes through the amber archway or accepts Delban’s gift, the telepathic connection ends, and the player returns to their previous senses.
 
@@ -959,7 +981,7 @@ A player with a passive Wisdom (Perception) score of 15 or greater notices that 
 > 
 > When Helwa murdered a fellow mage, Vilnius took it as confirmation that the other wizards could not be trusted. The vestiges’ whispers only drove him deeper into madness and paranoia, accentuating his suspicions. When, following a sharp and heated argument, Exethanter coldly remarked that he had “perhaps made a mistake in plucking Vilnius from the streets," Vilnius concluded that Exethanter meant to dispose of and replace him.
 >
-> That night, as Vilnius and several other mages dined with Exethanter, as was customary, Vilnius—a prodigy of illusion magic—subtly disguised Exethanter’s enchanted ewer as an ordinary pitcher, and instead filled the others’ cups with a disguised pitcher filled with poisoned wine. The other mages died gruesomely at the table; only Exethanter, sensing the danger, stumbled forth through the [[#Temple of Temptation]] toward his quarters, seeking an antidote—only to fall and leave his staff atop the statue there as he died. 
+> That night, as Vilnius and several other mages dined with Exethanter, as was customary, Vilnius—a prodigy of illusion magic—subtly disguised Exethanter’s enchanted ewer as an ordinary pitcher, and instead filled the others’ cups with a disguised pitcher filled with poisoned wine. The other mages died gruesomely at the table; only Exethanter, sensing the danger, stumbled forth through the [[#Shrine of Temptation]] toward his quarters, seeking an antidote—only to fall and leave his staff atop the statue there as he died. 
 >
 > As he watched his master die, Vilnius was overcome with terror of the prospect of Exethanter’s vengeful spirit returning. To protect himself, he stole the **shield guardian**’s amulet, then hid himself away in <span class="citation">X9. Lecture Hall (p. 185)</span>.
 > 
@@ -1040,6 +1062,13 @@ If the players ask Vilnius for information about Patrina or the *Sunsword*, he a
 >
 > *"Break them," Vilnius rasps.*
 
+> [!combat]+ **Balancing the Lecture Hall** 
+> This combat encounter is a **bruising** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 23% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the **shield guardian's** AC to 15. Reduce its hit points to 93, its Strength to 16, its Dexterity to 4, and its Constitution to 16. Reduce its proficiency bonus to +2. Reduce its ***fist*** attack to +5 to hit and 1d6 + 3 bludgeoning damage.,
+> - _**Four Players.**_ Reduce the **shield guardian's** hit points to 123.
+> - _**Six Players.**_ Increase the **shield guardian's** AC to 18. Increase its hit points to 161 and its Dexterity to 10. Increase its proficiency bonus to +4. Increase its ***fist*** attack to +8 to hit.
+
 <div class="statblock">
 <h2>Vilnius, First Prisoner</h2>
 <em>Medium undead, neutral evil</em>
@@ -1118,6 +1147,14 @@ This area is largely as described in <span class="citation">X10. Northeast Annex
 * It has the Strength and ***slam*** attack of an **iron golem**.
 * When it uses its ***multiattack***, it can replace one use of its ***slam*** with a use of its ***slow*** ability.
 * Its ***slow*** ability affects all creatures it can see within 20 feet of it.
+
+> [!combat]+ **Balancing the Training Hall** 
+> This combat encounter is a **mild** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 20% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the **amber golem's** hit points to 153. Reduce the damage of its ***slam*** attack to 14 (3d4 + 7) bludgeoning damage.
+> - _**Four Players.**_ Reduce the **amber golem's** hit points to 184. Reduce the damage of its ***slam*** attack to 18 (2d10 + 7) bludgeoning damage.
+> - _**Six Players.**_ Increase the **amber golem's** hit points to 236. Increase the damage of its ***slam*** attack to 21 (3d8 + 7) bludgeoning damage.
+
 ### Shrine of Fear
 <span class="citation">This scene takes place in Chapter 13, Areas X12 and X13.</span>
 
@@ -1145,9 +1182,9 @@ This area is largely as described in <span class="citation">X5d. Amber Reflectio
 This area is as described in <span class="citation">X34. Wizard’s Bedchamber (p. 194)</span> and <span class="citation">X35. Sleeping Guardian (p. 194)</span>.
 ### Southeast Vaults
 #### Vault of Shalx
-<span class="citation">This scene takes place in Chapter 13, Area X33e</span>
+<span class="citation">This scene takes place in Chapter 13, Area X33a</span>
 
-This area is largely as described in <span class="citation">X33e. Vault of Harkotha (p. 193)</span> and <span class="citation">Amber Sarcophagi (p. 191)</span>. However, remove the **flameskulls** from this area. In addition, modify the sarcophagi in this room (and their dark gifts) as described below.
+This area is largely as described in <span class="citation">X33a. Vault of Shalx (p. 193)</span> and <span class="citation">Amber Sarcophagi (p. 191)</span>. However, remove the **flameskulls** from this area. In addition, modify the sarcophagi in this room (and their dark gifts) as described below.
 
 > [!info]+ **West Sarcophagus (Tomb of Sykane)**  
 > If a player touches this sarcophagus, read:  
@@ -1230,9 +1267,9 @@ This area is largely as described in <span class="citation">X33e. Vault of Harko
 > * **Stage Five.** The player gains a **bulezau’s** ***rotting presence***, ***standing leap***, and ***barbed tail*** features, as well as the flaws: “I live for the kill," and “Death holds no fear for me."  
 > * **Stage Six.** The player transforms into a **bulezau** under the DM’s control.
 #### Vault of Maverus
-<span class="citation">This scene takes place in Chapter 13, Area X33e</span>
+<span class="citation">This scene takes place in Chapter 13, Area X33b</span>
 
-This area is largely as described in <span class="citation">>X33b. Vault of Maverus</span>. However, modify the sarcophagi in this room (and their dark gifts) as described below.
+This area is largely as described in <span class="citation">X33b. Vault of Maverus</span>. However, modify the sarcophagi in this room (and their dark gifts) as described below.
 
 > [!info]+ **North Sarcophagus (Tomb of Savnok).**  
 > If a player touches this sarcophagus, read:  
@@ -1423,13 +1460,13 @@ If the players answer her riddle, Meda smiles toothily, congratulates them, and 
 > Each time the player uses Khirad’s dark gift, they must succeed on a DC 10 Charisma saving throw or gain an additional stage of Khirad’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Khirad’s dark gift, and resets to 10 each time the player gains an additional stage of Khirad’s amber corruption. 
 >  
 > * **Stage Four.** The player gains a +3 bonus to their Intelligence score and the flaw: “I find everything hilarious, and never take anything seriously." Their eyes turn green, purple spines grow from their shoulders and spine, and their teeth sharpen to filed points.
-> * **Stage Five.** The player gains a **nothic’s** ***keen sight***, ***multiattack***, ***claw***, and ***weight insight*** features, as well as the flaw: “I delight in violating the secrets trapped in others’ minds."
+> * **Stage Five.** The player gains a **nothic’s** ***keen sight***, ***multiattack***, ***claw***, and ***weird insight*** features, as well as the flaw: “I delight in violating the secrets trapped in others’ minds."
 > * **Stage Six.** The player transforms into a **nothic** under the DM’s control.
 # S6. Temple Vaults
 ## S6a. West Treasury
 <span class="citation">This scene takes place in Chapter 13, Area X39.</span>
 
-This area is as described in <span class="citation">X39. Plundered Treasury (p. 194</span>. 
+This area is as described in <span class="citation">X39. Plundered Treasury (p. 194</span>.) 
 ## S6b. East Treasury
 <span class="citation">This scene takes place in Chapter 13, Area X40.</span>
 
@@ -1460,6 +1497,13 @@ In addition, the **amber golem** attacks any creature that disturbs any of the p
 * It has the Strength and ***slam*** attack of an **iron golem**.
 * When it uses its ***multiattack***, it can replace one use of its ***slam*** with a use of its ***slow*** ability.
 * Its ***slow*** ability affects all creatures it can see within 20 feet of it.
+
+> [!combat]+ **Balancing the Treasury** 
+> This combat encounter is a **mild** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 20% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce the **amber golem's** hit points to 153. Reduce the damage of its ***slam*** attack to 14 (3d4 + 7) bludgeoning damage.
+> - _**Four Players.**_ Reduce the **amber golem's** hit points to 184. Reduce the damage of its ***slam*** attack to 18 (2d10 + 7) bludgeoning damage.
+> - _**Six Players.**_ Increase the **amber golem's** hit points to 236. Increase the damage of its ***slam*** attack to 21 (3d8 + 7) bludgeoning damage.
 ## S6c. Amber Vault
 <span class="citation">This scene takes place in Chapter 13, Areas X41 and X42.</span>
 
@@ -1593,7 +1637,7 @@ If the player continues past the bottom of the bloody canal, continue to [[#The 
 When a player first enters this area, read:
 
 <div class="description">
-<p>Your body breaks the blood’s surface, and gravity abruptly reverses, pulling you into the open air beyond—and a near-perfect reflection of the chamber above, including the silent amber archway. Rather than blood-filled canals, however, the chamber’s ancient, cracked channels are empty and dry, flanked by pale, tender grasses that stand like silent sentries. No black roots pierce the stones of this pavilion; instead, where the black tree once stood, an old lavender cloth lies upon a carved stone pedestal. Something glints a metallic gold beneath the swaddling cloth.</p>
+<p>Your body breaks the blood’s surface, and gravity abruptly reverses, pulling you into the open air beyond—and a near-perfect reflection of the chamber above, including the silent amber archway. Rather than blood-filled canals, however, the chamber’s ancient, cracked channels are empty and dry, flanked by pale, tender grasses that stand like silent sentries. No black roots pierce the stones of this pavilion; instead, where the black tree once stood, an old lavender cloth lies upon a carved stone pedestal. Something glints a metallic silver beneath the swaddling cloth.</p>
 </div>
 
 The folded lavender cloth holds the broken hilt of the *Sunsword*. If the player reveals the hilt, read:
@@ -1635,7 +1679,7 @@ At a suitable moment after a player withdraws the *Sunsword* from the sarcophagu
 <div class="description">
 <p>The hilt stirs—at first twitching gently, then lurching violently. The sapphire at the center of its guard shimmers, then flares a deep, malevolent violet.</p>
 <p>A thin stream of shadow floods forth from the sapphire, gathering and rising in the air until it forms a feminine silhouette: a tall, slender woman with long, raven-black hair, dusky skin, and long, pointed ears.</p>
-<p>Now, that’s better," the woman purrs, her violet eyes flashing. She extends her arms, admiring her fingers and palms. “It’s been <em>so</em> long since I last tasted fresh air.</p>
+<p>"Now, that’s better," the woman purrs, her violet eyes flashing. She extends her arms, admiring her fingers and palms. “It’s been <em>so</em> long since I last tasted fresh air."</p>
 </div>
 
 Patrina greets the players with mocking warmth, thanking them for freeing her from her “lengthy imprisonment." “You’ve truly no idea how *unpleasant* it is to have your soul trapped within an inanimate object for nearly four hundred years," she bemoans, inspecting her fingernails carefully, “especially when that object is hidden inside of an isolated demiplane, with no creature to talk to but the maddened ghost of the first creature that thought bloodsucking was some *groundbreaking* new idea."
@@ -1643,7 +1687,7 @@ Patrina greets the players with mocking warmth, thanking them for freeing her fr
 ***Patrina’s Schemes.*** Patrina is glad to share the following information if prompted or asked, pausing as necessary or appropriate to allow the players to respond:
 
 * She is Patrina Velikovna, the sister of Kasimir Velikov. 
-* More than four hundred years ago (“as my baby brother no doubt has told you," Patrina sniffs), “Old King Barov" of the von Zarovich family decided to shake down the dusk elves for "pocket change." "Dear Uncle Erevan didn't like that," she says, showing white teeth in a grim, predatory smile. "And Barov didn't like that he disliked it. And so, dear Uncle Lion Cub found his family put to the sword, lands pillage and destroyed, babes dashed across the walls—all of those *lovely* parts of war.
+* More than four hundred years ago (“as my baby brother no doubt has told you," Patrina sniffs), “Old King Barov" of the von Zarovich family decided to shake down the dusk elves for "pocket change." "Dear Uncle Erevan didn't like that," she says, showing white teeth in a grim, predatory smile. "And Barov didn't like that he disliked it. And so, dear Uncle Lion Cub found his family put to the sword, lands pillaged and destroyed, babes dashed across the walls—all of those *lovely* parts of war.
 * "It was in the aftermath of Erevan's downfall that dear Kasimir and I came of age," she continues. "Imagine this: You're a dainty, naive, young girl scarcely eighty years old, and all you see around you are your own beloved people, their backs breaking in Old King Barov's labor camps. What's a girl to do?"
 * Whether the players respond or not, Patrina continues: "I won't claim the glory or honor of being the first to call for rebellion, but I'd gladly claim the glory of being among the first when Barov’s son took the throne." She chuckles darkly, a low, throaty sound. "We thought him a naive starling—scarcely fifty summers old. How wrong we were."
 * She continues: "He broke us again, of course. Left us to the mercy of his favorite little travelers—the Vistani, who you may have met. Did you know that's where the names 'Velikov' and ‘Velikovna’ come from? Dear Kasimir feared that Strahd might learn of our relationship to dear Uncle, and suggested we take the name of the man whose caravan had taken us in." She rolls her eyes. “Of course, carrying out the traditional Vistani blood rite to *officially* become parts of the Velikov clan might have been a step too far, but my brother has always been one for *sentiment.*
@@ -1677,7 +1721,7 @@ If asked, Patrina is glad to further boast of her plans:
 <p>Kasimir flinches—and then hesitates, his gaze not quite meeting yours.</p>
 </div>
 
-The players can try to discourage Kasimir from accepting Patrina’s offer. If they do, Patrina makes any or all of the following arguments, which the players may attempt to rebut. Each time the players dispute one of Patrina’s arguments or make an affirmative argument of their own, have one of the arguing players make a DC 17 Charisma (Persuasion) check contested by Patrina’s roll. The player makes the roll with advantage if their argument has a particularly strong logical or emotional appeal.
+The players can try to discourage Kasimir from accepting Patrina’s offer. If they do, Patrina makes any or all of the following arguments, which the players may attempt to rebut. Each time the players dispute one of Patrina’s arguments or make an affirmative argument of their own, have one of the arguing players make a DC 17 Charisma (Persuasion) check. The player makes the roll with advantage if their argument has a particularly strong logical or emotional appeal.
 
 Patrina might make one or more of the following arguments (in any order), moving to a new argument each time her previous argument succeeds or fails:
 
@@ -1710,6 +1754,13 @@ Otherwise, if the players accumulate three failures before three successes, Kasi
 </div>
 
 Patrina then attacks.
+
+> [!combat]+ **Balancing the Lich** 
+> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will each consume approximately 40% of their total maximum hit points (for a total of 80% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> 
+> - _**Three Players.**_ Reduce Patrina's hit points in her first phase to 215 and in her second phase to 198. Reduce Patrina's ***amber tentacle*** reaction in her first round to 1/round. Reduce the hit points of **amber constructs** to 68 and the damage of their ***slam*** attack to 13 (3d4 + 6) bludgeoning damage. In Patrina's second phase, reduce her ***fell rebuke*** reaction to 1/round.
+> - _**Four Players.**_ Reduce Patrina's hit points in her first phase to 215 and in her second phase to 230. Reduce Patrina's ***amber tentacle*** reaction in her first round to 1/round. Reduce the hit points of **amber constructs** to 79 and the damage of their ***slam*** attack to 17 (2d10 + 6) bludgeoning damage. In Patrina's second phase, reduce her ***fell rebuke*** reaction to 1/round.
+> - _**Six Players.**_ Increase Patrina's hit points in her first phase to 320 and in her second phase to 294. Increase the hit points of **amber constructs** to 101 and the damage of their ***slam*** attack to 24 (4d8 + 6) bludgeoning damage. In Patrina's second phase, increase her ***multiattack*** to five attacks with her ***shadowblade***.
 
 <div class="statblock">
 <h2>Patrina, Vengeful Wraith</h2>
@@ -1761,7 +1812,6 @@ Patrina then attacks.
 <strong>Challenge</strong> 18 (20,000 XP)  
 <strong>Proficiency Bonus</strong> +6  
 <hr>
-<p><strong><em>Indomitable.</em></strong> If Patrina would fail a saving throw, she can choose to succeed instead. If she does so, she is <span class="highlight">hindered</span> until the end of her next turn. While hindered, she is <span class="highlight">slowed</span>, can use <span class="highlight">one less reaction per round</span>, and can’t use her <strong><em>multiattack</em></strong>. A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don’t stack.</p>
 <p><strong><em>Incorporeal Movement.</em></strong> Patrina can move through other creatures and objects as if they were difficult terrain. She takes <span class="highlight">5 (1d10) force damage</span> if she ends her turn inside an object.</p>
 <p><strong><em>Sunlight Sensitivity.</em></strong> While in sunlight, Patrina has <span class="highlight">disadvantage</span> on ability checks and attack rolls.</p>
 <p><strong><em>Dark Embodiment.</em></strong> When Patrina is reduced to <span class="highlight">0 hit points</span>, all amber sarcophagi within <span class="highlight">60 feet</span> of her extrude tendrils of shadowed mist, which she inhales. Her ethereal form then grows solid, forming pale, undead flesh and sunken amber eyes. Her statistics are instantly replaced by those of her second form. Her initiative count doesn’t change, excess damage doesn’t carry over, and she retains none of the conditions she had in her previous form. She can immediately use her <strong><em>soul weapon</em></strong> feature.</p>
@@ -1774,7 +1824,8 @@ Patrina then attacks.
 <p><strong><em>Animate Golems (1/Day).</em></strong> Patrina summons shards of amber from X40, Sealed Treasury, and shapes them into two <strong>amber constructs</strong>. An amber construct acts on Patrina’s initiative, but takes its turn immediately after hers.</p>
 <p><strong><em>Conjure Sarcophagi.</em></strong> Hollow amber sarcophagi spring into existence around each creature of Patrina’s choice within <span class="highlight">5 feet</span> of Patrina or a point she can see within <span class="highlight">30 feet</span>. Each creature must succeed on a <span class="highlight">DC 19 Dexterity saving throw</span> or be entrapped within its sarcophagus. Each sarcophagus has <span class="highlight">AC 15</span>, <span class="highlight">15 hit points</span>, and immunity to poison and psychic damage.</p>
 <h3>Reactions</h3>
-<p>Patrina can take up to three reactions per round, but only one per turn. If Patrina would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
+<p>Patrina can take up to three reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Patrina can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Counterspell (1/round).</em></strong> <strong>Trigger:</strong> Patrina sees a creature within <span class="highlight">60 feet</span> of her cast a spell. <strong>Effect:</strong> Patrina casts <em>counterspell</em> at 3rd level. A creature whose spell would be countered in this way can use its reaction to spend a spell slot of 1st level or higher and add the spell slot’s level to the level of the spell it cast. If the result is <span class="highlight">4 or more</span>, the creature can make a <span class="highlight">DC 19 saving throw</span> using its spellcasting ability, gaining a bonus to its saving throw equal to the result. On a success, Patrina’s <em>counterspell</em> fails and has no effect.</p>
 <p><strong><em>Ghostly Walk.</em></strong> <strong>Trigger:</strong> A creature Patrina can see within <span class="highlight">60 feet</span> of her ends its turn. <strong>Effect:</strong> Patrina moves up to her speed toward or away from that creature without provoking opportunity attacks.</p>
 <p><strong><em>Amber Tentacle (2/round).</em></strong> <strong>Trigger:</strong> Patrina takes damage from a creature she can see within <span class="highlight">30 feet</span>. <strong>Effect:</strong> Patrina makes an <strong><em>amber tentacle</em></strong> attack against that creature.</p>
@@ -1840,7 +1891,6 @@ Patrina then attacks.
 <strong>Challenge</strong> 18 (20,000 XP)  
 <strong>Proficiency Bonus</strong> +6  
 <hr>
-<p><strong><em>Indomitable.</em></strong> If Patrina would fail a saving throw, she can choose to succeed instead. If she does so, she is <span class="highlight">hindered</span> until the end of her next turn. While hindered, she is <span class="highlight">slowed</span>, can use <span class="highlight">one less reaction per round</span>, and can’t use her <strong><em>multiattack</em></strong>. A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don’t stack.</p>
 <p><strong><em>Soul Weapon.</em></strong> If Patrina isn’t holding the <em>Sunsword</em> at the start of her turn, it magically appears in her empty hand as her <strong><em>Shadowblade</em></strong>, a blade of pure darkness springing from the hilt.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Patrina makes four attacks with her <strong><em>shadowblade</em></strong>. She can replace up to one of those attacks with her <strong><em>life drain</em></strong>.</p>
@@ -1850,7 +1900,8 @@ Patrina then attacks.
 <p><strong><em>Crackling Doom.</em></strong> Crackling bolts of lightning arc from Patrina's fingertips in a <span class="highlight">30-foot cone</span>. Each creature in that area must make a <span class="highlight">DC 19 Dexterity saving throw</span>, taking <span class="highlight">14 (4d6) lightning damage</span> on a failure or half as much on a success. If a creature fails its save by <span class="highlight">5 or more</span>, it is <span class="highlight">slowed</span> until the start of Patrina’s next turn. (A slowed creature must spend <span class="highlight">1 extra foot of movement for every foot it moves</span> using its speed, attack rolls against it have <span class="highlight">advantage</span>, and it has <span class="highlight">disadvantage</span> on Dexterity saving throws.)</p>
 <p><strong><em>Negative Energy Burst.</em></strong> Negative energy ripples out in a <span class="highlight">5-foot-radius sphere</span> from Patrina or a point she can see within <span class="highlight">90 feet</span>. Each creature in that area must make a <span class="highlight">DC 19 Constitution saving throw</span>, taking <span class="highlight">14 (4d6) necrotic damage</span> on a failure or half as much on a success. If a creature fails its save by <span class="highlight">5 or more</span>, it also <span class="highlight">falls prone</span>.</p>
 <h3>Reactions</h3>
-<p>Patrina can take up to three reactions per round, but only one per turn. If Patrina would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
+<p>Patrina can take up to three reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Patrina can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Parry (1/Round).</em></strong> <em>Trigger:</em> Patrina is hit by a melee or ranged attack while holding the <em>Sunsword</em>. <em>Effect:</em> Patrina adds <span class="highlight">+6</span> to her Armor Class against that attack, possibly causing it to miss.</p>
 <p><strong><em>Vile Teleport (1/Round).</em></strong> <em>Trigger:</em> A creature Patrina can see within <span class="highlight">30 feet</span> ends its turn. <em>Effect:</em> Patrina teleports up to <span class="highlight">30 feet</span> toward or away from that creature. She can cause each creature within <span class="highlight">5 feet</span> of her destination space to take <span class="highlight">10 (3d6) necrotic damage</span>.</p>
 <p><strong><em>Fell Rebuke.</em></strong> <em>Trigger:</em> Patrina is hit by an attack. <em>Effect:</em> Patrina utters a fell word, dealing <span class="highlight">10 (3d6) necrotic damage</span> to the attacker. She then teleports up to <span class="highlight">30 feet</span> to an unoccupied space she can see, along with any equipment she is wearing or carrying.</p>
@@ -1910,15 +1961,34 @@ Without a ritual to bind a soul to the *Sunsword*, the players must find and con
 > The players have great freedom to choose a suitable soul to inhabit the *Sunsword*. However, not all spirits are equally available or receptive. Some of those spirits’ reactions (and the players’ ability to contact them) are described below.
 >
 > * **Exethanter.** Exethanter’s spirit amusedly declines, noting that he would be “wholly unsuitable" for such a task. (*Exethanter, who is Lawful Neutral and bears no personal enmity toward Strahd, has a resonance level of 0.*)
-> * **Erasmus van Richten.** Erasmus’s spirit cannot enter the Material Plane until the players lift Rudolph van Richten’s curse in [[Arc T - The Ladies of the Fanes]]. Once they do, a player who has befriended Erasmus can convince him to possess them and inhabit the *Sunsword*. Erasmus otherwise politely declines, insisting that he is dedicated to fighting alongside and protecting his father. (*Erasmus, who is Chaotic Good and is dedicated to the freedom of Barovia, has a resonance level of 3.*)
+> * **Erasmus van Richten.** Erasmus’s spirit cannot enter the Material Plane until the players lift Rudolph van Richten’s curse in [[Arc T - The Three Fanes]]. Once they do, a player who has befriended Erasmus can convince him to possess them and inhabit the *Sunsword*. Erasmus otherwise politely declines, insisting that he is dedicated to fighting alongside and protecting his father. (*Erasmus, who is Chaotic Good and is dedicated to the freedom of Barovia, has a resonance level of 3.*)
 > * **St. Markovia.** St. Markovia cannot possess a player unless first summoned by means of a seance, as in [[Arc K - The Fallen Abbey]]. (However, if the players failed to redeem the Abbot in [[Arc Q - A Shining Beacon]], the seance fails, and Markovia does not appear.) Once summoned, Markovia is honored by the players’ request, but expresses doubt as to her ability to oppose Strahd, given her defeat at his hands nearly four centuries ago. If reassured, Markovia agrees to inhabit the *Sunsword* and fight alongside them. (*Markovia has a resonance level of 3.*)
-> * **Sir Godfrey Gwilym.** Sir Godfrey’s spirit appears if called within the walls of Argynvostholt. He is honored to fight at the players’ side, and swiftly agrees to inhabit the *Sunsword*. (*Sir Godfrey has a resonance level of 3, or a resonance level of 4 if he has forged a strong bond of friendship with the wielder.*)
+> * **Sir Godfrey Gwilym.** Sir Godfrey’s spirit appears if called within the walls of Argynvostholt. He is honored to fight at the players’ side, and swiftly agrees to inhabit the *Sunsword*. (*Sir Godfrey has a resonance level of 3.*)
 > * **The Recently Deceased.** The players can summon the spirit of any character who has died in Barovia since their arrival by carrying out a seance, as described in [[Arc K - The Fallen Abbey]]. The seance must be carried out near either the character’s place of death or a place that held great meaning to them in life. Certain souls may require additional persuasion, at your discretion. (The spirits of characters who died before the players’ arrival have already been reincarnated, and cannot be summoned by means of a seance.)
+
+> [!info]+ **The Shining Sunlight**
+> The first time the players bind or infuse a soul into the *Sunsword*, read:
+> 
+> ---
+> 
+> The hilt warms in your hands, then turns hot, until it almost burns to hold—but no blisters or burns appear on your flesh. The shattered stump of its hilt flickers, then glimmers, then sears with light, until—slowly—a blade of pure, untainted *radiance* grows forth from the hilt.
+> 
+> The light is gold: a hot, bright gold that doesn't bear looking at, and scaling past it toward white, almost the color of the Sun in the daylit sky. No metal forms that blade; the light itself feels alive, awake, and aware, *looking* at you.^[Inspired by Diane Duane, *A Wizard Abroad*.]
+> 
+> The hilt trembles in your hands, emitting a low, steady hum that heightens in pitch to a sonorous, gleeful *song*. Then—the light withdraws. The burning heat cools. And silence falls—for a moment.
+> 
+> There is a sudden, resonant *burst* of light and song, as a *tower* of golden light bursts from the blade, filling the space all around you. It seeps through every hole and every crack, forming a pillar of radiance that splits the skies overhead. The dark clouds roil, the very heavens trembling beneath its touch. Your shadows stretch out away from it, as if attempting to flee its burning brilliance in vain.
+> 
+> And then—the pillar of radiance recedes. The burning fades to a faint, comforting warmth. The song falls to a faint hum, and then to silence—until all that remains is a blade of pure sunlight atop the sword's platinum hilt.
+> 
+> ---
+> 
+> The pillar of radiance is visible to all creatures in Barovia. Once the *Sunsword* is ignited, Strahd won't leave Castle Ravenloft unless the players are dead.
 # S7. Archmage’s Quarters
 ## S7a. Stair of Wisdom
 <span class="citation">This scene takes place in Chapter 13, Area X5b.</span>
 
-This area is as described in <span class="citation">X5b. Secret Door (p. 194)</span>.
+This area is as described in <span class="citation">X5b. Secret Door (p. 184)</span>.
 ## S7b. Archmage’s Library
 <span class="citation">This scene takes place in Chapter 13, Area X30.</span>.
 

@@ -232,7 +232,7 @@ Se i giocatori insistono che Madam Eva ha previsto l'esistenza della *Spada del 
 > [!design]- **Note di Design: L'Arco di Lady Wachter**
 > Lady Wachter viene introdotta per la prima volta come un'alleata cinica, sebbene utile. Man mano che i giocatori la aiutano a liberare Vallaki dalla tirannia di Izek e successivamente la aiutano a ripristinare l'anima di sua figlia in [[Arco H - L'Anima Perduta]], Lady Wachter diventa gradualmente meno cinica e più aperta alla speranza per un futuro migliore.
 > 
-> L'accensione del faro di Argynvostholt da parte dei giocatori in [[Arco Q - Un Faro Splendente]] ispira Lady Wachter a sperare in un futuro senza Strahd von Zarovich. Diventa un'alleata ferma nella lotta contro Strahd dopo che i giocatori ottengono la *Spada del Sole* in [[Arco S - Il Tempio d'Ambra]].
+> L'accensione del faro di Argynvostholt da parte dei giocatori in [[Arco Q - Un Faro Splendente]] ispira Lady Wachter a sperare in un futuro senza Strahd von Zarovich. Diventa un'alleata ferma nella lotta contro Strahd dopo che i giocatori ottengono la *Spada del Sole* in [[Arco S - La Spada del Sole]].
 
 ***Accettare la Missione.*** Se i giocatori accettano l'incarico di Lady Wachter, promette che invierà uno dei suoi associati per informarli sul programma di Izek Strazni e fornire la bottiglia di vino avvelenato la mattina seguente.
 

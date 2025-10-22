@@ -19,6 +19,9 @@ I giocatori che fuggono dal Castello Ravenloft tramite il braciere di teletraspo
 
 ***Rovine di Berez.*** Se i giocatori si teletrasportano al Monumento di Marina a Berez, possono trovare rifugio in <span class="citation">U2. Villa di Ulrich (p. 162)</span> o <span class="citation">U4. Cimitero (p. 164)</span>, il loro arrivo nascosto dalla fitta nebbia che avvolge la palude.
 
+> [!abstract]+ **Rovine di Berez**
+> Se i giocatori tentano di esplorare le altre strutture all'interno di Berez, quelle rovine corrispondono in gran parte a quanto descritto in <span class="citation">U1. Case Abbandonate (p. 162)</span>, <span class="citation">U4. Cimitero (p. 164)</span> e <span class="citation">U5. Monumento di Marina (p. 164)</span>. Tuttavia, le case abbandonate ospitano quattro streghe come descritto più avanti, il fantasma di Lazlo Ulrich non appare nella villa Ulrich e il recinto delle capre di Baba Lysaga è come descritto in [[Arc I - The Walls of Krezk#I4c. The Scrying Spell|I4c. The Scrying Spell]].
+
 Se i giocatori tentano di trovare rifugio in <span class="citation">U1. Capanne Abbandonate (p. 162)</span>, vengono attaccati da due **streghe baroviane** e due **streghe della palude baroviane**, che sono descritte in [[Arco P - Il Colpo a Ravenloft#P9c. Sala del Calderone|Arco P - Il Colpo a Ravenloft]]. Il tumulto attira l'attenzione dei sette **spaventapasseri** di guardia nella palude, che arrivano tre round dopo l'inizio del combattimento.
 
 > [!combat]- **Bilanciamento delle Rovine di Berez**
@@ -37,14 +40,6 @@ I giocatori possono anche viaggiare da Berez alla città di Vallaki, alla Torre 
 
 ***Strada Vecchia di Svalich.*** Se i giocatori si teletrasportano al Monumento di Marina a Berez, possono accamparsi sulla Strada Vecchia di Svalich o nelle sue vicinanze. Se lo fanno, sperimentano l'incontro casuale <span class="citation">Zombie di Strahd (p. 31)</span> un'ora dopo essersi accampati, ma con otto **zombie** invece di **zombie di Strahd**.
 
-> [!combat]- **Bilanciamento della Strada Vecchia di Svalich**
-> Questo incontro di combattimento è un incontro **pesante** contro un gruppo di cinque giocatori di 7° livello, un alleato di GS 2 (Ireena Kolyana) e un alleato di GS 4 (Ezmerelda d’Avenir), e consumerà circa il 37% dei loro punti ferita massimi totali. Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue:
-> 
-> * Tre Giocatori. Riduci il numero di lupi terribili a 5 e il numero di spaventapasseri a uno.
-> * Quattro Giocatori. Riduci il numero di spaventapasseri a uno.
-> * Sei Giocatori. Aumenta il numero di spaventapasseri a tre.
-
-
 ***Mago dei Vini.*** Se i giocatori si teletrasportano al Mago dei Vini, i Martikov sono felici di offrire loro un posto dove dormire per la notte. Quando i giocatori partono la mattina successiva, Davian invia due **sciami di corvi** ad accompagnarli fino alla loro destinazione. (I corvi partono quando i giocatori arrivano successivamente a Vallaki, Krezk o Argynvostholt, qualunque sia il primo.)
 
 ***Passo di Tsolenka.*** Se i giocatori si teletrasportano al Passo di Tsolenka, possono dormire nella torre di guardia lì. I **vrock** pietrificati non attaccano i giocatori che bypassano la saracinesca dal lato est.
@@ -54,9 +49,13 @@ I giocatori possono anche viaggiare dalla torre di guardia alla città di Vallak
 * Il viaggio dalla torre a Krezk è lungo diciassette chilometri e settecento metri e richiede tre ore e quaranta minuti.
 * Il viaggio dalla torre al Lago Baratok è lungo sedici chilometri e novecento metri e richiede tre ore e trenta minuti.
 * Il viaggio dalla torre a Vallaki è lungo ventuno chilometri e trecento metri e richiede quattro ore e trenta minuti.
+
 ## Q1b. Il Pilastro di Pietra
+
 I giocatori che fuggono dal Castello Ravenloft scendendo dalla scogliera sud-orientale del Pilastro di Pietra di Ravenloft atterrano appena a nord del villaggio di Barovia, a breve distanza dal bordo settentrionale di <span class="citation">E6. Cimitero (p. 48)</span>. Possono trovare rifugio nel villaggio come descritto in [[#Q1a. Il Braciere di Teletrasporto]].
+
 ## Q1c. Il Ponte Levatoio
+
 I giocatori che fuggono dal Castello Ravenloft attraversando il burrone occidentale possono trovare rifugio come segue:
 
 ***Strada Vecchia di Svalich.*** I giocatori possono accamparsi sulla Strada Vecchia di Svalich o nelle sue vicinanze come descritto in [[#Q1a. Il Braciere di Teletrasporto]].
@@ -70,8 +69,11 @@ I giocatori che fuggono dal Castello Ravenloft attraversando il burrone occident
 Se visitata, Madam Eva rifiuta di leggere nuovamente le fortune dei giocatori e si limita ad avvertirli che hanno attraversato la "soglia finale del percorso che hanno scelto." Se i giocatori le informano di aver appreso il suo vero nome (Katarina), Madam Eva li congratula ironicamente per la loro perspicacia e può condividere le informazioni riguardanti la sua relazione con Varushka in [[Arco O - Cena con il Diavolo]]. 
 
 Se i giocatori suggeriscono che è associata alle Signore delle Fane, lo sguardo di Madam Eva si indurisce e avverte severamente i giocatori "di non invocare i nomi degli antichi, per non risvegliare attenzioni indesiderate." (Madam Eva non spiega ulteriormente.)
+
 # Q2. La Supplica di Dmitri
+
 ## Q2a. Un Presagio Oscuro
+
 All'alba del primo giorno dopo l'incursione dei giocatori al Castello Ravenloft, una piuma bianca come la neve scende dall'Abbazia di Santa Markovia e atterra sul davanzale della finestra della cucina del cottage dei Krezkov. Anna e Dmitri riconoscono la piuma come un messaggio promesso dall'Abate che segnala la sua intenzione di prendere il cuore di Anna al tramonto. 
 
 Se i giocatori non sono già a Krezk, Dmitri si dirige verso Vallaki accompagnato da due **guardie** di Krezk, sperando di trovare i giocatori lì.
@@ -82,23 +84,42 @@ Se i giocatori non sono già a Krezk, Dmitri si dirige verso Vallaki accompagnat
 Se i giocatori hanno dormito al cottage dei Krezkov la notte precedente, vengono svegliati dal suono di singhiozzi sommessi provenienti dalla cucina, dove Anna cerca di rassicurare Dmitri che "andrà tutto bene," mentre un Dmitri in lacrime promette disperatamente che "non permetterà che le accada nulla."
 
 Indipendentemente da dove incontra i giocatori, un ansioso Dmitri li informa che l'Abate intende prendere il cuore di Anna al tramonto e probabilmente distruggerà Krezk a meno che Anna non si rechi all'Abbazia di Santa Markovia entro quel momento. Se i giocatori non si offrono di farlo, Dmitri li supplica di intercedere a nome di Anna—"se non per noi, allora per i nostri figli."
+
 ## Q2b. La Strada Vecchia di Svalich
+
 ### Viaggio a Vallaki
+
 #### La Guardia dei Corvi
+
 Se i giocatori hanno dormito a est di Vallaki dopo essere fuggiti dal Castello Ravenloft, ad esempio nel villaggio di Barovia o all'accampamento di Tser Pool, si svegliano trovando quattro **sciami di corvi** che li osservano da tetti o alberi vicini. I corvi, che hanno sentito parlare delle eroiche imprese dei giocatori dai Custodi della Piuma, li accompagnano come una guardia d'onore fino a quando non raggiungono la città di Vallaki.
+
 #### L'imboscata dei Lupi
+
 Un'ora prima che i giocatori raggiungano Vallaki, incontrano tre cadaveri sparsi lungo la strada, come descritto in <span class="citation">Cadavere (p. 30)</span>. Due dei cadaveri appartengono a adulti baroviani uccisi da lupi terribili, mentre il terzo assomiglia al giocatore che ha più deluso Strahd.
 
 Se il terzo cadavere si dissolve, o quando i giocatori si muovono per lasciare i cadaveri, vengono attaccati da sei **lupi terribili**, come descritto in <span class="citation">Lupi Terribili (p. 30)</span>, accompagnati da due **spaventapasseri**, che sono descritti in <span class="citation">Spaventapasseri (p. 31)</span>. I lupi e gli spaventapasseri combattono fino alla morte, così come gli sciami di corvi, che combattono ferocemente per difendere i giocatori.
+
+> [!combat]- **Bilanciamento della Strada Vecchia di Svalich**
+> Questo incontro di combattimento è un incontro **pesante** contro un gruppo di cinque giocatori di 7° livello, un alleato di GS 2 (Ireena Kolyana) e un alleato di GS 4 (Ezmerelda d’Avenir), e consumerà circa il 37% dei loro punti ferita massimi totali. Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue:
+> 
+> * Tre Giocatori. Riduci il numero di lupi terribili a 5 e il numero di spaventapasseri a uno.
+> * Quattro Giocatori. Riduci il numero di spaventapasseri a uno.
+> * Sei Giocatori. Aumenta il numero di spaventapasseri a tre.
+
 #### Arrivo a Vallaki
+
 All'arrivo dei giocatori a Vallaki, le guardie al cancello informano che il Barone Dmitri Krezkov di Krezk li sta aspettando alla Locanda dell'Acqua Blu. Se si recano lì, i giocatori possono trovare il Barone Krezkov nella sala, seduto ansiosamente al bancone con una bevanda intatta mentre Danika cerca di confortarlo. La scena si svolge quindi come descritto in [[#Q2a. Un Presagio Oscuro]].
+
 ## Viaggio a Krezk
+
 Mentre i giocatori viaggiano verso Krezk, incontrano nuovamente il **revenant** di guardia al ponte sul Fiume Corvo, come descritto in [[Arco I - Le Mura di Krezk#I1. La Strada per Krezk|Arco I - Le Mura di Krezk]]. Il revenant saluta calorosamente i giocatori, ma li avverte, mentre un'ombra attraversa il suo volto, che "cattive notizie" sono nell'aria e che potrebbe essere richiamato dal suo posto prima del previsto.
 
 Il revenant non è sicuro di quali siano le cattive notizie, ma può condividere che il Comandante Vladimir Horngaard è furioso per l'assalto dei giocatori al Castello Ravenloft. Il revenant non sa come Vladimir possa aver appreso delle azioni dei giocatori, ma suggerisce che potrebbe averlo appreso dai **guerrieri fantasma** che fungono da suoi occhi e orecchie nel Piano Etereo.
 
 Mentre i giocatori si allontanano, il revenant augura loro ogni bene, salutandoli solennemente e aggiungendo, quasi con nostalgia, "Possa il Signore del Mattino proteggervi con la luce della Sua grazia."
+
 # Q3. Ritorno a Krezk
+
 All'arrivo a Krezk, i giocatori vengono accolti al cancello da Anna Krezkova, che ha aspettato ansiosamente il ritorno di Dmitri. Quando arriva, lo abbraccia con gratitudine per il suo ritorno sicuro e ringrazia sinceramente i giocatori per aver intrapreso il viaggio. 
 
 Anna e Dmitri, due **nobili** con punteggi di Forza di 14 (+2) e armati di un ***ascia da battaglia argentata*** e una ***spada lunga***, rispettivamente (+4 per colpire, 1d10 + 2 danni taglienti ciascuno), sono felici di accompagnare i giocatori all'Abbazia se richiesto. Tuttavia, avvertono i giocatori con imbarazzo che probabilmente saranno di poco aiuto in un combattimento.
@@ -107,7 +128,9 @@ Anna e Dmitri, due **nobili** con punteggi di Forza di 14 (+2) e armati di un **
 > Se Emil è presente, i giocatori possono convincerlo ad aiutarli a confrontarsi con l'Abate facendo riferimento ai suoi obblighi come cognato dei Krezkov e superando una prova di Carisma (Persuasione) a CD 10. (Emil, che non ama Dmitri per la sua "codardia" e "rassegnazione" alla maledizione della sua famiglia, e per gli sforzi di Dmitri di far evitare Emil a Zuleika e farla vergognare della sua licantropia, non sente alcun obbligo di aiutare i Krezkov inizialmente.)
 >
 > I giocatori effettuano la prova con vantaggio se sostengono che Zuleika vorrebbe che aiutasse suo fratello. I giocatori riescono automaticamente se informano Emil che l'Abate ha usato l'aspetto di sua moglie, Zuleika, per manipolare Ilya a uccidere Kala (la nipote di Emil).
+
 ## Q3a. Ritorno all'Abbazia
+
 Mentre i giocatori salgono <span class="citation">S5. Strada Tortuosa (p. 147)</span>, il frammento di divinità nell'*Icona della Grazia dell'Alba* parla loro, chiedendo:
 
 * cosa è successo all'Abbazia di Santa Markovia dopo la morte di Markovia al Castello Ravenloft
@@ -115,7 +138,9 @@ Mentre i giocatori salgono <span class="citation">S5. Strada Tortuosa (p. 147)</
 * cosa è successo all'Abate dopo essere arrivato all'Abbazia e come è caduto nella follia
 
 Indipendentemente dalle risposte dei giocatori, il frammento li avverte che l'Abate, come tutte le creature di creazione celestiale, è probabilmente zelante, inflessibile e completamente devoto alla sua causa percepita. “Procedete con cautela e preparate il vostro acciaio," il frammento sussurra telepaticamente. “Perché i raggi del Signore del Mattino brillano solo più intensamente quando percepiscono l'oscurità davanti a loro."
+
 ### Il Cancello Nord
+
 I giocatori vengono accolti a <span class="citation">S6. Cancello Nord (p. 147)</span> da Otto e Zygfrek Belview. Se i giocatori hanno accettato di indagare sulla "perfezione" di Cyrus in [[Arco K - L'Abbazia Caduta#Gli Ascoltatori|Arco K - L'Abbazia Caduta]], Otto (eccitato) e Zygfrek (ansioso) chiedono ai giocatori se hanno visto Cyrus da quando hanno lasciato l'Abbazia e come la "perfezione" dell'Abate lo abbia trasformato. “È forte?" Otto raglia felicemente. “È bello?" Zygfrek sussurra, la sua voce tremante.
 
 Se i giocatori condividono la verità sulla situazione di Cyrus, Otto e Zygfrek sono inorriditi, con Zygfrek che rimane in silenzio e si stringe il mantello intorno a sé mentre Otto chiede arrabbiato ai giocatori di ritrattare la loro "bugia." “L'Abate non ci mentirebbe mai!" Otto ulula, con lacrime che si formano agli angoli degli occhi.
@@ -123,8 +148,10 @@ Se i giocatori condividono la verità sulla situazione di Cyrus, Otto e Zygfrek 
 I giocatori possono convincere Otto e Zygfrek che stanno dicendo la verità con una prova di Carisma (Persuasione) a CD 10, riuscendo automaticamente se descrivono l'aspetto, la personalità o altri dettagli di Cyrus che avrebbero potuto apprendere solo incontrandolo. Se lo fanno, Otto e Zygfrek si deprimono completamente, apparendo con il cuore spezzato. “Abbiamo aspettato così tanto," Otto mormora, singhiozzando. “Cosa aspettiamo ora?" Mentre parla, Zygfrek si tira il cappuccio sopra il viso, lascia il cancello e si siede sul bordo della scogliera, guardando il villaggio sottostante con tristezza, vergogna e disprezzo di sé. Otto e Zygfrek sono grati per qualsiasi guida o incoraggiamento che i giocatori possano fornire.
 
 Otto e Zygfrek sono felici di portare i giocatori dall'Abate se richiesto, anche se Zygfrek preferisce rimanere vicino alla scogliera se informata della duplicità dell'Abate. 
+
 ### Il Cortile
-Entrando in <span class="citation">S12. Cortile (p. 150)</span>, i giocatori incontrano Clovin Belview, che sta consegnando ciotole di porridge freddo ai Belview nelle mensole di pietra con lucchetti. Clovin saluta i giocatori e li informa che l'Abate si trova nel manicomio, situato in <span class="citation">S15. Manicomio (p. 151)</span>, a prendersi cura e a ministrare alla famiglia di Clovin lì.
+
+Entrando in <span class="citation">S12. Cortile (p. 150)</span>, i giocatori incontrano Clovin Belview, che sta consegnando ciotole di porridge freddo ai Belview nelle capanne di pietra con lucchetti. Clovin saluta i giocatori e li informa che l'Abate si trova nel manicomio, situato in <span class="citation">S15. Manicomio (p. 151)</span>, a prendersi cura e a ministrare alla famiglia di Clovin lì.
 
 Se i giocatori hanno accettato di indagare sulla "perfezione" di Cyrus in [[Arco K - L'Abbazia Caduta#Gli Ascoltatori|Arco K - L'Abbazia Caduta]], Clovin chiede con entusiasmo ai giocatori se hanno visto Cyrus da quando hanno lasciato l'Abbazia. “Sta bene?" chiede, aggiungendo, “Ha accettato la sua nuova forma?" 
 
@@ -214,6 +241,9 @@ In combattimento, l'Abate preferisce combattere nel cortile dell'Abbazia, ma pot
 > [!abstract]+ **La Lealtà del Golem di Carne**
 > Se i giocatori hanno dato la ghirlanda di fiori di Vasilka al **golem di carne** in [[Arco K - L'Abbazia Caduta]], si unisce a loro nella battaglia contro l'Abate quando l'Abate entra nella sua seconda fase.
 
+![[Ithuriel.png]]
+<span class="credit">"Ithuriel" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 <div class="statblock">
 <h2>Ithuriel, il Portatore dell'Alba</h2>
 <em>Celestiale Medio, Legale Malvagio</em>
@@ -256,7 +286,7 @@ In combattimento, l'Abate preferisce combattere nel cortile dell'Abbazia, ma pot
 <strong>Grado di Sfida</strong> 15<br>
 <strong>Bonus di Competenza</strong> +5<br>
 <hr>
-<p><strong><em>Indomabile.</em></strong> Se Ithuriel fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
+<p><strong><em>Combattente in spazi ristretti.</em></strong> Ithuriel non subisce svantaggio alle prove di attacco a distanza quando si trova entro circa 1,5 metri da una creatura ostile.</p>
 <p><strong><em>Incantesimi Innati.</em></strong> La capacità di incantesimi innati di Ithuriel è Carisma (CD tiro salvezza incantesimi 18). Può lanciare innatamente i seguenti incantesimi, richiedendo solo componenti verbali:<br>
 A volontà: individuazione del bene e del male<br>
 1/giorno ciascuno: comunione, resurrezione</p>
@@ -273,7 +303,8 @@ A volontà: individuazione del bene e del male<br>
 <p><strong><em>Vento Divino.</em></strong> Ithuriel scatena un potente vento dalle sue ali angeliche in un cono di 3 m. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione a CD 17 o subire 14 (4d6) danni da taglio ed essere spinta di 3 m.</p>
 <p><strong><em>Radianza Sacra (1/giorno).</em></strong> La forma di Ithuriel esplode con luce divina. Ogni creatura che può vederlo entro 6 m deve superare un tiro salvezza su Costituzione a CD 18 o subire 14 (4d6) danni radianti. Una creatura che fallisce il tiro salvezza di 5 o più è anche accecata fino all'inizio del prossimo turno di Ithuriel. Una creatura che fallisce il tiro salvezza di 10 o più è anche affascinata da Ithuriel fino all'inizio del suo prossimo turno. Mentre è affascinata in questo modo, la creatura deve cadere prona per prostrarsi davanti a Ithuriel all'inizio del suo turno, quindi terminare immediatamente il suo turno.</p>
 <h3>Reazioni</h3>
-<p>Ithuriel può effettuare fino a tre reazioni per round, ma solo una per turno. Se Ithuriel perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p>Ithuriel può effettuare fino a tre reazioni per round, ma solo una per turno. Se Ithuriel dovesse perdere le sue reazioni, perde una reazione invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se Ithuriel fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Punizione.</em></strong> In risposta a un nemico che lo manca con un attacco in mischia, Ithuriel effettua il seguente attacco contro di esso: <strong><em>Palmo.</em></strong> <em>Attacco con Arma da Mischia</em>: +9 per colpire, portata 1,5 m, un bersaglio. Colpito: 7 (1d6 + 4) danni contundenti, e Ithuriel può costringere il bersaglio a effettuare un tiro salvezza su Forza a CD 17. In caso di fallimento, il bersaglio viene spinto fino a 3 m di distanza o afferrato (CD fuga 17). Se afferra il bersaglio, Ithuriel può immediatamente usare il suo <strong><em>discendere</em></strong>.</p>
 <p><strong><em>Discendere.</em></strong> In risposta ad afferrare un nemico, Ithuriel può immediatamente volare fino alla sua velocità trascinando quel nemico con sé. Se si muove entro 1,5 m dal suolo mentre si muove, il nemico afferrato deve superare un tiro salvezza su Forza a CD 17 o subire 3 (1d6) danni contundenti per ogni 3 m discendenti. Per ogni ulteriore 1,5 m che Ithuriel si muove lungo il suolo, il nemico afferrato subisce ulteriori 2 (1d4) danni contundenti mentre Ithuriel lo trascina lungo la terra. (Questo movimento non provoca attacchi di opportunità.) Quando il movimento di Ithuriel termina, il nemico afferrato è costretto prono.
 <p><strong><em>Ascendere.</em></strong> In risposta a subire danni, Ithuriel rilascia qualsiasi creatura che ha afferrato, quindi vola fino a un terzo della sua velocità senza provocare attacchi di opportunità.</p>
@@ -325,7 +356,7 @@ A volontà: individuazione del bene e del male<br>
 <strong>Grado di Sfida</strong> 16<br>
 <strong>Bonus di Competenza</strong> +5<br>
 <hr>
-<p><strong><em>Indomabile.</em></strong> Se Ithuriel fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
+<p><strong><em>Combattente in spazi ristretti.</em></strong> Ithuriel non subisce svantaggio alle prove di attacco a distanza quando si trova entro circa 1,5 metri da una creatura ostile.</p>
 <p><strong><em>Resistenza Magica.</em></strong> Ithuriel ha vantaggio sui tiri salvezza contro incantesimi e altri effetti magici.</p>
 <p><strong><em>Armi Magiche.</em></strong> Gli attacchi con armi di Ithuriel sono magici.</p>
 <h3>Azioni</h3>
@@ -338,13 +369,14 @@ A volontà: individuazione del bene e del male<br>
 <p><strong><em>Eruzione della Terra.</em></strong> Ithuriel sbatte la coda contro il suolo, causando fontane di terra e pietra smosse che eruttano in un raggio di 1,5 m intorno a lui. Ogni creatura in quell'area deve superare un tiro salvezza su Forza a CD 19 o subire 7 (2d6) danni contundenti e cadere prona.</p>
 <p><strong><em>Raggio dell'Eclissi (1/giorno).</em></strong> Ithuriel espira un'esplosione di radianza brillante e oscurità ombrosa in un cono di 9 m. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione a CD 18, subendo 9 (2d8) danni radianti più 9 (2d8) danni necrotici in caso di fallimento, o metà danni in caso di successo.</p>
 <h3>Reazioni</h3>
-<p>Ithuriel può effettuare fino a tre reazioni per round, ma solo una per turno. Se Ithuriel perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p>Ithuriel può effettuare fino a tre reazioni per round, ma solo una per turno. Se Ithuriel dovesse perdere le sue reazioni, perde una reazione invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se Ithuriel fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Coda.</em></strong> In risposta a essere mancato o colpito da un attacco in mischia, Ithuriel effettua il seguente attacco contro l'attaccante: <em>Attacco con Arma da Mischia:</em> +11 per colpire, portata 4,5 m, un bersaglio. Colpito: 11 (2d4 + 6) danni contundenti e il bersaglio deve effettuare un tiro salvezza su Forza a CD 19. In caso di fallimento, Ithuriel può scegliere di farlo cadere prono o spingerlo fino a 1,5 m di distanza. </p>
 <p><strong><em>Ali (1/round).</em></strong> In risposta a una creatura che può vedere che completa un incantesimo, effettua un attacco o si muove in uno spazio entro 18 m da lui, Ithuriel sbatte le ali, costringendo ogni creatura entro 1,5 m da lui a superare un tiro salvezza su Forza a CD 19 o essere spinta di 1,5 m di distanza e cadere prona. Ithuriel può quindi volare fino alla sua velocità verso la creatura originale senza provocare attacchi di opportunità.</p>
 <p><strong><em>Presenza Spaventosa (1/giorno).</em></strong> In risposta ad assumere la sua seconda forma, Ithuriel costringe ogni creatura a sua scelta entro 36 m che è consapevole di lui a effettuare un tiro salvezza su Saggezza a CD 18. In caso di fallimento, una creatura è spaventata da Ithuriel fino alla fine del suo prossimo turno.</p>
 </div>
 
-![[Ithuriel.png]]
+![[Ithuriel2.png]]
 
 <span class="credit">"Ithuriel" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -394,9 +426,9 @@ Mentre lo fa, se un giocatore ha un punteggio di Saggezza (Percezione) passivo d
 <p>Il sudario di ombra si avvolge sempre più vicino a lui, e ti rendi conto che non è un'unica ombra, ma un'assemblea di innumerevoli sagome amorfe e indistinte sovrapposte. Sussurrano nelle sue orecchie, le loro voci fredde e vuote che echeggiano nel vuoto.</p>
 </div>
 
-L'Abate si ferma, poi si ritrae, scappando indietro e lontano dal globo con un grido spaventato. Mentre lo fa, qualsiasi giocatore con un punteggio di Saggezza (Percezione) passivo di 14 o superiore vede una vicina nube di nebbia arricciarsi brevemente nella forma di un volto—di una donna—prima che il volto venga strappato dalle ombre turbinanti. Un giocatore che ha visto il volto e supera una prova di Saggezza (Intuizione) a CD 15 discerne che portava un'espressione di dolore e preoccupazione—e sembrava chiamare.
+L'Abate si ferma, poi si ritrae, scappando indietro e lontano dal globo con un grido spaventato. Mentre lo fa, qualsiasi giocatore con un punteggio di Saggezza (Percezione) passivo di 14 o superiore vede una vicina nube di nebbia arricciarsi brevemente nella forma di un volto—di una donna—prima che il volto venga strappato dalle ombre turbinanti. Un giocatore che ha visto il volto e ha un punteggio di Saggezza (Intuizione) passivo di 15 discerne che portava un'espressione di dolore e preoccupazione—e sembrava chiamare.
 
-Un giocatore che chiede all'Abate o che supera una prova di Saggezza (Intuizione) a CD 13 apprende che l'Abate non percepisce i sussurri né si rende conto che sono lì. Un giocatore che si avvicina all'Abate o che supera una prova di Saggezza (Percezione) a CD 15 può distinguere alcune parole e frasi dal caos dei sussurri:
+Un giocatore che chiede all'Abate o che ha un punteggio di Saggezza (Intuizione) passivo di 13 apprende che l'Abate non percepisce i sussurri né si rende conto che sono lì. Un giocatore che si avvicina all'Abate o che supera una prova di Saggezza (Percezione) a CD 15 può distinguere alcune parole e frasi dal caos dei sussurri:
 
 * “La luce ti ha abbandonato, come tu l'hai abbandonata."
 * “Le loro bugie sono confortanti, ma bugie comunque."
@@ -407,7 +439,7 @@ Se affrontato, l'Abate risponde, la sua voce tremante: “È troppo tardi. Ho tr
 > [!lore]+ **Sussurri Oscuri**
 > Le ombre sussurranti sono una manifestazione dei [[Lore di Barovia#Poteri Oscuri|Poteri Oscuri]], che hanno attirato lo spirito dell'Abate nel male molto tempo fa per impedirgli di sfidare Strahd o di guarire la terra dalla sua corruzione.
 
-Mentre l'Abate termina la sua protesta, qualsiasi giocatore con un punteggio di Saggezza (Percezione) passivo di 10 o superiore vede una vicina nube di nebbia—una breve distanza dalla prima—che si alza brevemente per formare la forma di una silhouette femminile in abiti prima di essere strappata dalle ombre turbinanti. Un giocatore con un punteggio di Saggezza (Percezione) passivo di 13 o superiore discerne che sembrava tendere una mano verso i giocatori e che sembrava chiamare. Un giocatore che ha visto il volto e supera una prova di Saggezza (Intuizione) a CD 13 discerne che portava un'espressione di dolore e preoccupazione.
+Mentre l'Abate termina la sua protesta, una nube di nebbia nelle vicinanze — a breve distanza dalla prima — si solleva per un istante assumendo la sagoma di una figura femminile incappucciata, prima di essere dilaniata da ombre vorticoshe. Un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 13 percepisce che sembrava stesse tendendo una mano verso i personaggi e che pareva stesse chiamando. Un giocatore che ha visto il volto e possiede un punteggio passivo di Saggezza (Intuizione) pari o superiore a 13 intuisce che il volto esprimeva dolore e preoccupazione.
 
 Mentre la silhouette svanisce, una singola carta Tarokka fluttua giù dal vuoto e atterra davanti a uno dei giocatori. Se un giocatore ispeziona la carta, leggi:
 
@@ -420,12 +452,12 @@ Se Ezmerelda vede la carta, condivide che è “strano" che il Pastore sia raffi
 > [!lore]+ **Il Pastore**
 > La carta Tarokka è un messaggio inviato dallo spirito di Santa Markovia. Sebbene non possa entrare nell'anima dell'Abate, spera che i giocatori la evochino in modo che possa parlare con l'Abate a loro nome.
 
-I giocatori possono tentare nuovamente di persuadere l'Abate a riunirsi con il frammento di divinità facendo qualsiasi argomento ragionevole e superando una prova di Carisma (Persuasione) a CD 15, effettuata con vantaggio se i loro argomenti confutano direttamente i sussurri dei Poteri Oscuri o se menzionano la seduta spiritica di Santa Markovia.
+I giocatori possono persuadere con successo l'Abate a riunirsi con il frammento di divinità presentando qualsiasi argomentazione ragionevole, come confutare direttamente i sussurri dei Poteri Oscuri o menzionare la seduta spiritica di Santa Markovia, oppure riuscendo in una prova di Carisma (Persuasione) CD 15.
 
 > [!abstract]+ **Redenzione Fallita**
 > Se i giocatori tentano di persuadere l'Abate qui senza prima evocare Santa Markovia e falliscono, l'oscurità diventa più profonda e opprimente, mentre l'Abate si rannicchia ulteriormente in se stesso, le sue ali sembrano appassire e incrinarsi. “Non vedete?" sussurra, la sua voce appena udibile. “Anche voi non potete negare la mia dannazione. È finita."
 >
-> Mentre le ombre sussurranti si rafforzano, il globo dorato inizia a tremolare e a oscurarsi, e la nebbia inizia a circondare il corpo dell'Abate, consumandolo completamente in due round. Mentre la nebbia si alza, la CD per qualsiasi ulteriore prova di Carisma (Persuasione) effettuata per convincere l'Abate aumenta a 25. 
+> Mentre le ombre sussurranti si rafforzano, il globo dorato inizia a tremolare e a oscurarsi, e la nebbia inizia a circondare il corpo dell'Abate, consumandolo completamente in due round. Mentre la nebbia si alza, la CD per qualsiasi ulteriore prova di Carisma (Persuasione) effettuata per convincere l'Abate aumenta a 20.
 >
 >I giocatori possono far recedere la nebbia convincendo l'Abate a riunirsi con il frammento o usando la carta del Pastore per evocare lo spirito di Santa Markovia (vedi sotto). Se non riescono a farlo prima che il corpo dell'Abate venga consumato, svaniscono dal vuoto e riappaiono nell'Abbazia di Santa Markovia, dove il corpo dell'Abate si dissolve rapidamente in nebbia.
 
@@ -478,7 +510,7 @@ Il giovane, che sembra non avere più di diciannove o vent'anni e assomiglia a u
 Una volta sveglio, il giovane—che chiede ai giocatori di chiamarlo Ithuriel, piuttosto che l'Abate—esprime un momentaneo disorientamento mentre il frammento di divinità integra gradualmente i suoi ricordi e il senso di sé.
 
 > [!info]+ **Ithuriel, Restaurato**
-> Ithuriel utilizza le statistiche di un **pegaso**, ma con la caratteristica **tocco curativo** di un **unicorno** e la taglia, il tipo di creatura, le lingue e la caratteristica ***cambio forma*** di un **deva**. Sostituisci l'attacco ***zoccoli*** del pegaso con il seguente: ***Mazza.*** *Attacco con Arma da Mischia:* +6 per colpire, portata 1,5 m, un bersaglio. *Colpito*: 1d6 + 4 danni contundenti più 4 (1d8) danni radianti. Inoltre, Ithuriel può lanciare *resurrezione* una volta al giorno, ma non più di tre volte all'anno.
+> Ithuriel utilizza le statistiche di un **pegaso**, ma con la caratteristica **tocco curativo** di un **unicorno** e la taglia, le lingue e la caratteristica ***cambio forma*** di un **deva**. Sostituisci l'attacco ***zoccoli*** del pegaso con il seguente: ***Mazza.*** *Attacco con Arma da Mischia:* +6 per colpire, portata 1,5 m, un bersaglio. *Colpito*: 1d6 + 4 danni contundenti più 4 (1d8) danni radianti. Inoltre, Ithuriel può lanciare *resurrezione* una volta al giorno, ma non più di tre volte all'anno.
 >
 > Quando viene restaurato per la prima volta, Ithuriel si sveglia con 1 punto ferita e quattro livelli di esaurimento.
 
@@ -495,6 +527,9 @@ Ithuriel può anche condividere le seguenti informazioni se richiesto:
 * Intende rimanere all'Abbazia e a Krezk. “Ho un obbligo verso queste persone che potrei non ripagare mai," dice solennemente. “Il mio posto è qui—e sento che, forse presto, sarò chiamato a difendere coloro che una volta tormentavo."
 
 Prima che i giocatori partano, Ithuriel offre liberamente loro guarigione attraverso l'uso della sua caratteristica ***tocco curativo*** e offre loro l'uso della sua caratteristica *resurrezione* se necessario. “Le mie capacità sono gravemente limitate dopo la mia rinascita," dice, strappando tre piume bianche come la neve dalle sue ali, “ma se avrete bisogno di rinascita voi stessi, dovrete solo pronunciare il mio nome mentre tenete questa piuma in alto, e io sarò lì."
+
+> [!info]+ **L'Icona della Grazia dell'Alba**
+> L'*Icona della Grazia dell'Alba* conserva le sue capacità magiche ma perde la sua senzienza quando il frammento della coscienza di Ithuriel viene trasferito all'Abate redento.
 
 > [!info]+ **Piume di Ithuriel**
 > Se un giocatore pronuncia il nome di Ithuriel mentre tiene una delle sue piume in alto, la piuma brucia in tizzoni radianti. Ithuriel vola quindi alla posizione dei giocatori, arrivando entro cinque minuti se i giocatori si trovano nella parte occidentale della valle (ad esempio, il Mago dei Vini, Collina di Yester o Lago Baratok), quindici minuti se i giocatori si trovano nella parte centrale della valle (ad esempio, Vallaki, Berez o Monte Ghakis), e trenta minuti se i giocatori si trovano nella parte orientale della valle (ad esempio, il villaggio di Barovia, Castello Ravenloft o Tser Pool).
@@ -707,7 +742,6 @@ Kiril attacca quindi.
 <strong>Bonus di Competenza</strong> +6<br>
 <hr>
 <p><strong><em>Rigenerazione.</em></strong> Kiril recupera 20 punti ferita all'inizio del suo turno. Se subisce danni necrotici o danni contundenti, perforanti o da taglio da un'arma argentata, questa caratteristica non funziona all'inizio del suo prossimo turno.</p>
-<p><strong><em>Indomabile.</em></strong> Se Kiril fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Udito e Olfatto Acuti.</em></strong> Kiril ha vantaggio sulle prove di Saggezza (Percezione) che si basano sull'udito o sull'olfatto.</p>
 <p><strong><em>Seconda Fase.</em></strong> Quando Kiril viene ridotto a 0 punti ferita, si scava gli artigli nel petto, estrae il proprio cuore e lo divora. Raddoppia quindi in altezza e larghezza, guadagnando una schiena curva, sporgenze ossee lungo le braccia e le spalle, e una testa grottesca e gonfia con zanne e denti sovradimensionati, così come una coppia di mascelle dentate per occhi. Le sue statistiche vengono quindi immediatamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio di iniziativa non cambia. I danni in eccesso e le condizioni non si trasferiscono alla sua nuova forma.</p>
 <h3>Azioni</h3>
@@ -720,7 +754,8 @@ Kiril attacca quindi.
 <p><strong><em>Frenesia Selvaggia.</em></strong> Kiril salta fino alla sua velocità senza provocare attacchi di opportunità. Ogni creatura entro 1,5 m da lui deve quindi effettuare un tiro salvezza su Destrezza a CD 18, subendo 14 (4d6) danni da taglio in caso di fallimento, o metà danni in caso di successo.</p>
 <p><strong><em>Cambio Forma.</em></strong> Kiril si trasforma nella sua forma umana o in un lupo terribile, o torna alla sua forma originale (un ibrido lupo-umanoide). Le sue statistiche, a parte la sua CA, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato. Torna alla sua forma umana se muore.</p>
 <h3>Reazioni</h3>
-<p>Kiril può effettuare fino a tre reazioni per round, ma solo una per turno. Se Kiril perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p>Kiril può effettuare fino a tre reazioni per round, ma solo una per turno. Se Kiril dovesse perdere le sue reazioni, perde una reazione invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se Kiril fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Balzo.</em></strong>  In risposta a una creatura che si muove entro 9 m, Kiril si muove fino alla sua velocità verso di essa senza provocare attacchi di opportunità.</p>
 <p><strong><em>Scatto.</em></strong> In risposta a essere mancato da un attacco effettuato da una creatura che può vedere, sentire o annusare, Kiril si muove fino alla sua velocità verso quella creatura senza provocare attacchi di opportunità. Può quindi attaccare quella creatura con i suoi artigli se è a portata.</p>
 <p><strong><em>Azzannare.</em></strong> In risposta a essere colpito da un attacco effettuato da una creatura entro 1,5 m, Kiril attacca quella creatura con il suo morso.</p>
@@ -772,18 +807,18 @@ Kiril attacca quindi.
 <strong>Bonus di Competenza.</strong> +6<br>
 <hr>
 <p><strong><em>Rigenerazione.</em></strong> Kiril recupera 20 punti ferita all'inizio del suo turno. Se subisce danni necrotici o danni contundenti, perforanti o da taglio da un'arma argentata, questa caratteristica non funziona all'inizio del suo prossimo turno.</p>
-<p><strong><em>Indomabile.</em></strong> Se Kiril fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Udito e Olfatto Acuti.</em></strong> Kiril ha vantaggio sulle prove di Saggezza (Percezione) che si basano sull'udito o sull'olfatto.</p>
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> Kiril effettua un attacco con i suoi artigli e uno con il suo morso. Può sostituire il morso con un inghiottire se ha già un bersaglio trattenuto con il suo morso.</p>
 <p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +11 per colpire, portata 3 m, 1 bersaglio. <em>Colpito:</em> 15 (4d4 + 5) danni da taglio, e il bersaglio deve superare un tiro salvezza su Destrezza a CD 18 o essere spinto di 3 m di distanza o afferrato (a scelta di Kiril).</p>
-<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +11 per colpire, portata 3 m, 1 bersaglio. Colpito: 18 (4d10 + 5) danni perforanti. Se il bersaglio è Grande o più piccolo, è afferrato (CD fuga 18). Fino a quando questa presa non termina, il bersaglio è trattenuto e Kiril non può mordere un altro bersaglio.</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +11 per colpire, portata 3 m, 1 bersaglio. Colpito: 27 (4d10 + 5) danni perforanti. Se il bersaglio è Grande o più piccolo, è afferrato (CD fuga 18). Fino a quando questa presa non termina, il bersaglio è trattenuto e Kiril non può mordere un altro bersaglio.</p>
 <p><strong><em>Inghiottire.</em></strong> Kiril effettua un attacco con il morso contro una creatura Media o più piccola che ha trattenuto con il suo morso. Se l'attacco colpisce, il bersaglio subisce i danni del morso, il bersaglio viene inghiottito e la presa termina. Mentre è inghiottita, la creatura è accecata e trattenuta, ha copertura totale contro attacchi e altri effetti esterni a Kiril, e subisce 7 (2d6) danni da acido all'inizio di ogni turno di Kiril. Se Kiril subisce 20 danni o più in un singolo turno, deve superare un tiro salvezza su Costituzione a CD 20 alla fine di quel turno o rigurgitare tutte le creature inghiottite, che cadono prone in uno spazio entro 3 m da lui. Kiril deve anche rigurgitare immediatamente tutte le creature inghiottite se muore.</p>
 <h3>Azioni Bonus</h3>
 <p><strong><em>Miasma Corrotto.</em></strong> Kiril espira una nube di nebbia necrotica. Ogni creatura entro 6 m da lui deve superare un tiro salvezza su Saggezza a CD 18, subendo 9 (2d8) danni necrotici in caso di fallimento, o metà danni in caso di successo.</p>
 <p><strong><em>Raggio d'Ombra.</em></strong> Un raggio di ombre turbinanti largo 1,5 m e lungo 30 m esplode dalla bocca di Kiril. Ogni creatura in quell'area deve effettuare un tiro salvezza su Destrezza a CD 18, subendo 14 (4d6) danni necrotici in caso di fallimento, o metà danni in caso di successo. Un bersaglio afferrato dal morso di Kiril fallisce automaticamente il tiro salvezza.</p>
 <h3>Reazioni</h3>
-<p>Kiril può effettuare fino a tre reazioni per round, ma solo una per turno. Se Kiril perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p>Kiril può effettuare fino a tre reazioni per round, ma solo una per turno. Se Kiril dovesse perdere le sue reazioni, perde una reazione invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se Kiril fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Balzo.</em></strong> In risposta a una creatura che si muove entro 9 m da lui, effettua un attacco a distanza contro di lui o lancia un incantesimo, Kiril salta verso di essa senza provocare attacchi di opportunità. Ogni creatura entro un raggio di 1,5 m da lui deve quindi immediatamente effettuare un tiro salvezza su Forza a CD 19 o cadere prona. Kiril può quindi attaccare la creatura che si è mossa, ha attaccato o ha lanciato un incantesimo con i suoi artigli.</p>
 <p><strong><em>Divorare.</em></strong> In risposta a una creatura che si muove entro la sua portata per la prima volta in un turno, Kiril la attacca con il suo morso se non sta attualmente mordendo un'altra creatura. Se l'attacco manca, quella creatura ha vantaggio sul suo prossimo attacco contro Kiril prima dell'inizio del suo prossimo turno.</p>
 <p><strong><em>Bloccare.</em></strong> In risposta a essere mancato da un attacco effettuato da una creatura entro la portata o una creatura che lascia la sua portata, Kiril la attacca con i suoi artigli. Se afferra la creatura, deve superare un ulteriore tiro salvezza su Forza a CD 19 o cadere prona.</p>
@@ -917,7 +952,6 @@ La prima volta che i giocatori entrano nel cimitero, se non stanno usando furtiv
 <strong>Grado di Sfida</strong> 15<br>
 <strong>Competenza</strong> +5
 <hr>
-<p><strong><em>Indomabile.</em></strong> Se Vladimir fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Rigenerazione.</em></strong> Vladimir recupera 10 punti ferita all'inizio del suo turno. Se subisce danni da fuoco o radianti, questa caratteristica non funziona all'inizio del suo prossimo turno. Il corpo di Vladimir viene distrutto solo se inizia il suo turno con 0 punti ferita e non si rigenera.</p>
 <p><strong><em>Immunità al Volgersi.</em></strong> Vladimir è immune agli effetti che volgono i non morti.</p>
 <p><strong><em>Vincolo del Giuramento.</em></strong> Se Vladimir infliggerebbe danni a una creatura morente con il suo <strong><em>spadone +2</em></strong>, può invece scegliere di stabilizzare quella creatura e sottoporla agli effetti di un incantesimo <em>geas</em>. Questo geas dura fino a quando non viene dissolto e può danneggiare il suo portatore un numero qualsiasi di volte ogni giorno. Una creatura che subisce danni in questo modo è anche trattenuta fino all'inizio del suo prossimo turno. Inoltre, il geas non può essere terminato o dissolto se non attraverso gli effetti di un incantesimo <em>restaurazione superiore</em> o <em>desiderio</em>, o se Vladimir usa un'azione per dissolverlo.</p>
@@ -930,7 +964,8 @@ La prima volta che i giocatori entrano nel cimitero, se non stanno usando furtiv
 <p><strong><em>Colpo Devastante.</em></strong> Vladimir spazza il suo spadone in un arco con forza tonante, creando un'onda d'urto che si diffonde in un cono di 4,5 m davanti a lui. Ogni creatura in quell'area deve superare un tiro salvezza su Costituzione a CD 18 o subire 21 (6d6) danni da taglio ed essere spinta indietro di 1,5 m. Una creatura che supera il tiro salvezza subisce metà danni e non viene spinta.</p>
 <p><strong><em>Laccio Ombroso.</em></strong> Fili neri spinosi estrudono dalla terra intorno a Vladimir in un raggio di 1,5 m. Ogni creatura in quell'area deve superare un tiro salvezza su Destrezza a CD 18 o subire 14 (4d6) danni perforanti ed essere afferrata dai fili (CD fuga 19) fino all'inizio del prossimo turno di Vladimir. Una creatura che supera il tiro salvezza subisce metà danni e non viene afferrata. Una creatura che tenta di sfuggire all'afferramento subisce immediatamente 7 (2d6) danni perforanti aggiuntivi, che riesca o meno.</p>
 <h3>Reazioni</h3>
-<p>Vladimir può effettuare fino a tre reazioni per round, ma solo una per turno. Se Vladimir perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p>Vladimir può effettuare fino a tre reazioni per round, ma solo una per turno. Se Vladimir dovesse perdere le sue reazioni, perde una reazione invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se Vladimir fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Retribuzione Giurata (1/round).</em></strong> In risposta a subire danni da una creatura che può vedere, Vladimir marchia quella creatura fino alla fine del suo prossimo turno. Mentre quella creatura è marchiata, Vladimir non provoca attacchi di opportunità quando si muove direttamente verso di essa, ha vantaggio sul primo attacco in mischia che effettua contro quella creatura ogni turno e i suoi attacchi con armi contro quella creatura infliggono un colpo critico con un tiro di 19-20.</p>
 <p><strong><em>Comando Spettrale.</em></strong> In risposta a subire danni da un attacco o incantesimo, Vladimir evoca un soldato fantasma per proteggerlo, riducendo i danni subiti della metà (arrotondati per eccesso). Questa abilità non può ridurre i danni subiti da Vladimir di più di 10.</p>
 <p><strong><em>Rappresaglia Marziale.</em></strong> In risposta a subire danni da un attacco o incantesimo, Vladimir si muove fino a metà della sua velocità verso l'attaccante o l'incantatore ed effettua un attacco contro di esso con il suo <strong><em>spadone +2</em></strong> se è a portata.</p>
@@ -973,12 +1008,12 @@ La prima volta che i giocatori entrano nel cimitero, se non stanno usando furtiv
 <strong>Resistenze ai Danni</strong> necrotico, psichico<br>
 <strong>Immunità ai Danni</strong> Veleno<br>
 <strong>Immunità alle Condizioni</strong> Affascinato, esausto, spaventato, paralizzato, avvelenato, stordito<br>
-<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 13<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 18<br>
 <strong>Lingue</strong> Comune, Draconico<br>
 <strong>Grado di Sfida</strong> 15<br>
 <strong>Competenza</strong> +5
 <hr>
-<p><strong><em>Indomabile.</em></strong> Se Vladimir fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
+<p><strong><em>Combattente in spazi ristretti.</em></strong> Vladimir non subisce svantaggio alle prove di attacco a distanza quando si trova entro circa 1,5 metri da una creatura ostile.</p>
 <p><strong><em>Rigenerazione.</em></strong> Vladimir recupera 10 punti ferita all'inizio del suo turno. Se subisce danni da fuoco o radianti, questa caratteristica non funziona all'inizio del suo prossimo turno. Il corpo di Vladimir viene distrutto solo se inizia il suo turno con 0 punti ferita e non si rigenera.</p>
 <p><strong><em>Ringiovanimento.</em></strong> Quando il corpo di Vladimir viene distrutto, la sua anima persiste. Dopo 24 ore, l'anima abita e anima un altro cadavere sullo stesso piano di esistenza e recupera tutti i suoi punti ferita. Mentre l'anima è senza corpo, un incantesimo desiderio può essere usato per costringere l'anima ad andare nell'aldilà e non tornare.</p>
 <p><strong><em>Immunità al Volgersi.</em></strong> Vladimir è immune agli effetti che volgono i non morti.</p>
@@ -986,12 +1021,13 @@ La prima volta che i giocatori entrano nel cimitero, se non stanno usando furtiv
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> Vladimir effettua due attacchi in mischia. Può sostituire uno di quegli attacchi con un attacco <strong><em>fiamme nere</em></strong>.</p>
 <p><strong><em>Spadone +2.</em></strong> Attacco con Arma da Mischia: +12 per colpire, portata 1,5 m, un bersaglio. Colpito: 14 (2d6 + 7) danni da taglio più 3 (1d6) danni perforanti, e il bersaglio deve effettuare un tiro salvezza su Saggezza a CD 18. In caso di fallimento, ha svantaggio sul primo tiro per colpire o prova di abilità che effettua prima della fine del suo prossimo turno.</p>
-<p><strong><em>Fiamme Nere.</em></strong> Attacco con Incantesimo a Distanza: +10 per colpire, portata 9 m, un bersaglio. Colpito: 7 (2d6) danni da fuoco più 3 (1d6) danni necrotici, e il bersaglio si accende in fiamme nere. All'inizio del suo prossimo turno, il bersaglio e ogni creatura entro 1,5 m da esso devono effettuare un tiro salvezza su Costituzione a CD 17 o subire 7 (2d6) danni da freddo aggiuntivi. (Le fiamme non possono essere spente con mezzi non magici.)</p>
+<p><strong><em>Fiamme Nere.</em></strong> Attacco con Incantesimo a Distanza: +10 per colpire, portata 9 m, un bersaglio. Colpito: 7 (2d6) danni da fuoco più 3 (1d6) danni necrotici, e il bersaglio si accende in fiamme nere. All'inizio del suo prossimo turno, il bersaglio e ogni creatura entro 1,5 m da esso devono effettuare un tiro salvezza su Costituzione a CD 17 o subire 7 (2d6) danni da fuoco aggiuntivi. (Le fiamme non possono essere spente con mezzi non magici.)</p>
 <h3>Azioni Bonus</h3>
 <p><strong><em>Ondata Distruttiva.</em></strong> Vladimir lancia una palla magica di fiamme nere che esplode in un punto che può vedere entro 36 m da lui. Ogni creatura in una sfera di raggio 3 m centrata su quel punto deve effettuare un tiro salvezza su Destrezza a CD 17. La sfera si diffonde intorno agli angoli. Una creatura subisce 10 (3d6) danni da fuoco più 10 (3d6) danni necrotici in caso di fallimento, o metà danni in caso di successo. In caso di fallimento, una creatura ha anche svantaggio sul prossimo attacco che effettua prima dell'inizio del prossimo turno di Vladimir.</p>
 <p><strong><em>Ondata Distruttiva.</em></strong> Vladimir colpisce il suolo con il suo spadone, creando un'esplosione di energia distruttiva che si propaga da lui. Ogni creatura entro 3 m da lui deve superare un tiro salvezza su Costituzione a CD 18 o subire 10 (3d6) danni da tuono più 10 (3d6) danni necrotici e cadere prona. Una creatura che supera il tiro salvezza subisce metà danni e non cade prona.</p>
 <h3>Reazioni</h3>
-<p>Vladimir può effettuare fino a tre reazioni per round, ma solo una per turno. Se Vladimir perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
+<p>Vladimir può effettuare fino a tre reazioni per round, ma solo una per turno. Se Vladimir dovesse perdere le sue reazioni, perde una reazione invece.</p>
+<p><strong><em>Indomabile.</em></strong> Se Vladimir fallirebbe un tiro salvezza, può scegliere invece di avere successo. Se lo fa, è ostacolato fino alla fine del suo prossimo turno. Mentre è ostacolato, è rallentato, può usare una reazione in meno per round e non può usare il suo multiattacco. (Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una creatura è ostacolata, perde una reazione aggiuntiva (minimo zero). Altri effetti dell'essere ostacolato non si sommano.)</p>
 <p><strong><em>Carica Vendicativa.</em></strong> In risposta a un nemico che lo colpisce o lo manca con un attacco, Vladimir si lancia verso di esso, muovendosi fino a 4,5 m direttamente verso di esso senza provocare attacchi di opportunità. Se Vladimir termina il suo movimento entro 1,5 m da quel nemico, può costringerlo a effettuare un tiro salvezza su Forza a CD 18. In caso di fallimento, il bersaglio subisce 2d6 danni contundenti e Vladimir e il bersaglio si muovono fino a 3 m aggiuntivi nella stessa direzione senza provocare attacchi di opportunità. Se il bersaglio non può muoversi per l'intera distanza, subisce 1d6 danni contundenti aggiuntivi per ogni 1,5 m non mosso.</p>
 <p><strong><em>Sguardo Vendicativo.</em></strong> In risposta a subire danni da un nemico entro 9 m, Vladimir costringe quella creatura a effettuare un tiro salvezza su Saggezza a CD 17. In caso di fallimento, la creatura è spaventata da Vladimir fino a quando Vladimir non le infligge danni o fino alla fine del prossimo turno di Vladimir. Se la creatura fallisce il tiro salvezza di 5 o più, è paralizzata invece.</p>
 <p><strong><em>Colpo del Sentinella.</em></strong> In risposta a una creatura che tenta di muoversi fuori dalla sua portata senza prima effettuare l'azione Disimpegno, Vladimir effettua un attacco contro di essa con il suo <strong><em>spadone +2</em></strong>. In caso di colpo, la creatura non subisce danni dall'attacco, ma cade prona e la sua velocità diventa 0 per il resto del turno.</p>
@@ -1004,12 +1040,12 @@ Quando Vladimir entra nella sua seconda fase, quattro **guerrieri fantasma** si 
 Inoltre, la prima volta che un giocatore entra nel mausoleo, Vladimir usa una delle sue reazioni per evocare un anello di fuoco nero che circonda il cimitero. Leggi:
 
 <div class="description">
-<p>Ombre nere a getto vorticano dalle torce ai lati della porta spalancata del mausoleo. Fiamme oscure eruttano dal pavimento di pietra della cripta, poi si diffondono avidamente attraverso l'erba morente che riempie il cimitero, formando un anello di fiamme nere che si aggrappa alla recinzione di ferro battuto.</p>
+<p>Ombre nere come il catrame vorticano dalle torce ai lati della porta spalancata del mausoleo. Fiamme oscure erompono dal pavimento di pietra della cripta, poi si diffondono voracemente sull'erba morente che ricopre il cimitero, circondando le mura del maniero e le recinzioni in ferro battuto con un anello di fiamme nere.</p>
 </div>
 
 Ogni giocatore entro 1,5 m dall'ingresso del mausoleo deve anche superare un tiro salvezza su Forza a CD 18 mentre un'onda d'urto di forza erutta dall'origine delle fiamme. In caso di fallimento, un giocatore viene lanciato a 3 m di distanza dal mausoleo e cade prono.
 
-Le fiamme formano un foglio di fuoco nero alto 2,4 m. Una creatura subisce 10 (3d6) danni da fuoco più 10 (3d6) danni necrotici quando entra nelle fiamme per la prima volta in un turno o termina il suo turno lì. Un giocatore può scavalcare le fiamme se può effettuare un salto in alto di 2,4 m (vedi <span class="citation">Salto in Alto, <em>Manuale del Giocatore</em> (p. 182)</span>) o superando una prova di Forza (Atletica) a CD 18. (Se un giocatore sta trasportando il peso completo del teschio di Argynvost, la sua distanza di salto in alto è ridotta di 0,9 m e effettua la prova di Forza (Atletica) con svantaggio). In caso di fallimento, il giocatore cade prono nelle fiamme.
+Le fiamme bloccano l'uscita in cima alle scale della cappella ai giocatori, formando un foglio di fuoco nero alto 2,4 m intorno al cimitero. Una creatura subisce 10 (3d6) danni da fuoco più 10 (3d6) danni necrotici quando entra nelle fiamme per la prima volta in un turno o termina il suo turno lì. Un giocatore può scavalcare le fiamme se può effettuare un salto in alto di 2,4 m (vedi <span class="citation">Salto in Alto, <em>Manuale del Giocatore</em> (p. 182)</span>) o superando una prova di Forza (Atletica) a CD 18. (Se un giocatore sta trasportando il peso completo del teschio di Argynvost, la sua distanza di salto in alto è ridotta di 0,9 m e effettua la prova di Forza (Atletica) con svantaggio). In caso di fallimento, il giocatore cade prono nelle fiamme.
 ## Q6c. Il Ritorno di Argynvost
 Quando un giocatore posiziona per la prima volta il teschio di Argynvost in un'alcova nel mausoleo, leggi:
 
@@ -1018,6 +1054,10 @@ Quando un giocatore posiziona per la prima volta il teschio di Argynvost in un'a
 <p>Con un ruggito feroce come un tuono, una banca di nebbia argentata vorticosa esplode dalle profondità del mausoleo, inondando il cimitero oltre. La fitta nebbia ribolle, lampeggiando con luce argentata mentre una forma enorme si coagula lentamente nell'aria sopra.</p>
 <p>Gli artigli emergono per primi, poi un torso serpentino lungo la metà dell'altezza del maniero, curvandosi in un lungo collo elegante coronato da una testa nobile e cornuta. Ali possenti si estendono da spalle forti e robuste, le loro scaglie spettrali che scintillano con una luce argentata eterea mentre riempiono il cielo sopra.</p>
 </div>
+
+![[Argynvost_transparent.png]]
+
+<span class="credit">"Argynvost's Ghost" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Mentre lo spirito di Argynvost appare, eventuali guerrieri fantasma cadono in ginocchio e chinano la testa davanti a lui. Se ancora vivo, Vladimir cessa il suo assalto, lasciando cadere il suo spadone a terra mentre fissa verso l'alto con incredulità. Leggi:
 
@@ -1121,7 +1161,7 @@ Continua con quanto segue, modificando il testo come necessario per riflettere l
 <p>La luce cade su una collina oltre le mura di Vallaki, perforando il fumo che si alza pigramente dai falò sottostanti fino a trovare un Arrigal dagli occhi spalancati, una statuetta mezza scolpita che cade dalle sue mani mentre Arabelle, rannicchiata contro il petto di Luvash, osserva la luce con soddisfazione silenziosa. Si avvicina a Van Richten accanto a lei, sollevando il suo mento con la sua piccola mano gentile, fino a quando i suoi occhi vedono la luce e si riempiono di lacrime non versate.</p>
 <p>La luce viaggia verso est, fino a trovare il villaggio di Barovia oltre le montagne, dove l'ombra del Castello Ravenloft si è, anche se solo per un battito di cuore, ritirata con disgusto e paura. Ismark, che brandisce un martello invece di una spada, guarda in alto da un muro mezzo costruito e batte un pugno orgoglioso contro il petto. Parriwimple, che trasporta una pila di legname con Bildrath nella strada vicina, indica il cielo con rapita fascinazione, e un piccolo, fragile sorriso tocca gli angoli delle labbra di suo zio. In una cucina illuminata da candele non lontano, Padre Donavich e Mary guardano in alto da un tavolo con occhi spalancati e speranzosi mentre, proprio al piano di sopra, le braccia di Doru si avvolgono teneramente intorno alla vita di Gertruda, la sua mano sottile che stringe quella artigliata contro il suo cuore.</p>
 <p>La luce viaggia verso ovest, illuminando il villaggio di Krezk e l'abbazia innevata che si erge molto sopra. Trova Kala e Ilya Krezkov, che si gettano, con le guance arrossate e ridendo, nella neve fresca caduta che spolvera le rive della piscina sacra di Krezk, mentre Dmitri e Anna osservano i cieli dal vecchio gazebo nelle vicinanze, due lupi familiari rannicchiati tranquillamente nella neve accanto a loro. Sulla sporgenza montuosa che domina il villaggio, in un tranquillo giardino innevato, Otto, Zygfrek e Clovin Belview osservano la luce dal loro posto in cima a un vecchio muro di pietra. Dietro di loro, Ithuriel, Vasilka e un golem silenzioso guardano in alto dalla vegetazione rigogliosa, i fiori nelle mani di Vasilka dipinti di un argento perlescente e gioioso.</p>
-<p>La luce viaggia verso sud, toccando file di pali di legno carichi di viti verdi in crescita, ciascuno che geme sotto il peso dell'uva che spunta dalle loro foglie. Trova Davian Martikov, la cui mano stringe strettamente il medaglione nella sua tasca; Claudiu, che guarda verso il cielo dalle ombre del vigneto e fissa; ed Elvir, che stringe l'elsa della sua spada corta mentre una comprensione solenne fiorisce sul suo volto.</p>
+<p>La luce viaggia verso sud, toccando file di pali di legno carichi di viti verdi in crescita, ciascuno che geme sotto il peso dell'uva che spunta dalle loro foglie. Trova Davian Martikov, la cui mano stringe strettamente il medaglione che pende dalla sua cintura; Claudiu, che guarda verso il cielo dalle ombre del vigneto e fissa; ed Elvir, che stringe l'elsa della sua spada corta mentre una comprensione solenne fiorisce sul suo volto.</p>
 <p>La luce trova i tetti scuri e contorti del Castello Ravenloft, dove Sasha Ivliskova sta da sola, il suo volto contorto dal dolore di una speranza improvvisa. Trova un tumulo solitario tra i Boschi di Svalich, dove lo spirito di Kavan solleva la testa in ricordo e dolore. E trova, infine, la soglia cadente di un vecchio maniero stanco, dove Lady Fiona Wachter tiene una mano tremante sul viso mentre lacrime scorrono sulle sue guance.</p>
 <p>E poi—l'istante passa, i riflessi svaniscono e il giorno ritorna lentamente. Anche il canto distante svanisce, lasciando toni di dolore persistente, ricordo e sfida che presto svaniscono nel silenzio. Il faro di Argynvostholt, tuttavia, brilla ancora luminoso, bagnando i boschi e le valli sottostanti con una radianza argentea lucente.</p>
 <p>

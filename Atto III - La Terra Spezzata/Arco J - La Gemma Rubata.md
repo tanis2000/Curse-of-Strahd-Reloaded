@@ -301,7 +301,7 @@ I due uomini che assomigliano a Urwin Martikov sono Adrian ed Elvir Martikov, ri
 > * **Dag**, che ha sposato la famiglia Martikov, non prende posizione nella faida tra Davian e Urwin, anche se condivide la posizione di Stefania che la morte di Elric sia stata una tragedia ma che la sua scelta meriti rispetto. Si sente più spesso divertito, pensieroso, giocoso o determinato e dovrebbe far sentire i giocatori grati, divertiti e affezionati a lui.
 > * **Claudiu** non si preoccupa della faida tra Davian e Urwin e crede che la morte di Elric sia stato un chiaro segnale che resistere a Strahd è senza speranza e chiunque lo faccia è destinato al fallimento. Si sente più spesso cupo, annoiato, infastidito, frustrato o malinconico e dovrebbe far sentire i giocatori irritati, insultati e simpatici verso di lui.
 > * **Martin e Viggo** non sanno della faida tra Davian e Urwin, che non hanno mai incontrato. Non comprendono appieno la natura della ribellione di Elric contro il Castello Ravenloft, ma sanno abbastanza per capire che è morto lì. Si sentono più spesso giocosi, annoiati, spaventati, intrigati o eccitati e dovrebbero far sentire i giocatori lusingati, divertiti e affezionati a loro.
-> * **Davian** è il patriarca della famiglia Martikov e il vedovo della sua defunta moglie, Mirabel Oraonova. Pubblicamente, afferma che Elric era uno sciocco, insubordinato e disobbediente per aver rifiutato il comando di Davian di stare lontano dal Castello Ravenloft. Nel profondo, Davian è distrutto dal fatto che le ultime parole che ha detto a suo figlio prima della morte di Elric siano state: "E non tornare!" Davian si sente più spesso infastidito, irritato, soddisfatto o burbero e dovrebbe far sentire i giocatori insultati, grati e simpatici verso di lui.
+> * **Davian** è il patriarca della famiglia Martikov e il vedovo della sua defunta moglie, Angelika Oraonova. Pubblicamente, afferma che Elric era uno sciocco, insubordinato e disobbediente per aver rifiutato il comando di Davian di stare lontano dal Castello Ravenloft. Nel profondo, Davian è distrutto dal fatto che le ultime parole che ha detto a suo figlio prima della morte di Elric siano state: "E non tornare!" Davian si sente più spesso infastidito, irritato, soddisfatto o burbero e dovrebbe far sentire i giocatori insultati, grati e simpatici verso di lui.
 
 Davian saluta Muriel con evidente familiarità, poi chiede bruscamente ai giocatori di identificarsi e spiegare la loro presenza. Se informato che i giocatori sono stati inviati da Urwin Martikov, Davian sbuffa e ride della "sfacciataggine di quel tizio".
 
@@ -803,7 +803,7 @@ Quest'area è descritta in <span class="citation">W16. Argano di Carico (p. 178)
 
 I due uccelli artificiali sono **strix maggiori**. L'uomo è un **druido naturalista** con 136 punti ferita di nome Lorghoth il Decadente. Tuttavia, invece della caratteristica ***dono del Gulthias***, Lorghoth guadagna le seguenti caratteristiche aggiuntive:
 
-* ***Resistenza Leggendaria (1/giorno).*** Se Lorghoth fallisce un tiro salvezza, può scegliere di riuscire invece.
+* ***Indomito.*** <strong>Innesco:</strong> Una creatura ostile termina il proprio turno. <strong>Effetto:</strong> Lorghoth può ripetere il tiro salvezza contro un effetto o una condizione che lo sta attualmente influenzando. (Questa reazione non ha effetto se l’effetto o la condizione non richiedeva originariamente un tiro salvezza fallito).
 * ***Maestro dei Blight.*** Come azione, Lorghoth può usare il *bastone di Gulthias* che porta per evocare e comandare qualsiasi blight entro un raggio di 1 miglio.
 * ***Guardiano del Gulthias (1/giorno).*** In risposta a essere bersagliato da un attacco o incantesimo, Lorghoth può usare la sua reazione per trasformarsi magicamente in un **mucchio di rampicanti** per 1 minuto, evocando le radici e le viti intorno a lui per incapsulare la sua forma umanoide. Qualsiasi equipaggiamento che indossa o porta viene assorbito o portato dalla nuova forma (a scelta di Lorghoth). Nella sua nuova forma, Lorghoth mantiene le sue statistiche di gioco (inclusi i suoi punti ferita) e la capacità di parlare, ma la sua CA, modalità di movimento, Forza, Destrezza, resistenze, immunità e sensi speciali vengono sostituiti da quelli della sua nuova forma, e guadagna qualsiasi statistica e capacità che la sua nuova forma ha ma che lui manca. Mentre è in questa forma, Lorghoth guadagna anche la seguente caratteristica: ***Forma di Pacciame.*** Lorghoth può muoversi attraverso uno spazio largo fino a 5 piedi senza stringersi.
 
@@ -1154,6 +1154,57 @@ Mentre questa conversazione si svolge, i due **berserker** e i due **druidi assa
 Ludmilla fugge se attaccata, usando la sua caratteristica ***passo velato*** per teletrasportarsi di trenta piedi in aria e verso i druidi che cantano. Mentre lo fa, crea una *coltre di nebbia* con un raggio di 60 piedi centrato sulla statua per coprire la sua ritirata. (Vedi **Coltre di Nebbia** sotto.) Usa quindi la sua azione bonus per evocare la sua **coltre di ombre** (vedi sotto).
 <br>
 
+Altrimenti, Ludmilla può condividere le seguenti informazioni se le vengono chieste:
+
+* Tre mesi fa, quando la ribellione di Doru risvegliò Strahd dal suo torpore, tra i ribelli c’era un corvo — ma non un corvo qualunque. Sembrava possedere un’intelligenza ben superiore a quella di una bestia comune.
+* Strahd catturò il corvo e, quando Ludmilla fece ritorno al castello — “al servizio del mio Signore” — le fu concesso il permesso di indagarne la natura. Ben presto scoprì che il corvo rigenerava rapidamente ogni ferita subita, anche quelle che sembravano mortali — tranne quelle inflitte da argento o magia necrotica. Ne dedusse di aver scoperto un licantropo corvo (wereraven) — un contraltare mitico ai licantropi lupeschi che si aggiravano a branchi nella valle di Barovia.
+* Completata la sua ricerca, Ludmilla passò a vivisezionare la creatura, con l’intento di rivelarne gli ultimi segreti nascosti. «Strillava e guaiva come un maiale» commenta freddamente, «ma per fortuna l’argento dei suoi vincoli lo bruciava troppo intensamente perché potesse anche solo pensare di fuggire.» (Se Muriel è con i giocatori, comincia a tremare, stringendo l’elsa del suo pugnale corto fino a far sbiancare le nocche.)
+* Quando infine il corvo spirò, il suo corpo si trasformò in quello di un uomo — confermando apparentemente la teoria di Ludmilla. Ella portò il cadavere a Baba Lysaga — un’antica collega e mentore — a Berez. Grazie alla guida di Baba Lysaga, riuscì a rintracciare la stirpe dei licantropi corvo fino a una famiglia sediziosa e traditrice che viveva nella cantina vinicola del Mago dei Vini — il clan Martikov.
+* Baba Lysaga giurò di sterminare i licantropi corvo, e Ludmilla mediò un’alleanza tra lei e i druidi di Yester Hill, ansiosi di annientare chiunque osasse sfidare il loro “Signore delle Ombre”.
+* Fu solo per puro caso che gli spaventapasseri di Baba Lysaga scoprirono la fonte della fertilità della vigna: una coppia di gemme incantate che il Popolo della Foresta riconobbe come reliquie rubate ai propri antenati. I druidi furono, comprensibilmente, impazienti di reclamare la loro eredità dalle mani degli usurpatori piumati.
+
+Ludmilla conclude avvertendo i giocatori che, per quanto possano considerarla un nemico, i loro “amici corvi” non sono degni di fiducia. «Mi chiedo,» dice fissando pensierosamente Muriel (se presente), «quali altri segreti vi stiano ancora nascondendo. Ma un buon esemplare non conserva i suoi segreti a lungo.»
+
+## J5c. L’Inizio del Rituale
+
+Quando la conversazione volge al termine, oppure se i personaggi attaccano o tentano di oltrepassare Ludmilla, leggi:
+<div class="description">
+<p>La tempesta oscura ribolle sopra di voi — e un singolo fulmine saetta giù dalle nuvole in ebollizione, avvolgendo la statua in un alone di luce bianca accecante. Un profondo gemito sembra scuotere la stessa terra della collina, e il vento intorno a voi si trasforma in una raffica calda e furiosa, strappando l’erba alta mentre urla sopra la sommità della collina.</p>
+<p>I suoni dei canti e dei tamburi si fanno più intensi — e scintille di energia verde cupa cominciano a guizzare attraverso il terreno verso la statua.</p>
+</div>
+
+<div class="description">
+<p>La tempesta oscura ribolle sopra di voi — e un singolo fulmine saetta giù dalle nuvole in ebollizione, avvolgendo la statua in un alone di luce bianca accecante. Un profondo gemito sembra scuotere la stessa terra della collina, e il vento intorno a voi si trasforma in una raffica calda e furiosa, strappando l’erba alta mentre urla sopra la sommità della collina.</p>
+<p>I suoni dei canti e dei tamburi si fanno più intensi — e scintille di energia verde cupa cominciano a guizzare attraverso il terreno verso la statua.</p>
+</div>
+
+
+Il colpo di fulmine segna il vero inizio del rituale dei druidi. Una volta che il rituale comincia, i tredici druidi naturalisti che circondano la statua usano la loro azione a ogni turno per continuare a cantare e a percuotere i tamburi. Durante la partecipazione al rituale, un druido non può muoversi né usare azioni bonus o reazioni.
+
+> [!info]+ Completare il Rituale
+> Per completare il rituale, i druidi devono usare le loro azioni per cantare per 12 round, con almeno uno di loro che canti in ogni round. Alla fine di ogni round, se meno di dodici druidi sono in grado di cantare (ad esempio, perché alcuni sono morti o a causa di un incantesimo di silenzio), tira 1d12.
+>
+> Se il risultato è superiore al numero di druidi che stanno cantando in quel round, scintille di fulmini verdi guizzano dalla statua, folgorando tutte le creature all’interno del muro di radici. Ogni bersaglio deve superare un tiro salvezza di Costituzione CD 17 o subire 7 (2d6) danni da fulmine ed essere stordito fino all’inizio del proprio turno successivo. (Una creatura stordita può muoversi o compiere un’azione nel proprio turno, ma non entrambi. Inoltre, non può compiere azioni bonus o reazioni.)
+>
+> La seconda volta che questo fulmine viene innescato, i danni aumentano a 10 (3d6) danni da fulmine. La terza volta che viene innescato, il rituale è rovinato, liberando la sua energia distruttiva come descritto in Fermare il Rituale qui sotto.
+
+> [!abstract]+ Il Rituale è Compiuto
+> Se i druidi riescono a completare il rituale, l’**aberrazione arborea** Wintersplinter nasce come descritto in <span class="citation">Rituale dei Druidi (p. 200)</span>. I druidi naturalisti si volgono quindi ad attaccare i giocatori, mentre Wintersplinter inizia la sua marcia verso la cantina del Mago dei Vini. (Se i giocatori non lo fermano, Wintersplinter distrugge la cantina come descritto in <span class="citation">L’Attacco di Wintersplinter (p. 180)</span>, poi ritorna a Yester Hill, dove rimane inerte vicino al luogo della sua nascita, in attesa di ulteriori ordini.)
+>
+> Se i giocatori vengono sconfitti, i druidi li stabilizzano e li portano all’Albero di Gulthias come sacrifici. Prima di legarli, i druidi rimuovono tutte le armi visibili o facilmente accessibili, i focus, gli oggetti magici e i contenitori (ad esempio, zaini) dai loro corpi, che vengono poi riposti alla base della statua che un tempo ospitava Wintersplinter.
+>
+>Tutti i druidi lasciano quindi la collina, tranne Svarog, che si seppellisce nel fango lì vicino, come descritto in <span class="citation">Tombe Nascoste (p. 198)</span>. Due **berserker** si seppelliscono anch’essi nel fango non lontano. I giocatori devono superare una prova di Destrezza (Furtività) CD 11 per recuperare i propri averi senza risvegliare Svarog o i suoi guardiani berserker.
+>
+> Quando i giocatori riprendono conoscenza, si ritrovano disarmati e legati al tronco dell’Albero di Gulthias, con ragnatele di piccole radici nere che fuoriescono dalla base dell’albero e penetrano nella loro pelle. Un giocatore è bloccato mentre è legato in questo modo, e avvelenato finché le radici rimangono nella sua carne. Una ragnatela di radici ha CA 10, 10 punti ferita e rigenera 10 punti ferita all’iniziativa 20 di ogni round, se ha almeno 1 punto ferita e non si trova alla luce del sole o in acqua corrente.
+>
+> Alla fine di ogni ora in cui un giocatore è infestato dalle radici dell’albero, deve superare un tiro salvezza di Costituzione CD 17 o subire 1d6 danni necrotici. Il suo massimo di punti ferita si riduce di un ammontare pari ai danni necrotici subiti. Questa riduzione dura finché il giocatore non completa un riposo lungo, e il giocatore muore se questo effetto riduce il suo massimo di punti ferita a 0.
+
+## J5d. Le Guardie Druidiche
+Immediatamente dopo l'inizio del rituale, i due **druidi assalitori** e due **berserker** si adoperano per impedire ai giocatori e a Muriel di avvicinarsi alla statua, con la forza se necessario. Se non l'ha già fatto, Ludmilla si ritira nel cerchio dei ritualisti non appena scoppia il combattimento. Mentre lo fa, usa la sua azione per creare un *velo di nebbia* con un raggio di 18 metri attorno alla statua per coprire la sua ritirata. (Vedi [[Arc J - La Gemma Rubata#La Coltre di Nebbia|La Coltre di Nebbia]] sotto.) Quindi usa la sua azione bonus per evocare la sua **coltre di ombre*** (vedi sotto).
+<br>
+![[Yester Hill Layout (Presentation) (1).png]]
+<br>
+
 > [!info]+ **Le Dimensioni della Collina**
 > L'area compresa da <span class="citation">Y3. Cerchio dei Druidi (p. 197)</span> ha un diametro di circa duecentocinquanta piedi, o un raggio di circa centoventicinque piedi. I giocatori devono viaggiare per circa sessanta piedi dal loro punto di ingresso nel cerchio, dove i **berserker** e i **druidi assalitori** li ostacolano, per raggiungere il bordo della coltre di nebbia di Ludmilla.
 ## J5e. La Barricata di Ludmilla
@@ -1210,7 +1261,7 @@ Una volta che i giocatori attraversano la coltre di nebbia, Ludmilla li attacca 
     <br>
     <strong>Punti Ferita</strong> 120 (16d8 + 48)
     <br>
-    <strong>Velocità</strong> 30 ft., arrampicata 20 ft.
+    <strong>Velocità</strong> 9m
     <hr>
     <table class="ability-table">
         <thead>
@@ -1257,7 +1308,7 @@ Una volta che i giocatori attraversano la coltre di nebbia, Ludmilla li attacca 
     <p><strong><em>Coltre di Ombre (1/giorno).</em></strong> Ludmilla evoca una coltre di ombre intorno a sé, che dura per 8 ore o fino a quando non la dissolve come azione bonus. Mentre la coltre rimane, guadagna una velocità di volo di 15 metri (sospeso) e ha resistenza ai danni contundenti, perforanti e taglienti inflitti dagli attacchi con armi da mischia magiche e non magiche. Se Ludmilla resiste ai danni in questo modo, l'attaccante subisce la stessa quantità e tipo di danni inflitti.<br>&nbsp;&nbsp;&nbsp;&nbsp; La prima volta che Ludmilla subisce danni radianti o danni da acqua santa mentre la coltre è presente, la coltre si indebolisce, riducendo la sua velocità di volo a 7,5 metri e facendola cadere di 6 metri. La seconda volta che Ludmilla subisce danni radianti o danni da acqua santa mentre la coltre è presente, la coltre scompare immediatamente.</p>
     <p><strong><em>Melma Intrappolante.</em></strong> Se Ludmilla ha lanciato l'incantesimo <em>grasso</em>, lancia <em>ragnatela</em> (CD 15), bersagliando la stessa area quadrata di 20 piedi dell'incantesimo <em>grasso</em>.</em></p>
     <h3>Reazioni</h3>
-    <p>Ludmilla può prendere fino a tre reazioni per round, ma solo una per turno. Se perde le sue reazioni e non è incapacitata, perde una reazione invece.</p>
+    <p>Ludmilla può effettuare fino a tre reazioni per round, ma solo una per turno. Se dovesse perdere le sue reazioni, perde invece una reazione.</p>
     <p><strong><em>Passo Velato.</em></strong> In risposta a subire danni, Ludmilla lancia <em>passo velato.</em></p>
     <p><strong><em>Interrompere Incantesimo (3/giorno).</em></strong> <em>Incantesimo di 3° Livello:</em> 60 piedi, componenti S, istantaneo. <em>Effetto:</em> Ludmilla tenta di interrompere una creatura mentre lancia un incantesimo. Se la creatura sta lanciando un incantesimo di 3° livello o inferiore, deve fare un tiro salvezza usando la sua abilità di incantesimo con CD 15. Se fallisce, l'incantesimo della creatura fallisce e non ha effetto.</p>
     <p><strong><em>Rappresaglia del Mago.</em></strong> In risposta a essere mancata da un attacco con incantesimo o a superare un tiro salvezza contro un incantesimo, Ludmilla può immediatamente costringere l'incantatore a superare un tiro salvezza di Costituzione CD 15 o subire 7 (2d6) danni da forza.</p>
@@ -1305,7 +1356,7 @@ Ogni quadrato di 5 piedi entro 30 piedi dal suolo sotto Muriel subisce quindi i 
 * Se il quadrato conteneva precedentemente un segmento del muro e attualmente ha gli effetti di un incantesimo *crescita di spine*, l'effetto *crescita di spine* viene sostituito da un segmento del muro con 5 punti ferita.
 
 Un giocatore può persuadere Muriel a smettere di attaccare Ludmilla con una prova di Carisma (Persuasione) CD 20, con vantaggio se il giocatore invoca la memoria di Elric e sollecita Muriel a non cercare vendetta. (La prova riesce automaticamente se Muriel e il giocatore hanno precedentemente legato sulla loro esperienza di perdita.) Questa prova non richiede un'azione.
-## J5f. Fermare il Ritual
+## J5f. Fermare il Rituale
 I tredici **druidi naturalisti** all'interno del muro di radici hanno una velocità di 0 per la durata del rituale, le loro gambe e piedi legati dalle radici dell'albero di Gulthias, che li collegano alla statua al centro del cerchio.
 
 I druidi devono usare le loro azioni ogni turno per cantare le parole del rituale, che richiede la loro concentrazione, come se stessero concentrandosi su un incantesimo. Mentre cantano in questo modo, i druidi non possono usare azioni bonus o reazioni. I druidi non osano nemmeno lanciare *onda tonante* o altri incantesimi dannosi nel cerchio, per paura di danneggiare la statua.
@@ -1428,7 +1479,7 @@ I giocatori non dovrebbero avere motivo di visitare il boschetto dell'Albero di 
 
 Questi megaliti demarcano i confini del Fane della Foresta: il santuario della Cacciatrice delle Signore Tre.
 
-Un grande vuoto cavernoso alla base dell'Albero di Gulthias nasconde una pietra di onice nero liscia di cinque piedi di diametro, mezza sepolta tra le radici dell'albero. La pietra non ha segni o simboli visibili sulla sua superficie ed è impervia a tutti i danni e ai tentativi di spostarla.
+Un personaggio che ispeziona gli otto megaliti scolpiti trova le immagini dei seguenti animali scolpite sulle loro superfici di pietra, muovendosi in senso orario da nord: orso, gufo, capra, lupo, falco, alce, pantera e corvo.
 
 Un minuto dopo che i giocatori entrano nel boschetto, la loro presenza attira l'attenzione di quattro **blight di aghi**, che emergono dal sottobosco intorno all'albero. Il round successivo, i blight di aghi sono raggiunti da quattro **blight di aghi** aggiuntivi, quattro **blight di vite** e quattro **sciami di blight di ramoscelli**. Se i giocatori rimangono all'interno del boschetto, tutti i blight attaccano il round successivo.
 # J7. Ritorno alla Cantina
