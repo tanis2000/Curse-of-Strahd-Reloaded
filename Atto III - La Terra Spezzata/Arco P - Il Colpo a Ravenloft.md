@@ -305,8 +305,7 @@ Che Ludmilla riesca a rubare il simbolo o meno, si ritira poi su <span class="ci
 <hr>
 <strong>Classe Armatura</strong> 15<br>
 <strong>Punti Ferita</strong> 120 (16d8 + 48)<br>
-<strong>Velocità</strong> 9 m, arrampicata 6 m
-<hr>
+<strong>Velocità</strong> 9 m
 <table class="ability-table">
   <thead>
     <tr>
@@ -338,6 +337,7 @@ Che Ludmilla riesca a rubare il simbolo o meno, si ritira poi su <span class="ci
 <strong>Grado di Sfida</strong> 8<br>
 <strong>Bonus di Competenza</strong> +3
 <hr>
+<p><strong><em>Combattente in spazi ristretti.</em></strong> Ludmilla non subisce svantaggio alle prove di attacco a distanza quando si trova entro circa 1,5 metri da una creatura ostile.</p>
 <p><strong><em>Vista del Diavolo.</em></strong> Ludmilla può vedere normalmente nell'oscurità, sia magica che non magica, fino a una distanza di 120 piedi.</p>
 <p><strong><em>Rigenerazione.</em></strong> Ludmilla recupera 10 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non è alla luce del sole o nell'acqua corrente. Se subisce danni radianti (che includono danni da acqua santa), questa caratteristica non funziona all'inizio del suo prossimo turno.</p>
 <p><strong><em>Arrampicata del Ragno.</em></strong> Ludmilla può arrampicarsi su superfici difficili, inclusi soffitti, senza bisogno di fare una prova di abilità.</p>
@@ -353,7 +353,7 @@ Che Ludmilla riesca a rubare il simbolo o meno, si ritira poi su <span class="ci
 <p><strong><em>Raggio Congelante.</em></strong> <em>Attacco con Incantesimo a Distanza:</em> +7 per colpire, portata 120 ft., tre creature. <em>Colpito:</em> 7 (2d6) danni da freddo per raggio.</p>
 <p><strong><em>Oscurità (1/giorno).</em></strong> Ludmilla lancia <em>oscurità</em> con un raggio di 40 piedi.</p>
 <h3>Reazioni</h3>
-<p>Ludmilla può prendere fino a tre reazioni per turno, ma solo una per turno. Se Ludmilla perderebbe le sue reazioni e non è incapacitata, perde una reazione invece.</p>
+<p>Ludmilla può prendere fino a tre reazioni per turno, ma solo una per turno. Se Ludmilla dovesse perdere le sue reazioni, perde una reazione invece.</p>
 <p><strong><em>Passo Velato.</em></strong> In risposta a subire danni o lanciare *oscurità*, Ludmilla lancia <em>passo velato</em>. Può quindi prendere immediatamente l'azione di Nascondersi. Se sta volando, ha vantaggio sulla prova fatta per nascondersi.</p>
 <p><strong><em>Interrompere Incantesimo (3/giorno).</em></strong> Incantesimo di 3° livello, portata 60 piedi, componenti S, istantaneo. <em>Effetto:</em> Ludmilla tenta di interrompere una creatura nel processo di lanciare un incantesimo. Se la creatura sta lanciando un incantesimo di 3° livello o inferiore, deve fare un <span class="highlight">tiro salvezza CD 15</span> usando la sua abilità di lancio di incantesimi. Se fallisce, l'incantesimo della creatura fallisce e non ha effetto.</p>
 <p><strong><em>Rappresaglia del Mago.</em></strong> In risposta a essere mancata da un attacco con incantesimo o a riuscire in un tiro salvezza contro un incantesimo, Ludmilla può immediatamente costringere il lanciatore a riuscire in un tiro salvezza di Costituzione CD 15 o subire 7 (2d6) danni da forza.</p>
@@ -402,6 +402,7 @@ Che Ludmilla riesca a rubare il simbolo o meno, si ritira poi su <span class="ci
 <strong>Grado di Sfida</strong> 8 (3,900 PE)<br>
 <strong>Bonus di Competenza</strong> +3
 <hr>
+<p><strong><em>Combattente in spazi ristretti.</em></strong> Ludmilla non subisce svantaggio alle prove di attacco a distanza quando si trova entro circa 1,5 metri da una creatura ostile.</p>
 <p><strong><em>Rigenerazione.</em></strong> Ludmilla recupera 10 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non è alla luce del sole o nell'acqua corrente. Se subisce danni radianti o danni da acqua santa, questa caratteristica non funziona all'inizio del suo prossimo turno.</p>
 <p><strong><em>Arrampicata del Ragno.</em></strong> Ludmilla può arrampicarsi su superfici difficili, inclusi soffitti, senza bisogno di fare una prova di abilità.</p>
 <p><strong><em>Ipersensibilità alla Luce del Sole.</em></strong> Mentre è alla luce del sole, Ludmilla subisce 20 danni radianti all'inizio del suo turno e ha svantaggio sui tiri per colpire e sulle prove di abilità.</p>
@@ -412,12 +413,12 @@ Che Ludmilla riesca a rubare il simbolo o meno, si ritira poi su <span class="ci
 <p><strong><em>Multiattacco.</em></strong> Ludmilla fa due attacchi con i suoi artigli. Può sostituire un attacco con un attacco di schegge di nebbia o morso.</p>
 <p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 8 (2d4 + 3) danni da taglio più 2 (1d4) danni necrotici. Invece di infliggere danni da taglio, Ludmilla può afferrare il bersaglio (fuga CD 14).</p>
 <p><strong><em>Schegge di Nebbia.</em></strong> <em>Attacco con Arma a Distanza:</em> +6 per colpire, portata 30 ft., un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni da taglio più 3 (1d6) danni necrotici.</p>
-<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti più 7 (2d6) danni necrotici. Il massimo dei punti ferita del bersaglio viene ridotto di un ammontare pari ai danni necrotici subiti e Ludmilla recupera punti ferita pari a quell'ammontare. Il bersaglio muore se questo effetto riduce il suo massimo di punti ferita a 0. Ogni volta che il bersaglio termina un riposo lungo senza essere morso di nuovo, può tirare uno dei suoi dadi ferita e aggiungere il suo modificatore di Costituzione. Il massimo dei punti ferita del bersaglio aumenta di un ammontare pari al risultato. (Questo aumento non può portare il massimo dei punti ferita del bersaglio sopra il suo massimo originale.)</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 per colpire, portata 5 ft., una creatura consenziente, o una creatura che è intrappolata da Ludmilla, incapacitata o trattenuta. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti più 7 (2d6) danni necrotici. Il massimo dei punti ferita del bersaglio viene ridotto di un ammontare pari ai danni necrotici subiti e Ludmilla recupera punti ferita pari a quell'ammontare. Il bersaglio muore se questo effetto riduce il suo massimo di punti ferita a 0. Ogni volta che il bersaglio termina un riposo lungo senza essere morso di nuovo, può tirare uno dei suoi dadi ferita e aggiungere il suo modificatore di Costituzione. Il massimo dei punti ferita del bersaglio aumenta di un ammontare pari al risultato. (Questo aumento non può portare il massimo dei punti ferita del bersaglio sopra il suo massimo originale.)</p>
 <h3>Azioni Bonus</h3>
 <p><strong><em>Dissipare.</em></strong> Se Ludmilla è fortemente oscurata dalla nebbia, prende l'azione di Nascondersi.
 <p><strong><em>Asfissiare.</em></strong> Una creatura entro 30 piedi deve fare un <span class="highlight">tiro salvezza di Costituzione CD 14</span>. Se fallisce, la testa del bersaglio viene circondata da un vuoto d'aria per 1 minuto, o mentre Ludmilla mantiene la concentrazione (come se concentrata su un incantesimo). Mentre è circondata da questo vuoto, il bersaglio è assordato, non può parlare, non può respirare (ma può trattenere il respiro) e ha un numero di livelli di esaurimento pari a tre meno il numero di minuti di aria che gli rimangono (minimo 0). Inoltre, un bersaglio circondato da questo vuoto deve riuscire in un tiro salvezza di Costituzione CD 14 alla fine di ogni suo turno o perdere 1 minuto di aria se fallisce.<br>&nbsp;&nbsp;&nbsp;&nbsp;Il bersaglio perde tutti i livelli di esaurimento ottenuti in questo modo se perde conoscenza o il vuoto scompare. Il vuoto scompare se Ludmilla prende l'azione di Nascondersi o se il bersaglio è mai dietro copertura totale o a più di 30 piedi di distanza da lei.</p>
 <h3>Reazioni</h3>
-<p>Ludmilla può prendere fino a tre reazioni per turno, ma solo una per turno. Se Ludmilla perderebbe le sue reazioni e non è incapacitata, perde una reazione invece.</p>
+<p>Ludmilla può prendere fino a tre reazioni per turno, ma solo una per turno. Se Ludmilla dovesse perdere le sue reazioni, perde una reazione invece.</p>
 <p><strong><em>Nuvola di Nebbia.</em></strong> In risposta a subire danni, Ludmilla lancia <em>nuvola di nebbia</em> senza concentrazione.
 <p><strong><em>Nebbia Velenosa.</em></strong> In risposta a subire danni da una creatura entro 5 piedi, Ludmilla costringe quella creatura a riuscire in un <span class="highlight">tiro salvezza di Costituzione CD 14</span> o subire 7 (2d6) danni da veleno.</p>
 <p><strong><em>Imboscata.</em></strong> In risposta a sentire o vedere una creatura muoversi entro 30 piedi mentre è nascosta, Ludmilla si muove fino alla sua velocità verso di essa e la attacca con i suoi artigli.</p>
@@ -740,7 +741,7 @@ Il vampiro attacca se notato, o se un giocatore entra in quest'area da solo.
 ### Quartieri del Maggiordomo
 <span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K66.</em></span>
 
-Quest'area è per lo più come descritta in <span class="citation">K66. Quartieri del Maggiordomo (p. 78)</span>. Tuttavia, un **vampiro progenie** affamato si nasconde negli angoli ombrosi del soffitto. Un giocatore con un punteggio di Saggezza (Percezione) passivo di 16 o superiore nota una silhouette che si muove nell'angolo sud-ovest.
+Quest'area è per lo più come descritta in <span class="citation">K66. Quartieri del Maggiordomo (p. 78)</span>. Tuttavia, la sporcizia nella stanza non è stata ripulita da Cyrus, e un **vampiro progenie** affamato si nasconde negli angoli ombrosi del soffitto. Un giocatore con un punteggio di Saggezza (Percezione) passivo di 16 o superiore nota una silhouette che si muove nell'angolo sud-ovest.
 
 Il vampiro attacca se notato, o se un giocatore entra in quest'area da solo.
 # P6. Appartamenti del Re
@@ -935,6 +936,7 @@ Come con Ludmilla, Anastrasya combatte fino alla morte, non volendo affrontare l
 <strong>Grado di Sfida</strong> 7 (2,900 PE)<br>
 <strong>Bonus di Competenza</strong> +3
 <hr>
+<p><strong><em>Combattente in spazi ristretti.</em></strong> Anastrasya non subisce svantaggio alle prove di attacco a distanza quando si trova entro circa 1,5 metri da una creatura ostile.</p>
 <p><strong><em>Rigenerazione.</em></strong> Anastrasya recupera 10 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non è alla luce del sole o in acqua corrente. Se subisce danni radianti o danni da acqua santa, questo tratto non funziona all'inizio del suo prossimo turno.</p>
 <p><strong><em>Arrampicata da Ragno.</em></strong> Anastrasya può arrampicarsi su superfici difficili, incluso a testa in giù sui soffitti, senza bisogno di effettuare prove di abilità.</p>
 <p><strong><em>Ipersensibilità alla Luce Solare.</em></strong> Mentre è alla luce del sole, Anastrasya subisce 20 danni radianti all'inizio del suo turno e ha svantaggio ai tiri per colpire e alle prove di abilità.</p>
@@ -948,7 +950,7 @@ Come con Ludmilla, Anastrasya combatte fino alla morte, non volendo affrontare l
 <p><strong><em>Incantare.</em></strong> Una creatura entro 3 m deve effettuare un <span class="highlight">tiro salvezza di Saggezza CD 14</span>. In caso di fallimento, il bersaglio è magicamente incantato per 1 minuto o fino a quando Anastrasya perde la concentrazione (come se stesse concentrandosi su un incantesimo). Un bersaglio che non può vedere Anastrasya riesce automaticamente. Mentre è incantato, il bersaglio considera Anastrasya come un'amica fidata da ascoltare e proteggere; non è sotto il controllo di Anastrasya, ma prende le sue richieste e azioni nel modo più favorevole e permette ad Anastrasya di morderlo. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto in caso di successo.</p>
 <p><strong><em>Spinta Telecinetica.</em></strong> Anastrasya sceglie un oggetto che pesa da 1 a 23 kg entro 9 m che non è indossato o trasportato. L'oggetto vola in linea retta fino a 9 m in una direzione scelta da Anastrasya prima di cadere a terra, fermandosi prima se impatta contro una superficie solida. Se l'oggetto colpisce una creatura, quella creatura deve effettuare un <span class="highlight">tiro salvezza di Destrezza CD 14</span>. In caso di fallimento, l'oggetto colpisce il bersaglio e smette di muoversi. Quando l'oggetto colpisce qualcosa, l'oggetto e ciò che colpisce subiscono ciascuno 3d8 danni contundenti.</p>
 <h3>Reazioni</h3>
-<p>Anastrasya può effettuare fino a tre reazioni per round, ma solo una per turno. Se Anastrasya perderebbe le sue reazioni e non è incapacitata, perde una reazione invece.</p>
+<p>Anastrasya può effettuare fino a tre reazioni per round, ma solo una per turno. Se Anastrasya dovesse perdere le sue reazioni, perde una reazione invece.</p>
 <p><strong><em>Ritirata Notturna.</em></strong> In risposta a subire danni, Anastrasya può volare fino a metà della sua velocità senza provocare attacchi di opportunità.</p>
 <p><strong><em>Chiamata del Difensore (1/round).</em></strong> In risposta a essere bersagliata da un attacco, se Anastrasya ha incantato una creatura, comanda a quella creatura di usare la sua reazione, se disponibile, per muoversi fino alla sua velocità verso di lei. Se la creatura incantata termina il suo movimento entro 1,5 m da Anastrasya, diventa il bersaglio dell'attacco invece.</p>
 <p><strong><em>Difesa Telecinetica.</em></strong> In risposta a essere bersagliata da un attacco o incantesimo, Anastrasya evoca telecineticamente un oggetto che pesa da 1 a 23 kg entro 9 m che non è indossato o trasportato, ottenendo mezza copertura contro l'attacco o incantesimo scatenante.</p>
@@ -1005,7 +1007,7 @@ Come con Ludmilla, Anastrasya combatte fino alla morte, non volendo affrontare l
 <p><strong><em>Tempesta Telecinetica.</em></strong> Ogni creatura entro un <span class="highlight">raggio di 1,5 metri</span> da Anastrasya deve effettuare un <span class="highlight">tiro salvezza di Costituzione CD 14</span>, subendo <span class="highlight">4d4 danni da forza</span> se fallisce il tiro salvezza, o la metà dei danni se lo supera.</p>
 <p><strong><em>Strillo Orribile.</em></strong> Tutte le creature che possono sentire entro un <span class="highlight">raggio di 9 metri</span> devono superare un <span class="highlight">tiro salvezza di Costituzione CD 14</span> o subire i seguenti effetti: Se fallisce il tiro salvezza, una creatura ha svantaggio ai tiri per colpire, alle prove di abilità e ai tiri salvezza di concentrazione fino all'inizio del prossimo turno di Anastrasya. Se una creatura fallisce il tiro salvezza di 5 o più, è anche spaventata da Anastrasya fino all'inizio del suo prossimo turno. Se una creatura fallisce il tiro salvezza di 10 o più, è anche paralizzata fino alla fine del prossimo turno di Anastrasya.</p>
 <h3>Reazioni</h3>
-<p>Anastrasya può effettuare fino a tre reazioni per round, ma solo una per turno. Se Anastrasya perderebbe le sue reazioni e non è incapacitata, perde una reazione invece.</p>
+<p>Anastrasya può effettuare fino a tre reazioni per round, ma solo una per turno. Se Anastrasya dovesse perdere le sue reazioni, perde una reazione invece.</p>
 <p><strong><em>Attacco d'Ala.</em></strong> Quando Anastrasya subisce danni da una creatura entro 1,5 metri da lei, può costringere l'attaccante a effettuare un <span class="highlight">tiro salvezza di Forza CD 14</span>. Se fallisce il tiro salvezza, l'attaccante viene spinto indietro di <span class="highlight">3 metri</span>. Se fallisce il tiro salvezza di 5 o più, cade anche prono.</p>
 <p><strong><em>Comando Vampirico.</em></strong> Quando una creatura si muove entro 3 metri da Anastrasya o le infligge danni mentre si trova entro 3 metri da lei, può usare la sua reazione per costringere la creatura a effettuare un <span class="highlight">tiro salvezza di Saggezza CD 14</span>. Se fallisce il tiro salvezza, Anastrasya può comandare la creatura come se avesse lanciato l'incantesimo <em>comando</em>, senza spendere uno slot incantesimo o usare componenti.</p>
 </div>
@@ -1293,7 +1295,7 @@ Il cucchiaio di legno appartiene a Cyrus Belview. Se i giocatori sono visibili a
 <p>Le figure ruotano le teste e gli occhi verso di voi, ma non fanno alcun movimento per attaccare.</p>
 </div>
 
-Ogni nicchia è occupata da quattro **zombi**, tranne per la nicchia posteriore sinistra. In ciascuna delle quattro nicchie centrali, uno dei quattro zombi è uno **zombi diffusore di piaghe** (<span class="citation">Guida di Van Richten a Ravenloft, p. 255</span>) con le seguenti modifiche:
+Ogni nicchia è occupata da quattro **zombi**, tranne per la nicchia posteriore sinistra. Nella seconda e quarta riga, uno dei quattro zombi in ogni alcova è uno **zombi diffusore di piaghe** (<span class="citation">Guida di Van Richten a Ravenloft, p. 255</span>) con le seguenti modifiche:
 
 * Aumenta i punti ferita di ogni diffusore di piaghe a 130
 * Riduci i danni necrotici inflitti da un ***colpo*** di un diffusore di piaghe a 5 (1d8), e riduci i danni inflitti dalla sua ***miasma virulento*** a 7 (2d6) danni da veleno per creatura.
@@ -1446,7 +1448,12 @@ Quest'area è per lo più come descritta in <span class="citation">K46. Parapett
 ### Scala della Torre Nord
 <span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K20.</em></span>
 
-Quest'area è per lo più come descritta in <span class="citation">K20. Cuore del Dolore (p. 59)</span>.
+Questa area è per lo più come descritta in <span class="citation">K20. Cuore del Dolore (p. 59)</span>. Inoltre, quando i giocatori arrivano a questo livello, leggi:
+
+<div class="description">
+<p>Il pianerottolo è fiancheggiato da scale di pietra a spirale, una che scompare nella sommità della torre sopra e l’altra che scende nell’oscurità molto più in basso. Dieci alabarde ossidate sono appese alle staffe sopra le scale, il loro acciaio arrugginito luccicando sinistramente a ogni lampo.</p>
+<p>Il bagliore rosso tremolante sembra emanare da un grande oggetto deforme che fluttua al centro vuoto della torre—e mentre posate il piede sul pianerottolo, la luce improvvisamente esplode in vita. Fluttuando a circa 3 metri sopra il pianerottolo c’è un cuore umano di cristallo rosso, di circa 3 metri di diametro, le cui profondità vibrano di una luce rosso scarlatto. All’interno si agita lentamente una sottile striscia di tenebra assoluta, lunga non più di pochi centimetri.</p>
+</div>
 
 > [!info]+ **Il Cuore del Dolore**
 > Il Cuore del Dolore è per lo più come descritto in  <span class="citation">K20. Cuore del Dolore (p. 59)</span>. Tuttavia, è immune a tutti i danni, e nessun **vampiro progenie** attacca i personaggi che lo attaccano. Inoltre, invece di scuotere la torre al conteggio di iniziativa 10 di ogni round, il Cuore scuote la torre ogni volta che i giocatori tentano di salire un ulteriore piano verso il Cuore. 
@@ -1462,6 +1469,16 @@ Quest'area è per lo più come descritta in <span class="citation">K20. Cuore de
 > Il Cuore del Dolore è per lo più come descritto in  <span class="citation">K20. Cuore del Dolore (p. 59)</span>. Tuttavia, è immune a tutti i danni, e nessun **vampiro progenie** attacca i personaggi che lo attaccano. Inoltre, invece di scuotere la torre al conteggio di iniziativa 10 di ogni round, il Cuore scuote la torre ogni volta che i giocatori tentano di salire un ulteriore piano verso il Cuore.
 >
 > Un personaggio che fallisce il tiro salvezza di Destrezza contro la torre che si scuote e cade di conseguenza può aggrapparsi al bordo delle scale riuscendo in un tiro salvezza di Destrezza CD 20. Un personaggio adiacente a un personaggio che cade può afferrarlo riuscendo in un tiro salvezza di Destrezza CD 10.
+
+> [!info]+ **La sottile striscia di tenebra**
+> TLa striscia di tenebra è il residuo del Divoratore, la quarta sorella delle tre Signore dei Fanes. Un tempo nota come la Sognatrice, divenne invidiosa dell’amore che i Popoli Antichi provavano per le sue sorelle e abbandonò il suo posto tra loro, trasformandosi nel Divoratore.
+>
+> Le Signore — la Cercatrice, la Tessitrice e la Cacciatrice —, con dolore, abbatterono la loro sorella più giovane per proteggere la gente della valle. Il corpo del Divoratore divenne il Muro Sussurrante a Yester Hill, ma un dio non può morire del tutto. Molti anni dopo, i maghi del Tempio d’Ambra rinvennero la scintilla divina del Divoratore e la sigillarono in un sarcofago d’ambra nel Tempio d’Ambra.
+>
+> Il Divoratore era maestro della magia delle anime — e così, quando Strahd venne a conoscenza della Grande Congiunzione, capì che poteva sfruttare la sua conoscenza per costruire il suo piano per sfuggire alle Nebbie. Estrasse il residuo del Divoratore dalla sua prigione d’ambra in <span class="citation">X33d. Cella Violata (p. 192)</span> e la richiuse con la forza nel Cuore del Dolore, dove poteva richiamarne il potere e il sapere a piacimento.
+>
+> Il Divoratore non partecipa volontariamente agli intrighi di Strahd. Tuttavia, mentre è intrappolata nel Cuore del Dolore, è incapace di opporsi ai suoi tormenti.
+
 ## P10g. Guarnigione, Sesto Piano
 ### Sbarco del Generale
 <span class="citation"><em>Questa scena si svolge nel Capitolo 4, Area K20.</em></span>
@@ -1606,11 +1623,15 @@ Emil, who has three levels of exhaustion, has been locked in his cell for weeks.
 
 > [!abstract]+ **Milivoj's Prison**
 > If Milivoj was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in <span class="citation">K75c. Empty Cell (p. 81)</span>.
-> 
+>
+
+> [!abstract]+ **La prigione di Henrik**
+> Se Henrik è stato imprigionato nel Castello Ravenloft in [[Arc D - La Festa di S. Andral]], è rinchiuso in <span class="citation">K75e. Cella Vuota (p. 81)</span>.
+
 ## P11d. Torture Chamber
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K76 & K77.</em></span>
 
-This area is largely as described in <span class="citation">K76. Torture Chamber (p. 82)</span> and <span class="citation">K77. Observation Balcony (p. 82)</span>. However, remove the reference to the “last victims" of the torture devices in the water. In addition, replace the six **Strahd zombies** with three **zombies**, and add a three-foot amphora and an *alchemy jug* beside the thrones on the balcony. The amphora is filled with several gallons of oil, which is otherwise as described in <span class="citation">Oil (Flask) (Player’s Handbook, p. 152)</span>.
+This area is largely as described in <span class="citation">K76. Torture Chamber (p. 82)</span> and <span class="citation">K77. Observation Balcony (p. 82)</span>. However, remove the reference to the “last victims" of the torture devices in the water. In addition, replace the six **Strahd zombies** with three **zombies**, and add a three-foot amphora and an *alchemy jug* beside the thrones on the balcony. The amphora is filled with several gallons of oil, which is otherwise as described in <span class="citation">Oil (Flask) (Player’s Handbook, p. 152)</span>. Also, there is an extra **zombie** operating the rack. It is docile and only attacks in self-defense.
 
 > [!info]+ **Climbing the Balcony**
 > A successful DC 10 Strength (Athletics) check is required to climb the edge of the observation balcony.
@@ -1720,6 +1741,7 @@ On initiative count 20 of each subsequent round, the oil spreads an additional f
 <strong>Challenge</strong> 5 (1,800 XP)<br>
 <strong>Proficiency</strong> +3<br>
 <hr>
+<p><strong><em>Combattente in spazi ristretti.</em></strong> Volenta non subisce svantaggio alle prove di attacco a distanza quando si trova entro circa 1,5 metri da una creatura ostile.</p>
 <p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
 <p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
 <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
@@ -1733,7 +1755,7 @@ On initiative count 20 of each subsequent round, the oil spreads an additional f
 <h3>Bonus Actions</h3>
 <p><strong><em>Nimble Escape.</em></strong> Volenta takes the Disengage or Hide action.</p>
 <h3>Reactions</h3>
-<p>Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions and isn't incapacitated, she loses one reaction instead.</p>
+<p>Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions, she loses one reaction instead.</p>
 <p><strong><em>Final Conflagration.</em></strong> When Volenta is reduced to 0 hit points, she can use her alchemist's firebomb if available, centered on herself. (Any damage taken doesn’t carry over to her second form.)</p>
 <p><strong><em>Acrobatic Escape.</em></strong> When an attack misses Volenta, she can use her reaction to move up to half her speed without provoking opportunity attacks.</p>
 <p><strong><em>Caustic Splash (1/day).</em></strong> When Volenta takes damage from a creature within 5 feet of her, she can use her reaction to splash that creature with caustic chemicals. The creature must make a <span class="highlight">DC 14 Dexterity saving throw</span>. On a failed save, the creature takes <span class="highlight">14 (4d6) acid damage</span> and is blinded until the end of Volenta's next turn. On a successful save, the creature takes half damage and isn't blinded.</p>
@@ -1786,12 +1808,13 @@ On initiative count 20 of each subsequent round, the oil spreads an additional f
 <p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack. If both attacks hit, she can immediately make one additional attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
 <p><strong><em>Dislocate.</em></strong> Volenta dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has her grappled.</p>
 <h3>Reactions</h3>
+<p>Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions, she loses one reaction instead.</p>
 <p><strong><em>Spit Blood.</em></strong> In response to taking damage from a melee attack, Volenta spits a wad of blood at the attacking creature's eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.</p>
 <p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
 <p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.</p>
@@ -1890,8 +1913,10 @@ This area is largely as described in <span class="citation">K84. Catacombs (p. 8
 This row of crypts is largely as described in <span class="citation">Crypt 1 (p. 86)</span>, <span class="citation">Crypt 2 (p. 86)</span>, <span class="citation">Crypt 3 (p. 86)</span>, <span class="citation">Crypt 4 (p. 86)</span>, <span class="citation">Crypt 5 (p. 86)</span>, and <span class="citation">Crypt 6 (p. 86)</span>. However, replace the epigraph and contents of Crypt 6 with the epigraph and contents of <span class="citation">Crypt 40 (p. 93)</span>, and remove the trap surrounding Crypt 6.
 
 Players who exit <span class="citation">K81. Tunnel (p. 84)</span> via Crypt 1, or who approach the intersection between Crypts 2, 7, and 8 observe a human corpse lying on the stone floor just south of <span class="citation">Crypt 2 (p. 87)</span>. (The corpse is a **zombie. See below for more information.**)
+
 #### North Crypts, Second Row
-This row of crypts is largely as described in <span class="citation">Crypt 7 (p. 87)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, and <span class="citation">Crypt 11 (p. 87)</span>. However, a player who picks up Tasha Petrovna’s holy symbol in <span class="citation">Crypt 11 (p. 87)</span> does not hear a message.
+
+This row of crypts is largely as described in <span class="citation">Crypt 7 (p. 87)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, and <span class="citation">Crypt 11 (p. 87)</span>. However, Tasha Petrovna’s holy symbol in <span class="citation">Crypt 11 (p. 87)</span> is not present; instead, it is currently worn by Father Lucian in Vallaki.
 
 In addition, a human corpse lies sprawled across the floor immediately south of <span class="citation">Crypt 2 (p. 87)</span>. If approached, the corpse rises as a **zombie** and attacks.
 
@@ -1968,8 +1993,10 @@ This row of crypts is largely as described in <span class="citation">Crypt 30 (p
 In addition, remove the **imp** from Crypt 34, and place the *Spear of the Huntress* inside of the sarcophagus there.
 
 > [!item]+ **Spear of the Huntress**
-> This six-foot shaft of ash wood is adorned with carvings of wild animals, vines, and leaves, and bears a simple, yet sharp stone head. When first recovered from Dostron’s sarcophagus, it has the properties of a *blood spear* (<span class="citation">Blood Spear, p. 221</span>), but its wielder gains only a +1 bonus to attack and damage rolls made with it instead of +2. (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored only by reconsecrating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav on Mount Ghakis.)
+> This six-foot shaft of ash wood is adorned with carvings of wild animals, vines, and leaves, and bears a simple, yet sharp stone head. When first recovered from Dostron’s sarcophagus, it has the properties of a *blood spear* (<span class="citation">Blood Spear, p. 221</span>), but its wielder gains only a +1 bonus to attack and damage rolls made with it instead of +2. (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored in [[Arc T - The Three Fanes]] by either communing with the spirit of the Huntress, or reconsecrating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav in [[Arc R - Trials of the Mountain]].)
+
 #### South Crypts, Third Row
+
 This row of crypts is largely as described in <span class="citation">Crypt 35 (p. 92)</span>, <span class="citation">Crypt 36 (p. 92)</span>, <span class="citation">Crypt 37 (p. 92)</span>, <span class="citation">Crypt 38 (p. 92)</span>, <span class="citation">Crypt 39 (p. 93)</span>, and <span class="citation">Crypt 40 (p. 93)</span>. However, the **hell hounds** and General Grislek’s **wraith** do not emerge from Crypt 38 when it is first opened. In addition, Beucephalus cannot be found in Crypt 39 at this time. Finally, move the invisible teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> to the base of the stairs in Strahd’s tomb (see below).
 
 > [!combat]- **Balancing the Thirty-Fifth Crypt** 
@@ -2056,6 +2083,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <strong>Challenge</strong> 14<br>
 <strong>Proficiency</strong> +5<br>
 <hr>
+<p><strong><em>Close Quarters Fighter.</em></strong> Rahadin doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
 <p><strong><em>Indomitable.</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)
@@ -2072,7 +2100,8 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
 <p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
 <h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
 <p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
 <p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
@@ -2126,7 +2155,6 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <hr>
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Indomitable.</em></strong> If Rahadin would fail a saving throw, he can choose to succeed instead. If he does so, he is hindered until the end of his next turn. While hindered, he is slowed, can use one less reaction per round, and can't use his multiattack. (A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.)
 <p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
@@ -2137,7 +2165,8 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
 <p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
 <h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions and isn't incapacitated, he loses one reaction instead.</p>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
 <p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
 <p><strong><em>Amulet of Ravenloft (1/day).</em></strong> When Rahadin is reduced to 50 hit points or fewer, he can use his reaction to end all effects currently affecting him, and use the <em>Amulet of Ravenloft</em> (see below). If he was reduced to 0 hit points, he drops to 1 hit point instead and suffers an internal injury as described in <span class="citation">Lingering Injuries (Dungeon Master's Guide, p. 272)</span>. He can then move up to his speed without triggering opportunity attacks.</p>
