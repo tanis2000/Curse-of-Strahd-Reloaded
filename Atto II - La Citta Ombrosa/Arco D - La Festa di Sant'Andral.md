@@ -12,9 +12,9 @@ Riusciranno i giocatori a sventare il piano di Volenta e a ripristinare la prote
 > [!abstract]+ **Un Inizio Precoce**
 > Se i giocatori portano Ireena alla Chiesa di Sant'Andral la prima notte a Vallaki (cioè, "giorno zero" a Vallaki), arrivano a trovare Padre Lucian che sta finendo un servizio per la sua congregazione. Dopo aver dato rassicurazioni a Wilemina Rikalova (vedi [[Atto I - Nelle Nebbie/Arco C - Nella Valle#Uscendo dall'Inn|Arco C - Nella Valle]] per maggiori informazioni su Wilemina), Padre Lucian accoglie i giocatori e Ireena nella chiesa e offre il suo aiuto.
 > 
-> Se viene detto che Ireena spera di trovare rifugio nella chiesa, Padre Lucian è felice di offrirle un pallet su cui dormire nella cappella. Dopo che Ireena si offre di compensarlo per la sua gentilezza, Padre Lucian considera la sua richiesta, poi la invita ad aiutare con le faccende e l'educazione di Yeska per tutta la durata del suo soggiorno—una richiesta che Ireena accetta con gratitudine.
+> Se viene detto che Ireena spera di trovare rifugio nella chiesa, Padre Lucian è felice di offrirle un giaciglio su cui dormire nella cappella. Dopo che Ireena si offre di ricompensarlo per la sua gentilezza, Padre Lucian considera la sua richiesta, poi la invita ad aiutare con le faccende e l'educazione di Yeska per tutta la durata del suo soggiorno—una richiesta che Ireena accetta con gratitudine.
 > 
-> La mattina seguente, dopo che le ossa di Sant'Andral sono state rubate come descritto di seguito, Ireena visita i giocatori al Blue Water Inn prima della loro conversazione con Urwin Martikov descritta in [[Atto I - Nelle Nebbie/Arco C - Nella Valle#Il Consiglio di Urwin|Arco C - Nella Valle]] e chiede loro di visitare la chiesa per parlare con Padre Lucian di un "incidente". (Padre Lucian le ha chiesto di non parlare dell'incidente al di fuori della chiesa, per paura di scatenare il panico.) Il resto di questo arco procede quindi normalmente.
+> La mattina seguente, dopo che le ossa di Sant'Andral sono state rubate come descritto di seguito, Ireena visita i giocatori alla Locanda dell'Acqua Blu prima della loro conversazione con Urwin Martikov descritta in [[Atto I - Nelle Nebbie/Arco C - Nella Valle#Il Consiglio di Urwin|Arco C - Nella Valle]] e chiede loro di visitare la chiesa per parlare con Padre Lucian di un "incidente". (Padre Lucian le ha chiesto di non parlare dell'incidente al di fuori della chiesa, per paura di scatenare il panico.) Il resto di questo arco procede quindi normalmente.
 
 # D1. Chiesa di Sant'Andral
 
@@ -55,9 +55,9 @@ Gli occupanti della chiesa seguono il seguente programma a meno che non vengano 
 > 
 > Quando Strahd si risvegliò dal suo recente letargo, la sua sposa vampirica Volenta Popofsky decise di impressionarlo nell'unico modo che conosceva: con una sfrenata dimostrazione di sofferenza, carneficina e terrore. Dove meglio, pensò, di un massacro raccapricciante nella Chiesa di Sant'Andral nella notte della sua festa più sacra?
 > 
-> Era una notte buia e ventosa quando Volenta fece visita a Henrik van der Voort, il costruttore di bare di Vallaki. Trovando un piacere macabro nell'ambientazione, e trovando il solitario Henrik un bersaglio perfetto per i suoi complotti, Volenta minacciò educatamente di bruciare il suo negozio a meno che non le permettesse di usarlo come base per i suoi macchinazioni.
+> Era una notte buia e ventosa quando Volenta fece visita a Henrik van der Voort, il costruttore di bare di Vallaki. Trovando un piacere macabro nell'ambientazione, e trovando il solitario Henrik un bersaglio perfetto per i suoi complotti, Volenta minacciò educatamente di bruciare il suo negozio a meno che non le permettesse di usarlo come base per le sue macchinazioni.
 > 
-> Un Henrik terrorizzato capitolò presto, e Volenta stabilì un collegamento con il braciere di teletrasporto nei sotterranei del Castello Ravenloft. Usando quel collegamento, evocò due feroci **vampiri spawn**—ex membri della ribellione di Doru impazziti per la sete di sangue—e una trio di casse piene di terra di tomba in cui riposare.
+> Un Henrik terrorizzato capitolò presto, e Volenta stabilì un collegamento con il braciere di teletrasporto nei sotterranei del Castello Ravenloft. Usando quel collegamento, evocò due feroci **progenie vampire**—ex membri della ribellione di Doru, impazziti per la sete di sangue—e un trio di casse piene di terra di tomba in cui riposare.
 > 
 > Un residuo di un'epoca più antica, Volenta sapeva che le spoglie di Sant'Andral fornivano alla chiesa la sua protezione benedetta. Ordinò a Henrik di trovare e rubare quelle ossa prima della notte della Festa di Sant'Andral - con qualsiasi mezzo necessario.
 > 
@@ -100,13 +100,14 @@ Henrik poi si scusa e parte per tornare al suo negozio.
 Quando i giocatori entrano per la prima volta in questa area, leggi:
 
 <div class="description">
-<p>Una dozzina di candelabri ornati illuminano le file di banchi ben tenuti con la luce delle candele, proiettando una morbida luminescenza che tocca ogni angolo di questa cappella. All'estremità opposta della stanza, un altare di legno si erge orgogliosamente, scolpito con un raggiante sole con raggi che si estendono in una sfida allegra. Sei alte finestre fiancheggiano l'altare, anche se una sembra essere stata rotta, con frammenti di vetro che rivestono il suo scuro telaio di ferro come denti frastagliati.</p>
-<p>Un giovane uomo dalle spalle larghe e dai capelli neri sta in cima a una piccola scala davanti alla finestra rotta, inchiodando un telo per coprirla mentre un giovane ragazzo spazza il pavimento della cappella non lontano. Un sacerdote di mezza età, con capelli grigi e vesti pulite e ordinate, li osserva lavorare dai banchi, tenendo una scopa e sembrando perso nei suoi pensieri.</p>
+<p>Una dozzina di candelabri ornamentali avvolgono le file di panche ben tenute in una luce calda e tremolante, proiettando una morbida luminescenza che raggiunge ogni angolo di questa cappella. All’estremità opposta della stanza, un altare di legno si erge fiero, scolpito con un radioso sole stilizzato le cui raggiature si estendono in un’allegra sfida contro l’oscurità. Sei alte finestre incorniciano l’altare, anche se una di esse sembra infranta, con schegge di vetro che si allineano lungo la grata di ferro scuro come denti appuntiti.</p>
+<p>Un giovane uomo dalle larghe spalle e dai capelli neri si trova in cima a una piccola scala davanti alla finestra rotta, inchiodando un telo per coprirla, mentre un ragazzo spazza il pavimento della cappella poco distante. Un sacerdote di mezza età, dai capelli brizzolati e con vesti nitide e ordinate, li osserva lavorare dalle panche, tenendo una scopa tra le mani e con lo sguardo perso nei propri pensieri.</p>
 </div>
+
 
 Il giovane uomo è Milivoj, che è descritto in <span class="citation">N1. Chiesa di Sant'Andral (p. 97)</span>. Il sacerdote è Padre Lucian Petrovich. Il ragazzo è Yeska.
 
-![[Padre Lucian Petrovich.png]]
+![[Father Lucian Petrovich.png]]
 <span class="credit">"Padre Lucian Petrovich" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Quando i giocatori incontrano per la prima volta [[Personaggi Non Giocanti#Padre Lucian Petrovich|Padre Lucian]], li saluta calorosamente, riconoscendoli come nuovi arrivati a Vallaki, accogliendoli nella Chiesa di Sant'Andral e chiedendo se sono venuti in cerca di compagnia o per pregare il Signore del Mattino.
@@ -142,42 +143,43 @@ Padre Lucian accompagna i giocatori mentre completano la loro indagine, risponde
 Mentre accompagna il gruppo, Padre Lucian combatte al loro fianco, ma permette ai giocatori di prendere l'iniziativa negli incontri sociali e nell'esplorazione.
 
 > [!warning]+ **L'Aiuto di Padre Lucian**
-> Senza l'assistenza di Padre Lucian—e, in particolare, il danno e il danno radiante forniti dal suo incantesimo *guardiani spirituali* e dalla sua caratteristica ***eminence divina***—la battaglia al negozio del costruttore di bare in [[#D4c. La Trappola di Volenta]] è quasi impossibile. Per evitare un TPK, assicurati che accompagni i giocatori alla loro partenza dalla chiesa.
+> Senza l'assistenza di Padre Lucian—e, in particolare, la grande quantità di danni e il danno radiante forniti dal suo incantesimo *guardiani spirituali* e dalla sua caratteristica ***eminenza divina***  <span class="citation">(vedi Manuale dei Mostri (p. 348, “Sacerdote”))</span>—la battaglia al negozio del costruttore di bare in [[#D4c. La Trappola di Volenta]] è quasi impossibile. Per evitare un TPK, assicurati che accompagni i giocatori alla loro partenza dalla chiesa.
 
 ## D1c. La Scena del Crimine
 
 [[Personaggi Non Giocanti#Padre Lucian Petrovich|Padre Lucian]] è felice di condurre i giocatori alla posizione della cripta se richiesto. Leggi:
 
 <div class="description">
-<p>Una piccola pila di assi di legno fresche è appoggiata contro l'altare, una piccola borsa di chiodi seduta sulla loro superficie. Non lontano, le vecchie assi di legno dietro la cripta sono state sollevate e rotte, con bordi scheggiati che sporgono in angoli strani. Tra di loro, una piccola apertura scura scende in uno spazio buio e polveroso.</p>
+<p>Una piccola pila di assi di legno fresche è appoggiata contro l’altare, con un piccolo sacchetto di chiodi posato sopra. Poco distante, le vecchie assi del pavimento dietro la cripta sono state divelte e spezzate, con schegge appuntite che sporgono in direzioni irregolari. Tra di esse, una piccola apertura oscura scende in uno spazio buio e polveroso.</p>
 </div>
+
 
 Le assi fresche e i chiodi sono stati consegnati da Henrik. L'apertura è appena abbastanza larga da permettere a una persona di entrare e scende nella cripta.
 
 La cripta è descritta in <span class="citation">Ossa di Sant'Andral (p. 97)</span>, situata principalmente sotto l'altare della cappella. Se un giocatore entra nella cripta, leggi:
 
 <div class="description">
-<p>Scendi in una piccola camera buia e umida, le pareti fatte di blocchi di pietra grezza macchiati dall'età e dall'umidità. Al centro si trova una solitaria lastra di pietra, una depressione circolare vuota scolpita ordinatamente sulla sua superficie.</p>
+<p>Scendete in una piccola camera oscura e umida, le cui pareti sono fatte di blocchi di pietra grezzamente squadrati, macchiati dal tempo e dall’umidità. Al centro si erge una lastra di pietra solitaria, con un’incavatura circolare vuota scolpita con cura sulla sua superficie.</p>
 </div>
+
 
 La lastra conteneva le ossa fino a quando Milivoj le ha rubate.
 
 I giocatori possono trovare le seguenti informazioni indagando l'area intorno alla cripta:
 
 * Mentre indagano sulle assi del pavimento, i giocatori possono trovare un pezzo strappato di tessuto di lana grigia impigliato in un chiodo con una prova di Intelligenza (Indagare) CD 15, e una linea di sporco macchiato di ruggine strisciata su un'asse del pavimento con una prova di Saggezza (Percezione) CD 20.
-* Mentre indagano l'interno della cripta, i giocatori possono trovare diversi grumi di terra con una prova di Saggezza (Percezione) CD 10. Ogni grumo ha la forma di una grande impronta di stivale e contiene diverse lame di erba verde pallida e petali di fiori bianchi.
-
-* Mentre indagano l'altare o la lastra di pietra nella cripta, i giocatori possono trovare alcuni fili di capelli neri scuri con una prova di Saggezza (Percezione) CD 15.
+* Mentre indagano l'interno della cripta, i giocatori possono trovare diversi grumi di terra con una prova di Saggezza (Percezione) CD 10. Ogni grumo ha la forma di una grande impronta di stivale e contiene diversi steli di erba verde pallida e petali di fiori bianchi.
+* Mentre indagano l'altare o la lastra di pietra nella cripta, i giocatori possono trovare alcuni capelli neri scuri con una prova di Saggezza (Percezione) CD 15.
 
 Il tessuto è stato strappato dalla camicia di Milivoj mentre si abbassava, e la ruggine è stata lasciata quando ha usato la sua pala per sollevare le assi del pavimento.
 
-I grumi di terra sono stati lasciati quando gli stivali di Milivoj hanno toccato il pavimento della cripta. Padre Lucian può informare i giocatori che i petali provengono dalla pianta del ramson, che cresce in diverse macchie nel cimitero della chiesa.
+I grumi di terra sono stati lasciati quando gli stivali di Milivoj hanno toccato il pavimento della cripta. Padre Lucian può informare i giocatori che i petali provengono dalla pianta di aglio orsino, che cresce in diverse zone nel cimitero della chiesa.
 
 I capelli sono di Milivoj.
 
 ## D1d. Interrogare Yeska
 
-Se i giocatori scelgono di interrogare Yeska, [[Personaggi Non Giocanti#Padre Lucian Petrovich|Padre Lucian]] chiede loro di non premere troppo per ottenere informazioni. Il ragazzo è ancora emotivamente fragile dalla morte dei suoi genitori tre mesi fa, e Padre Lucian non desidera danneggiare il suo benessere mentale per un semplice sospetto di pericolo. (Yeska non sa che le ossa sono state rubate; Padre Lucian è stato attento a tenerlo lontano dal buco dietro l'altare.)
+Se i giocatori scelgono di interrogare Yeska, [[Personaggi Non Giocanti#Padre Lucian Petrovich|Padre Lucian]] chiede loro di non premere troppo per ottenere informazioni. Il ragazzo è ancora emotivamente fragile dalla morte dei suoi genitori tre mesi fa, e Padre Lucian non desidera danneggiare il suo benessere mentale per un semplice sospetto di pericolo. (Yeska non sa che le ossa sono state rubate; Padre Lucian è stato attento a tenerlo lontano dal foro dietro l'altare.)
 
 Se uno dei giocatori chiede a Yeska se ha detto a qualcun altro delle ossa, nega sinceramente di averlo fatto. Tuttavia, se i giocatori chiedono se qualcuno potrebbe aver sentito la sua conversazione con Padre Lucian, Yeska condivide che anche Milivoj era nella chiesa in quel momento. (Yeska, sebbene allarmato dalla direzione della conversazione, può anche essere persuaso a condividere che i racconti di Milivoj su Strahd che potrebbe attaccare la chiesa lo hanno incoraggiato a chiedere a Padre Lucian della protezione della chiesa in primo luogo.)
 
@@ -188,18 +190,20 @@ Se uno dei giocatori chiede a Yeska se ha detto a qualcun altro delle ossa, nega
 
 La casa di Milivoj si trova nel quartiere povero nord-occidentale di Vallaki, a breve distanza dalla Chiesa di Sant'Andral.
 
-<div class="description">
-<p>La strada fangosa che conduce al quartiere nord-occidentale della città è accidentata e irregolare, raffreddata da una nebbia persistente che sembra aggrapparsi alla terra bagnata sotto i tuoi piedi. Man mano che ti allontani dal centro della città, le strade si restringono e le case diventano più sporche e fatiscenti, l'odore di legno umido e muffa riempiendo le tue narici.</p>
-<p>Il tuo percorso ti porta a una struttura inclinata e decrepita che sembra afflosciarsi sotto il proprio peso. I suoi legni sono marci, le finestre incrinate e sporche. Davanti, una porta di legno traballante è leggermente fuori asse nel suo telaio sopra un piccolo portico macchiato di fango.</p>
+<div class="description">  
+<p>La strada fangosa che conduce al quartiere nord-ovest della città è irregolare e sconnessa, raffreddata da una nebbia persistente che sembra aggrapparsi alla terra inzuppata sotto i vostri piedi. Man mano che vi allontanate dal centro, le vie si fanno più strette e le case sempre più sporche e fatiscenti, mentre l’odore di legno umido e muffa vi riempie le narici.</p>  
+<p>Il vostro cammino vi porta davanti a una struttura inclinata e decrepita, che pare cedere sotto il proprio peso. Le travi sono marce, le finestre incrinate e luride. Davanti, una porta di legno malandata pende storta nel suo telaio, sopra un piccolo portico macchiato di fango.</p>  
 </div>
+
 
 Se i giocatori bussano alla porta, viene aperta pochi istanti dopo da Jarzinka, la madre di Milivoj. Leggi:
 
-<div class="description">
-<p>La porta si apre con un gemito, rivelando una donna magra e dagli occhi vitrei che si trova dall'altra parte. I suoi capelli sono unti e pendono in nodi sulle spalle, e una collana di perline dipinte pende intorno al collo, i suoi colori sbiaditi e scheggiati dall'età.</p>
-<p>Dietro di lei, un trio di bambini piccoli si rotola e grida mentre si rotolano in uno spazio abitativo angusto pieno di vecchi mobili logori e un vecchio tappeto macchiato. Altri due bambini—un ragazzo quasi adolescente con capelli lunghi e arruffati e una ragazza lentigginosa di età simile che indossa occhiali incrinati e troppo grandi—osservano curiosamente da dietro un paio di poltrone imbottite e rattoppate alla vista di te.</p>
-<p>La donna alla porta grugnisce, il suo sguardo vuoto ti scruta aspettandosi qualcosa.</p>
+<div class="description">  
+<p>La porta si apre con un gemito, rivelando una donna emaciata dagli occhi vitrei che si trova sull’altro lato. I suoi capelli, unti e aggrovigliati, le ricadono a ciocche sulle spalle, mentre una collana di perline dipinte le pende al collo, con i colori ormai sbiaditi e scheggiati dal tempo.</p>  
+<p>Alle sue spalle, tre bambini piccoli si rotolano lottando e urlando in un angusto spazio abitativo pieno di mobili vecchi e logori, e con un tappeto macchiato e consunto. Altri due bambini — un ragazzo quasi adolescente dai capelli lunghi e arruffati, e una ragazza lentigginosa di età simile con grandi occhiali incrinati — sbirciano incuriositi da dietro un paio di poltrone imbottite e rattoppate, osservandovi con attenzione.</p>  
+<p>La donna sulla soglia emette un grugnito, fissandovi con uno sguardo vuoto e pieno d’attesa.</p>  
 </div>
+
 
 I bambini sulle poltrone sono un ragazzo di dodici anni di nome Bogan e una ragazza di dieci anni di nome Zondra. I tre bambini che si rotolano a terra si chiamano Lazlo (otto anni), Grilsha (sette anni) e Dargos (cinque anni).
 
@@ -228,7 +232,7 @@ Pochi istanti dopo, il diciannovenne [[Personaggi Non Giocanti#Milivoj|Milivoj]]
 >
 > ***Relazioni.*** Milivoj è impiegato da Padre Lucian Petrovich, lavora segretamente per il costruttore di bare Henrik van der Voort, ed è il maggiore di nove figli di Oleg e Jarzinka, due Vallakiani dipendenti dai pasticcini da sogno.
 
-## D2a. Confrontare Milivoj
+## D2a. Affrontare Milivoj
 
 Vedendo i giocatori, il viso di Milivoj si rabbuia visibilmente e scuote delicatamente Victoria e Vasha dalle sue braccia e mette Jirko in grembo a Bogan. Una prova di Saggezza (Intuizione) CD 10 rivela che il suo linguaggio del corpo è diventato teso e che si sta muovendo a disagio.
 
@@ -238,7 +242,7 @@ Se i giocatori informano Milivoj che vogliono parlare con lui delle ossa di Sant
 
 Milivoj nega qualsiasi conoscenza delle ossa o del loro furto se gli viene chiesto direttamente. Tuttavia, afferma di aver visto una figura incappucciata osservare la chiesa due giorni fa da un vicolo. (La descrizione della figura incappucciata coincide casualmente con l'aspetto di Ernst Larnak, la spia di Fiona, anche se Milivoj non conosce Ernst o la natura del suo impiego.) Una prova di Saggezza (Intuizione) CD 10 rivela che sta parlando leggermente troppo velocemente.
 
-Se i giocatori accusano Milivoj di aver rubato le ossa e riescono in una prova di Carisma (Intimidazione) CD 15, Milivoj ammette di averle rubate, come descritto in <span class="citation">Ossa di Sant'Andral (p. 97)</span>. I giocatori che confrontano Milivoj con prove dalla cripta riescono automaticamente. Milivoj non può portare i giocatori al negozio del costruttore di bare da solo, ma nota che Padre Lucian può condurli lì.
+Se i giocatori accusano Milivoj di aver rubato le ossa e riescono in una prova di Carisma (Intimidazione) CD 15, Milivoj ammette di averle rubate, come descritto in <span class="citation">Ossa di Sant'Andral (p. 97)</span>. I giocatori che confrontano Milivoj parlando delle prove trovate nella cripta riescono automaticamente. Milivoj non può portare i giocatori al negozio del costruttore di bare da solo, ma nota che Padre Lucian può condurli lì.
 
 Se gli viene chiesto il motivo per cui ha rubato le ossa, Milivoj condivide le ragioni descritte in <span class="citation">Ossa di Sant'Andral (p. 97)</span>. Può anche condividere che, dopo che suo padre—un ex guardia di Vallaki—è stato ferito in un recente attacco di lupi, entrambi i suoi genitori hanno iniziato a comprare regolarmente pasticcini da sogno dalla venditrice Morgantha fuori dai cancelli. Con entrambi i genitori dipendenti dai prodotti di Morgantha, Milivoj vede se stesso come l'unico mezzo per evitare la povertà totale per i suoi fratelli. (Se gli viene chiesto, Milivoj può fornire una descrizione di base degli effetti dei pasticcini da sogno, come descritto in <span class="citation">Pasticcini da Sogno (p. 125)</span>.)
 
@@ -246,13 +250,13 @@ Se informato che le ossa potrebbero essere state rubate per consentire un attacc
 
 > [!abstract]+ **La Rivelazione di Milivoj**
 >
-> Se in seguito viene informato che le azioni di Henrik sono state dirette da uno degli spawn vampirici di Strahd e che il furto delle ossa avrebbe potuto consentire un massacro nella chiesa, [[Personaggi Non Giocanti#Milivoj|Milivoj]] è sopraffatto dall'ansia, dall'orrore e dal senso di colpa. Si prostra davanti a Padre Lucian e implora il suo perdono, offrendo di esiliarsi nei Boschi di Svalich se ciò compenserà il danno che ha causato. (Padre Lucian, ovviamente, rifiuta, abbracciando e perdonando Milivoj in lacrime.)
+> Se in seguito viene informato che le azioni di Henrik sono state dirette da una delle progenie vampiriche di Strahd e che il furto delle ossa avrebbe potuto consentire un massacro nella chiesa, [[Personaggi Non Giocanti#Milivoj|Milivoj]] è sopraffatto dall'ansia, dall'orrore e dal senso di colpa. Si prostra davanti a Padre Lucian e implora il suo perdono, offrendo di esiliarsi nei Boschi di Svalich se ciò compenserà il danno che ha causato. (Padre Lucian, ovviamente, rifiuta, abbracciando e perdonando Milivoj in lacrime.)
 
 ## D2b. Lasciare la Casa
 
 Una volta che Milivoj ha ammesso il furto delle ossa, [[Personaggi Non Giocanti#Padre Lucian Petrovich|Padre Lucian]] può condurre i giocatori al negozio del costruttore di bare. (Conosce bene il proprietario, Henrik, e spera di poter ragionare con lui.) Se i giocatori sembrano scettici, Padre Lucian—che ha le statistiche di un **sacerdote**—rivela che porta il simbolo sacro di Tasha Petrovna—sua antenata e potente seguace di Santa Markovia—e promette loro che è più che capace di difendersi.
 
-Se i giocatori suggeriscono di denunciare il furto delle ossa al borgomastro, Padre Lucian è riluttante a farlo, temendo la possibilità di scatenare il panico. Con una prova di Carisma (Persuasione) CD 15, tuttavia, i giocatori possono convincere Padre Lucian a unirsi a loro nel denunciare il furto al Barone Vallakovich, che risponde come descritto in **N6. Negozio del Costruttore di Bare.** (Se i giocatori non hanno Padre Lucian con loro, il borgomastro rifiuta di credere che le ossa siano responsabili della protezione divina della chiesa o di assistere i giocatori nel recuperarle.)
+Se i giocatori suggeriscono di denunciare il furto delle ossa al borgomastro, Padre Lucian è riluttante a farlo, temendo la possibilità di scatenare il panico. Con una prova di Carisma (Persuasione) CD 15, tuttavia, i giocatori possono convincere Padre Lucian a unirsi a loro nel denunciare il furto al Barone Vallakovich, che risponde come descritto in <span class="citation">N6. Negozio del Costruttore di Bare.</span> (Se i giocatori non hanno Padre Lucian con loro, il borgomastro rifiuta di credere che le ossa siano responsabili della protezione divina della chiesa o di assistere i giocatori nel recuperarle.)
 
 > [!abstract]+ **Denunciare il Furto**
 >
@@ -276,38 +280,38 @@ Se i giocatori riescono a rompere la porta del carro o a scassinare il lucchetto
 
 <span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N6.</em></span>
 
-Il negozio del costruttore di bare è in gran parte come descritto in <span class="citation">N6. Negozio del Costruttore di Bare (p. 116)</span>. Tuttavia, le casse in <span class="citation">N6f. Nido dei Vampiri (p. 118)</span> sono state sostituite da tre bare piene di terra di tomba del Castello Ravenloft, che contengono due **vampiri spawn** e **Volenta Popofsky**, una delle spose vampiriche di Strahd. Inoltre, i giocatori che esplorano <span class="citation">N6f. Nido dei Vampiri (p. 118)</span> trovano un pentagramma sbiadito di colore verde di 5 piedi di diametro bruciato sul pavimento al bordo della stanza, appena oltre le bare dei vampiri.
+Il negozio del costruttore di bare è in gran parte come descritto in <span class="citation">N6. Negozio del Costruttore di Bare (p. 116)</span>. Tuttavia, le casse in <span class="citation">N6f. Nido dei Vampiri (p. 118)</span> sono state sostituite da tre bare piene di terra di tomba del Castello Ravenloft, che contengono due **progenie vampiresche** e **Volenta Popofsky**, una delle spose vampiriche di Strahd. Inoltre, i giocatori che esplorano <span class="citation">N6f. Nido dei Vampiri (p. 118)</span> trovano un pentagramma sbiadito di colore verde di 1,5m di diametro bruciato sul pavimento al bordo della stanza, appena oltre le bare dei vampiri.
 
 > [!lore]+ **Il Pentagramma Bruciato**
-> Il pentagramma verde è un residuo dell'uso del braciere di teletrasporto da parte di Volenta in <span class="citation">K78. Sala del Braciere (p. 82)</span>. Se gli viene chiesto, Henrik non sa cosa significhi. Tuttavia, può condividere con i giocatori che, una notte poco dopo il suo primo incontro con Volenta, una luce verde malata ha lampeggiato attraverso il negozio, con i suoi due compagni **vampiri spawn** che uscivano da <span class="citation">N6f. Nido dei Vampiri (p. 118)</span> poco dopo.
+> Il pentagramma verde è un residuo dell'uso del braciere di teletrasporto da parte di Volenta in <span class="citation">K78. Sala del Braciere (p. 82)</span>. Se gli viene chiesto, Henrik non sa cosa significhi. Tuttavia, può condividere con i giocatori che, una notte poco dopo il suo primo incontro con Volenta, una luce verde malata ha lampeggiato attraverso il negozio, con i suoi due compagni **progenie vampiriche** che uscivano da <span class="citation">N6f. Nido dei Vampiri (p. 118)</span> poco dopo.
 
 Henrik van der Voort, il costruttore di bare, segue il seguente programma:
 
-* Al mattino, dorme fino a tardi, rimanendo a letto in **N6e. Camera da Letto di Henrik**.
-* A tarda mattinata, controlla ansiosamente che l'armadio contenente le ossa di Sant'Andral non sia stato disturbato, poi prepara la colazione in **N6d. Cucina**.
-* Nel pomeriggio, costruisce bare in **N6c. Laboratorio**.
-* La sera, prepara un pasto serale in **N6d. Cucina**.
-* Di notte, dorme in **N6e. Camera da Letto di Henrik.**
+* Al mattino, dorme fino a tardi, rimanendo a letto in <span class="citation">N6e. Camera da Letto di Henrik</span>.
+* A tarda mattinata, controlla ansiosamente che l'armadio contenente le ossa di Sant'Andral non sia stato disturbato, poi prepara la colazione in <span class="citation">N6d. Cucina</span>.
+* Nel pomeriggio, costruisce bare in <span class="citation">N6c. Laboratorio</span>.
+* La sera, prepara un pasto serale in <span class="citation">N6d. Cucina</span>.
+* Di notte, dorme in <span class="citation">N6e. Camera da Letto di Henrik</span>.
 
 ## D4a. Entrare nel Negozio
 
-I giocatori non possono accedere al negozio tramite persuasione, inganno o intimidazione; in ogni caso, Henrik risponderà come descritto in **N6. Negozio del Costruttore di Bare**.
+I giocatori non possono accedere al negozio tramite persuasione, inganno o intimidazione; in ogni caso, Henrik risponderà come descritto in <span class="citation">N6. Negozio del Costruttore di Bare</span>.
 
 Inoltre, nota che le finestre sono bloccate dall'interno e le porte sono sbarrate. Pertanto, i giocatori non possono aprire una finestra o una porta usando *strumenti da ladro*. Invece, i giocatori possono entrare nel negozio con uno dei seguenti mezzi:
 
-* Possono abbattere una o entrambe le porte sbarrate con una prova di Forza (Atletica) CD 20. Facendolo avvertono Henrik, che viene a confrontarsi con loro. (Facendolo non avvertono Volenta o i **vampiri spawn**, che presumono semplicemente che Henrik abbia fatto cadere una bara o un altro oggetto di legno.)
+* Possono abbattere una o entrambe le porte sbarrate con una prova di Forza (Atletica) CD 20. Facendolo avvertono Henrik, che viene a confrontarsi con loro. (Facendolo non avvertono Volenta o le **progenie vampiriche**, che presumono semplicemente che Henrik abbia fatto cadere una bara o un altro oggetto di legno.)
 * Possono usare la magia (ad esempio, *mano magica* o *passo velato*) per aprire le finestre o le porte dall'interno. Facendolo evitano di avvertire Henrik, che rimane nella sua posizione attuale.
 
-In entrambi i casi, Henrik non offre resistenza non appena vede che i giocatori sono entrati nel negozio. Invece, indovina correttamente che sono venuti a recuperare le ossa e li informa della posizione delle ossa e del pericolo del nido dei vampiri, come descritto in **N6. Negozio del Costruttore di Bare**. In cambio, implora di proteggerlo dai vampiri, che teme giustamente lo macelleranno per il suo tradimento. Non recupererà le ossa da solo, ma accompagnerà i giocatori al piano superiore se richiesto.
+In entrambi i casi, Henrik non offre resistenza non appena vede che i giocatori sono entrati nel negozio. Invece, indovina correttamente che sono venuti a recuperare le ossa e li informa della posizione delle ossa e del pericolo del nido dei vampiri, come descritto in <span class="citation">N6. Negozio del Costruttore di Bare</span>. In cambio, implora di proteggerlo dai vampiri, che teme giustamente lo macelleranno per il suo tradimento. Non recupererà le ossa da solo, ma accompagnerà i giocatori al piano superiore se richiesto.
 
-Henrik non sa che Volenta ha segretamente installato una trappola con ago avvelenato e un campanello a filo nel compartimento segreto dell'armadio dove sono conservate le ossa. Presume che i giocatori saranno in grado di recuperare tranquillamente le ossa, lasciare il negozio e scortarlo altrove in sicurezza.
+Henrik non sa che **Volenta** ha segretamente installato una trappola con ago avvelenato e un campanello a filo nel compartimento segreto dell'armadio dove sono conservate le ossa. Presume che i giocatori saranno in grado di recuperare tranquillamente le ossa, lasciare il negozio e scortarlo altrove in sicurezza.
 
 > [!abstract]+ **Tendere un'imboscata ai Vampiri**
 > I giocatori che tentano di tendere un'imboscata ai vampiri in <span class="citation">N6f. Nido dei Vampiri (p. 118)</span> prima di recuperare le ossa devono riuscire in una prova di Destrezza (Furtività) CD 14 per avvicinarsi a una cassa senza svegliare i vampiri vicini e in una prova di Destrezza (Furtività) CD 14 con svantaggio per aprirla. Un vampiro svegliato attacca gli intrusi a vista.
 
 ## D4b. Recuperare le Ossa
 
-Le ossa sono state nascoste come descritto in <span class="citation">N6e. Camera da Letto di Henrik (p. 117)</span>. Tuttavia, Volenta Popofsky ha aggiunto due ulteriori salvaguardie al compartimento segreto:
+Le ossa sono state nascoste come descritto in <span class="citation">N6e. Camera da Letto di Henrik (p. 117)</span>. Tuttavia, **Volenta Popofsky** ha aggiunto due ulteriori salvaguardie al compartimento segreto:
 
 * una trappola con **ago avvelenato** (<span class="citation">Guida del Dungeon Master, p. 123</span>), che si attiva a meno che un particolare pannello di legno non venga spinto prima di aprire il compartimento, e
 * un filo nascosto collegato all'apertura del compartimento, che si collega a un campanello alla base del compartimento a forma vagamente di testa del giocattolaio Gadof Blinsky, compreso il suo cappello da giullare e le campanelle.
@@ -319,7 +323,7 @@ La trappola con ago avvelenato può essere identificata e disarmata come descrit
 
 Il filo nascosto può essere identificato prima che il compartimento sia completamente aperto con una prova di Intelligenza (Indagare) CD 20 e disarmato con una prova di Destrezza (Strumenti da Ladro) CD 20.
 
-Aprire il compartimento senza disabilitare il filo o tentare senza successo di disarmare il filo fa sì che il campanello urli ad alta voce, "Non è divertente, non è Blinsky!" ripetutamente per 1 minuto, avvertendo i vampiri in **N6f. Nido dei Vampiri**.
+Aprire il compartimento senza disabilitare il filo o tentare senza successo di disarmare il filo fa sì che il campanello urli ad alta voce, "Non è divertente, non è Blinsky!" ripetutamente per 1 minuto, avvertendo i vampiri in <span class="citation">N6f. Nido dei Vampiri</span>.
 
 > [!lore]+ **Il Campanello**
 > Volenta ha acquistato il campanello da Gadof Blinsky di Blinsky Toys, descritto ulteriormente in <span class="citation">N7. Blinsky Toys (p. 118)</span>, alcune notti fa. Sebbene fosse tentata di ucciderlo o di prendere il giocattolo con la forza, l'affinità di Blinsky per il macabro portò Volenta a considerarlo uno spirito affine, e decise di risparmiargli la vita per un capriccio.
@@ -329,7 +333,7 @@ Aprire il compartimento senza disabilitare il filo o tentare senza successo di d
 
 ## D4c. La Trappola di Volenta
 
-Se i giocatori permettono al campanello di attivarsi, [[Personaggi Non Giocanti#Volenta Popofsky|Volenta]] e i suoi due fedeli **vampiri spawn** si alzano per affrontarli un round dopo, forzando il loro ingresso in **N6d. Cucina** o (se i giocatori sono già usciti da **N6e. Camera da Letto di Henrik**) bloccando il percorso dei giocatori giù per le scale. Quando i vampiri appaiono, usano il loro ***arrampicata del ragno*** per arrampicarsi sui muri prima di scendere al livello dei giocatori, con Volenta accovacciata a testa in giù sul soffitto dietro di loro.
+Se i giocatori permettono al campanello di attivarsi, [[Personaggi Non Giocanti#Volenta Popofsky|Volenta]] e i suoi due fedeli **progenie di vampiro** si alzano per affrontarli un round dopo, forzando il loro ingresso in <span class="citation">N6d. Cucina</span> o (se i giocatori sono già usciti da <span class="citation">N6e. Camera da Letto di Henrik</span>) bloccando il percorso dei giocatori giù per le scale. Quando i vampiri appaiono, usano la loro ***arrampicata del ragno*** per arrampicarsi sui muri prima di scendere al livello dei giocatori, con Volenta accovacciata a testa in giù sul soffitto dietro di loro.
 ![[Volenta Popofsky.png]]
 <span class="credit">"Volenta Popofsky" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -352,25 +356,25 @@ Se i giocatori permettono al campanello di attivarsi, [[Personaggi Non Giocanti#
 >
 > ***Relazioni.*** Volenta è fanaticamente leale a Strahd von Zarovich e vede le altre spose e consorti di Strahd—soprattutto Anastrasya, Ludmilla ed Escher—con profondo risentimento, gelosia e sospetto.
 
-Volenta usa i due vampiri spawn con lei come copertura, mettendoli tra lei e i giocatori. Poi li saluta come segue, dando loro l'opportunità di rispondere ogni volta:
+Volenta usa le due progenie di vampiro con lei come copertura, mettendoli tra lei e i giocatori. Poi li saluta come segue, dando loro l'opportunità di rispondere ogni volta:
 
 * Volenta si rivolge ai giocatori come "i nuovi giocattoli del suo Signore" con divertimento e incredulità.
 * Afferma che sono "meno impressionanti" di quanto si aspettasse e si vanta che né loro né "Ludmilla, Anastrasya o il nuovo giocattolo magro del suo Signore potrebbero reggere il confronto con la sua visione." (Il "nuovo giocattolo magro" si riferisce a Escher.)
 * Insiste che i giocatori non potrebbero fermare il suo piano se ci provassero. "Una volta che farò scorrere il sangue sui banchi della tua piccola chiesa," esulta, "il mio amato riconoscerà il vero gioiello del suo regno—_me!_"
-* Osserva che è fortunato che si trovino in un negozio di bare, aggiungendo: "Dopotutto, avranno *qualche posto* dove mettere le tue parti quando avrò finito con te." Poi dirige gli altri vampiri ad attaccare.
+* Osserva che sono fortunati a trovarsi in un negozio di bare, aggiungendo: "Dopotutto, avranno *qualche posto* dove mettere le vostre parti quando avrò finito con voi." Poi dirige gli altri vampiri ad attaccare.
 
 > [!combat]- **Bilanciare la Prima Sposa**
 > A causa della meccanica delle fasi e del punto di strozzatura, questa è una serie di due incontri consecutivi **brutali** contro un gruppo di cinque giocatori di 4° livello e un alleato di GS 3 (Padre Lucian), con ciascuno che consuma circa il 24% dei punti ferita massimi totali dei giocatori (per un totale del 48% dei loro punti ferita massimi). Per gruppi di dimensioni minori o maggiori, modifica l'incontro come segue:
 > 
-> * ***Tre Giocatori.*** Rimuovi i vampiri spawn.
-> * ***Quattro Giocatori.*** Riduci il numero di vampiri spawn a uno.
-> * ***Sei Giocatori.*** Aumenta il numero di vampiri spawn a tre.
+> * ***Tre Giocatori.*** Rimuovi le progenie di vampiri.
+> * ***Quattro Giocatori.*** Riduci il numero di progenie di vampiri a uno.
+> * ***Sei Giocatori.*** Aumenta il numero di progenie di vampiri a tre.
 
 > [!warning]+ **Luce Solare a Barovia**
 > Ricorda che i vampiri e altre creature a Barovia non sono influenzati dalla luce solare Baroviana, come descritto in <span class="citation">Luce Solare a Barovia (p. 24)</span>.
 
 > [!warning]+ **I Vampiri Non Sono Umanoidi**
-> Ricorda che i **vampiri spawn**, inclusa Volenta, hanno il tipo **non-morto**, piuttosto che il tipo **umanoide**. Pertanto, incantesimi ed effetti che bersagliano solo umanoidi, come _blocca persona_, o che non possono influenzare i non-morti, come _comando_, non hanno effetto su Volenta e sui vampiri che l'accompagnano.
+> Ricorda che le **progenie di vampiro**, inclusa Volenta, sono di tipo **non-morto**, piuttosto che di tipo **umanoide**. Pertanto, incantesimi ed effetti che bersagliano solo umanoidi, come _blocca persona_, o che non possono influenzare i non-morti, come _comando_, non hanno effetto su Volenta e sui vampiri che l'accompagnano.
 
 <div class="statblock">
 <h2>Volenta, Prima Forma</h2>
@@ -380,7 +384,7 @@ Volenta usa i due vampiri spawn con lei come copertura, mettendoli tra lei e i g
 <br>
 <strong>Punti Ferita</strong> 82 (11d8 + 33)
 <br>
-<strong>Velocità</strong> 30 ft., arrampicata 30 ft.
+<strong>Velocità</strong> 9m, arrampicata 9m.
 <hr>
 <table class="ability-table">
   <thead>
@@ -408,7 +412,7 @@ Volenta usa i due vampiri spawn con lei come copertura, mettendoli tra lei e i g
 <strong>Tiri Salvezza</strong> Des +7, Sag +5<br>
 <strong>Abilità</strong> Acrobatica +10, Percezione +5, Furtività +10<br>
 <strong>Resistenze ai Danni</strong> necrotico; contundente, perforante e tagliente da attacchi non magici<br>
-<strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 15<br>
+<strong>Sensi</strong> scurovisione 18m., Percezione passiva 15<br>
 <strong>Linguaggi</strong> Comune<br>
 <strong>Grado di Sfida</strong> 5 (1,800 PE)<br>
 <strong>Competenza</strong> +3<br>
@@ -420,13 +424,13 @@ Volenta usa i due vampiri spawn con lei come copertura, mettendoli tra lei e i g
 <p><strong><em>Bramosia Risvegliata.</em></strong> Quando Volenta scende a 0 punti ferita, le sue narici si dilatano come quelle di un pipistrello, i suoi artigli si allungano e i suoi occhi iniziano a brillare di un rosso tenue. Le sue statistiche vengono quindi immediatamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio dell'iniziativa non cambia. I danni in eccesso non si trasferiscono alla sua nuova forma, ma mantiene qualsiasi condizione avesse nella sua forma precedente.</p>
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> Volenta usa <strong><em>pioggia di pugnali</em></strong> due volte, <strong><em>pugnale</em></strong> due volte, o <strong><em>pioggia di pugnali</em></strong> una volta e <strong><em>piede di porco</em></strong> o <strong><em>pietra del tuono</em></strong>.</p>
-<p><strong><em>Pioggia di Pugnali.</em></strong> <em>Attacco con Arma a Distanza:</em> +7 a colpire, gittata 15 ft., un bersaglio. <em>Colpito:</em> 9 (2d4 + 4) danni perforanti.</p>
-<p><strong><em>Pugnale.</em></strong> <em>Attacco con Arma da Mischia:</em> +7 a colpire, 5 ft., un bersaglio. <em>Colpito:</em> 6 (1d4 + 4) danni perforanti.</p>
-<p><strong><em>Piede di Porco (1/giorno).</em></strong> Volenta lancia una borsa di catrame nero appiccicoso e contorto in un punto a terra entro 30 piedi. La borsa esplode all'impatto, coprendo fino a due creature entro 5 piedi l'una dall'altra con catrame appiccicoso e costringendo ciascun bersaglio a superare un tiro salvezza di Forza CD 14 o essere trattenuto. Un bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto con un successo.</p>
-<p><strong><em>Pietra del Tuono (1/giorno).</em></strong> Volenta lancia un frammento cristallino contro una creatura, un oggetto o una superficie entro 30 piedi. Il frammento si frantuma all'impatto con un'esplosione di energia concussiva. Ogni creatura entro 10 piedi dal punto di impatto deve superare un tiro salvezza di Costituzione CD 14 o essere buttata a terra e spinta di 10 piedi lontano da quel punto. Una creatura che fallisce il tiro salvezza è anche assordata fino all'inizio del prossimo turno di Volenta.</p>
-<p><strong><em>Bomba di Fuoco dell'Alchimista (1/giorno).</em></strong> Volenta lancia una fiala di fuoco dell'alchimista concentrato in un punto entro 30 piedi. La fiala si frantuma all'impatto e detona in un raggio di 10 piedi. Qualsiasi creatura in quell'area deve superare un tiro salvezza di Destrezza CD 14 o subire 2d6 danni da fuoco e prendere fuoco. Una creatura che prende fuoco in questo modo subisce 1d4 danni da fuoco all'inizio di ciascuno dei suoi turni e può effettuare un ulteriore tiro salvezza di Destrezza CD 14 alla fine di ciascuno dei suoi turni per spegnere le fiamme.</p>
+<p><strong><em>Pioggia di Pugnali.</em></strong> <em>Attacco con Arma a Distanza:</em> +7 a colpire, gittata 4,5m, un bersaglio. <em>Colpito:</em> 9 (2d4 + 4) danni perforanti.</p>
+<p><strong><em>Pugnale.</em></strong> <em>Attacco con Arma da Mischia:</em> +7 a colpire, 1,5m, un bersaglio. <em>Colpito:</em> 6 (1d4 + 4) danni perforanti.</p>
+<p><strong><em>Piede di Porco (1/giorno).</em></strong> Volenta lancia una borsa di catrame nero appiccicoso e contorto in un punto a terra entro 9 metri. La borsa esplode all'impatto, coprendo fino a due creature entro 1,5m l'una dall'altra con catrame appiccicoso e costringendo ciascun bersaglio a superare un tiro salvezza di Forza CD 14 o essere trattenuto. Un bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto con un successo.</p>
+<p><strong><em>Pietra del Tuono (1/giorno).</em></strong> Volenta lancia un frammento cristallino contro una creatura, un oggetto o una superficie entro 9 metri. Il frammento si frantuma all'impatto con un'esplosione di energia concussiva. Ogni creatura entro 3 metri dal punto di impatto deve superare un tiro salvezza di Costituzione CD 14 o essere buttata a terra e spinta di 3 metri lontano da quel punto. Una creatura che fallisce il tiro salvezza è anche assordata fino all'inizio del prossimo turno di Volenta.</p>
+<p><strong><em>Bomba di Fuoco dell'Alchimista (1/giorno).</em></strong> Volenta lancia una fiala di fuoco dell'alchimista concentrato in un punto entro 9m. La fiala si frantuma all'impatto e detona in un raggio di 3 metri. Qualsiasi creatura in quell'area deve superare un tiro salvezza di Destrezza CD 14 o subire 2d6 danni da fuoco e prendere fuoco. Una creatura che prende fuoco in questo modo subisce 1d4 danni da fuoco all'inizio di ciascuno dei suoi turni e può effettuare un ulteriore tiro salvezza di Destrezza CD 14 alla fine di ciascuno dei suoi turni per spegnere le fiamme.</p>
 <h3>Reazioni</h3>
-<p><strong><em>Bastone Fumogeno (1/giorno).</em></strong> Quando Volenta viene ridotta a 0 punti ferita, se non è afferrata, trattenuta o incapacitata, può rompere un bastone di legno carbonizzato e nero, rilasciando una nuvola di fumo denso e opaco che crea un'area pesantemente oscurata in un raggio di 20 piedi. Può quindi muoversi fino alla sua velocità senza provocare attacchi di opportunità. Un vento moderato (almeno 10 miglia all'ora) disperde il fumo in 4 round; un vento forte (20 o più miglia all'ora) disperde il fumo in 1 round.
+<p><strong><em>Bastone Fumogeno (1/giorno).</em></strong> Quando Volenta viene ridotta a 0 punti ferita, se non è afferrata, trattenuta o incapacitata, può rompere un bastone di legno carbonizzato e nero, rilasciando una nuvola di fumo denso e opaco che crea un'area pesantemente oscurata in un raggio di 6m. Può quindi muoversi fino alla sua velocità senza provocare attacchi di opportunità. Un vento moderato (almeno 15km all'ora) disperde il fumo in 4 round; un vento forte (30 o più km all'ora) disperde il fumo in 1 round.
 </div>
 <br>
 <div class="statblock">
@@ -437,7 +441,7 @@ Volenta usa i due vampiri spawn con lei come copertura, mettendoli tra lei e i g
 <br>
 <strong>Punti Ferita</strong> 82 (11d8 + 33)
 <br>
-<strong>Velocità</strong> 30 ft., arrampicata 30 ft.
+<strong>Velocità</strong> 9m, arrampicata 9m
 <hr>
 <table class="ability-table">
   <thead>
@@ -465,7 +469,7 @@ Volenta usa i due vampiri spawn con lei come copertura, mettendoli tra lei e i g
 <strong>Tiri Salvezza</strong> Des +7, Sag +5<br>
 <strong>Abilità</strong> Acrobatica +10, Percezione +5, Furtività +10<br>
 <strong>Resistenze ai Danni</strong> necrotico; contundente, perforante e tagliente da attacchi non magici<br>
-<strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 15<br>
+<strong>Sensi</strong> scurovisione 18m, Percezione passiva 15<br>
 <strong>Linguaggi</strong> Comune<br>
 <strong>Grado di Sfida</strong> 6 (2,300 PE)<br>
 <hr>
@@ -476,9 +480,9 @@ Volenta usa i due vampiri spawn con lei come copertura, mettendoli tra lei e i g
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> Volenta effettua due attacchi, uno dei quali può essere un attacco di morso.</p>
 <p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, portata 1,5 m, una creatura consenziente, o una creatura che è afferrata da Volenta, incapacitata o trattenuta. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti più 7 (2d6) danni necrotici. Il massimo dei punti ferita del bersaglio è ridotto di un ammontare pari ai danni necrotici subiti, e Volenta recupera punti ferita pari a tale ammontare. Il bersaglio muore se questo effetto riduce il suo massimo dei punti ferita a 0. Ogni volta che il bersaglio termina un riposo lungo senza essere morso di nuovo, può tirare uno dei suoi dadi ferita e aggiungere il suo modificatore di Costituzione. Il massimo dei punti ferita del bersaglio aumenta di un ammontare pari al risultato. (Questo aumento non può far salire i punti ferita del bersaglio sopra il suo massimo originale.)</p>
-<p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 a colpire, portata 5 ft., una creatura. <em>Colpito:</em> 8 (2d4 + 3) danni taglienti. Invece di infliggere danni, Volenta può afferrare il bersaglio (fuga CD 13).</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 a colpire, portata 1,5m, una creatura. <em>Colpito:</em> 8 (2d4 + 3) danni taglienti. Invece di infliggere danni, Volenta può afferrare il bersaglio (fuga CD 13).</p>
 <h3>Azioni Bonus</h3>
-<p><strong><em>Balzo.</em></strong> Volenta si muove fino alla sua velocità senza provocare attacchi di opportunità. Mentre lo fa, può sostituire 10 piedi di movimento con un salto in alto di 10 piedi.</p>
+<p><strong><em>Balzo.</em></strong> Volenta si muove fino alla sua velocità senza provocare attacchi di opportunità. Mentre lo fa, può sostituire 3m di movimento con un salto in alto di 3m.</p>
 <p><strong><em>Dislocare.</em></strong> Volenta disloca le sue articolazioni, sfuggendo automaticamente a qualsiasi restrizione non magica, come manette o una creatura che la tiene afferrata.
 <h3>Reazioni</h3>
 <p>Volenta può effettuare fino a tre reazioni per round, ma solo una per turno. Se Volenta dovesse perdere le sue reazioni, ne perde solo una alla volta.</p>
@@ -490,17 +494,17 @@ Volenta usa i due vampiri spawn con lei come copertura, mettendoli tra lei e i g
 ### 1. Volenta
 [[Personaggi Non Giocanti#Volenta Popofsky|Volenta]] inizia il combattimento nella sua **prima forma**, preferendo iniziare la lotta lanciando la sua ***bomba di fuoco dell'alchimista.*** Successivamente, alterna l'uso della sua ***multiattacco*** per usare ***piede di porco*** e ***pietra del tuono***.
 
-Quando usa la sua ***pioggia di pugnali***, Volenta preferisce bersagliare i giocatori invece di Padre Lucian. Mentre li combatte, schernisce Padre Lucian con gioia, notando: "Avevo intenzione di strapparti la gola davanti alla tua carina piccola congregazione, ma immagino che decorare i gradini della chiesa con le teste e le interiora dei tuoi amici non sia un brutto secondo posto!"
+Quando usa la sua ***pioggia di pugnali***, Volenta preferisce bersagliare i giocatori invece di Padre Lucian. Mentre li combatte, schernisce Padre Lucian con gioia, notando: "Avevo intenzione di strapparti la gola davanti alla tua cara piccola congregazione, ma immagino che decorare i gradini della chiesa con le teste e le interiora dei tuoi amici non sia una brutta alternativa!"
 
-Volenta fugge dal combattimento se la sua prima forma viene ridotta a 0 punti ferita, usando la sua reazione *bastone fumogeno* per scappare se possibile. (Gli altri **vampiri spawn** non la accompagnano e combattono fino alla morte.)
+Volenta fugge dal combattimento se la sua prima forma viene ridotta a 0 punti ferita, usando la sua reazione *bastone fumogeno* per scappare se possibile. (Gli altri **progenie di vampiro** non la accompagnano e combattono fino alla morte.)
 
-Quando Volenta fugge, sfonda una finestra vicina e galoppa sui tetti come una bestia a quattro zampe. Mentre fugge, ringhia: "Pensi che la tua preziosa piccola chiesa possa tenerti al sicuro? Brucerà il resto di Vallaki per arrivare a te e ucciderà il resto di questa puzzolente feccia per costringerti a uscire!" Poi sogghigna ai giocatori e promette di rivederli presto prima di scomparire dalla vista dietro un camino.
+Quando Volenta fugge, sfonda una finestra vicina e galoppa sui tetti come una bestia a quattro zampe. Mentre fugge, ringhia: "Pensi che la tua preziosa piccola chiesa possa tenerti al sicuro? Il mio Signore brucerà il resto di Vallaki per arrivare a te e ucciderà il resto di questa puzzolente feccia per costringerti a uscire!" Poi sogghigna ai giocatori e promette di rivederli presto prima di scomparire dalla vista dietro un camino.
 
 ### 2. Padre Lucian
 
-[[Personaggi Non Giocanti#Padre Lucian Petrovich|Padre Lucian]] mantiene le statistiche di un **sacerdote**. Tuttavia, la sua caratteristica ***eminence divina*** ora recita come segue:
+[[Personaggi Non Giocanti#Padre Lucian Petrovich|Padre Lucian]] mantiene le statistiche di un **sacerdote**. Tuttavia, la sua caratteristica ***eminenza divina*** é come segue:
 
-* ***Eminence Divina.*** Come reazione quando vede un'altra creatura entro 30 piedi colpire con un attacco con arma, Padre Lucian può spendere uno slot incantesimo per far sì che quell'attacco infligga magicamente un danno radiante extra di 10 (3d6) a un bersaglio colpito. Se Padre Lucian spende uno slot incantesimo di 2° livello o superiore, il danno extra aumenta di 1d6 per ogni livello superiore al 1°.
+* ***Eminenza Divina.*** Come reazione quando vede un'altra creatura entro 9 metri colpita da un attacco con arma, Padre Lucian può spendere uno slot incantesimo per far sì che quell'attacco infligga magicamente un danno radiante extra di 10 (3d6) a un bersaglio colpito. Se Padre Lucian spende uno slot incantesimo di 2° livello o superiore, il danno extra aumenta di 1d6 per ogni livello superiore al 1°.
 
 In combattimento, Padre Lucian dirige i giocatori a formare una linea difensiva intorno alla porta, sperando di incanalare i vampiri uno per uno in un punto di strozzatura per eliminarli individualmente. Padre Lucian stesso cerca di terminare i suoi turni dietro una copertura completa in ogni round di combattimento, uscendo solo brevemente per bersagliare i vampiri con i suoi incantesimi offensivi.
 
@@ -510,7 +514,7 @@ Nel suo secondo turno, Padre Lucian lancia *arma spirituale*, evocando e attacca
 
 Nel suo terzo e nei turni successivi, Padre Lucian usa la sua azione per lanciare *dardo incantato* e la sua azione bonus per attaccare con *arma spirituale* ancora una volta.
 
-Se uno dei giocatori viene ridotto a 0 punti ferita, Padre Lucian spende la sua azione lanciando *cura ferite* su di loro. Se la sua concentrazione viene mai interrotta, spende la sua azione per rinnovare *guardiani spirituali* invece.
+Se uno dei giocatori viene ridotto a 0 punti ferita, Padre Lucian spende la sua azione lanciando *cura ferite* su di loro. Se la sua concentrazione viene interrotta, spende la sua azione per rinnovare *guardiani spirituali*.
 
 > [!info]+ **PNG Morenti**
 >
@@ -518,9 +522,9 @@ Se uno dei giocatori viene ridotto a 0 punti ferita, Padre Lucian spende la sua 
 >
 > Tuttavia, come notato in **Mostri e Morte** (<span class="citation">Manuale del Giocatore, p. 198</span>), i personaggi non giocanti alleati—come Padre Lucian, Ireena Kolyana e qualsiasi altro PNG che combatte al fianco dei giocatori—dovrebbero cadere incoscienti quando vengono ridotti a 0 punti ferita. Quando lo fanno, seguono le stesse regole per i tiri salvezza contro la morte dei personaggi giocanti, descritte ulteriormente in **Tiri Salvezza contro la Morte** (<span class="citation">Manuale del Giocatore, p. 197</span>).
 
-### 3. I Vampiri Spawn
+### 3. Le Progenie di Vampiro
 
-I due **vampiri spawn** combattono usando i loro ***artigli*** per afferrare i nemici, che poi trascinano via per banchettare in privato—preferibilmente trascinando la preda afferrata fuori dalle finestre e sui tetti del negozio. Entrambi gli spawn combattono fino alla morte.
+Le due **progenie di vampiro** combattono usando i loro ***artigli*** per afferrare i nemici, che poi trascinano via per banchettare in privato—preferibilmente trascinando la preda afferrata fuori dalle finestre e sui tetti del negozio. Entrambi i vampiri combattono fino alla morte.
 
 # D5. Recuperare le Ossa
 
@@ -534,7 +538,7 @@ Al crepuscolo della prima notte dopo che le ossa sono state recuperate e Lady Fi
 
 ## D6a. L'Invito
 
-Rahadin poi cavalca fino al Blue Water Inn o ovunque si trovino i giocatori. Lì, consegna ai giocatori un invito a cenare al Castello Ravenloft, come descritto in [[Arco O - Cena con il Diavolo]], prima di partire.
+Rahadin poi cavalca fino alla Locanda dell'Acqua Blu o ovunque si trovino i giocatori. Lì, consegna ai giocatori un invito a cenare al Castello Ravenloft, come descritto in [[Arco O - Cena con il Diavolo]], prima di partire.
 
 Poco dopo la partenza di Rahadin, un Yeska con il viso rosso e in lacrime si avvicina ai giocatori e li implora di venire rapidamente nella piazza della città. Milivoj, dice loro, è stato fatto prigioniero dalla guardia cittadina e sta per essere giustiziato. (Padre Lucian, che è già andato nella piazza della città per chiedere clemenza, ha mandato Yeska a trovare e convocare i giocatori quando Milivoj è stato portato via dai terreni della chiesa.)
 
@@ -615,7 +619,7 @@ Una volta che Rahadin è soddisfatto che la giustizia sia stata fatta, evoca di 
 <br>
 <strong>Punti Ferita</strong> 180 (24d8 + 72)
 <br>
-<strong>Velocità</strong> 35 ft.
+<strong>Velocità</strong> 9m
 <hr>
 <table class="ability-table">
   <thead>
@@ -642,12 +646,12 @@ Una volta che Rahadin è soddisfatto che la giustizia sia stata fatta, evoca di 
 <hr>
 <strong>Tiri Salvezza</strong> Des +11, Sag +8<br>
 <strong>Abilità</strong> Acrobatica +11, Inganno +9, Intuizione +8, Intimidazione +14, Percezione +13, Furtività +16<br>
-<strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 23<br>
+<strong>Sensi</strong> scurovisione 18m, Percezione passiva 23<br>
 <strong>Linguaggi</strong> Comune, Elfico<br>
 <strong>Grado di Sfida</strong> 14<br>
 <strong>Competenza</strong> +5<br>
 <hr>
-<p><strong><em>Urla dei Morti.</em></strong> Qualsiasi creatura entro 10 piedi da Rahadin che non sia protetta da un incantesimo <em>mente vuota</em> sente nella sua mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
+<p><strong><em>Urla dei Morti.</em></strong> Qualsiasi creatura entro 3 metri da Rahadin che non sia protetta da un incantesimo <em>mente vuota</em> sente nella sua mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
 <p><strong><em>Ascendenza Fatata.</em></strong> Rahadin ha vantaggio sui tiri salvezza contro essere affascinato e la magia non può farlo addormentare.</p>
 <p><strong><em>Indomabile.</em></strong>Se Rahadin fallisce un tiro salvezza, può scegliere di considerarlo come superato. Se lo fa, subisce la condizione di ostacolato fino alla fine del suo prossimo turno. Quando è ostacolato:<br>
 -	la sua velocità è ridotta (è rallentato),<br>
@@ -662,17 +666,17 @@ Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una cr
 <p><strong><em>Istinto Omicida.</em></strong> Quando Rahadin scende a 0 punti ferita, ripone la sua sciabola e sguaina le sue due scimitarre, <em>Spina</em> e <em>Catena</em>. Le sue statistiche vengono quindi immediatamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio dell'iniziativa non cambia. I danni in eccesso non si trasferiscono alla sua nuova forma e non mantiene alcuna condizione che aveva nella sua forma precedente.</p>
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> Rahadin effettua due attacchi.</p>
-<p><strong><em>Sciabola.</em></strong> <em>Attacco con Arma da Mischia:</em> +11 a colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 11 (1d8 + 6) danni taglienti, e Rahadin può spingere il bersaglio fino a 5 piedi di distanza. Invece di spingere il bersaglio, Rahadin può costringerlo a superare un tiro salvezza di Forza CD 15 o essere buttato a terra.</p>
+<p><strong><em>Sciabola.</em></strong> <em>Attacco con Arma da Mischia:</em> +11 a colpire, portata 1,5m, un bersaglio. <em>Colpito:</em> 11 (1d8 + 6) danni taglienti, e Rahadin può spingere il bersaglio fino a 1,5m di distanza. Invece di spingere il bersaglio, Rahadin può costringerlo a superare un tiro salvezza di Forza CD 15 o essere buttato a terra.</p>
 <p><strong><em>Dardo Avvelenato.</em></strong> <em>Attacco con Arma a Distanza:</em> +11 a colpire, gittata 20/60 ft., un bersaglio. <em>Colpito:</em> 14 (1d4 + 6 più 2d4) danni perforanti e da veleno, e il bersaglio deve superare un tiro salvezza di Costituzione CD 15 o essere avvelenato fino all'inizio del prossimo turno di Rahadin.</p>
 <h3>Azioni Bonus</h3>
-<p><strong><em>Colpo di Vento.</em></strong> Rahadin si muove fino alla sua velocità in linea retta verso uno spazio non occupato che può vedere, inclusi gli spazi nemici, senza provocare attacchi di opportunità. Ogni creatura entro 5 piedi da uno spazio che attraversa deve effettuare un tiro salvezza di Destrezza CD 19, subendo 7 (2d6) danni taglienti in caso di fallimento, o metà danno in caso di successo.</p>
-<p><strong><em>Lame Vorticose.</em></strong> Ogni creatura entro 10 piedi da Rahadin deve effettuare un tiro salvezza di Destrezza CD 19, subendo 7 (2d6) danni taglienti in caso di fallimento, o metà danno in caso di successo.</p>
+<p><strong><em>Colpo di Vento.</em></strong> Rahadin si muove fino alla sua velocità in linea retta verso uno spazio non occupato che può vedere, inclusi gli spazi nemici, senza provocare attacchi di opportunità. Ogni creatura entro 1,5m da uno spazio che attraversa deve effettuare un tiro salvezza di Destrezza CD 19, subendo 7 (2d6) danni taglienti in caso di fallimento, o metà danno in caso di successo.</p>
+<p><strong><em>Lame Vorticose.</em></strong> Ogni creatura entro 3m da Rahadin deve effettuare un tiro salvezza di Destrezza CD 19, subendo 7 (2d6) danni taglienti in caso di fallimento, o metà danno in caso di successo.</p>
 <h3>Reazioni</h3>
 <p>Rahadin può effettuare fino a tre reazioni per round, ma non più di una per turno. Se Rahadin perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
 <p><strong><em>Colpo Punitivo.</em></strong> Quando Rahadin viene colpito da un attacco in mischia o a distanza, può usare la sua reazione per muoversi fino alla sua velocità verso l'attaccante e effettuare un attacco con la sua sciabola. Questo movimento non provoca attacchi di opportunità.</p>
-<p><strong><em>Disarmare.</em></strong> Quando un nemico manca Rahadin con un attacco in mischia mentre brandisce un'arma, può usare la sua reazione per costringere quel nemico a effettuare un tiro salvezza di Forza CD 19, con vantaggio se il nemico tiene l'arma con due mani. In caso di fallimento, il nemico lascia cadere l'oggetto, che viene spinto a 10 piedi di distanza.</p>
+<p><strong><em>Disarmare.</em></strong> Quando un nemico manca Rahadin con un attacco in mischia mentre brandisce un'arma, può usare la sua reazione per costringere quel nemico a effettuare un tiro salvezza di Forza CD 19, con vantaggio se il nemico tiene l'arma con due mani. In caso di fallimento, il nemico lascia cadere l'oggetto, che viene spinto a 3m di distanza.</p>
 <p><strong><em>Passo Velato (1/round).</em></strong> Quando un nemico manca Rahadin con un attacco o gli infligge danni, può usare la sua reazione per lanciare <em>passo velato</em>. Può quindi immediatamente effettuare l'azione Nascondersi. Rahadin non ha bisogno di vedere la sua destinazione quando lancia <em>passo velato</em> in questo modo.</p>
-<p><strong><em>Urlo Psichico (1/giorno).</em></strong> Quando Rahadin viene ridotto a 0 punti ferita, può usare la sua reazione per far sì che il suo coro di morte rilasci un terribile urlo. Ogni creatura entro 60 piedi da Rahadin deve effettuare un tiro salvezza di Saggezza CD 17, subendo 11 (2d10) danni psichici in caso di fallimento o metà danno in caso di successo. Se una creatura fallisce il tiro salvezza di 5 o più, è anche stordita fino all'inizio del prossimo turno di Rahadin.</p>
+<p><strong><em>Urlo Psichico (1/giorno).</em></strong> Quando Rahadin viene ridotto a 0 punti ferita, può usare la sua reazione per far sì che il suo coro di morte rilasci un terribile urlo. Ogni creatura entro 18m da Rahadin deve effettuare un tiro salvezza di Saggezza CD 17, subendo 11 (2d10) danni psichici in caso di fallimento o metà danno in caso di successo. Se una creatura fallisce il tiro salvezza di 5 o più, è anche stordita fino all'inizio del prossimo turno di Rahadin.</p>
 </div>
 <br>
 
@@ -684,7 +688,7 @@ Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una cr
 <br>
 <strong>Punti Ferita</strong> 180 (24d8 + 72)
 <br>
-<strong>Velocità</strong> 35 ft.
+<strong>Velocità</strong> 9m
 <hr>
 <table class="ability-table">
   <thead>
@@ -711,12 +715,12 @@ Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una cr
 <hr>
 <strong>Tiri Salvezza</strong> Des +11, Sag +8<br>
 <strong>Abilità</strong> Acrobatica +11, Inganno +9, Intuizione +8, Intimidazione +14, Percezione +13, Furtività +16<br>
-<strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 23<br>
+<strong>Sensi</strong> scurovisione 18m, Percezione passiva 23<br>
 <strong>Linguaggi</strong> Comune, Elfico<br>
 <strong>Grado di Sfida</strong> 15<br>
 <strong>Competenza</strong> +5<br>
 <hr>
-<p><strong><em>Urla dei Morti.</em></strong> Qualsiasi creatura entro 10 piedi da Rahadin che non sia protetta da un incantesimo <em>mente vuota</em> sente nella sua mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
+<p><strong><em>Urla dei Morti.</em></strong> Qualsiasi creatura entro 3m da Rahadin che non sia protetta da un incantesimo <em>mente vuota</em> sente nella sua mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
 <p><strong><em>Ascendenza Fatata.</em></strong> Rahadin ha vantaggio sui tiri salvezza contro essere affascinato e la magia non può farlo addormentare.</p>
 <p><strong><em>Indomabile.</em></strong>Se Rahadin fallisce un tiro salvezza, può scegliere di considerarlo come superato. Se lo fa, subisce la condizione di ostacolato fino alla fine del suo prossimo turno. Quando è ostacolato:<br>
 -	la sua velocità è ridotta (è rallentato),<br>
@@ -727,16 +731,16 @@ Una creatura può essere ostacolata più volte. Ogni volta aggiuntiva che una cr
 <p><strong><em>Maschera della Natura.</em></strong> Rahadin può tentare di nascondersi anche quando è solo leggermente oscurato da fogliame, pioggia battente, neve che cade, nebbia e altri fenomeni naturali.</p>
 <h3>Azioni</h3>
 <p><strong><em>Multiattacco.</em></strong> Rahadin effettua tre attacchi con le sue scimitarre <strong><em>Spina</em></strong> e/o <strong><em>Catena</em></strong>. Può sostituire un attacco con la sua caratteristica <strong><em>infestare</em></strong>.
-<p><strong><em>Spina.</em></strong> <em>Attacco con Arma da Mischia:</em> +11 a colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 9 (1d6 + 6) danni taglienti, e Rahadin può costringere il bersaglio a effettuare un tiro salvezza di Costituzione CD 19 o sanguinare per il prossimo 1 minuto. (Un bersaglio sanguinante deve superare un tiro salvezza di Costituzione CD 19 all'inizio di ciascuno dei suoi turni o subire un ulteriore 1d6 danni taglienti. In caso di successo o dopo aver ricevuto cure magiche, il bersaglio non è più sanguinante.)
-<p><strong><em>Catena.</em></strong> <em>Attacco con Arma da Mischia:</em> +11 a colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 9 (1d6 + 6) danni taglienti, e Rahadin può costringere il bersaglio a effettuare un tiro salvezza di Costituzione CD 19 o avere la sua velocità ridotta a 0 fino alla fine del suo prossimo turno. Se il bersaglio fallisce di 5 o più, cade anche a terra.
-<p><strong><em>Infestare.</em></strong> Rahadin costringe una creatura che può vedere entro 30 piedi a superare un tiro salvezza di Saggezza CD 17 o subire 7 (2d6) danni psichici e essere spaventata e assordata dalle anime urlanti fino all'inizio del suo prossimo turno.</p>
+<p><strong><em>Spina.</em></strong> <em>Attacco con Arma da Mischia:</em> +11 a colpire, portata 1,5m, un bersaglio. <em>Colpito:</em> 9 (1d6 + 6) danni taglienti, e Rahadin può costringere il bersaglio a effettuare un tiro salvezza di Costituzione CD 19 o sanguinare per il prossimo 1 minuto. (Un bersaglio sanguinante deve superare un tiro salvezza di Costituzione CD 19 all'inizio di ciascuno dei suoi turni o subire un ulteriore 1d6 danni taglienti. In caso di successo o dopo aver ricevuto cure magiche, il bersaglio non è più sanguinante.)
+<p><strong><em>Catena.</em></strong> <em>Attacco con Arma da Mischia:</em> +11 a colpire, portata 1,5m, un bersaglio. <em>Colpito:</em> 9 (1d6 + 6) danni taglienti, e Rahadin può costringere il bersaglio a effettuare un tiro salvezza di Costituzione CD 19 o avere la sua velocità ridotta a 0 fino alla fine del suo prossimo turno. Se il bersaglio fallisce di 5 o più, cade anche a terra.
+<p><strong><em>Infestare.</em></strong> Rahadin costringe una creatura che può vedere entro 9m a superare un tiro salvezza di Saggezza CD 17 o subire 7 (2d6) danni psichici e essere spaventata e assordata dalle anime urlanti fino all'inizio del suo prossimo turno.</p>
 <h3>Azioni Bonus</h3>
-<p><strong><em>Coro di Morte.</em></strong> Ogni creatura entro 10 piedi da Rahadin che non sia protetta da un incantesimo <em>mente vuota</em> deve superare un tiro salvezza di Saggezza CD 17, subendo 9 (2d8) danni psichici in caso di fallimento o metà danno in caso di successo. Se una creatura fallisce il tiro salvezza di 5 o più, è anche spaventata fino all'inizio del prossimo turno di Rahadin.</p>
+<p><strong><em>Coro di Morte.</em></strong> Ogni creatura entro 3m da Rahadin che non sia protetta da un incantesimo <em>mente vuota</em> deve superare un tiro salvezza di Saggezza CD 17, subendo 9 (2d8) danni psichici in caso di fallimento o metà danno in caso di successo. Se una creatura fallisce il tiro salvezza di 5 o più, è anche spaventata fino all'inizio del prossimo turno di Rahadin.</p>
 <p><strong><em>Passo Rapido.</em></strong> Rahadin effettua l'azione Scatto o Disimpegno.
 <h3>Reazioni</h3>
 <p>Rahadin può effettuare fino a tre reazioni per round, ma non più di una per turno. Se Rahadin perderebbe le sue reazioni e non è incapacitato, perde una reazione invece.</p>
 <p><strong><em>Parare.</em></strong> Rahadin aggiunge +5 alla sua Classe Armatura contro un attacco in mischia o a distanza che lo colpirebbe o al risultato di un tiro salvezza di Destrezza fallito, o non subisce danni da <em>dardo incantato</em> in questo turno. Se fa mancare un attacco in mischia in questo modo, può quindi immediatamente usare una reazione aggiuntiva, se disponibile, per usare la sua caratteristica Riposta contro l'attaccante.</p>
-<p><strong><em>Riposta.</em></strong> Quando un nemico manca Rahadin con un attacco in mischia, può usare la sua reazione per muoversi fino alla sua velocità verso uno spazio non occupato entro 5 piedi da quel nemico senza provocare attacchi di opportunità. Può quindi immediatamente effettuare un attacco con <strong><em>Spina</em></strong> o <strong><em>Catena</em></strong> contro quel nemico con vantaggio.</p>
+<p><strong><em>Riposta.</em></strong> Quando un nemico manca Rahadin con un attacco in mischia, può usare la sua reazione per muoversi fino alla sua velocità verso uno spazio non occupato entro 1,5m da quel nemico senza provocare attacchi di opportunità. Può quindi immediatamente effettuare un attacco con <strong><em>Spina</em></strong> o <strong><em>Catena</em></strong> contro quel nemico con vantaggio.</p>
 </div>
 
 # Note di Design: La Festa di Sant'Andral
@@ -749,16 +753,16 @@ La data del furto delle ossa è stata spostata alla notte dell'arrivo dei giocat
 
 Milivoj stesso è stato trasferito nella sua casa di famiglia—sia per mostrare (non raccontare) la sua motivazione per rubare le ossa, sia per fornire una distanza drammatica tra l'indagine dei giocatori e il loro confronto con il testimone principale, sia per accentuare l'apparenza della coscienza colpevole di Milivoj.
 
-***Ritorno alla Chiesa.*** Padre Lucian chiede di accompagnare i giocatori al negozio del costruttore di bare per garantire che il gruppo abbia i benefici del suo incantesimo *guardiani spirituali* durante la lotta con gli **vampiri spawn** di Volenta (cioè, per contrastare la loro rigenerazione).
+***Ritorno alla Chiesa.*** Padre Lucian chiede di accompagnare i giocatori al negozio del costruttore di bare per garantire che il gruppo abbia i benefici del suo incantesimo *guardiani spirituali* durante la lotta con le **progenie di vampiro** di Volenta (cioè, per contrastare la loro rigenerazione).
 
 ***Magazzino Arasek.*** Il fantasma di Erasmus è stato aggiunto per scoraggiare i giocatori dall'indagare sul carro evitando attentamente di *incoraggiarli* a farlo per dispetto.
 
 La vernice fresca per il cartello del Carnevale delle Meraviglie è stata aggiunta per prefigurare intenzionalmente che Rictavio (che i giocatori affronteranno in [[Arco E - La Vistana Scomparsa]]) non è tutto ciò che sembra.
 
-***Negozio del Costruttore di Bare.*** Le due trappole di Volenta sono state aggiunte per aumentare la probabilità che i giocatori combattano con i vampiri, introducendoli direttamente ai servitori di Strahd e alla minaccia rappresentata dai vampiri. Il numero di **vampiri spawn** è stato ridotto da sei a tre, inclusa Volenta, per garantire che l'incontro sia bilanciato per un gruppo di 4° livello.
+***Negozio del Costruttore di Bare.*** Le due trappole di Volenta sono state aggiunte per aumentare la probabilità che i giocatori combattano con i vampiri, introducendoli direttamente ai servitori di Strahd e alla minaccia rappresentata dai vampiri. Il numero di **progenie di vampiro** è stato ridotto da sei a tre, inclusa Volenta, per garantire che l'incontro sia bilanciato per un gruppo di 4° livello.
 
 Volenta è stata posta come mente dietro questo piano per fornire ai giocatori un boss di basso livello che possono ragionevolmente sconfiggere—ma che ricorrerà come antagonista durante l'avventura.
 
 La scheda delle statistiche di Volenta è stata progettata per fornire ai giocatori un'esperienza dinamica e tattica garantendo che non sia la prima dei suoi servitori a morire.
 
-Nel frattempo, la caratteristica ***eminence divina*** di Padre Lucian è stata modificata per consentire ai giocatori di raccogliere i suoi benefici e garantire che l'incontro non sia troppo mortale, nonché per garantire che i personaggi marziali senza accesso a armi magiche possano infliggere danni sostanziali nonostante le resistenze dei vampiri ai danni da armi non magiche.
+Nel frattempo, la caratteristica ***eminenza divina*** di Padre Lucian è stata modificata per consentire ai giocatori di raccogliere i suoi benefici e garantire che l'incontro non sia troppo mortale, nonché per garantire che i personaggi marziali senza accesso a armi magiche possano infliggere danni sostanziali nonostante le resistenze dei vampiri ai danni da armi non magiche.

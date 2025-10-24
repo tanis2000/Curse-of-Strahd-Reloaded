@@ -12,7 +12,7 @@ Durante il soggiorno alla Pozza di Tser, i personaggi ascoltano racconti dei vis
 
 Se i personaggi devono scortare Ireena verso la Chiesa di St. Andral a Vallaki, o se hanno altre ragioni per farlo, essi tornano poi sulla Vecchia Strada di Svalich passando per l'Incrocio del Fiume Ivlis, viaggiando verso ovest attraverso le montagne. Lungo il tragitto incontreranno un insolito cavaliere scheletrico, un paio di tombe fresche, un'oscura apparizione, la **strega notturna** Morgantha in atteggiamento da mercante, due stormi di corvi amichevoli e un **lupo mannaro** accompagnato dal suo branco di lupi famelici.
 
-Giunti a Vallaki, i personaggi possono trovare alloggio presso la Locanda dell’Acqua Azzurra. Qui incontreranno una schiera di personaggi pittoreschi, tra cui il presentatore Rictavio e i figli di Lady Fiona Wachter. All'alba, i personaggi avranno anche un fatale incontro con il Barone Vargas Vallakovich e il suo spietato esecutore, Izek Strazni...
+Giunti a Vallaki, i personaggi possono trovare alloggio presso la Locanda dell’Acqua Blu. Qui incontreranno una schiera di personaggi pittoreschi, tra cui il presentatore Rictavio e i figli di Lady Fiona Wachter. All'alba, i personaggi avranno anche un fatale incontro con il Barone Vargas Vallakovich e il suo spietato esecutore, Izek Strazni...
 
 > [!warning]+ **La Strada dalla Pozza di Tser**
 >
@@ -343,7 +343,7 @@ Se salvata, Muriel rimane con i personaggi fino a quando non riesce a discernere
 <p><strong><em>Interposizione.</em></strong> Quando una creatura che Muriel può vedere colpisce un altro bersaglio entro 5 piedi da Muriel con un attacco, può usare la sua reazione per subire il danno al posto del bersaglio.</p>
 </div>
 
-Se scopre che i personaggi intendono viaggiare verso Vallaki, Muriel viaggia con loro mantenendo il suo travestimento da corvo, sperando di fare affidamento sulla sicurezza del numero fino a quando non può riferire le sue scoperte a Urwin Martikov alla Locanda dell’Acqua Azzurra. In nessun caso Muriel rivela volontariamente la sua vera natura ai personaggi in questo momento.
+Se scopre che i personaggi intendono viaggiare verso Vallaki, Muriel viaggia con loro mantenendo il suo travestimento da corvo, sperando di fare affidamento sulla sicurezza del numero fino a quando non può riferire le sue scoperte a Urwin Martikov alla Locanda dell’Acqua Blu. In nessun caso Muriel rivela volontariamente la sua vera natura ai personaggi in questo momento.
 
 > [!info]+ **Muriel in Incognito**
 > Mentre viaggia con i personaggi, Muriel cerca di non dare nell'occhio, pur cercando di ingraziarsi il gruppo. Mentre è in forma di corvo, i personaggi possono comunicare con lei solo usando l'incantesimo *parlare con gli animali*, anche se nega qualsiasi conoscenza di Strahd o delle origini della strige, fingendosi un comune corvo dalla mente semplice, interessato solo al cibo e ad evitare i predatori. Se le viene chiesto il suo nome, si presenta con entusiasmo come  "Blu", e diventa sempre più ostinata se incalzata con ulteriori domande.
@@ -1072,7 +1072,7 @@ Qualsiasi personaggio che ha fallito il suo tiro salvezza contro la maledizione 
 > Infine, mentre le nebbie rimangono, il ciclo lunare è accelerato a Barovia: la luna piena arriva una volta ogni due settimane, invece di una volta ogni quattro. **La prima luna piena che i personaggi sperimentano avrà luogo l'8 di Neyavr—la sesta notte dopo il loro primo ingresso a Vallaki.**
 
 > [!abstract]+ **Curare la Licantropia dei Personaggi**
-> I personaggi possono apprendere dai Martikov della Locanda dell’Acqua Azzurra, dal Dott. Rudolph van Richten o da Kasimir Velikov dell'accampamento vistanico di Vallaki che la prossima luna piena avrà luogo la sesta notte dopo il loro primo ingresso a Vallaki. Man mano che la notte della luna piena si avvicina, i personaggi infetti dalla licantropia sperimentano incubi di crescente gravità, nonché un crescente appetito per la carne cruda.
+> I personaggi possono apprendere dai Martikov della Locanda dell’Acqua Blu, dal Dott. Rudolph van Richten o da Kasimir Velikov dell'accampamento vistanico di Vallaki che la prossima luna piena avrà luogo la sesta notte dopo il loro primo ingresso a Vallaki. Man mano che la notte della luna piena si avvicina, i personaggi infetti dalla licantropia sperimentano incubi di crescente gravità, nonché un crescente appetito per la carne cruda.
 >
 > I personaggi infetti dalla licantropia del **lupo mannaro** saranno in grado di cercare una cura in [[Arco I - Le Mura di Krezk]] dopo aver incontrato il Dott. Rudolph van Richten in [[Arco E - La Vistana Scomparsa]]. I personaggi di una classe appropriata possono anche curare se stessi e gli altri dalla licantropia lanciando *rimuovi maledizione* al raggiungimento del 5° livello. (Padre Lucian della Chiesa di St. Andral a Vallaki non può lanciare l'incantesimo e quindi non può curare la licantropia.)
 
@@ -1121,7 +1121,7 @@ Le guardie richiedono quindi che ogni personaggio paghi 1 moneta d'oro come peda
 
 Se i personaggi pagano il pedaggio, le guardie insistono anche che ogni entrante apra la sua borsa (o equivalente) e consegni qualsiasi moneta d'argento in loro possesso. (Se i personaggi si lamentano, le guardie assicurano loro che l'argento è necessario per produrre le armi d'argento necessarie per difendere la città dai lupi mannari.) In cambio di qualsiasi moneta d'argento che danno, i personaggi ricevono una quantità di monete di rame di pari valore—meno una tassa del dieci percento.
 
-Se viene chiesto dell'alloggio, le guardie possono condividere informazioni sulla Locanda dell’Acqua Azzurra, come descritto in <span class="citation">Lore di Vallaki (p. 96)</span>. Le guardie sono anche disposte a fornire ulteriori indicazioni ad altri punti di riferimento nella città in cambio di una tangente di 1 moneta d'oro.
+Se viene chiesto dell'alloggio, le guardie possono condividere informazioni sulla Locanda dell’Acqua Blu, come descritto in <span class="citation">Lore di Vallaki (p. 96)</span>. Le guardie sono anche disposte a fornire ulteriori indicazioni ad altri punti di riferimento nella città in cambio di una tangente di 1 moneta d'oro.
 
 Ogni volta che i personaggi passano attraverso i cancelli, inclusa la prima, le guardie annuiscono loro e intonano la frase preferita del Barone: "Tutto andrà bene."
 
@@ -1132,22 +1132,25 @@ Ogni volta che i personaggi passano attraverso i cancelli, inclusa la prima, le 
 
 Mentre i personaggi passano lungo il viale principale di Vallaki, leggi:
 
-<div class="description"><p>Passate dalla strada di terra battuta alle strade lastricate di ciottoli, il fango che macchia i vostri stivali e il fondo dei vostri pantaloni. Dietro di voi, i cancelli si chiudono con un colpo, e potete vedere le guardie riprendere i loro posti dietro di essi. In lontananza, potete vedere altre due figure con picche, che pattugliano le mura mentre guardano giù sulla foresta contorta oltre.</p>
-<p>Le gronde degli edifici sono decorate con vecchi stendardi e tessuti logori che sventolano e si torcono nella brezza fredda. I stendardi sono dipinti con parole e illustrazioni sbiadite, ma il tempo ha rubato loro sia la leggibilità che qualsiasi bellezza possano aver avuto una volta.</p>
-<p>La luce tremolante delle candele si nasconde dietro le finestre delle case chiuse, e ombre umanoidi si muovono oltre le tende chiuse. Lunghe ombre si nascondono nei vicoli, dove l'erba cresce lunga e contorta sotto il legno macchiato e cadente degli edifici sopra. </p>
-<p>Le strade sono vuote, anche se potete vedere una sola figura incappucciata che si allontana da voi lungo la strada centrale. In lontananza oltre le mura, un lupo solitario ulula, e una fredda raffica di vento taglia la notte come un coltello.</p></div>
+<div class="description">
+<p>Lasciate alle spalle la strada di terra battuta e mettete piede sulle strade di ciottoli, dove il fango si aggrappa ostinato agli stivali e inzacchera l’orlo dei pantaloni. Alle vostre spalle, i cancelli si chiudono con un tonfo metallico che riecheggia nell’aria fredda. Le guardie, come statue d’ombra, riprendono i loro posti dietro le sbarre di ferro, mentre più in alto, due figure con picche pattugliano le mura, scrutando la foresta contorta che si estende oltre.</p>
+<p>Le gronde delle case sono ornate da stendardi logori e drappi sfilacciati, che si torcono al vento come spettri colorati. Su di essi, parole sbiadite e simboli un tempo fieri sono stati divorati dal tempo, lasciando solo brandelli di un passato dimenticato.</p>
+<p>Dalle finestre chiuse, la luce tremolante delle candele filtra appena, rivelando ombre fugaci che si muovono dietro tende consunte. I vicoli, lunghi e silenziosi, nascondono ombre più scure delle tenebre stesse, dove l’erba cresce selvatica tra le assi marcite e il legno che si piega sotto il peso degli anni.</p>
+<p>Le strade sono deserte. Solo una figura incappucciata si allontana lungo la via principale, i passi lenti e attutiti dal selciato umido. Da qualche parte, oltre le mura, un lupo solitario leva il suo ululato — un canto di fame e malinconia — mentre una raffica di vento taglia la notte come la lama di un coltello freddo.</p>
+</div>
+
 
 La figura incappucciata è Willemina Rikalova, come descritto in <span class="citation">Chiesa di St. Andral (p. 97)</span>. Sta andando alla chiesa per pregare per la liberazione di suo figlio, Udo Lukovich.
 
 Mentre i personaggi passano per le strade, vengono notati da Ernst Larnak, che li osserva intensamente—anche se non li segue—come descritto in <span class="citation">Il Desiderio di Lady Wachter (p. 124)</span>. (Ernst non consegna ancora un invito a cenare con Lady Wachter, anche se torna a <span class="citation">N4. Wachterhaus (p. 110)</span> per riferire a Lady Wachter quando i personaggi lasciano la sua vista.)
 
-## C12b. Locanda dell’Acqua Azzurra
+## C12b. Locanda dell’Acqua Blu
 
 <span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N2.</em></span>
 
-Quest'area è in gran parte come descritto in <span class="citation">N2. Locanda dell’Acqua Azzurra (p. 98)</span>. Se Muriel è presente, saluta i personaggi con un trillo morbido e sentimentale, poi parte per unirsi agli altri corvi che riposano sul tetto. (Se i personaggi tornano più tardi all'inn per cercarla, non è presente.)
+Quest'area è in gran parte come descritto in <span class="citation">N2. Locanda dell’Acqua Blu (p. 98)</span>. Se Muriel è presente, saluta i personaggi con un trillo morbido e sentimentale, poi parte per unirsi agli altri corvi che riposano sul tetto. (Se i personaggi tornano più tardi alla locanda per cercarla, non è presente.)
 
-Quando i personaggi arrivano per la prima volta, l'inn contiene i seguenti PNG notevoli:
+Quando i personaggi arrivano per la prima volta, la locanda contiene i seguenti PNG notevoli:
 
 * Danika Dorakova, che sta versando bevande e servendo i clienti in **N2c. Sala Comune**;
 * Urwin Martikov, che sta cucinando pane e stufato di barbabietole in **N2e. Cucina**;
@@ -1156,7 +1159,7 @@ Quando i personaggi arrivano per la prima volta, l'inn contiene i seguenti PNG n
 
 ![[Vallaki_Martikovs.png]]
 
-<span class="credit">"The Martikovs of the Locanda dell’Acqua Azzurra" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"The Martikovs of the Locanda dell’Acqua Blu" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profilo: Urwin Martikov**
 >
@@ -1170,66 +1173,67 @@ Quando i personaggi arrivano per la prima volta, l'inn contiene i seguenti PNG n
 > ***Ispirazioni.*** Quando interpreti Urwin, canalizza Vander (Arcane), Greg Universe (Steven Universe) e Linda Belcher (Bob's Burgers).
 >
 > **Informazioni sul Personaggio**
-> ***Persona.*** Al mondo, Urwin è una figura paterna gentile, uomo di famiglia e ospite accogliente con un luccichio sempre presente negli occhi. A coloro di cui si fida, Urwin è un astuto spymaster e tattico con una speranza feroce per il futuro di Barovia. Nel profondo, Urwin teme per il futuro dei suoi figli in un regno governato da Strahd.
+> ***Persona.*** Al mondo, Urwin appare come una figura paterna gentile: un uomo di famiglia e un ospite accogliente, con un perenne luccichio negli occhi. A coloro di cui si fida, tuttavia, rivela un animo ben diverso: quello di un astuto maestro di spie e di un fine stratega, animato da una speranza feroce per il futuro di Barovia. Nel profondo, però, Urwin vive con il timore costante per il destino dei propri figli, intrappolati in un regno soggiogato dal dominio di Strahd.
 >
-> ***Morale.*** In un combattimento, Urwin tenterebbe immediatamente di disinnescare la situazione e tenterebbe di fuggire se infruttuoso—anche se non prima di scortare chiunque altro fuori pericolo.
+> ***Morale.*** In uno scontro, Urwin cercherebbe innanzitutto di placare gli animi e disinnescare la situazione. Se i suoi tentativi fallissero, non esiterei a fuggire — ma solo dopo essersi assicurato che tutti gli altri siano al sicuro.
 >
-> ***Relazioni.*** Urwin è il padre di Brom e Bray Martikov e il marito di Danika Dorakova. È anche il figlio esiliato di Davian Martikov e il fratello maggiore amato di Adrian, Elvir e Stefania Martikov. Oltre a co-gestire la Locanda dell’Acqua Azzurra, Urwin è il spymaster dei [[Lore di Barovia#Custodi della Piuma|Custodi della Piuma]].
+> ***Relazioni.*** Urwin è il padre di Brom e Bray Martikov e il marito di Danika Dorakova. Un tempo figlio di Davian Martikov, oggi vive in esilio dalla famiglia, pur restando il fratello maggiore amato di Adrian, Elvir e Stefania. Oltre a gestire insieme a Danika la Locanda dell’Acqua Blu, Urwin ricopre anche il ruolo di astuto spymaster dei [[Storia e Folklore di Barovia#Custodi della Piuma|Custodi della Piuma]].
 
 > [!profile]+ **Profilo: Danika Dorakova**
 >
-> **Informazioni di Ruolo**
-> ***Risonanza.*** Danika dovrebbe ispirare divertimento con il suo "uomo dritto," il buonumore con Urwin, gratitudine per la sua ospitalità e cura materna, e conforto dalla sua natura pratica e concreta e dalla sua dedizione feroce alla sua famiglia, casa e ospiti.
+> **Informazioni per il gioco di ruolo**
+> ***Risonanza.*** Danika dovrebbe suscitare ilarità con il suo ruolo di “spalla” nelle battute bonarie con Urwin, la gratitudine per la sua ospitalità e cura materna, e la sensazione di conforto data dalla sua natura pratica e dalla sua feroce dedizione alla famiglia, alla casa e agli ospiti.
 >
-> ***Emozioni.*** Danika appare più spesso affettuosa, soddisfatta, cordiale, determinata, sfidante e affettuosa.
+> ***Emozioni.*** Danika prova più spesso affetto, soddisfazione, affabilità, determinazione e atteggiamento defiante.
 >
-> ***Motivazioni.*** Danika vuole mantenere la sua famiglia al sicuro, gestire un'attività di successo e assicurarsi che i suoi figli vedano un giorno la luce del sole su Barovia.
+> ***Motivazioni.*** Danika vuole mantenere la sua famiglia al sicuro, gestire un’impresa di successo e fare in modo che i suoi figli un giorno possano vedere la luce del sole su Barovia.
 >
-> ***Ispirazioni.*** Quando interpreti Danika, canalizza Tenzin (Avatar: La Leggenda di Korra), Bob Belcher (Bob's Burgers) e Garnet (Steven Universe).
+> ***Ispirazioni.*** Quando interpreti Danika, canalizza Tenzin (Avatar: The Legend of Korra), Bob Belcher (Bob's Burgers) e Garnet (Steven Universe).
 >
-> **Informazioni sul Personaggio**
-> ***Persona.*** Al mondo, Danika è una donna d'affari pratica e senza fronzoli con un cuore d'oro. A coloro di cui si fida, Danika è una madre feroce con una dedizione profonda al clan Martikov. Nel profondo, Danika è preparata a difendere coloro che ama—a qualsiasi costo necessario.
+> **Informazioni sul personaggio**
+> ***Persona.*** All’apparenza, Danika è una donna d’affari pratica e senza fronzoli con un cuore d’oro. Con chi si fida, è una madre feroce con profonda dedizione al clan Martikov. In fondo, è pronta con durezza a difendere chi ama—a qualunque costo.
 >
-> ***Morale.*** In un combattimento, Danika tenterebbe rapidamente di disinnescare, ma combatterebbe fino alla morte per difendere la sua famiglia o i suoi ospiti.
+> ***Morale.*** In combattimento, Danika cercherebbe rapidamente di de‑escalare, ma combatterebbe fino alla morte per difendere la famiglia o gli ospiti.
 >
-> ***Relazioni.*** Danika è la madre di Brom e Bray Martikov e la moglie di Urwin Martikov. Oltre a co-gestire la Locanda dell’Acqua Azzurra, Danika è un membro di alto rango dei [[Lore di Barovia#Fazioni#Custodi della Piuma|Custodi della Piuma]].
-### Entrare nell'Inn
+> ***Relazioni.*** Danika è madre di Brom e Bray Martikov e moglie di Urwin Martikov. Oltre a essere co‑proprietaria della Locanda dell'Acqua Blu, Danika è un membro di alto rango dei [[Storia e Folklore di Barovia#Custodi della Piuma|Custodi della Piuma]].
+
+### Ingresso nella locanda
 La sala comune è come descritto in <span class="citation">N2c. Sala Comune (p. 100)</span>. Tuttavia, aggiungi il seguente testo alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>Quasi una dozzina di vallakiani siedono sparsi tra i vari tavoli, sorseggiando boccali di vino o ciotole di stufato sostanzioso. Lungo la scala, un uomo vestito coloratamente con un cappello a tesa larga piumato gesticola selvaggiamente alla testa di un lungo tavolo, tenendo l'attenzione rapita dei diversi clienti seduti lì. Sentite un'ondata di risate attraversare il gruppo, seguita da un applauso leggero.</p>
+<p>Una dozzina scarsa di abitanti di Vallaki è sparsa ai vari tavoli, sorseggiando boccali di vino o ciotole di sostanzioso stufato. Lungo la scala, un uomo vestito con abiti sgargianti e un cappello a tesa larga adornato di piume gesticola animatamente alla testa di un lungo tavolo, catturando l’attenzione rapita dei diversi avventori seduti lì. Udite un’ondata di risate attraversare il gruppo, seguita da un leggero battito di mani.</p>
 </div>
 
 L'uomo è il presentatore Rictavio, che è in gran parte come descritto in <span class="citation">Rictavio (p. 238)</span> e <span class="citation">N2c. Sala Comune (p. 100)</span>. Due dei cinque ascoltatori al suo tavolo sono Nikolai e Karl Wachter, che sono come descritto in <span class="citation">N2c. Sala Comune (p. 100)</span>.
 ![[Rictavio.png]]
 <span class="credit">"Rictavio" di Caleb Cleveland. Supportalo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Quando i personaggi entrano per la prima volta nell'inn, [[Personaggi Non Giocanti#Danika Dorakova|Danika]], che sta servendo ai tavoli, li saluta e chiede loro di aspettare al bar mentre serve altri clienti.
+Quando i personaggi entrano per la prima volta nella locanda, [[Personaggi Non Giocanti#Danika Dorakova|Danika]], che sta servendo ai tavoli, li saluta e chiede loro di aspettare al bancone mentre serve altri clienti.
 
-Se i personaggi si avvicinano al bar, [[Personaggi Non Giocanti#Urwin Martikov|Urwin]] esce dalla cucina portando un vassoio di pane appena sfornato, stufato di barbabietole caldo e bistecche di lupo, che posa sul bar. (Il cibo ha un odore delizioso.) Szoldar Szoldarovich e Yevgeni Krushkin sono anche seduti al bar e sono come descritto in <span class="citation">N2c. Sala Comune (p. 100)</span>.
+Se i personaggi si avvicinano al bancone, [[Personaggi Non Giocanti#Urwin Martikov|Urwin]] esce dalla cucina portando un vassoio di pane appena sfornato, stufato di barbabietole caldo e bistecche di lupo, che posa sul bancone. (Il cibo ha un odore delizioso.) Anche Szoldar Szoldarovich e Yevgeni Krushkin sono seduti al bancone e sono come descritto in <span class="citation">N2c. Sala Comune (p. 100)</span>.
 
-Urwin saluta calorosamente i personaggi e li accoglie alla Locanda dell’Acqua Azzurra. Se i personaggi non dirigono la conversazione altrove, nota che sembrano viaggiatori e chiede se hanno bisogno di stanze per la notte.
+Urwin saluta calorosamente i personaggi e li accoglie alla Locanda dell’Acqua Blu. Se i personaggi non dirigono la conversazione altrove, nota che sembrano viaggiatori e chiede se hanno bisogno di stanze per la notte.
 
 Prima che Urwin possa rispondere ai personaggi, Danika torna e si scusa con i personaggi per il ritardo. Supponendo che i personaggi non interrompano, la conversazione procede come segue:
 
 * Danika accusa scherzosamente Urwin di pianificare di affittare stanze agli ospiti "gratuitamente" di nuovo, un'accusa che Urwin nega allegramente.
-* Danika dice ai personaggi che Urwin ha già permesso a un altro ospite di soggiornare gratuitamente e che "manderebbe in bancarotta l'inn" con la sua generosità se non fosse lì a tenere i conti. (Urwin concede graziosamente il punto.)
+* Danika dice ai personaggi che Urwin ha già permesso a un altro ospite di soggiornare gratuitamente e che "manderebbe in bancarotta la locanda" con la sua generosità se non ci fosse lì lei a tenere i conti. (Urwin concede graziosamente il punto.)
 * "Dopotutto," dice Urwin con un sorriso, "perché altro mi sono sposato con te?" Con un sorriso, Danika risponde, "Un raro caso di buon senso, immagino."
-* Danika bacia Urwin sulla guancia e dice, "Il tavolo vicino alla finestra ha fame." Urwin fa l'occhiolino ai personaggi, prende di nuovo il vassoio e esce dal bar per servire il cibo.
+* Danika dà un bacio sulla guancia a Urwin e dice: "Il tavolo vicino alla finestra sta cominciando ad avere fame."  Urwin fa l’occhiolino ai personaggi, riprende il vassoio e lascia il bancone per servire il cibo.
 
-Danika dice poi ai personaggi le tariffe per vitto e alloggio, come elencato in <span class="citation">N2. Locanda dell’Acqua Azzurra (p. 98)</span>. (Sia la grande camera degli ospiti, <span class="citation">N2m. Camera degli Ospiti (p. 102)</span>, sia le due piccole camere degli ospiti, <span class="citation">N2l. Camere degli Ospiti (p. 102)</span>, sono disponibili per l'affitto.) Quando Urwin torna, offre di prendere gli ordini dei personaggi per la cena, supponendo che abbiano fame.
+Danika dice poi ai personaggi le tariffe per vitto e alloggio, come elencato in <span class="citation">N2. Locanda dell’Acqua Blu (p. 98)</span>. (Sia la grande camera degli ospiti, <span class="citation">N2m. Camera degli Ospiti (p. 102)</span>, sia le due piccole camere degli ospiti, <span class="citation">N2l. Camere degli Ospiti (p. 102)</span>, sono disponibili per l'affitto.) Quando Urwin torna, offre di prendere gli ordini dei personaggi per la cena, supponendo che abbiano fame.
 
 I personaggi hanno poi qualche minuto per parlare con Urwin e Danika o tra di loro. Durante questa conversazione, Urwin e Danika possono fornire ai personaggi informazioni su Rictavio, il Festival del Sole Splendente (che avrà luogo tra cinque giorni a mezzogiorno) e il vicino campo vistanico, come descritto in <span class="citation">Lore di Vallaki (p. 96)</span>.
 
-Sia Urwin che Danika possono fornire indicazioni a qualsiasi punto di riferimento principale all'interno di Vallaki, inclusi **N1. Chiesa di St. Andral**, **N5. Magazzino di Arasek** e **N8. Piazza della Città**. Se i personaggi chiedono dell'altro ospite dell'inn, Urwin e Danika possono anche condividere informazioni su Rictavio, che è in gran parte come descritto in <span class="citation">N2c. Sala Comune (p. 100)</span>, tranne che Rictavio è arrivato quella stessa mattina.
+Sia Urwin che Danika possono fornire indicazioni a qualsiasi punto di riferimento principale all'interno di Vallaki, inclusi **N1. Chiesa di St. Andral**, **N5. Magazzino di Arasek** e **N8. Piazza della Città**. Se i personaggi chiedono dell'altro ospite della locanda, Urwin e Danika possono anche condividere informazioni su Rictavio, che è in gran parte come descritto in <span class="citation">N2c. Sala Comune (p. 100)</span>, tranne che Rictavio è arrivato quella stessa mattina.
 
-L'ultima spedizione di vino dell'inn è leggermente in ritardo, ma non è stata sufficientemente ritardata da allarmare Urwin. Come tale, non chiede ai personaggi di indagare sulla Cantina del Mago in questo momento. (Questa missione non sarà disponibile fino a quando i personaggi non raggiungeranno il livello 5. Vedi [[Arco J - La Gemma Rubata]] per ulteriori informazioni.)
+L'ultima spedizione di vino per la locanda è leggermente in ritardo, ma non è stata sufficientemente ritardata da allarmare Urwin. Come tale, non chiede ai personaggi di indagare sulla Cantina del Mago in questo momento. (Questa missione non sarà disponibile fino a quando i personaggi non raggiungeranno il livello 5. Vedi [[Arco J - La Gemma Rubata]] per ulteriori informazioni.)
 
-Se i personaggi ordinano cibo o vino nella sala comune, [[Personaggi Non Giocanti#Danika Dorakova|Danika]] offre di farli sedere al lungo tavolo all'estremità sud della sala comune e promette che saranno serviti a breve. (Vedi **Mappa 5.2: Locanda dell’Acqua Azzurra**.)
+Se i personaggi ordinano cibo o vino nella sala comune, [[Personaggi Non Giocanti#Danika Dorakova|Danika]] offre di farli sedere al lungo tavolo all'estremità sud della sala comune e promette che saranno serviti a breve. (Vedi **Mappa 5.2: Locanda dell’Acqua Blu**.)
 
 ### Il Racconto del Presentatore
 
-Se uno dei personaggi si avvicina al tavolo di Rictavio, Nikolai e Karl Wachter li esortano a sedersi. "Sta per raccontare una storia," sussurra Nikolai ad alta voce. (Szoldar Szoldarovich, il cacciatore di lupi, ha girato la sua sedia lontano dal bar per ascoltare.)
+Se uno dei personaggi si avvicina al tavolo di Rictavio, Nikolai e Karl Wachter li esortano a sedersi. "Sta per raccontare una storia," sussurra Nikolai ad alta voce. (Szoldar Szoldarovich, il cacciatore di lupi, ha girato la sua sedia lontano dal bancone per ascoltare.)
 
 > [!profile]+ **Profilo: Rictavio**
 >
@@ -1252,52 +1256,52 @@ Se uno dei personaggi si avvicina al tavolo di Rictavio, Nikolai e Karl Wachter 
 Dopo aver schiarito la gola, Rictavio condivide la seguente storia:
 
 <div class="description">
-<p>Il vampiro Conte Belasco teneva la sua bara, non in una cripta o in un castello, ma nella cantina di un vecchio inn decrepito, gestito dal suo servitore, Igoron.</p>
-<p>Povero Conte Belasco aveva un terribile segreto: nella sua antica età, il suo cuoio capelluto stava iniziando a marcire, i suoi capelli che cadevano in grandi ciocche e nodi. Per imbarazzo, ordinò a Igoron di acquistare una bellissima parrucca nera corvina, sperando di preservare l'uomo giovane e bello che era stato una volta.</p>
-<p>"Un uomo bello davvero," concordò uno dei suoi ospiti—una vedova anziana e quasi cieca di nome Olivenka—una particolare notte di luna. La cara Olivenka si teneva per sé, trascorrendo le sue giornate a ordinare e riordinare la collezione di rocce del suo defunto marito, che teneva amorevolmente nella sua borsa. Nonostante il comportamento strano del Conte e la sua pelle pallida, non sospettava nulla, la sua vecchia vista troppo sfocata per distinguere le zanne che spuntavano tra i suoi denti.</p>
-<p>Come sempre, il Conte sentiva un impulso a nutrirsi di lei—e sebbene le sue parole lusinghiere placassero il suo interesse, sentiva la sete nelle sue zanne lo stesso. "Igoron!" tuonò. "Prendi il mio mantello—sto andando a caccia."</p>
-<p>"Sì, signore," ansimò Igoron. Mentre tornava, gemette, "Meglio tornare prima dell'alba, milord. Sto pulendo le tende stanotte. Voglio che tu sia al sicuro nella tua bara prima dell'alba."</p>
-<p>Il Conte Belasco sbuffò. "Non temere, semplice Igoron," si vantò. "Conosco bene l'ora del mio nemico. Nulla potrebbe spingere il mio spirito a indugiare sotto i suoi raggi terribili."</p>
-<p>E così il Conte partì. Si aggirava nei vicoli e si arrampicava sui tetti—eppure non trovò un solo boccone per placare la sua sete. Fu con sorpresa che il Conte affamato e sconfitto alzò finalmente lo sguardo verso i cieli di velluto e vide il grigio pervinca del mattino in arrivo.</p>
-<p>Con panico, volò per le strade. Quattro isolati di distanza. Una striscia di arancione iniziò a tagliare il cielo. Tre isolati. Due—</p>
-<p>—la porta dell'inn si chiuse con un colpo dietro di lui.</p>
-<p>"Buon Dio," disse Olivenka, sbadigliando in cima alla scala. "Sei stato fuori tutta la notte?"</p>
-<p>In un batter d'occhio, la grande silhouette del Conte torreggiava molto sopra di lei. "Sì," ringhiò. "Ma ho appena trovato ciò che stavo cercando. Olivenka—<i>voglio succhiare il tuo sangue!</i>"</p>
-<p>Di solito, una delle vittime del Conte Belasco avrebbe urlato, fuggito o svenuto—eppure aveva commesso un solo, terribile errore.</p>
-<p>Aveva dimenticato che gli occhi affetti da cataratta di Olivenka non potevano vedere bene le sue zanne.</p>
-<p>"Uomo disgustoso!" strillò Olivenka, e fece roteare diciotto anni di rocce rare e minerali direttamente verso la sua testa. Ci fu un terribile tonfo—e un terribile schianto di legno—e il Conte Belasco cadde a terra. Quando aprì gli occhi, vide Olivenka che lo guardava con orrore, non lui, ma la sua <i>testa</i>—la sua <i>testa nuda</i>.</p>
-<p>Lì, appena sotto la finestra orientale, giaceva la sua amata parrucca. Si lanciò verso di essa, artigli tesi—e un raggio di sole lo sfiorò.</p>
-<p>Ci fu un sibilo, un sibilo e un'esplosione di fumo e fiamme. Olivenka, borsa stretta al petto, guardò con stupore mentre il Conte Belasco soccombeva alla luce del mattino, fino a quando non rimase che un mucchio fumante di cenere e una parrucca bruciata e fumante.</p>
+<p>Il vampiro Conte Belasco non custodiva la sua bara in una cripta o in un castello, ma nella cantina di una vecchia e decrepita locanda, gestita dal suo servo, Igoron.</p>
+<p>Il povero Conte Belasco aveva un terribile segreto: nella sua età avanzata, il cuoio capelluto cominciava a marcire, e i capelli cadevano a ciocche e nodi. Imbarazzato, ordinò a Igoron di acquistare una splendida parrucca nera corvina, sperando di preservare l’aspetto dell’uomo giovane e affascinante che era stato un tempo.</p>
+<p>«Un uomo davvero affascinante,» concordò una delle sue ospiti — un’anziana vedova quasi cieca di nome Olivenka — in una particolare notte illuminata dalla luna. La cara Olivenka viveva per conto suo, trascorrendo le giornate a ordinare e riordinare la collezione di minerali del defunto marito, custodita con amore nella sua borsa. Nonostante il comportamento strano del Conte e la sua pelle pallida, non sospettava nulla; la sua vecchia vista era troppo sfocata per distinguere le zanne che spuntavano tra i denti del vampiro.</p>
+<p>Come sempre, il Conte sentì l’impulso di nutrirsi di lei — e sebbene le sue parole lusinghiere placassero il suo interesse, la sete nelle sue zanne era la stessa. «Igoron!» tuonò. «Prendi il mio mantello — vado a caccia.»</p>
+<p>«Sì, signore,» ansimò Igoron. Al suo ritorno, singhiozzando disse: «Meglio tornare prima dell’alba, milord. Stasera pulisco le tende. Voglio che tu sia bello e sicuro nella tua bara prima del sorgere del sole.»</p>
+<p>Il Conte Belasco rise sdegnosamente. «Non temere, semplice Igoron,» si vantò. «Conosco bene l’ora del mio nemico. Nulla potrebbe indurre il mio spirito a indugiare sotto i suoi raggi terribili.»</p>
+<p>E così il Conte partì. Si aggirava nei vicoli e si muoveva tra i tetti — eppure non trovò un solo boccone per saziare la sua sete. Con sorpresa, il famelico e sconfitto Conte alzò finalmente gli occhi verso il cielo vellutato e vide il grigio pervinca dell’alba in arrivo.</p>
+<p>Preso dal panico, volò tra le strade. A quattro isolati di distanza, una striscia arancione iniziò a fendere il cielo. Tre isolati. Due —</p>
+<p>— la porta della locanda si chiuse con un colpo dietro di lui.</p>
+<p>«Perbacco,» disse Olivenka, sbadigliando in cima alla scala. «Sei stato fuori tutta la notte?»</p>
+<p>In un battito di ciglia, l’enorme silhouette del Conte si ergeva sopra di lei. «Sì,» ringhiò. «Ma ho appena trovato ciò che cercavo. Olivenka — <i>voglio succhiarti il sangue!</i>»</p>
+<p>Di norma, una delle vittime del Conte Belasco avrebbe urlato, sarebbe fuggita o svenuta — eppure lui aveva commesso un terribile errore.</p>
+<p>Aveva dimenticato che gli occhi catarattici di Olivenka non riuscivano a vedere le sue zanne.</p>
+<p>«Uomo disgustoso!» strillò Olivenka, e scagliò diciotto anni di rocce e minerali rari direttamente verso la sua testa. Ci fu un terribile tonfo — e un terribile schianto di legno — e il Conte Belasco precipitò al piano sottostante. Quando aprì gli occhi, vide Olivenka terrorizzata, non da lui, ma dalla sua <i>testa</i> — la sua <i>testa nuda</i>.</p>
+<p>Lì, appena sotto la finestra orientale, giaceva la sua amata parrucca. Si tuffò verso di essa, artigli distesi — e un raggio di sole sfiorò la sua pelle.</p>
+<p>Ci fu un sfrigolio, un sibilo e un’esplosione di fumo e fiamme. Olivenka, con la borsa stretta al petto, osservò stupita mentre il Conte Belasco soccombeva alla luce del mattino, finché tutto ciò che rimase fu un cumulo fumante di cenere e una parrucca bruciata e fumante.</p>
 </div>
 
 "Poiché Olivenka non si riprese mai del tutto," conclude Rictavio, i suoi occhi che brillano. "Dopotutto—fu un'esperienza 'da far rizzare i capelli'!" Mentre i suoi ascoltatori fischiano, ridono e applaudono, si inchina, poi fa un cenno a Danika per un altro giro di bevande. Mentre si avvicina, Brom e Bray corrono oltre di lei in cucina, ridacchiando.
 
-Se parlato, Rictavio è disposto a condividere le seguenti informazioni durante le bevande:
+Se approcciato, Rictavio è disposto a condividere le seguenti informazioni tra una bevanda e l'altra:
 
-* È Rictavio, un presentatore di carnevale mezzelfo che ha viaggiato a lungo e lontano alla ricerca di nuovi atti per il suo circo. Non è del tutto sicuro di come sia finito a Barovia, ma sta cercando di trarne il massimo. (Questa è una bugia. Una prova di Saggezza (Intuizione) CD 16 rivela che le parole di Rictavio suonano un po' troppo lisce e praticate.)
-* È arrivato di recente quella mattina e ha preso residenza nella suite privata della Locanda dell’Acqua Azzurra. "I buoni locandieri mi hanno generosamente permesso di rimanere in cambio di racconti e buon umore," nota, sorridendo.
+* È Rictavio, un mezzelfo maestro di cerimonie da carnevale che ha viaggiato a lungo e lontano in cerca di nuovi numeri per il suo circo. Non è del tutto sicuro di come sia finito a Barovia, ma cerca di trarne il meglio. (Questa è una menzogna. Un tiro salvezza di Saggezza (Intuizione) CD 16 rivela che le parole di Rictavio suonano un po’ troppo scorrevoli e preparate.)
+* È arrivato quella mattina stessa e ha preso residenza nella suite privata della Locanda dell’Acqua Blu. «I bravi locandieri mi hanno generosamente permesso di restare in cambio di racconti e buon umore,» osserva, sorridendo.
 
 Durante la conversazione, Rictavio tenta sottilmente di apprendere più informazioni di quante ne riveli, sperando di ottenere le identità, le capacità, le relazioni e le storie dei personaggi dentro e oltre Barovia. Se gli viene chiesto perché sembra essere così curioso, insiste con enfasi che è sempre alla ricerca di nuove storie da aggiungere al suo repertorio.
 
-Quando ha finito la sua bevanda, Rictavio fa un altro inchino fiorito e si scusa. Mentre lo fa, Nikolai e Karl fischiano e esortano Rictavio a raccontare un'altra storia. "Abbiamo sentito una su un Conte stupido," dice Nikolai. "Che ne dici di un Barone stupido?"
+Quando ha finito il suo bicchiere, Rictavio fa un altro elegante inchino e si scusa. Mentre lo fa, Nikolai e Karl lo fischiano e lo incitano a raccontare un’altra storia. «Ne abbiamo già sentita una su un Conte stupido,» dice Nikolai. «Che ne dite di un Barone stupido?»
 
-Se i personaggi non intervengono, la seguente sequenza di eventi si verifica poi:
+Se i giocatori non intervengono, avviene la seguente sequenza di eventi:
 
-* La sala comune e la sala comune vicina diventano silenziose, con molti clienti che guardano Nikolai e Rictavio nervosamente.
-* Dal suo posto al bar, Szoldar rimbomba, "Meglio di no, ragazzo." (Dietro di lui, Yevgeni grugnisce, poi riecheggia, "Meglio di no.")
-* Karl sbuffa. "Codardi, tutti voi," dice, guardandosi intorno. "Non avete un osso divertente nei vostri corpi."
-* Rictavio si schiarisce la gola. "Ahimè, miei amici," dice, "ma la giornata è stata lunga e devo ritirarmi. Un altro giorno, forse." Mentre Nikolai e Karl gemono e tornano alle loro bevande, Rictavio si inchina con un gesto fiorito, poi sale le scale verso <span class="citation">N2n Camera degli Ospiti Privata (p. 102)</span>.
+* Il tavolo e la taverna vicina cadono nel silenzio, con molti avventori che osservano Nikolai e Rictavio con nervosismo.
+* Dal suo posto al bancone, Szoldar brontola: «Meglio di no, ragazzo.» (Dietro di lui, Yevgeni grugnisce e poi ripete: «Meglio di no.»)
+* Karl sbuffa. «Codardi, tutti quanti,» dice, guardandosi intorno. «Non avete un osso divertente nei vostri corpi.»
+* Rictavio schiarisce la gola. «Ahimè, amici miei,» dice, «ma la giornata è stata lunga e devo ritirarmi. Un altro giorno, forse.» Mentre Nikolai e Karl gemono e tornano ai loro drink, Rictavio si inchina con un gesto elegante e poi sale le scale verso <span class="citation">N2n Camera Privata (p. 102)</span>.
 
-Qualsiasi personaggio che osserva mentre Rictavio si fa strada lungo **N2j. Grande Balcone** lo vede passare Brom e Bray, che sono accovacciati lungo il balcone di fronte a **N2o. Camera dei Ragazzi**. (I ragazzi stanno facendo penzolare il pipistrello di peluche descritto in <span class="citation">N2o. Camera dei Ragazzi (p. 102)</span> sopra il bar sottostante, ridacchiando mentre Nikolai e Karl lo colpiscono ubriacamente. I ragazzi hanno usato le <span class="citation">N2i. Scale e Corridoio Segreti (p. 101)</span> per scappare silenziosamente dalla cucina al balcone mentre i personaggi bevevano, non visti dai clienti dell'inn.)
+Qualsiasi giocatore che osservi Rictavio mentre percorre il **N2j. Grande Balcone** lo vede passare davanti a Brom e Bray, accovacciati lungo il balcone davanti a **N2o. Camera dei Ragazzi**. (I ragazzi stanno facendo penzolare il pipistrello di peluche descritto in <span class="citation">N2o. Camera dei Ragazzi (p. 102)</span> sopra il bancone sottostante, ridacchiando mentre Nikolai e Karl lo colpiscono goffamente. I ragazzi hanno usato le <span class="citation">N2i. Scale e Corridoio Segreto (p. 101)</span> per correre silenziosamente dalla cucina al balcone mentre i giocatori bevevano, senza essere visti dagli avventori della locanda.)
 
 ### I Fratelli Wachter
 
-Se i personaggi si fermano al tavolo di Rictavio, i fratelli Wachter sono felici (se spinti) di sfogarsi su:
+Se i giocatori indugiano al tavolo di Rictavio, i fratelli Wachter saranno felici (se stimolati) di sbraitare su:
 
-- il Festival del Sole Splendente,
-- la recente storia dei festival di Vallaki,
-- la risposta del Barone a coloro che parlano male dei festival, e
-- i lampi di luce viola che sono stati visti dalla soffitta di **N3. Villa del Burgomastro**
+* il Festival del Sole Splendente,
+* la recente storia dei festival di Vallaki,
+* la risposta del Barone a chi parla male dei festival, e
+* i lampi di luce viola visti dalla soffitta di **N3. Villa del Borgomastro**.
 
 (Vedi <span class="citation">Lore di Vallaki (p. 96)</span>). Una volta che i personaggi hanno guadagnato la fiducia dei fratelli, la conversazione procede come descritto in <span class="citation">N2c. Sala Comune (p. 100)</span>.
 
@@ -1330,7 +1334,7 @@ In entrambi i casi, Danika si scusa con i personaggi e offre loro pasti gratuiti
 
 Se i personaggi chiedono delle maschere dei bambini, Danika dice loro che Urwin le ha comprate dal giocattolaio locale, Gadof Blinsky, che lavora a <span class="citation">N7. Blinsky Toys (p.118)</span>.
 
-La sala comune si svuota lentamente nelle due ore successive. Nikolai e Karl Wachter barcollano fuori e crollano nel capanno dell'inn, troppo ubriachi per tornare a casa.
+La sala comune si svuota lentamente nelle due ore successive. Nikolai e Karl Wachter barcollano fuori e crollano nel capanno della locanda, troppo ubriachi per tornare a casa.
 
 Se i personaggi hanno affittato stanze per la notte, [[Personaggi Non Giocanti#Danika Dorakova|Danika]] si avvicina infine al loro tavolo e offre di mostrarli alle loro stanze. (Vedi **N2l. Camere degli Ospiti** e <span class="citation">N2m. Camera degli Ospiti (p. 102)</span>). Durante il tour, Danika fa sapere loro che sono liberi di richiedere lenzuola fresche o una vasca di acqua calda (per un bagno) da portare nelle loro stanze. "La colazione viene servita all'alba," dice calorosamente, e aggiunge, "Sentitevi liberi di farci sapere se avete bisogno di qualcos'altro."
 
@@ -1353,14 +1357,14 @@ Urwin nota tranquillamente, tuttavia, che il Barone è noto per essere altamente
 
 Se i personaggi chiedono se il Barone ha nemici a Vallaki, Urwin può anche condividere le informazioni su Lady Fiona Wachter descritte in <span class="citation">Lore di Vallaki (p. 96)</span>. Tuttavia, invece di descrivere la "figlia pazza" di Lady Wachter, Urwin condivide solo che Lady Fiona ha una figlia, Stella Wachter, che Lady Wachter ha recentemente tenuto rinchiusa nei terreni di Wachterhaus per ragioni sconosciute.
 
-Mentre la conversazione di Urwin si avvicina alla fine, Rictavio scende le scale da <span class="citation">N2n. Camera degli Ospiti Privata</span> e si avvicina al bar, salutando i personaggi con un cenno. Urwin gli augura il buongiorno e rimuove un piccolo pacco da sotto il bancone, che Rictavio accetta e infila nel mantello.
+Mentre la conversazione di Urwin si avvicina alla fine, Rictavio scende le scale da <span class="citation">N2n. Camera degli Ospiti Privata</span> e si avvicina al bancone, salutando i personaggi con un cenno. Urwin gli augura il buongiorno e rimuove un piccolo pacco da sotto il bancone, che Rictavio accetta e infila nel mantello.
 
 > [!abstract]+ **Cosa C'è nel Pacco?**
 > Se gli viene chiesto, Urwin può informare i personaggi che il pacco contiene semplicemente cibo—alcune mele, alcune pagnotte di pane e una forma di formaggio.
 
 ### Seguire il Presentatore
 
-Se uno o più personaggi seguono Rictavio fuori dalla Locanda dell’Acqua Azzurra, possono seguirlo fino a <span class="citation">N2f. Stalla (p. 101)</span> senza difficoltà.
+Se uno o più personaggi seguono Rictavio fuori dalla Locanda dell’Acqua Blu, possono seguirlo fino a <span class="citation">N2f. Stalla (p. 101)</span> senza difficoltà.
 
 Una volta dentro, Rictavio rimuove il pacco dal mantello, estrae due mele e procede a dar da mangiare al suo cavallo, Drusilla. Una volta che Drusilla ha finito di mangiare, Rictavio controlla i suoi dintorni, costringendo qualsiasi personaggio nascosto a riuscire in una prova di Destrezza (Furtività) di gruppo CD 18 o essere rilevato.
 
@@ -1390,11 +1394,11 @@ Rictavio rifiuta di condividere ulteriori informazioni per paura che gli agenti 
 Se non riesce a rilevare i personaggi, Rictavio usa il suo *cappello del travestimento* per assumere la forma di un comune vallakiano casuale, poi scivola fuori dalla stalla sulla strada. Procede poi a intrecciarsi tra le strade e i vicoli di Vallaki in un tentativo paranoico di perdere eventuali inseguitori. Un personaggio che tenta di seguirlo deve riuscire in una prova di Saggezza (Percezione) CD 18 o perderlo nella folla.
 
 > [!abstract]+ **Seguire Rictavio**
-> Una volta che lascia la stalla della Locanda dell’Acqua Azzurra, Rictavio si dirige verso il Magazzino di Arasek, dove infila il pacco di cibo attraverso le fessure della porta posteriore del suo carro. Fornisce poi ad Arabelle un breve aggiornamento sulle attività della città mentre mangia, inginocchiandosi davanti al carro come descritto in [[Arco E - La Vistana Scomparsa#E8b. Seguire Rictavio|Arco E - La Vistana Scomparsa]].
+> Una volta che lascia la stalla della Locanda dell’Acqua Blu, Rictavio si dirige verso il Magazzino di Arasek, dove infila il pacco di cibo attraverso le fessure della porta posteriore del suo carro. Fornisce poi ad Arabelle un breve aggiornamento sulle attività della città mentre mangia, inginocchiandosi davanti al carro come descritto in [[Arco E - La Vistana Scomparsa#E8b. Seguire Rictavio|Arco E - La Vistana Scomparsa]].
 
 ### Uscire dalla locanda
 
-Mentre i personaggi lasciano la Locanda dell’Acqua Azzurra la loro prima mattina a Vallaki, trovano la strada piena di cittadini. Supponendo che i personaggi non interferiscano, la seguente scena si svolge poi:
+Mentre i personaggi lasciano la Locanda dell’Acqua Blu la loro prima mattina a Vallaki, trovano la strada piena di cittadini. Supponendo che i personaggi non interferiscano, la seguente scena si svolge poi:
 
 * I personaggi sentono il suono di un cavallo che nitrisce dalla strada—e i cittadini si bloccano e cadono in silenzio. Una piccola processione si trova a sud: il Barone Vargas Vallakovich (come descritto in <span class="citation">Interpretare la Famiglia Vallakovich, p. 105</span>) che cavalca il suo cavallo castano, fiancheggiato dai suoi due **mastini** di nome Artiglio e Zanna, e seguito da tre **guardie**. Izek Strazni guida la processione.
 * I personaggi possono vedere che una vecchia donna dall'aspetto spaventato che indossa abiti comuni logori è appena inciampata lontano dal cavallo ed è caduta in una pozzanghera di fango a pochi piedi dal cavallo. Il cavallo si è fermato bruscamente e la processione si è fermata con esso. Il braccio diavolesco di Izek è teso, suggerendo che ha appena spinto—o lanciato—la vecchia donna nel fango. (La donna è Willemina Rikalova, la madre del calzolaio imprigionato Udo Lukovich.)
@@ -1421,7 +1425,7 @@ Mentre i personaggi lasciano la Locanda dell’Acqua Azzurra la loro prima matti
 >
 > ***Morale.*** In un combattimento, Vargas ordinerebbe ai suoi cani, Artiglio e Zanna, così come a Izek Strazni e a qualsiasi guardia presente di catturare chiunque lo opponga. Se privato dei suoi difensori, Vargas tenterebbe di fuggire o—se la fuga fosse ostacolata—si prostrerebbe pateticamente ai piedi del suo aggressore, implorando misericordia.
 >
-> ***Relazioni.*** Vargas, il burgomastro di Vallaki, è il padre di Victor Vallakovich, il marito della Baronessa Lydia Petrovna, il cognato di Padre Lucian Petrovich e il figlio del defunto Barone Valentin Vallakovich. È anche il datore di lavoro e "padre" adottivo di Izek Strazni, il suo capitano della guardia e principale esecutore.
+> ***Relazioni.*** Vargas, il borgomastro di Vallaki, è il padre di Victor Vallakovich, il marito della Baronessa Lydia Petrovna, il cognato di Padre Lucian Petrovich e il figlio del defunto Barone Valentin Vallakovich. È anche il datore di lavoro e "padre" adottivo di Izek Strazni, il suo capitano della guardia e principale esecutore.
 
 > [!profile]+ **Profilo: Izek Strazni**
 >
@@ -1454,7 +1458,7 @@ Se sembra che il combattimento sia imminente, [[Personaggi Non Giocanti#Padre Lu
 > [!lore]+ **Cosa Sta Facendo Lucian Qui?**
 > Dopo aver scoperto [[Atto I - Nelle Nebbie/Arco C - Nella Valle|le ossa mancanti di St. Andral]] e aver mandato Yeska a reclutare Henrik per lasciare materiali per riparare la cripta, Padre Petrovich ha cercato il Barone Vallakovich nella speranza di ottenere il suo aiuto nel trovare le ossa. Ha deciso di non farlo, tuttavia, dopo aver osservato l'umore e il comportamento del Barone per le strade. (Lucian non condivide questo a meno che non abbia già detto ai personaggi delle ossa mancanti in [[Arco D - La Festa di St. Andral]]. Condividerà, tuttavia, che sperava di chiedere al Barone qualcosa, ma ha deciso di non farlo dopo aver visto l'umore attuale dell'uomo.)
 
-Il Barone si chiede anche ad alta voce se dovrebbe punire i personaggi per la loro insolenza. Padre Petrovich assicura al Barone che sono semplicemente estranei, non istruiti nei modi di Vallaki, e che vedrà che vengono adeguatamente educati.
+Il Barone si chiede anche ad alta voce se dovrebbe punire i personaggi per la loro insolenza. Padre Petrovich assicura al Barone che sono semplicemente estranei, non istruiti nei modi di Vallaki, e che vedrà che vengano adeguatamente educati.
 
 Il Barone ordina imperiosamente che lo faccia, poi informa i personaggi che lo hanno colto "di buon umore" e che dovrebbero essere grati per "la misericordia del Signore del Mattino." Li avverte, tuttavia, che future violazioni della legge saranno punite severamente.
 
@@ -1462,13 +1466,13 @@ Il Barone ordina imperiosamente che lo faccia, poi informa i personaggi che lo h
 
 I cittadini, con sorrisi che assomigliano più a smorfie, intonano cupamente, "Tutto andrà bene." Il Barone annuisce, evidentemente soddisfatto, e continua a cavalcare verso nord, seguito da Izek, i suoi mastini e qualsiasi guardia rimanente. L'attività della strada riprende poco dopo.
 
-Se Ireena è con il gruppo, ha sollevato il cappuccio del suo mantello uscendo dall'inn. Tuttavia, a meno che il gruppo non abbia preso misure specifiche per impedire a Izek di notarla, cattura lo sguardo di Ireena e lo tiene per un lungo momento prima di partire, lasciando Ireena a sentirsi a disagio e fredda. [[Arco G - I Fratelli Strazni]] inizia poi.
+Se Ireena è con il gruppo, ha sollevato il cappuccio del suo mantello uscendo dalla locanda. Tuttavia, a meno che il gruppo non abbia preso misure specifiche per impedire a Izek di notarla, cattura lo sguardo di Ireena e lo tiene per un lungo momento prima di partire, lasciando Ireena a sentirsi a disagio e fredda. [[Arco G - I Fratelli Strazni]] inizia poi.
 
-Se gli viene chiesto, Ireena nota con incertezza che qualcosa di Izek sembrava quasi familiare, anche se non riesce a ricordare perché.
+Se le viene chiesto, Ireena nota con incertezza che qualcosa di Izek sembrava quasi familiare, anche se non riesce a ricordare perché.
 
 Se i personaggi hanno sfidato Vargas o Izek in qualsiasi modo, o hanno altrimenti assistito Willemina, Ernst Larnak riferisce le loro azioni a Lady Fiona Wachter a Wachterhaus. [[Arco F - Il Desiderio di Lady Wachter]] inizia poi.
 
-***Fine di un Atto.*** Quando i personaggi partono dalla Locanda dell’Acqua Azzurra per il loro primo giorno intero a Vallaki, **Atto I** finisce e **Atto II** inizia.
+***Fine di un Atto.*** Quando i personaggi partono dalla Locanda dell’Acqua Blu per il loro primo giorno intero a Vallaki, **Atto I** finisce e **Atto II** inizia.
 
 # Note di Design: Nella Valle
 
@@ -1518,6 +1522,6 @@ La storia di Stanimir indica la relazione tra Strahd e i Vistani, prefigurando c
 
 ***La Tassa.*** La tassa delle guardie dà ai personaggi un ulteriore motivo per odiare il Barone Vallakovich. La tariffa sull'argento indica anche ai personaggi la ricchezza di armi e munizioni d'argento che il Barone ha accumulato.
 
-***Locanda dell’Acqua Azzurra.*** Questa sequenza è stata strutturata intenzionalmente per introdurre lentamente e gestibilmente i personaggi a diversi dei giocatori chiave a Vallaki: i Martikov, i Wachter, i cacciatori di lupi e il presentatore Rictavio. La storia di Rictavio è stata scritta per essere il più comica possibile per scoraggiare i personaggi dal prenderlo sul serio fino alla rivelazione della sua identità in [[Arco E - La Vistana Scomparsa]].
+***Locanda dell’Acqua Blu.*** Questa sequenza è stata strutturata intenzionalmente per introdurre lentamente e gestibilmente i personaggi a diversi dei giocatori chiave a Vallaki: i Martikov, i Wachter, i cacciatori di lupi e il presentatore Rictavio. La storia di Rictavio è stata scritta per essere il più comica possibile per scoraggiare i personaggi dal prenderlo sul serio fino alla rivelazione della sua identità in [[Arco E - La Vistana Scomparsa]].
 
 ***Uscire dalla locanda.*** L'incontro dei personaggi con il Barone Vallakovich e Izek per le strade di Vallaki è stato aggiunto per fornire ai personaggi un motivo immediato per non gradirli, per introdurre i personaggi a Padre Lucian Petrovich, per avviare la tensione drammatica centrale del governo tirannico del Barone su Vallaki, per dare il via alla ricerca di Izek di Ireena e per fornire a Lady Fiona Wachter un motivo attuabile per invitare i personaggi nelle sue macchinazioni. **È essenziale che i personaggi *non* combattano Izek qui, e tutte le precauzioni ragionevoli sono state prese per garantire ciò.**

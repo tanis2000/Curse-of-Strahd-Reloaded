@@ -1,6 +1,6 @@
 _Un'avventura per cinque personaggi di 5° livello._
 
-In questo arco narrativo, dopo un'apparizione spettrale alla Locanda delle Acque Blu o un accordo cauto alla magione del Borgomastro, Victor Vallakovich chiede ai giocatori di aiutarlo a ripristinare l'anima di Stella Wachter nel suo corpo, trovando un modo per accedere al Piano Etereo, dove il suo spirito è intrappolato. Per farlo, i giocatori devono aiutare Victor a ottenere la pietra del cuore di una **megera della notte** entro la notte di luna piena, che avrà luogo il sesto giorno dopo l'arrivo dei giocatori a Vallaki.
+In questo arco narrativo, dopo un'apparizione spettrale alla Locanda dell'Acqua Azzurra o un accordo cauto alla magione del Borgomastro, Victor Vallakovich chiede ai giocatori di aiutarlo a ripristinare l'anima di Stella Wachter nel suo corpo, trovando un modo per accedere al Piano Etereo, dove il suo spirito è intrappolato. Per farlo, i giocatori devono aiutare Victor a ottenere la pietra del cuore di una **megera della notte** entro la notte di luna piena, che avrà luogo il sesto giorno dopo l'arrivo dei giocatori a Vallaki.
 
 Se i giocatori accettano la richiesta di Victor, egli racconta loro che Stella, dal Piano Etereo, ha visto una **megera della notte** che tormenta i sogni di diversi membri del campo profughi baroviano. Li consiglia di visitare il campo per investigare sulla posizione della megera mentre lui prepara i rituali necessari per trasportare i giocatori nel Piano Etereo e riportare l'anima di Stella nel suo corpo.
 

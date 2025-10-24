@@ -70,7 +70,7 @@ Quella notte, se i giocatori hanno completato [[Arco E - La Vistana Scomparsa]] 
 
 ## Neyavr 6
 
-Mentre i giocatori sono via, se i giocatori non hanno sconfitto Izek Strazni in [[Arco F - Il Desiderio di Lady Wachter]], Izek rapisce Ireena e la porta alla dimora del Burgomastro come descritto in [[Arco G - I Fratelli Strazni]].
+Mentre i giocatori sono via, se i giocatori non hanno sconfitto Izek Strazni in [[Arco F - Il Desiderio di Lady Wachter]], Izek rapisce Ireena e la porta alla dimora del Borgomastro come descritto in [[Arco G - I Fratelli Strazni]].
 
 ## Neyavr 7
 
@@ -196,7 +196,7 @@ I giocatori portano Ireena alla Chiesa di Sant'Andral, dove Padre Petrovich cons
 
 Dopo aver accettato l'anello con sigillo da Kasimir Velikov, i giocatori visitano la dimora del Barone per ricercarne le origini. Lì, il Barone Vallakovich accetta di permettere loro l'accesso alla sua biblioteca in cambio della loro indagine su una serie di eventi paranormali che hanno recentemente afflitto la dimora.
 
-Mentre i giocatori indagano sull'attico, incontrano Victor Vallakovich e lo spirito di Stella Wachter, iniziando ***Arco H: L'Anima Perduta.*** I giocatori decidono di negoziare con il coven delle **megere notturne**, piuttosto che combattere le megere, e accettano di partire verso Vecchio Mullino dopo aver salvato Arabelle e recuperato le ossa di Sant'Andral.
+Mentre i giocatori indagano sull'attico, incontrano Victor Vallakovich e lo spirito di Stella Wachter, iniziando [[Arco H - L'Anima Perduta]]. I giocatori decidono di negoziare con il coven delle **megere notturne**, piuttosto che combattere le megere, e accettano di partire verso Vecchio Mulino dopo aver salvato Arabelle e recuperato le ossa di Sant'Andral.
 
 Quel pomeriggio, i giocatori si recano alla capanna di Szoldar e Yevgeni, dove reclutano Szoldar come guida per il Lago Baratok in [[Arco E - La Vistana Scomparsa]]. Quando tornano alla Locanda delle Acque Blu, scoprono che Izek Strazni l'ha saccheggiata alla ricerca di Ireena.
 

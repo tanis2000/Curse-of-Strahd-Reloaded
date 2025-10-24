@@ -4,7 +4,7 @@ In questo arco narrativo, poco dopo aver visto Ireena Kolyana, Izek Strazni real
 
 Dopo aver appreso dalle sue spie che Ireena ha recentemente soggiornato alla Locanda delle Acque Blu, Izek visita la locanda di persona nel tentativo di scoprire la sua posizione. Se il suo tentativo fallisce, ordina alla guardia cittadina di affiggere manifesti di RICERCATA in tutta Vallaki, offrendo una ricompensa per informazioni sulla posizione di Ireena.
 
-Se i giocatori non fermano Izek né prendono misure straordinarie per tenere Ireena nascosta, Izek la trova e la rapisce due giorni dopo, imprigionandola nella sua stanza nel palazzo del Burgomaster. Riusciranno i giocatori a liberare Ireena dalle grinfie di Izek - o periranno nel tentativo?
+Se i giocatori non fermano Izek né prendono misure straordinarie per tenere Ireena nascosta, Izek la trova e la rapisce due giorni dopo, imprigionandola nella sua stanza nel palazzo del Borgomastro. Riusciranno i giocatori a liberare Ireena dalle grinfie di Izek - o periranno nel tentativo?
 
 > [!abstract]+ **La Richiesta di Lady Wachter**
 > Se i giocatori uccidono Izek senza accettare la missione di Lady Wachter in [[Arco F - Il Desiderio di Lady Wachter]], Lady Wachter invia Ernst Larnak il mattino seguente per invitarli a prendere il tè a Villa Wachter quel pomeriggio "alla luce dei loro recenti successi". Se i giocatori rifiutano l'invito di Ernst, Lady Wachter visita personalmente la Locanda delle Acque Blu quella sera, indossando un mantello con cappuccio blu scuro, e chiede di parlare con loro in privato.
